@@ -1,28 +1,24 @@
-[{
-  "id": 1,
-  "title": "Natural Language Autoencoders Produce Unsupervised Interpretable Features",
-  "title_zh": "自然语言自编码器产生无监督可解释特征",
-  "source": "LessWrong",
-  "link": "https://www.lesswrong.com/posts/oeYesesaxjzMAktCM/natural-language-autoencoders-produce-unsupervised",
-  "tags": [
-    "AI Alignment",
-    "Mechanistic Interpretability",
-    "LLM",
-    "Neural Networks",
-    "AI Safety",
-    "Representation Learning"
-  ],
-  "tags_zh": [
-    "AI对齐",
-    "机制可解释性",
-    "大语言模型",
-    "神经网络",
-    "AI安全",
-    "表征学习"
-  ],
-  "date": "2025-05-08",
-  "summary_en": "This article introduces Natural Language Autoencoders (NLAs), a novel interpretability method that converts neural network activations into natural language explanations and reconstructs the original activations from those explanations. Instead of manually labeling internal representations, the system learns unsupervised textual descriptions that preserve model behavior. The paper demonstrates that NLAs can reveal latent reasoning patterns, hidden situational awareness, and potentially deceptive tendencies inside large language models. In alignment evaluations, auditors using NLA-based tools significantly outperformed those without them, suggesting NLAs may become an important direction for scalable AI oversight and interpretability research.",
-  "summary_zh": "这篇文章提出了一种新的AI可解释性方法——自然语言自编码器（Natural Language Autoencoder, NLA）。其核心思想是：将大模型内部的激活状态（activation）翻译成自然语言，再利用这些自然语言重新恢复原始激活，从而验证解释是否真正保留了模型内部的信息。与传统需要人工打标签的方法不同，NLA能够以无监督方式自动生成模型内部特征的文字解释。文章展示了该方法可以揭示大模型潜在的推理模式、隐藏的情境意识（situational awareness）以及可能存在的欺骗倾向。在AI alignment审计实验中，使用NLA工具的审计员明显优于未使用该工具的对照组，这意味着NLA可能成为未来AI安全与模型可解释性的重要方向。",
-  "best_quote_en": "We can translate neural activations into natural language explanations that preserve enough information to reconstruct the original activations.",
-  "best_quote_zh": "我们可以将神经网络激活翻译成自然语言解释，并且这些解释保留了足够的信息来重建原始激活。"
-}]
+[
+  {
+    "id": 1,
+    "title": "Natural Language Autoencoders Produce Unsupervised Interpretable Features",
+    "title_zh": "自然语言自编码器产生无监督可解释特征",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/oeYesesaxjzMAktCM/natural-language-autoencoders-produce-unsupervised",
+    "tags": [
+      "Mechanistic Interpretability",
+      "AI Safety",
+      "LLM"
+    ],
+    "tags_zh": [
+      "机制可解释性",
+      "AI安全",
+      "大语言模型"
+    ],
+    "date": "2025-05-08",
+    "summary_en": "This article introduces Natural Language Autoencoders (NLAs), a novel interpretability method that converts neural network activations into natural language explanations and reconstructs the original activations from those explanations. Instead of manually labeling internal representations, the system learns unsupervised textual descriptions that preserve model behavior. The paper demonstrates that NLAs can reveal latent reasoning patterns, hidden situational awareness, and potentially deceptive tendencies inside large language models. In alignment evaluations, auditors using NLA-based tools significantly outperformed those without them, suggesting NLAs may become an important direction for scalable AI oversight and interpretability research.",
+    "summary_zh": "这篇文章提出了一种新的AI可解释性方法——自然语言自编码器（Natural Language Autoencoder, NLA）。其核心思想是：将大模型内部的激活状态（activation）翻译成自然语言，再利用这些自然语言重新恢复原始激活，从而验证解释是否真正保留了模型内部的信息。与传统需要人工打标签的方法不同，NLA能够以无监督方式自动生成模型内部特征的文字解释。文章展示了该方法可以揭示大模型潜在的推理模式、隐藏的情境意识（situational awareness）以及可能存在的欺骗倾向。在AI alignment审计实验中，使用NLA工具的审计员明显优于未使用该工具的对照组，这意味着NLA可能成为未来AI安全与模型可解释性的重要方向。",
+    "best_quote_en": "We can translate neural activations into natural language explanations that preserve enough information to reconstruct the original activations.",
+    "best_quote_zh": "我们可以将神经网络激活翻译成自然语言解释，并且这些解释保留了足够的信息来重建原始激活。"
+  }
+]
