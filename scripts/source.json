@@ -34,5 +34,17 @@
   {
     "name": "Tim Ferriss",
     "url": "https://tim.blog/feed/"
+  },
+  {
+    "name": "GitHub Blog",
+    "url": "https://github.blog/feed/"
+  },
+  {
+    "name": "Hacker News",
+    "url": "https://hnrss.org/frontpage"
+  },
+  {
+    "name": "阮一峰的网络日志",
+    "url": "http://www.ruanyifeng.com/blog/atom.xml"
   }
 ]
