@@ -183,7 +183,7 @@ function render(items) {
 
         // 😅 优化后的空结果提示 - 更友好、提供建议
         const emptyTexts = {
-            zh: '😅 没有找到相关内容，换个关键词试试吧',
+            zh: '🦄 咦？什么都没搜到，要不要换个词？',
             en: '😅 No relevant content found, try different keywords'
         };
 
