@@ -1,1 +1,70 @@
-
+[
+  {
+    "id": 1,
+    "title": "Sali Hughes on beauty: the five makeup brushes I can’t do without",
+    "title_zh": "萨利·休斯谈美容：我不能错过的五款化妆刷",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/fashion/2026/jul/08/sali-hughes-on-beauty-best-makeup-brushes",
+    "tags": [
+      "learn",
+      "lifestyle",
+      "beginner-friendly"
+    ],
+    "tags_zh": [
+      "学习",
+      "生活方式",
+      "新手友好"
+    ],
+    "date": "2026-07-08",
+    "summary_en": "Sali Hughes’s article offers a curated, personal inventory of five makeup brushes she deems essential, blending practical advice with subtle storytelling. By detailing each brush’s function— from the concealer brush that creates a flawless camouflage to the versatile powder brush that doubles as a blusher tool—she transforms a routine product review into a lesson on precision and confidence in beauty routines. The piece reflects broader cultural shifts toward minimalist, intentional grooming, challenging readers to reconsider the value of ‘must‑have’ items. Hughes’s expertise as a beauty journalist lends authority, while her candid anecdotes make the content approachable. This analysis highlights how seemingly mundane tools can become instruments of self‑expression, encouraging a mindful approach to consumer choices in the beauty industry.",
+    "summary_zh": "这篇文章以个人化的视角拆解了五款不可或缺的化妆刷，从实用角度切入，揭示了美容工具如何影响自信与日常表达。作者既分享了专业见解，也体现了普通消费者如何通过精简工具提升美妆体验。这不仅是购买指南，更反映了当今 beauty 文化中极简与品质的辩证关系，引发我们对‘必备’定义的反思。",
+    "best_quote_en": "It magically smooshes everything back together.",
+    "best_quote_zh": "它神奇地把一切揉合在一起。"
+  },
+  {
+    "id": 2,
+    "title": "Modular Pretraining Enables Access Control",
+    "title_zh": "模块化预训练实现访问控制",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/43vKjWuH4goLwrFHA/modular-pretraining-enables-access-control",
+    "tags": [
+      "analyze",
+      "ai-research",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "AI研究",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2026-07-09",
+    "summary_en": "This post introduces Gradient‑Routed Auxiliary Modules (GRAM), a novel modular pretraining approach that enables fine‑grained access control over dangerous model capabilities. By attaching small auxiliary modules to each Transformer’s MLP layer and selectively activating them during training, GRAM isolates dual‑use knowledge (e.g., virology, cybersecurity) into dedicated modules that can be switched on or off at inference time. Experiments across model sizes from 50 M to 5 B parameters show that a single GRAM‑trained model can approximate the performance of multiple separately filtered models, matching data‑filtering baselines while offering greater flexibility. Compared with LoRA and post‑hoc unlearning (MaxEnt), GRAM demonstrates superior capability removal under sparse labeled data and better handling of novel capability combinations. The work opens promising avenues for scalable, production‑ready AI safety but also raises questions about entangled capabilities, real‑world deployment complexity, and downstream task generalization. As the community grapples with frontier model risks, GRAM represents a significant step toward modular, access‑controlled AI systems that can adapt to varying trust contexts without sacrificing overall performance.",
+    "summary_zh": "这篇研究提出 GRAM 模块化预训练，通过可开关模块隔离危险知识，在单次训练中近似实现多份数据过滤模型的效果，展现出在 5B 参数规模上的可行性，但生产落地仍面临复杂性与 entangled 能力分离等挑战。",
+    "best_quote_en": "GRAM approximates separately trained, data filtered models in a single run.",
+    "best_quote_zh": "GRAM 能够在单次训练中近似实现多份数据过滤模型的效果。"
+  },
+  {
+    "id": 3,
+    "title": "Graham Platner’s Point of No Return",
+    "title_zh": "格雷厄姆·普拉特纳的临界点",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/the-lede/graham-platners-point-of-no-return",
+    "tags": [
+      "analyze",
+      "politics",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "分析",
+      "政治时事",
+      "未来预测"
+    ],
+    "date": "2026-07-07",
+    "summary_en": "Graham Platner’s Senate bid in Maine has hit a decisive crossroads following explosive allegations of sexual assault. The article traces how the initial #MeToo‑style accusations, previously weathered by Platner, have now escalated into a potential political extinction event, with key Democratic figures and donors urging him to drop out. It examines the broader Democratic Party dilemma: the tension between rejecting Trump‑style impunity and the emerging willingness to embrace flawed candidates as vehicles for populist anger. The piece also highlights the procedural chaos that would follow a last‑minute nominee replacement, the electability calculus in a pivotal swing state, and the symbolic trauma of a party that seems to know what it opposes but remains unclear about its own values. In doing so, it offers a nuanced look at how personal baggage, media narratives, and intra‑party power struggles intersect in contemporary American politics.",
+    "summary_zh": "普拉特纳的政治生涯在性丑闻后面临崩溃，反映出民主党在道德 Purity 与选民容忍度之间的冲突，以及政治体制对候选人纯洁性的虚伪追求。这场危机可能重塑民主党内部权力平衡与候选人筛选机制。",
+    "best_quote_en": "The national pundits, the political establishment, they keep looking for that one story, that one headline, that one moment in my life that they can define the campaign by.",
+    "best_quote_zh": "那些全国专家，政治体制，总是想找到一个故事，一个头条，一个时刻来定义我的整场竞选。"
+  }
+]
