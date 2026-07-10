@@ -160,4 +160,121 @@
     "summary_zh": "本期探讨了强迫症的神经生物学基础，揭示了反复的‘思维-行为循环’机制，以及为何强迫行为会强化 obsessions。专家介绍了 CBT、SSRIs 等治疗方法及其联合应用，并分享了引导患者进入焦虑状态以打破 OCD 循环的临床协议。内容兼具科学深度与实用指导，引发对心理健康干预的深刻反思。",
     "best_quote_en": "Compulsive actions actually strengthen the underlying obsessions rather than relieve them.",
     "best_quote_zh": "强迫行为实际上会强化潜在的强迫思维，而非缓解它们。"
+  },{
+    "id": 8,
+    "title": "The Real Reason to End the Death Penalty",
+    "title_zh": "结束死刑的真正原因",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/real.html",
+    "tags": [
+      "analyze",
+      "startup-strategy",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "创业策略",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2026-07-10",
+    "summary_en": "The essay dismantles the abstract moral debate about capital punishment by exposing a grim reality: the death penalty routinely executes innocent people. Through a series of harrowing exonerations—ranging from DNA‑backed releases to discredited forensic testimony—the author shows how systemic pressures on police, prosecutors, and courts create a perfect storm for wrongful convictions. The piece argues that the theoretical questions of deterrence or retribution become irrelevant when the process itself is fundamentally broken, turning state‑sanctioned killing into state‑sanctioned murder. By cataloguing dozens of cases and highlighting institutional incentives that prioritize convictions over truth, the article reframes the death penalty not as a justice issue but as a failure of due process. The implication is stark: any legal system that cannot safeguard the innocent cannot claim moral authority, making abolition a prerequisite for justice rather than a policy preference.",
+    "summary_zh": "这篇文章通过一系列无辜者被判死刑的案例，揭露了司法体系的深层危机：警察、检察官和法院为求破案不惜牺牲真相。作者认为，当制度激励导向有罪判决时，关于威慑或道德的理论讨论变得无关紧要。真正的问题在于制度性的无能与欺骗，这意味着废除死刑是恢复公正的必然选择，而非政策考量。",
+    "best_quote_en": "This circus of incompetence and dishonesty is the real issue with the death penalty.",
+    "best_quote_zh": "正是这种无能和欺骗的闹剧是死刑的真正问题。"
+  },
+  {
+    "id": 9,
+    "title": "Stories of the future are undermined by agent assumptions",
+    "title_zh": "未来的故事被代理假设所破坏",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/M9Byp3AxH97cTs6ox/stories-of-the-future-are-undermined-by-agent-assumptions",
+    "tags": [
+      "solve",
+      "ai-research",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "解决",
+      "AI研究",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2026-07-10",
+    "summary_en": "Jonas Hallgren argues that many AI safety forecasts are subtly shaped by unexamined assumptions about the nature of future agents—whether they will be humans, institutions, AI models, or hybrid collectives. He shows how these ontological commitments act as \"black boxes\" that limit predictive models, drawing parallels to complexity science, the Game of Life, and the limits of agent‑based modeling. The piece critiques linear forecasts, highlights the difficulty of modeling unknown unknowns, and calls for more antifragile governance designs that embrace uncertainty rather than demanding false certainty. Hallgren suggests looking to biology and distributed cognition for new frameworks, positioning the article as both a diagnostic of current forecasting blind spots and a guide for researchers seeking more robust, adaptive approaches to AI and societal modeling. It is a thought‑provoking blend of technical insight, philosophical questioning, and practical recommendations for the next decade of AI development.",
+    "summary_zh": "Hallgren 指出，许多 AI 安全预测暗含着关于未来代理（agents）的假设——它们是人类、机构、AI 模型还是混合体。这些未检验的假设限制了预测模型。他通过复杂性科学、生命游戏和代理建模的局限性进行阐述，批判线性预测，强调建模未知未知的困难，并呼吁设计更具抗脆弱性的治理体系以应对不确定性。他建议从生物学和分布式认知中寻找灵感，将代理视为可合并、分裂和重绘边界的过程。最后，他提出了一个通往更普适性不确定性处理框架的愿景，犹如适应性机构的风洞。",
+    "best_quote_en": "We need stories of what will happen as a way of communicating the risks but claiming certainty in any specific story leaves you very open to black swans.",
+    "best_quote_zh": "我们需要讲故事来传达风险，但声称任何特定故事是确定的，会让我们很容易受到黑天鹅事件的影响."
+  },
+  {
+    "id": 10,
+    "title": "Tales from Toddlerhood",
+    "title_zh": "幼儿时期的轶事",
+    "source": "Wait But Why",
+    "link": "https://waitbutwhy.com/2025/10/toddler.html",
+    "tags": [
+      "solve",
+      "lifestyle",
+      "controversial"
+    ],
+    "tags_zh": [
+      "解决",
+      "生活方式",
+      "争议观点"
+    ],
+    "date": "2025-10-24",
+    "summary_en": "In \"Tales from Toddlerhood,\" the author shares a series of wry, self‑deprecating observations about life with a two‑year‑old. He discovers the paradox of being simultaneously \"completely obsessed with and dramatically bored by the same person,\" captures the toddler’s dictatorial tendencies, and laments the social fatigue of endless baby‑video sharing. The piece also highlights how toddlers can be both linguistic prodigies and comically confused—mastering language overnight yet misusing pronouns. Through humor and personal reflection, the author offers a candid look at the cognitive leaps, emotional turbulence, and social awkwardness that define early childhood. The essay serves as both a relatable parenting diary and a subtle commentary on how modern technology amplifies parental exhibitionism. By blending intimate anecdotes with broader cultural critique, the post invites readers to reconsider the paradox of love, exhaustion, and the relentless desire to document fleeting developmental milestones.",
+    "summary_zh": "本文以幽默的笔触记录了作者与两岁女儿共同生活的点滴：对同一孩子的极度迷恋与深深厌倦并存，幼儿的“专制”行为，分享视频所引发的社会疲劳，以及他们既是语言天才又是语用小白的行为。作者通过个人经历反映了现代父母对孩子成长记录的痴迷与反思，引发读者对科技时代家庭生活的新思考。",
+    "best_quote_en": "You can be simultaneously completely obsessed with and dramatically bored by the same person.",
+    "best_quote_zh": "你可以同时完全迷恋又极度厌倦同一个人的感觉。"
+  },
+  {
+    "id": 11,
+    "title": "Travel Noise Machine/Golden Visas/Easier TSA PreCheck",
+    "title_zh": "旅行降噪机/黄金签证/更便捷的TSA预检",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/travel-noise-machine-golden-visas-easier-tsa-precheck/",
+    "tags": [
+      "analyze",
+      "science",
+      "ai-research",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "科学研究",
+      "AI研究",
+      "数据驱动"
+    ],
+    "date": "2026-07-09",
+    "summary_en": "Tim Leffel’s newsletter delivers four concise insights that span travel tech, global residency strategies, workplace psychology, and digital identity. The first bite reviews the LectroFan Alpha, a lightweight USB‑rechargeable noise machine that offers ocean, fan, pink and brown noise options—useful not only for families but also for travelers seeking quiet. The second highlights the dwindling yet still viable “golden visa” programs, where over 30 countries provide residency or citizenship in exchange for substantial investments, a trend now being recalibrated after past excesses. The third bite presents a scholarly study revealing that narcissistic leaders resist remote work because physical proximity fuels their need for visibility and control, framing the RTO debate as a power dynamic rather than productivity concern. Finally, the newsletter announces that TSA PreCheck enrollment can now be stored directly in Google Wallet, automatically linking digital IDs across more than 100 airlines and simplifying the verification process. Together, these snippets illustrate how small technological upgrades, policy shifts, and human psychology intersect to reshape everyday travel and work experiences.",
+    "summary_zh": "这份通讯提供了四则简短的见解，涵盖旅行降噪设备、黄金签证政策、推动返岗的领导者自恋心理，以及TSA预检在谷歌钱包中的应用。它们展示了技术改进、政策变化与人类心理如何影响我们的旅行与工作体验。",
+    "best_quote_en": "The sparseness of remote communication can make it more difficult for narcissists to satisfy these cravings for power and status.",
+    "best_quote_zh": "远程沟通的稀疏性会让自恋者更难以满足他们对权力和地位的渴望。"
+  },
+  {
+    "id": 12,
+    "title": "-",
+    "title_zh": "-",
+    "source": "Sam Altman",
+    "link": "https://blog.samaltman.com/2279512",
+    "tags": [
+      "inspire",
+      "ai-research",
+      "science",
+      "controversial"
+    ],
+    "tags_zh": [
+      "启发",
+      "AI研究",
+      "科学研究",
+      "争议观点"
+    ],
+    "date": "2026-04-10",
+    "summary_en": "Altman’s sprawling post blends personal vulnerability with a manifesto on AI’s promise and peril. After a nighttime Molotov attack on his home, he reflects on how words and narratives can ignite real danger, then pivots to his core beliefs: AI is an unparalleled tool for human advancement, but its rapid rise demands robust safety, democratization, and societal resilience. He candidly admits past mistakes, the toll of internal conflict, and the shift from a scrappy startup to a major platform, while expressing pride in OpenAI’s mission breakthroughs. The piece also diagnoses the industry’s “ring of power” dynamics around AGI, arguing that broad sharing and democratic oversight are the only antidotes to concentration and drama. Altman’s call for de‑escalating rhetoric underscores a yearning for constructive dialogue amid high‑stakes technological change. The essay serves both as a humanizing personal account and a thoughtful policy‑oriented roadmap, urging stakeholders to balance optimism with responsibility as AI reshapes society.",
+    "summary_zh": "Altman 在遭受袭击后，既分享了家庭的脆弱，也提出了关于 AI 的愿景与责任。他强调 AI 是人类能力的强大工具，但需要安全、民主化和广泛的社会参与；反思了 OpenAI 的成长痛楚，并呼吁减少行业争斗，以更理性的对话面对未来。",
+    "best_quote_en": "AI will be the most powerful tool for expanding human capability and potential that anyone has ever seen.",
+    "best_quote_zh": "人工智能将成为人类历史上最强大的工具，能够扩展人类的能力和潜能。"
   }]
