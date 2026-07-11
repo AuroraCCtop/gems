@@ -277,4 +277,27 @@
     "summary_zh": "Altman 在遭受袭击后，既分享了家庭的脆弱，也提出了关于 AI 的愿景与责任。他强调 AI 是人类能力的强大工具，但需要安全、民主化和广泛的社会参与；反思了 OpenAI 的成长痛楚，并呼吁减少行业争斗，以更理性的对话面对未来。",
     "best_quote_en": "AI will be the most powerful tool for expanding human capability and potential that anyone has ever seen.",
     "best_quote_zh": "人工智能将成为人类历史上最强大的工具，能够扩展人类的能力和潜能。"
+  },{
+    "id": 13,
+    "title": "Measuring Is Not Enough Anymore",
+    "title_zh": "衡量已不再足够",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/4TMKvGmoAWjXBGwWk/measuring-is-not-enough-anymore",
+    "tags": [
+      "analyze",
+      "science",
+      "ai-research",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "科学研究",
+      "AI研究",
+      "数据驱动"
+    ],
+    "date": "2026-07-11",
+    "summary_en": "The article argues that merely measuring AI capabilities—exemplified by METR’s celebrated time‑horizon graph—offers diminishing returns for AI safety. While such metrics inform researchers, investors, and policymakers, they often amplify capability‑driven incentives and shift power toward industry and governments, potentially worsening existential risk. The author reflects on personal involvement in capability evaluations and contends that the most visible impact of these measurements is not safer outcomes but a self‑fulfilling prophecy that accelerates development. By likening the time‑horizon experiment to Moore’s Law, the piece highlights how predictive metrics can become prescriptive, shaping the very trajectory they seek to assess. The author calls for a re‑weighting of AI safety work toward more opinionated, direction‑setting research that steers development onto a saner path, rather than simply charting how insane the current path already is. This critical perspective urges the community to move beyond measurement and toward purposeful guidance.",
+    "summary_zh": "衡量已不再足够，我们不应只是精确测量AI发展的疯狂轨迹，而应塑造更理性的发展方向。这是关于AI安全工作重新定位的深刻反思，呼唤更宏大的愿景。这提醒我们，指标本身可能强化错误激励，需重新平衡评估重点。",
+    "best_quote_en": "We should be more ambitious, should mold the trajectory of AI development into a more sane one instead of getting a precise measurement of exactly how insane the current trajectory is.",
+    "best_quote_zh": "我们应该更有雄心，应当塑造AI发展的轨迹，使其变得更加理性，而不是仅仅精确地测量当前轨迹有多么疯狂。"
   }]
