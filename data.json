@@ -300,4 +300,73 @@
     "summary_zh": "衡量已不再足够，我们不应只是精确测量AI发展的疯狂轨迹，而应塑造更理性的发展方向。这是关于AI安全工作重新定位的深刻反思，呼唤更宏大的愿景。这提醒我们，指标本身可能强化错误激励，需重新平衡评估重点。",
     "best_quote_en": "We should be more ambitious, should mold the trajectory of AI development into a more sane one instead of getting a precise measurement of exactly how insane the current trajectory is.",
     "best_quote_zh": "我们应该更有雄心，应当塑造AI发展的轨迹，使其变得更加理性，而不是仅仅精确地测量当前轨迹有多么疯狂。"
+  },{
+    "id": 14,
+    "title": "Easy Whole Set Dances With a Hook",
+    "title_zh": "简单全套舞蹈与钩子",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/PAvjpADicegDbD8ws/easy-whole-set-dances-with-a-hook",
+    "tags": [
+      "guide",
+      "lifestyle",
+      "beginner-friendly"
+    ],
+    "tags_zh": [
+      "指导",
+      "生活方式",
+      "新手友好"
+    ],
+    "date": "2026-07-12",
+    "summary_en": "In this personal blog, jefftk explores the design challenges of creating easy whole‑set dances for parties, focusing on simplicity, musical alignment, and quick teachability. He outlines a philosophy of using a minimal set of building blocks while incorporating a distinctive “hook” figure to keep dances fresh, and shares concrete examples such as Jacob’s Potato and Charge and Drag. By soliciting ideas from the Trad Callers mailing list, he expands his repertoire with Witch’s Reel and Falling Masonry, and saves two slightly more complex options for when the crowd is ready. The post reflects a thoughtful, iterative approach to choreography—balancing low piece count with novelty—and offers practical guidance for anyone seeking beginner‑friendly, space‑efficient dances that can be taught and dropped in and out of quickly. It underscores the value of community input and the joy of refining a craft through real‑world testing.",
+    "summary_zh": "jefftk 分享了如何设计简单全套派对舞蹈的思考，强调快速教学、音乐配合和低重复性。他提出用少量基本动作构建舞蹈，同时加入“钩子”这一新颖元素以保持趣味性，并列举了几个经典案例。经过社区征集，他新增了 Witch’s Reel 和 Falling Masonry 等舞蹈，还保留了两套稍复杂的内容以适应不同场合。这篇文章展现了从实战中提炼和优化 choreographic 理念的过程，为初学者提供了易于学习、空间节约且能迅速上手的实践指南。",
+    "best_quote_en": "I want to be able to teach it in a single fast‑paced walkthrough, match it tightly to the musical phrase, and be able to drop out after a few times through.",
+    "best_quote_zh": "我希望能够用一个快速的教学 walkthrough 讲完它，紧紧地配合音乐节奏，并在几遍之后就能退出。"
+  },
+  {
+    "id": 15,
+    "title": "Can Office-to-Residential Conversions Survive the Pfizer-Building Crisis?",
+    "title_zh": "办公楼改住宅改造能否抵御辉瑞大楼危机？",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/the-lede/can-office-to-residential-conversions-survive-the-pfizer-building-crisis",
+    "tags": [
+      "solve",
+      "design",
+      "politics",
+      "case-study"
+    ],
+    "tags_zh": [
+      "解决",
+      "设计创意",
+      "政治时事",
+      "案例研究"
+    ],
+    "date": "2026-07-11",
+    "summary_en": "The article chronicles the near‑collapse of New York’s Pfizer Building during a high‑stakes office‑to‑residential conversion led by developer Nathan Berman. Once celebrated for rapidly repurposing vacant office towers into luxury apartments, Berman’s project now faces structural failures, labor disputes, and scrutiny over safety shortcuts. The piece reveals how aggressive density‑maximizing tactics—adding floors, skimping on steel, and bypassing unions—created a perfect storm of risk. It also highlights broader urban pressures: a chronic housing shortage, political urgency to repurpose mid‑century office stock, and a regulatory environment that sometimes struggles to keep pace with rapid development. Berman’s candid admission that overloading unsupported structures leads to collapse underscores the human cost of treating cityscape as a Rubik’s Cube. The crisis suggests a potential shift in the real‑estate niche, with developers likely to face higher premiums for safety and tighter oversight, reshaping the economics of conversion projects across Manhattan.",
+    "summary_zh": "纽约办公楼改造项目遭遇结构崩塌危机，暴露出安全隐患与劳资矛盾。开发者伯曼的‘加负荷’策略引发反思，城市住房短缺与监管不足并存。这场危机或重塑房地产开发模式，也警示快速增密住宅化可能带来的风险。",
+    "best_quote_en": "You add more load to something that can't support it... it'll give way, and that's what happened, and now it just needs to be fixed.",
+    "best_quote_zh": "你往无法承受的东西上加负荷...它就会崩溃，这就是发生了的事，现在只需要修复。"
+  },
+  {
+    "id": 16,
+    "title": "Sora update #1",
+    "title_zh": "Sora 更新 #1",
+    "source": "Sam Altman",
+    "link": "https://blog.samaltman.com/sora-update-number-1",
+    "tags": [
+      "update",
+      "education",
+      "ai-research",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "动态",
+      "教育学习",
+      "AI研究",
+      "未来预测"
+    ],
+    "date": "2025-10-04",
+    "summary_en": "OpenAI’s recent post about the Sora update reveals a rapid, iterative approach to AI video generation that mirrors the early dynamism of ChatGPT. The company is responding to strong creator demand by granting rightsholders granular control over character usage, introducing an opt‑in model that lets them decide how (or whether) their likenesses appear in user‑generated content. This shift not only empowers intellectual‑property owners but also signals a move toward more responsible AI deployment. Simultaneously, OpenAI acknowledges the need for a sustainable revenue model, planning to share earnings with rights holders whose characters are used, aiming to balance innovation with fair compensation. The announcement underscores a broader industry trend: AI products are evolving from experimental prototypes to mature platforms that must navigate legal, ethical, and economic complexities. By committing to frequent updates and rapid feedback loops, OpenAI hopes to refine Sora’s capabilities while setting a precedent for transparent, stakeholder‑centric development across its product suite.",
+    "summary_zh": "OpenAI 宣布 Sora 将推出两项重大变更：赋予版权方更细致的角色生成控制权，并建立视频生成收入分享机制。这反映了 AI 从实验向成熟平台的转变，也体现了对知识产权和公平补偿的关注。作者反思了这一迭代过程，认为这将重塑创作者与 AI 之间的互动关系，并为整个产品线树立了透明、响应式的开发范式。",
+    "best_quote_en": "Please expect a very high rate of change from us; it reminds me of the early days of ChatGPT.",
+    "best_quote_zh": "请期待我们很快会带来高频的变更，这让我想起了ChatGPT的初期阶段。"
   }]
