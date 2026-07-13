@@ -369,4 +369,71 @@
     "summary_zh": "OpenAI 宣布 Sora 将推出两项重大变更：赋予版权方更细致的角色生成控制权，并建立视频生成收入分享机制。这反映了 AI 从实验向成熟平台的转变，也体现了对知识产权和公平补偿的关注。作者反思了这一迭代过程，认为这将重塑创作者与 AI 之间的互动关系，并为整个产品线树立了透明、响应式的开发范式。",
     "best_quote_en": "Please expect a very high rate of change from us; it reminds me of the early days of ChatGPT.",
     "best_quote_zh": "请期待我们很快会带来高频的变更，这让我想起了ChatGPT的初期阶段。"
+  },{
+    "id": 17,
+    "title": "Are middle-aged women really invisible? I see them everywhere – and not just in the mirror | Emma Beddington",
+    "title_zh": "中年女性真的被忽视了吗？我到处都能看到她们——不仅仅是镜中自我 | 艾玛·贝丁顿",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/commentisfree/2026/jul/12/are-middle-aged-women-really-invisible-i-see-them-everywhere-and-not-just-in-the-mirror",
+    "tags": [
+      "analyze",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2026-07-12",
+    "summary_en": "Emma Beddington interrogates the cultural myth of the invisible middle‑aged woman, weaving personal anecdotes with high‑profile examples such as Gillian Anderson and Rose Byrne. She critiques the pervasive sexism and ageism that render women’s visibility contingent on youth and capital, while highlighting a growing backlash: prominent figures and brands are reframing aging as a source of power and market value. The essay underscores how systemic under‑investment in women’s health and research fuels this erasure, yet also notes a burgeoning commercial interest in the demographic. Beddington’s wry humor and intellectual curiosity reveal a paradox—visibility is both a privilege and a trap—prompting readers to reconsider what society deems ‘prime’ and who gets to define it. The piece serves as both a sociological analysis and a call for redefining middle‑aged womanhood beyond the mirror.",
+    "summary_zh": "艾玛·贝丁顿以个人观察和名人事例探讨了中年女性被忽视的传说。她揭露了性别与年龄偏见如何使女性的可见性依赖于资本与青春，同时也描述了日益强大的反击：名人品牌将中年视为市场潜力。这篇文章批判了女性健康研究资金不足的现象，并指出商业利益正在利用“ invisibility”话题。作者以机智与思考，揭示了可见性背后的矛盾，呼唤人们重新定义中年女性的价值与社会地位。",
+    "best_quote_en": "I’m not vanishing… I even feel, quite regularly, that I am in some kind of prime.",
+    "best_quote_zh": "我并没有消失……我甚至经常觉得自己正处于某种巅峰时期。"
+  },
+  {
+    "id": 18,
+    "title": "How People Get Rich Now",
+    "title_zh": "人们如今如何致富",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/richnow.html",
+    "tags": [
+      "learn",
+      "startup-strategy",
+      "startup-funding",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "学习",
+      "创业策略",
+      "创业融资",
+      "未来预测"
+    ],
+    "date": "2026-07-13",
+    "summary_en": "The article traces the dramatic shift in how America’s wealthiest accumulate fortunes from 1982 to 2020. It shows that inheritance, oil, and real‑estate once dominated, but by 2020 the majority of new wealth came from technology‑driven startups and venture‑backed ventures. The piece argues that 1982 was the anomaly, not 2020, because earlier eras (e.g., the Gilded Age) also featured entrepreneurial fortunes. Key drivers of the modern surge include plummeting startup costs, faster growth rates, abundant venture capital, and a power reversal where investors now need founders more than vice‑versa. These forces have amplified founder wealth and widened inequality, offering a structural explanation beyond simple political narratives. The analysis underscores that the rise of tech‑focused companies represents a qualitative change in wealth creation, moving from deal‑making and resource extraction to superior technology and rapid scaling. Understanding these mechanisms reveals why entrepreneurship is becoming the default path to great wealth and why the Gini coefficient continues to rise.",
+    "summary_zh": "文章深入探讨了1982年至2020年间美国顶尖富豪财富来源的转变，揭示出创业企业和科技公司如何成为新财富引擎。成本降低、增长加速及风险投资的兴起，赋予创始人前所未有的权力，推动更多人通过创业致富，反映了历史周期的自然更替。",
+    "best_quote_en": "People get richer from starting companies now than they did in 1982, because the companies do different things.",
+    "best_quote_zh": "人们如今从创业中获得财富比1982年更多，因为公司的运作方式不同。"
+  },
+  {
+    "id": 19,
+    "title": "An Epistemic Audit for Existential Risks from AI",
+    "title_zh": "人工智能存在风险的认识审计",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/aHJ8MkPTWPDnuFLRL/an-epistemic-audit-for-existential-risks-from-ai",
+    "tags": [
+      "analyze",
+      "ai-research",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "AI研究",
+      "数据驱动"
+    ],
+    "date": "2026-07-13",
+    "summary_en": "Alexander Müller introduces an Epistemic Audit that turns abstract concerns about AI existential risk into a structured, repeatable self‑assessment. By mapping beliefs across capability, agency, alignment, takeoff, and mitigation domains, the tool forces readers to distinguish what they know from what they merely assume. It quantifies uncertainty on a three‑point scale and tracks confidence direction, turning personal judgment into comparable data. The audit not only highlights knowledge gaps but also guides research effort toward questions that would most shift one’s overall risk estimate. Müller positions the framework as a shared language for cruxes, enabling collaborative evidence‑sharing and longitudinal analysis. While the specific questions are not novel, the protocol’s emphasis on measurable, falsifiable beliefs and its potential for aggregation across respondents represent a methodological advance. The approach appeals to newcomers seeking a systematic entry point and to seasoned researchers looking for a tool to prioritize inquiry and coordinate discourse on one of humanity’s most consequential technological trajectories.",
+    "summary_zh": "这篇文章提出了一个自我审视工具，通过量化不确定性帮助研究者聚焦关键问题。它将存在风险分解为因果链，促使读者明确信念边界，并指导下一步学习。框架的可重复性与协作性，或将重塑AI风险研究的方法。",
+    "best_quote_en": "The questions where your uncertainty is high and which would move your overall view are exactly the ones you should study next.",
+    "best_quote_zh": "那些让你不确定且可能改变整体观点的问题，正是你应该优先研究的问题。"
   }]
