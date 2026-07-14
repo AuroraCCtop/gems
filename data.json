@@ -436,4 +436,95 @@
     "summary_zh": "这篇文章提出了一个自我审视工具，通过量化不确定性帮助研究者聚焦关键问题。它将存在风险分解为因果链，促使读者明确信念边界，并指导下一步学习。框架的可重复性与协作性，或将重塑AI风险研究的方法。",
     "best_quote_en": "The questions where your uncertainty is high and which would move your overall view are exactly the ones you should study next.",
     "best_quote_zh": "那些让你不确定且可能改变整体观点的问题，正是你应该优先研究的问题。"
+  },{
+    "id": 20,
+    "title": "Write Simply",
+    "title_zh": "写得简单",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/simply.html",
+    "tags": [
+      "guide",
+      "startup-strategy",
+      "society",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "指导",
+      "创业策略",
+      "社会议题",
+      "未来预测"
+    ],
+    "date": "2026-07-14",
+    "summary_en": "This essay champions the virtue of plain language in writing, arguing that simplicity enhances reader engagement and idea retention. The author illustrates how reducing linguistic friction allows thoughts to surface more directly, likening ideal prose to the Italian \"saltimbocca\"—a bite that leaps into the mouth. By trimming unnecessary complexity, writers avoid pretentiousness and make their work accessible to a global, non‑native audience. The piece also highlights that simple writing endures across cultural and linguistic shifts, serving as a hallmark of craftsmanship. While acknowledging that stylistic flourish has its place, the author stresses intentionality over accidental obscurity. Through a reflective, almost meditative tone, the article offers practical guidance: draft quickly, then edit ruthlessly, cutting away excess to reveal clarity. It is both a philosophical manifesto and a hands‑on tutorial for anyone who wishes to communicate ideas with honesty, impact, and lasting relevance.",
+    "summary_zh": "简单写作并非炫耀技巧，而是让读者专注于思想。它教导我们通过简洁表达传递更深层次见解，并关注全球多元读者的需求。这篇文章揭示了清晰沟通的艺术，以及为何简洁是真正高超的写作技艺。",
+    "best_quote_en": "the ideas leap into your head and you barely notice the words that got them there.",
+    "best_quote_zh": "思想跃入你的脑海，你几乎察觉不到将它们带到这里的文字。"
+  },
+  {
+    "id": 21,
+    "title": "Toy Models of Initialisation Effects on RL Dynamics",
+    "title_zh": "强化学习动态中的初始化效应玩具模型",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/72AAjXAxS7Pow9Fie/toy-models-of-initialisation-effects-on-rl-dynamics",
+    "tags": [
+      "guide",
+      "ai-research",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "指导",
+      "AI研究",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2026-07-14",
+    "summary_en": "This article presents a follow‑up to Geodesic’s research on the pre‑RL alignment checkpoint, using a simple toy model to illustrate how initialization shapes reinforcement learning dynamics. The authors examine three key phenomena: rich‑get‑richer effects where early‑explored high‑reward actions dominate; underspecified behaviors that persist because reward functions ignore certain aspects of performance; and cognition underspecification, where internal reasoning patterns are not directly rewarded. By comparing deterministic full‑gradient updates with finite‑sample RLOO rollouts, the paper shows that sampling noise amplifies the impact of initial probabilities, making favorable initialization crucial for steering models toward desired outcomes. The analysis also highlights that even when a higher‑reward solution exists, sufficient optimization pressure can drive the model toward a lower‑reward but more easily exploitable behavior unless initialization biases it otherwise. The work offers both intuitive visualizations and rigorous proofs, making it a valuable resource for researchers and practitioners seeking to understand and control early‑stage RL learning. Interactive widgets and appendices further deepen the insight, encouraging readers to experiment with hyperparameters and reward structures.",
+    "summary_zh": "本文通过玩具模型深入探讨了初始化如何影响强化学习动态，揭示了富者愈富、行为未指定及认知未指定等关键现象。作者比较了确定性梯度和有限样本更新，发现采样噪声会放大初始概率的影响，因此有利的初始化对引导模型走向预期结果至关重要。文章还指出，在优化压力下，模型可能偏向于低奖励但易于利用的策略，除非初始化提供偏向性。研究结合直观可视化与严谨证明，为理解和控制早期RL学习提供了宝贵视角。",
+    "best_quote_en": "The solution that the model learns can depend importantly on the initial strategies into which it explores.",
+    "best_quote_zh": "模型学习到的解决方案可能严重依赖于它最初探索的策略。"
+  },
+  {
+    "id": 22,
+    "title": "Inside ICE’s Largest Detention Center",
+    "title_zh": "ICE最大拘留中心的内情",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/magazine/2026/07/20/locked-away",
+    "tags": [
+      "solve",
+      "politics",
+      "controversial"
+    ],
+    "tags_zh": [
+      "解决",
+      "政治时事",
+      "争议观点"
+    ],
+    "date": "2026-07-13",
+    "summary_en": "The article reveals how the Trump administration’s strategy of making detention conditions deliberately harsh drives immigrants to leave voluntarily, while exposing the human cost of sprawling tent facilities like Camp East Montana at Fort Bliss. Built on a military base with minimal infrastructure, the center became a symbol of policy brutality, plagued by safety lapses, legal challenges, and systemic neglect. Through personal stories—Rey’s sudden arrest, Sara’s frantic search, and detainees’ daily struggles—the piece illustrates how bureaucratic decisions and profit‑driven contracts create environments that dehumanize vulnerable populations. It also highlights the role of legal advocacy, media scrutiny, and political maneuvering in shaping immigration enforcement, urging readers to consider the ethical implications of using temporary, low‑cost facilities for long‑term human confinement.",
+    "summary_zh": "冰火两重天——从El Paso到西 Texas的移民拘留中心，揭示了政策如何将脆弱群体推入极端困境，折射出制度冷酷与人性挣扎的复杂面，引发深刻反思。",
+    "best_quote_en": "The Trump Administration's goal, a former ICE official said, \"is to make detention look and feel so bad that people leave.\"",
+    "best_quote_zh": "特朗普政府的目标，某前ICE官员说，‘就是让拘留条件看起来和感觉上都很糟糕，让人想离开。’"
+  },
+  {
+    "id": 23,
+    "title": "Sora 2",
+    "title_zh": "索拉2",
+    "source": "Sam Altman",
+    "link": "https://blog.samaltman.com/sora-2",
+    "tags": [
+      "solve",
+      "ai-research",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "解决",
+      "AI研究",
+      "未来预测"
+    ],
+    "date": "2025-09-30",
+    "summary_en": "The launch of Sora 2 marks a bold step toward democratizing video creation, positioning the new app as a \"ChatGPT for creativity\" that promises to turn ideas into polished videos with unprecedented speed and ease. The announcement highlights a potential Cambrian explosion of creative output, emphasizing features like character consistency and social cameo integration that could reshape how we connect and express ourselves visually. Yet the post is careful not to ignore the darker side of AI‑driven media, acknowledging risks of addiction, bullying, and algorithmic \"slop feeds.\" The team outlines a principled approach centered on long‑term user satisfaction, user‑controlled feeds, creation empowerment, and goal‑aligned assistance, backed by safeguards against misuse and wellbeing monitoring. This blend of visionary optimism and sober responsibility offers a compelling case study in how emerging AI tools might be guided toward socially beneficial outcomes while navigating ethical complexity.",
+    "summary_zh": "Sora 2 号称是创意领域的 ChatGPT 时刻，承诺让视频创作变得简单而丰富，同时也正视 AI 带来的社会风险。文章既描绘了创意可能迎来大爆发的愿景，也提出了长期满意度、用户控制、创作优先等原则，展现了公司对平衡创新与责任的思考。",
+    "best_quote_en": "Creativity could be about to go through a Cambrian explosion, and along with it, the quality of art and entertainment can drastically increase.",
+    "best_quote_zh": "创意可能即将迎来一场寒武纪大爆发，艺术和娱乐的质量也将大幅提升。"
   }]
