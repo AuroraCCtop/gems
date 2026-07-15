@@ -527,4 +527,25 @@
     "summary_zh": "Sora 2 号称是创意领域的 ChatGPT 时刻，承诺让视频创作变得简单而丰富，同时也正视 AI 带来的社会风险。文章既描绘了创意可能迎来大爆发的愿景，也提出了长期满意度、用户控制、创作优先等原则，展现了公司对平衡创新与责任的思考。",
     "best_quote_en": "Creativity could be about to go through a Cambrian explosion, and along with it, the quality of art and entertainment can drastically increase.",
     "best_quote_zh": "创意可能即将迎来一场寒武纪大爆发，艺术和娱乐的质量也将大幅提升。"
+  },{
+    "id": 24,
+    "title": "How Brussels can avoid becoming a digital vassal to US Big Tech",
+    "title_zh": "布鲁塞尔如何避免沦为美国大科技的数字附庸",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/Y2aArqdLrpJQ2GaEw/how-brussels-can-avoid-becoming-a-digital-vassal-to-us-big",
+    "tags": [
+      "analyze",
+      "ai-research",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "AI研究",
+      "数据驱动"
+    ],
+    "date": "2026-07-15",
+    "summary_en": "The article argues that Europe’s growing tech dependency—centered on a handful of US firms controlling AI models, chips, cloud, and standards—has become a structural threat rather than a series of isolated incidents. It highlights the June 2026 US export‑control order that blocked foreign access to cutting‑edge AI models, exposing how Washington can single‑handedly dictate global AI usage. While the ban was later rescinded, the episode revealed that existing EU regulatory tools (fines, audits, compliance theater) are insufficient against firms that have become \"tech extensive\"—deeply embedded across infrastructure and decision systems. The author proposes a two‑track strategy: first, build European capacity through coordinated industrial policy, funding, and talent attraction; second, constrain Big Tech structurally by setting market‑shaping standards, treating systemic players differently, and using mechanisms like the DMA’s behavioral remedies. The piece serves as a policy‑forward, expert‑insight guide for anyone seeking to understand, solve, analyze, and guide European efforts to reclaim digital sovereignty.",
+    "summary_zh": "文章指出，欧洲对美国科技企业的结构性依赖已成为重大威胁，从芯片到云服务、AI模型无不受制。2026年6月美国出口管制令临时封锁了外国用户访问最新AI模型的权利，凸显了华盛顿的单边影响力。欧盟现有的监管工具（罚款、审计、合规表演）已无法有效约束这些“科技规模庞大”的企业。作者提出双轨战略：首先，通过产业政策、资金支持和人才吸引构建欧洲能力；其次，通过市场标准和结构性约束（如DMA的行为补救措施）对大型科技企业实施差异化监管。该文为政策制定者和关注欧洲数字主权者提供深入的分析和可行的解决方案。",
+    "best_quote_en": "The most important AI‑governance development of 2026 so far wasn’t a model release. It was an export‑control order.",
+    "best_quote_zh": "2026年迄今为止最重要的AI治理发展不是模型发布，而是出口管制令。"
   }]
