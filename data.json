@@ -548,4 +548,123 @@
     "summary_zh": "文章指出，欧洲对美国科技企业的结构性依赖已成为重大威胁，从芯片到云服务、AI模型无不受制。2026年6月美国出口管制令临时封锁了外国用户访问最新AI模型的权利，凸显了华盛顿的单边影响力。欧盟现有的监管工具（罚款、审计、合规表演）已无法有效约束这些“科技规模庞大”的企业。作者提出双轨战略：首先，通过产业政策、资金支持和人才吸引构建欧洲能力；其次，通过市场标准和结构性约束（如DMA的行为补救措施）对大型科技企业实施差异化监管。该文为政策制定者和关注欧洲数字主权者提供深入的分析和可行的解决方案。",
     "best_quote_en": "The most important AI‑governance development of 2026 so far wasn’t a model release. It was an export‑control order.",
     "best_quote_zh": "2026年迄今为止最重要的AI治理发展不是模型发布，而是出口管制令。"
+  },{
+    "id": 25,
+    "title": "Donate Unrestricted",
+    "title_zh": "无限制捐赠",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/donate.html",
+    "tags": [
+      "guide",
+      "startup-strategy",
+      "business-model",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "指导",
+      "创业策略",
+      "商业模式",
+      "未来预测"
+    ],
+    "date": "2026-07-16",
+    "summary_en": "The article argues that unrestricted donations are far more effective than restricted ones for nonprofits. While donors often impose conditions—seeking visibility, compliance, or personal agendas—the nonprofit typically knows best how to allocate resources. Restricted gifts can inadvertently support incompetent organizations or misdirected projects, whereas unrestricted funds empower experts to address real needs. The piece highlights rare exceptions, such as umbrella organizations or donors with deep domain expertise like the Gates Foundation. It also critiques the power imbalance that discourages nonprofits from challenging donors, urging contributors to trust proven entities with full discretion. By choosing unrestricted giving, donors maximize impact, avoid wasteful publicity stunts, and respect the nonprofit’s mission-driven judgment. The essay blends sharp analysis with a call to action, encouraging a shift in donor behavior toward more responsible and effective philanthropy.",
+    "summary_zh": "这篇文章尖锐地指出，无限制捐赠远胜于限制性捐款。捐赠者往往出于宣传或合规等目的设限，而非盈利机构更了解实际需求。限制性捐款可能支持不称职的组织或错失重点。作者列举了大学等伞式组织和盖茨基金会等专家捐赠者的例外情况，并揭示了权力不对称如何抑制非盈利机构的直言不讳。文章呼吁捐赠者信任专业机构，给予无限制资金，从而提升捐赠效能，避免空洞的宣传 stunt。这是一篇兼具深度分析与实践指导的反思性文章。",
+    "best_quote_en": "If you trust them to spend your money, trust them to decide how.",
+    "best_quote_zh": "如果你信任他们花钱，就信任他们决定怎么花。"
+  },
+  {
+    "id": 26,
+    "title": "The fundamental fallacy of language",
+    "title_zh": "语言的基本谬误",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/MEwhjL2Pfr92tFsme/the-fundamental-fallacy-of-language",
+    "tags": [
+      "guide",
+      "science",
+      "psychology",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "指导",
+      "科学研究",
+      "心理学",
+      "数据驱动"
+    ],
+    "date": "2026-07-16",
+    "summary_en": "Sunny from QAD explores how language’s inherent ambiguity leads us to mistake sentences for propositions and words for concepts, assuming a single objective meaning. The article argues that interpretation is a richer, more charitable process: we must survey multiple plausible meanings before reacting, using examples like \"I’m exactly six feet tall\" and the structure of the piece itself to illustrate spectrum versus bucket thinking. This fallacy has practical implications for communication, reading comprehension, and even AI systems that attempt to parse human text. By encouraging readers to ask what they can agree with rather than what they can argue against, the piece offers a pragmatic mantra for reducing misunderstanding. The analysis is both intellectually rigorous and personally engaging, reminding us that careful, empathetic interpretation is essential for meaningful dialogue.",
+    "summary_zh": "语言充满歧义，我们常以为文本有唯一含义，实则需从众多可能意义中挑选最合理者。作者提醒我们，阅读时先求同而非求异，这才是避免误解的关键，也是建立更包容对话的起点。",
+    "best_quote_en": "When reading a text, don't ask what there is to argue with; ask what there is to agree with.",
+    "best_quote_zh": "阅读文本时，不要问有什么可反驳的，要问有什么可认同的."
+  },
+  {
+    "id": 27,
+    "title": "Spain’s Beautiful Balance",
+    "title_zh": "西班牙的美丽平衡",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/sports/world-cup-2026/spains-beautiful-balance",
+    "tags": [
+      "analyze",
+      "leadership",
+      "lifestyle",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "分析",
+      "领导管理",
+      "生活方式",
+      "未来预测"
+    ],
+    "date": "2026-07-15",
+    "summary_en": "Louisa Thomas captures the nuanced narrative of Spain’s journey to the 2026 World Cup final, focusing on the interplay between prodigious talent and collective discipline. The article profiles Lamine Yamal, an 18‑year‑old phenom whose early fame and ego could have derailed the team, yet his maturity and willingness to blend into the tactical fabric prove pivotal. Thomas highlights how Spain’s success stems not from individual flashes but from a “beautiful balance” of structured play, patient pressing, and Rodri’s masterful midfield anchor work. The piece contrasts expectations of youthful stardom with the reality of team‑oriented strategy, offering readers insight into modern soccer’s evolving dynamics. It also examines the psychological dimensions of handling fame, the leadership required to sustain harmony, and the broader lesson that true excellence often lies beneath highlight reels. This analysis serves as both a compelling sports story and a case study in collaborative success, making it valuable for fans, analysts, and anyone interested in high‑performance teamwork.",
+    "summary_zh": "托马斯以细腻的笔触描绘了西班牙队如何在2026年世界杯决赛中实现天才与纪律的平衡。年轻球星拉米恩·亚马尔（Lamine Yamal）的成熟与团队协作精神成为关键。文章指出，西班牙的胜利源于“美丽的平衡”：精妙的战术配合、耐心的高压逼抢，以及中场大将罗德里的出色控场。这不仅是一场体育盛事，更是一堂关于当今足球中团队精神与心理素质的课，揭示了耀眼光环背后的真实实力。",
+    "best_quote_en": "There is more to soccer than what you can see in the highlights or on the score sheet. Recognizing this is a skill that Yamal seems to be mastering early.",
+    "best_quote_zh": "足球远不止高亮片段或比分表能展示的东西。认识到这一点是杨阿尔正在早日掌握的技能。"
+  },
+  {
+    "id": 28,
+    "title": "What’s in my NOW? — Editor Edition",
+    "title_zh": "我现在的拥有什么？——编辑版",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/whats-in-my-now-editor-edition/",
+    "tags": [
+      "guide",
+      "psychology",
+      "design",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "指导",
+      "心理学",
+      "设计创意",
+      "未来预测"
+    ],
+    "date": "2026-07-15",
+    "summary_en": "Claudia Dawson invites readers into her personal ecosystem of tools and philosophies that shape her \"NOW.\" She blends physical modalities—full‑body red light therapy, Solfeggio tuning forks, and a portable massage table—with digital aids like AudioPen for dream transcription and the ACER Integration community for nature‑based spiritual work. Underlying this inventory is the Ubuntu philosophy, reminding us that growth occurs relationally, not in isolation. The piece serves as both a practical guide for anyone exploring holistic wellness and an inspirational reflection on how technology, ritual, and community can support embodied spiritual development. By sharing her curated toolkit, Dawson offers actionable steps for readers seeking to integrate alternative healing practices into daily life while grounding transcendent experiences in everyday relational work.",
+    "summary_zh": "克劳迪娅·道森分享了她个人工具与哲学清单，从红光疗法、共振叉到数字应用与社区，展现了身心灵整合的实践。乌班图哲学“人唯藉他人方为己人”成为核心思想，指出成长并非孤立。她以个人视角提供实用指南，激励读者探索替代疗法，并将超验体验融入日常生活中的关系与挑战中。",
+    "best_quote_en": "I am because we are.",
+    "best_quote_zh": "我之所以存在，因为我们存在。"
+  },
+  {
+    "id": 29,
+    "title": "Essentials: The Science & Treatment of Bipolar Disorder",
+    "title_zh": "必需品：双相情感障碍的科学与治疗",
+    "source": "Huberman Lab",
+    "link": "https://www.hubermanlab.com/episode/essentials-the-science-and-treatment-of-bipolar-disorder",
+    "tags": [
+      "learn",
+      "science",
+      "psychology",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "学习",
+      "科学研究",
+      "心理学",
+      "数据驱动"
+    ],
+    "date": "2026-07-16",
+    "summary_en": "This Huberman Lab Essentials episode provides a comprehensive exploration of bipolar disorder, covering its biological foundations, diagnostic criteria, and evidence-based treatment approaches. The content delves into the remarkable history of lithium discovery, explaining its mechanisms of reducing inflammation and providing neuroprotection. Dr. Huberman examines various treatment modalities including pharmacological interventions, psychotherapies, electroconvulsive therapy, and nutraceuticals like omega-3 fatty acids. The episode also explores the intriguing relationship between mood disorders and creativity, offering valuable insights for patients, families, and healthcare professionals. By bridging scientific research with practical applications, this educational content enhances understanding of bipolar disorder's complex neurobiology and empowers listeners with knowledge about current treatment options and lifestyle interventions.",
+    "summary_zh": "本期内容全面解析了双相情感障碍的生物机制与治疗方法，从锂盐的发现历程到现代治疗方案，从神经保护到生活方式调整，揭示了情绪障碍与创造力的奇妙联系。这不仅为患者和家属提供了科学知识，也让听众了解了脑科学在精神卫生领域的应用价值。",
+    "best_quote_en": "Lithium works, in part by reducing inflammation, providing neuroprotection and supporting the interoceptive neural circuits affected in bipolar disorder.",
+    "best_quote_zh": "锂盐通过减少炎症、提供神经保护和支持受影响的内感觉神经回路来发挥作用。"
   }]
