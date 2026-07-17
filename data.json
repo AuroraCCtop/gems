@@ -667,4 +667,49 @@
     "summary_zh": "本期内容全面解析了双相情感障碍的生物机制与治疗方法，从锂盐的发现历程到现代治疗方案，从神经保护到生活方式调整，揭示了情绪障碍与创造力的奇妙联系。这不仅为患者和家属提供了科学知识，也让听众了解了脑科学在精神卫生领域的应用价值。",
     "best_quote_en": "Lithium works, in part by reducing inflammation, providing neuroprotection and supporting the interoceptive neural circuits affected in bipolar disorder.",
     "best_quote_zh": "锂盐通过减少炎症、提供神经保护和支持受影响的内感觉神经回路来发挥作用。"
+  },{
+    "id": 30,
+    "title": "You Won’t Believe My Morning",
+    "title_zh": "你不会相信我的早晨",
+    "source": "Wait But Why",
+    "link": "https://waitbutwhy.com/2020/03/my-morning.html",
+    "tags": [
+      "learn",
+      "science",
+      "society",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "学习",
+      "科学研究",
+      "社会议题",
+      "数据驱动"
+    ],
+    "date": "2020-03-25",
+    "summary_en": "The essay transforms a mundane morning into a mind‑bending exploration of scale, using the author’s accidental shrink‑down to illustrate the hidden dimensions of the COVID‑19 pandemic. By juxtaposing the microscopic world of tiny humans with our macroscopic concerns, the piece offers a vivid, interdisciplinary lens that blends science, satire, and storytelling. Its core insight—that perspective shifts can reframe complex problems—makes it a valuable resource for readers seeking both educational entertainment and a fresh analytical framework for global health challenges. The narrative’s creative use of analogy and its layered humor invite readers to question assumptions about size, impact, and responsibility, positioning the work as both a cultural commentary and a pedagogical tool. This approach exemplifies how imaginative writing can democratize scientific concepts, fostering public engagement with topics that typically reside in specialized discourse.",
+    "summary_zh": "这篇文章将平凡的早晨转化为一场关于尺度的奇幻之旅，通过作者意外的微缩经历揭示新冠疫情的深层意义。它以生动的微观世界和宏观视角交织科学、讽刺与讲故事，提供了一个跨学科的解析框架。核心观点是改变视角能重新定义复杂问题，既是文化批判，也是教育利器。文章巧妙的比喻和幽默感促使读者反思规模、影响与责任，从而以通俗方式普及科学知识，激发公众对全球卫生挑战的参与。",
+    "best_quote_en": "SARS‑CoV‑2 is a standard sized Coronavirus—about 120 nanometers in diameter. 120 nanometers is ridiculously small in your world, but in ours, you can roll it around in your fingers.",
+    "best_quote_zh": "新冠病毒是标准的冠状病毒，直径约120纳米。在你们的世界里，这非常微小，但在我们这里，你可以把它捧在手心。"
+  },
+  {
+    "id": 31,
+    "title": "Abundant Intelligence",
+    "title_zh": "丰富的智能",
+    "source": "Sam Altman",
+    "link": "https://blog.samaltman.com/abundant-intelligence",
+    "tags": [
+      "inspire",
+      "ai-research",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "启发",
+      "AI研究",
+      "未来预测"
+    ],
+    "date": "2025-09-23",
+    "summary_en": "The article envisions an era where AI becomes a fundamental economic engine, perhaps even a basic human right, driving unprecedented demand for compute power. It outlines a bold ambition to construct a weekly gigawatt factory for AI infrastructure, tackling challenges from chip design to energy and robotics. The author argues that scaling compute will unlock transformative applications—curing cancer, personalized global tutoring—and that the bottleneck is not desire but capacity. By positioning this massive undertaking as the \"coolest and most important infrastructure project ever,\" the piece blends visionary optimism with a pragmatic roadmap, highlighting geopolitical competition and novel financing ideas. It invites readers to consider the societal implications of abundant AI, the ethical weight of choosing which problems to solve first, and the collective effort required to turn speculative dreams into tangible reality.",
+    "summary_zh": "这篇文章描绘了 AI 成为经济基石的未来愿景，甚至被视为基本人权，计算力的扩张成为核心驱动力。作者提出建设每周一吉瓦的 AI 基础设施工厂，跨越芯片、能源、建筑和机器人等全栈创新，以期通过计算突破解决癌症和全球个性化教育等重大挑战。文章既表达了雄心勃勃的远景，也揭示了地缘政治竞争与创新融资的紧迫性，引发我们对技术力量、社会责任和人类选择的深刻反思。",
+    "best_quote_en": "If AI stays on the trajectory that we think it will, then amazing things will be possible. Maybe with 10 gigawatts of compute, AI can figure out how to cure cancer.",
+    "best_quote_zh": "如果 AI 保持我们认为的轨迹，那么神奇的事情将是可能的。也许用 10 吉瓦计算，AI 可以找出治愈癌症的方法。"
   }]
