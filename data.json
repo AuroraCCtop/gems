@@ -712,4 +712,51 @@
     "summary_zh": "这篇文章描绘了 AI 成为经济基石的未来愿景，甚至被视为基本人权，计算力的扩张成为核心驱动力。作者提出建设每周一吉瓦的 AI 基础设施工厂，跨越芯片、能源、建筑和机器人等全栈创新，以期通过计算突破解决癌症和全球个性化教育等重大挑战。文章既表达了雄心勃勃的远景，也揭示了地缘政治竞争与创新融资的紧迫性，引发我们对技术力量、社会责任和人类选择的深刻反思。",
     "best_quote_en": "If AI stays on the trajectory that we think it will, then amazing things will be possible. Maybe with 10 gigawatts of compute, AI can figure out how to cure cancer.",
     "best_quote_zh": "如果 AI 保持我们认为的轨迹，那么神奇的事情将是可能的。也许用 10 吉瓦计算，AI 可以找出治愈癌症的方法。"
+  },{
+    "id": 32,
+    "title": "How Worldy Is the World Cup?",
+    "title_zh": "世界杯有多世界性？",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/sports/sporting-scene/how-worldy-is-the-world-cup",
+    "tags": [
+      "analyze",
+      "ai-research",
+      "society",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "分析",
+      "AI研究",
+      "社会议题",
+      "未来预测"
+    ],
+    "date": "2026-07-17",
+    "summary_en": "Anthony Lane’s 2026 World Cup commentary offers a sharp, nostalgic critique of football’s diminishing capacity for genuine surprise. He traces the tournament’s expansion—from 32 to 48 teams—as a hopeful antidote to homogenization, yet laments how commercial imperatives and global scouting have turned exceptional talent into pre‑packaged commodities. Lane juxtaposes the romance of early‑era legends like Pelé, whose rarity amplified myth, with today’s hyper‑visibility, where every player is already a global brand before stepping onto the pitch. The piece also examines cultural hospitality in the United States, contrasting it with political tensions, and reflects on coaching philosophies, from Thomas Tuchel’s bracing honesty to the perils of over‑confidence. Ultimately, Lane suggests that the World Cup’s power to challenge the status quo is eroding, raising questions about the balance between sport as spectacle and sport as a canvas for unexpected human drama.",
+    "summary_zh": "安东尼·莱恩的2026年世界杯评论犀利地指出，足球赛事的惊喜感正逐渐消失。他探讨了从32到48支球队的扩张，虽带来希望，却因商业化和全球人才发掘而使传奇球员提前商品化。文章对比了早期梅西等球星的稀有魅力与当今的全面曝光，揭示了体育从纯粹竞赛向品牌化娱乐的转变。同时，莱恩也描绘了美国的热情好客与政治现实，并反思了教练策略，从图赫尔直言不讳到各国球队的傲慢。这些观察反映出世界杯在挑战现状方面的局限，引发对现代体育本质的深刻思考。",
+    "best_quote_en": "Never before has a World Cup final been graced by a halftime spectacle.",
+    "best_quote_zh": "从未有过世界杯决赛有过半场表演的壮观场面。"
+  },
+  {
+    "id": 33,
+    "title": "It’s 2020 and you’re in the future",
+    "title_zh": "2020年，你已身处未来",
+    "source": "Wait But Why",
+    "link": "https://waitbutwhy.com/2020/01/its-2020-and-youre-in-the-future.html",
+    "tags": [
+      "inspire",
+      "psychology",
+      "society",
+      "beginner-friendly"
+    ],
+    "tags_zh": [
+      "启发",
+      "心理学",
+      "社会议题",
+      "新手友好"
+    ],
+    "date": "2020-01-02",
+    "summary_en": "This witty, data‑driven essay marks the arrival of the 2020s and invites readers to compare how temporal distances have shifted since the 1920s. By juxtaposing historical milestones—World War II, the Soviet collapse, Super Bowl counts, iconic films, and even the O.J. Simpson trial—it shows how events once considered ancient now feel immediate. The piece highlights generational perception gaps, notes that today’s children may live into the 2100s, and encourages a reflective appreciation of the present. Wait But Why’s characteristic blend of humor, visual timelines, and thoughtful commentary makes complex perspective‑shifting accessible and engaging, turning a simple New Year’s post into a lasting meditation on how we experience time.",
+    "summary_zh": "本文以幽默的方式对比历史事件的时间距离，指出2020年正如1920年那样令人向往，同时提醒我们如何看待战争、文化、体育等变化，引发对时间流逝和代际差距的思考，是一篇引人入胜的教育性文章。通过图表和生动的例子，它让读者意识到自己出生时间的相对位置，并提出了一个惊人的预测：如今的孩子大多能活到2100年代，引发对未来生活的思考。",
+    "best_quote_en": "When World War 2 started, the Civil War felt as far away to Americans as WW2 feels to us now.",
+    "best_quote_zh": "当第二次世界大战开始时，美国人觉得内战就像我们现在觉得二战一样遥远。"
   }]
