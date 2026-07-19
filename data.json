@@ -759,4 +759,51 @@
     "summary_zh": "本文以幽默的方式对比历史事件的时间距离，指出2020年正如1920年那样令人向往，同时提醒我们如何看待战争、文化、体育等变化，引发对时间流逝和代际差距的思考，是一篇引人入胜的教育性文章。通过图表和生动的例子，它让读者意识到自己出生时间的相对位置，并提出了一个惊人的预测：如今的孩子大多能活到2100年代，引发对未来生活的思考。",
     "best_quote_en": "When World War 2 started, the Civil War felt as far away to Americans as WW2 feels to us now.",
     "best_quote_zh": "当第二次世界大战开始时，美国人觉得内战就像我们现在觉得二战一样遥远。"
+  },{
+    "id": 34,
+    "title": "A peek into the post-capitalist dystopia",
+    "title_zh": "窥探后资本主义反乌托邦",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/3BqAGpiK3wYPiedxk/a-peek-into-the-post-capitalist-dystopia",
+    "tags": [
+      "update",
+      "ai-research",
+      "society",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "动态",
+      "AI研究",
+      "社会议题",
+      "未来预测"
+    ],
+    "date": "2026-07-19",
+    "summary_en": "The essay offers a vivid, first‑hand portrait of San Francisco as a harbinger of a post‑capitalist future shaped by near‑solved artificial intelligence. The author, a young tech explorer, juxtaposes the city’s glittering startup culture with stark visible inequality—homeless encampments beside billboards celebrating founders—illustrating a society where AI’s economic benefits accrue to a narrow equity‑holding class. By highlighting the growing schism between AI‑adjacent beneficiaries and those facing displacement, the piece critiques the assumption that technological progress alone guarantees shared prosperity. It warns that when intelligence can be bought as compute, traditional labor may become obsolete, creating a permanent underclass that is economically unnecessary yet materially present. The narrative also calls for broader public literacy about AI fundamentals, urging both engineers and service workers to anticipate automation’s societal impact. Ultimately, the blog serves as both a cautionary tale and a call to action, urging society to steer technology toward inclusive outcomes before the singularity reshapes power structures beyond repair.",
+    "summary_zh": "旧金山已成为后资本主义时代的缩影，AI 红利集中于少数股权持有者，而劳动阶级被边缘化。作者警告，若不普及AI 基础知识，全社会可能步入不平等的硅谷式未来。",
+    "best_quote_en": "Intelligence is close to being solved.",
+    "best_quote_zh": "智能已接近被解决."
+  },
+  {
+    "id": 35,
+    "title": "Better Than Free: How To Differentiate In The Age Of AI",
+    "title_zh": "超越免费：在AI时代如何实现差异化",
+    "source": "Tim Ferriss",
+    "link": "https://tim.blog/2026/07/17/better-than-free/",
+    "tags": [
+      "solve",
+      "ai-research",
+      "business-model",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "解决",
+      "AI研究",
+      "商业模式",
+      "未来预测"
+    ],
+    "date": "2026-07-17",
+    "summary_en": "Kevin Kelly’s essay reframes the creator’s economy for the age of AI, arguing that when perfect copies become free and abundant, the scarce assets are the intangibles that cannot be duplicated. He identifies eight “generatives”—immediacy, personalization, interpretation, authenticity, accessibility, embodiment, scarcity, and trust—that retain value because they must be generated uniquely in each exchange. The piece blends historical perspective (from analog scarcity to digital abundance) with concrete examples, from hardcover books to Patreon-backed novels, illustrating how artists, writers, and entrepreneurs can monetize experiences, relationships, and expertise rather than mere copies. Kelly’s insight is both a warning and a roadmap: the future belongs to those who can cultivate generative qualities that AI cannot replicate. For creators, policymakers, and business strategists, the essay offers a provocative lens on differentiation, urging a shift from selling products to selling the irreducible human elements of creation.",
+    "summary_zh": "凯文·凯利指出，在AI时代，完美复制品免费泛滥，人类必须出售那些无法复制的无形资产：即时性、个性化、解读、真实性、可及性、实体性、稀缺性和信任感等八种“生成性”价值。这些不可复制的品质成为新的商业核心，指引创作者从出售复制品转向出售独特的人类体验与关系。",
+    "best_quote_en": "When copies are super abundant, they become worthless, and stuff which can't be copied becomes scarce and valuable.",
+    "best_quote_zh": "当复制品极其丰富时，它们就会变得一文不值，而那些无法被复制的东西则会变得稀缺和有价值。"
   }]
