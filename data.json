@@ -806,4 +806,75 @@
     "summary_zh": "凯文·凯利指出，在AI时代，完美复制品免费泛滥，人类必须出售那些无法复制的无形资产：即时性、个性化、解读、真实性、可及性、实体性、稀缺性和信任感等八种“生成性”价值。这些不可复制的品质成为新的商业核心，指引创作者从出售复制品转向出售独特的人类体验与关系。",
     "best_quote_en": "When copies are super abundant, they become worthless, and stuff which can't be copied becomes scarce and valuable.",
     "best_quote_zh": "当复制品极其丰富时，它们就会变得一文不值，而那些无法被复制的东西则会变得稀缺和有价值。"
+  },{
+    "id": 36,
+    "title": "What I Worked On",
+    "title_zh": "我做过的东西",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/worked.html",
+    "tags": [
+      "guide",
+      "education",
+      "startup-strategy",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "指导",
+      "教育学习",
+      "创业策略",
+      "数据驱动"
+    ],
+    "date": "2026-07-20",
+    "summary_en": "This reflective essay traces the author’s early fascination with programming, from punch‑card Fortran on an IBM 1401 to the DIY microcomputers of the late 1970s, and his subsequent pivot from AI research to art. It captures the excitement of discovering Lisp, the disillusionment with shallow natural‑language AI, and the eventual decision to write \"On Lisp\" while pursuing a Ph.D. in computer science. The narrative reveals how personal curiosity, rather than formal curricula, shaped his trajectory, highlighting the tension between building fleeting systems and creating lasting works. It also offers a rare insider view of the birth of Y Combinator and the evolution of startup culture, underscoring the importance of independent thinking in rapidly changing fields. The piece is both an inspiring origin story and a thoughtful commentary on the nature of technological progress.",
+    "summary_zh": "作者从IBM 1401的穿孔卡编程，到DIY微型电脑，再到AI研究的迷茫与艺术的觉醒，讲述了个人好奇心如何塑造了从编程到艺术的旅程。文章揭示了Lisp的魅力、早期AI的局限，以及对持久创作的追求，反映了独立思考在快速变革领域的价值。",
+    "best_quote_en": "AI, as practiced at the time, was a hoax.",
+    "best_quote_zh": "当时的 AI 实践本质上是一个骗局."
+  },
+  {
+    "id": 37,
+    "title": "What is Current AI-Risks and the Points？",
+    "title_zh": "当前AI风险有哪些要点？",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/MbHQQLBbchWPKoyHB/what-is-current-ai-risks-and-the-points",
+    "tags": [
+      "learn",
+      "ai-research",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "学习",
+      "AI研究",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2026-07-20",
+    "summary_en": "The article offers a thoughtful examination of contemporary AI‑related risks, distinguishing between enterprise‑level and personal‑use challenges. It highlights security vulnerabilities, illustrated by real‑world incidents such as the exploitation of Claude in a geopolitical context, and stresses the growing difficulty of maintaining control over information workflows as AI processes ever‑larger, often unverifiable data sets. The author also warns of physical and psychological health impacts, including ergonomic strain and the erosion of personal autonomy through AI‑mediated emotional optimization. By categorizing these issues and proposing new frameworks for observation and mitigation, the piece serves as both an educational overview and a call to action for developers, managers, and users. Its interdisciplinary perspective bridges technical safety, organizational responsibility, and human‑centered concerns, making it a valuable resource for anyone seeking to understand the multifaceted dangers of today’s AI landscape and to navigate the ethical and practical dilemmas they present.",
+    "summary_zh": "本文从企业与个人双重视角剖析了当前AI风险，包括安全漏洞、责任模糊、信息过载导致的认知退化，以及AI可能“优化”用户主观状态引发的心理自主流失。通过梳理这些挑战，作者呼吁建立系统性观察机制，以应对AI日益普及对人类心理的潜在影响。",
+    "best_quote_en": "AI might oddly 'optimize' people's subjective states themselves.",
+    "best_quote_zh": "AI 可能会奇异地‘优化’人们的主体状态本身。"
+  },
+  {
+    "id": 38,
+    "title": "Florentina Holzinger’s Naked Ambition",
+    "title_zh": "Florentina Holzinger 的赤裸野心",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/magazine/2026/07/27/florentina-holzingers-naked-ambition",
+    "tags": [
+      "learn",
+      "ai-research",
+      "design",
+      "controversial"
+    ],
+    "tags_zh": [
+      "学习",
+      "AI研究",
+      "设计创意",
+      "争议观点"
+    ],
+    "date": "2026-07-20",
+    "summary_en": "The article profiles artist Florentina Holzinger and her provocative installation \"SEAWORLD VENICE\" at the Venice Biennale. Known for extreme performance art that pushes bodily limits, Holzinger’s work combines nudity, water tanks, and ritualistic actions. She submerges herself and other performers in a tank of filtered visitor urine, creating tableaux that confront crisis and the body while challenging audience comfort. Holzinger describes her approach as gentle rather than shocking, emphasizing a desire not to traumatize viewers permanently. The piece’s logistical complexities and its blend of minimalism with raw physicality have made it the most discussed work at the Biennale, prompting reflection on the boundaries of contemporary art and the role of the body as both medium and message.",
+    "summary_zh": "Holzinger 的双年展装置让裸体表演者浸泡在过滤过的尿液中，正视危机与身体极限。她将激进艺术描述为温和的挑战，重新定义当代戏剧的界限。",
+    "best_quote_en": "\"It gets depicted as this shocking, radical thing, but if you come from experimental theatre there is nothing shocking or radical about it,\" she said.",
+    "best_quote_zh": "\"她说，‘这被描绘成一个令人震惊、激进的东西，但如果你来自实验戏剧，就不会觉得它有任何震撼或激进性。’\""
   }]
