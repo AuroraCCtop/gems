@@ -877,4 +877,73 @@
     "summary_zh": "Holzinger 的双年展装置让裸体表演者浸泡在过滤过的尿液中，正视危机与身体极限。她将激进艺术描述为温和的挑战，重新定义当代戏剧的界限。",
     "best_quote_en": "\"It gets depicted as this shocking, radical thing, but if you come from experimental theatre there is nothing shocking or radical about it,\" she said.",
     "best_quote_zh": "\"她说，‘这被描绘成一个令人震惊、激进的东西，但如果你来自实验戏剧，就不会觉得它有任何震撼或激进性。’\""
+  },{
+    "id": 39,
+    "title": "Earnestness",
+    "title_zh": "真诚",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/earnest.html",
+    "tags": [
+      "inspire",
+      "startup-strategy",
+      "ai-research",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "启发",
+      "创业策略",
+      "AI研究",
+      "未来预测"
+    ],
+    "date": "2026-07-21",
+    "summary_en": "The essay reflects on earnestness as a rare but powerful catalyst in startup culture, contrasting genuine curiosity with mercenary motives. Jessica and the author value founders who are both formidable and earnest—driven by the problem itself rather than wealth or fame. This authenticity, rooted in \"nerd\" identity, fuels resilience and deep focus, turning vulnerability into strength when challenges outpace superficial solutions. The piece maps domains where earnestness thrives—technology, science, and innovative business—against those where cynicism dominates, suggesting a heuristic: follow fields where nerds lead. It also notes the tension between naive optimism and sophisticated cynicism, arguing that the former can compensate for rapid change and unlock previously insoluble problems. Ultimately, the alignment of intellectual curiosity and financial reward marks a historic shift, making earnest startups not just morally commendable but practically unstoppable.",
+    "summary_zh": "真诚是创业者美德，也是驱动创新的持久动力。当以问题本身为兴趣，而非功利目的，便能穿越快速变化的迷雾。真诚虽带来脆弱，却在艰难挑战中化为优势，提醒我们商业不应与知识 curiosity 脱节。真诚的创业者如同「极客」，他们愿意牺牲表面 cool，专注于真正重要的事情。这种纯粹的热情在科技与创新领域开花结果，也塑造了更具活力的商业生态。",
+    "best_quote_en": "When you call someone earnest, you're making a statement about their motives. It means both that they're doing something for the right reasons, and that they're trying as hard as they can.",
+    "best_quote_zh": "当你称某人为人真诚时，你就是在评论他的动机。这意味着他们为了正确的理由在做事，并且尽力而为。"
+  },
+  {
+    "id": 40,
+    "title": "NameRank: The Model Knows Your Project, Not You.",
+    "title_zh": "NameRank：模型认识你的项目，而非你自己",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/XLSWRFPdgPTjLtaj5/namerank-the-model-knows-your-project-not-you",
+    "tags": [
+      "analyze",
+      "ai-research",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "AI研究",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2026-07-21",
+    "summary_en": "The discussion unpacks the surprising asymmetry of AI memory: well‑known projects often eclipse their creators in large language models, while famous individuals may still be obscure to the same systems. Commenters illustrate this with concrete examples—Tianshou’s library outranking its author Jiayi Weng—and reflect on why artifacts propagate faster than names, citing data from the NameRank study. Personal anecdotes reveal practical hurdles, such as being absent from Common Crawl or having private repositories, which hinder model recognition. The conversation raises broader questions about digital legacy, the economics of attention, and the ethics of training data. It suggests that current AI architectures prioritize textual footprints over authorial identity, prompting a reevaluation of how we curate and share our work to ensure both projects and people are accurately represented in future models.",
+    "summary_zh": "AI 记忆展现出惊人反差：知名项目常盖过创作者，而名人却可能被模型忽视。评论引用 Tianshou 与作者 Jiayi Weng 的数据对比，指出作品传播远胜于姓名传播。个人经历显示，缺失 Common Crawl 收录或私有仓库等现实障碍，影响模型对个人的识别。这引发对数字遗产、注意力经济与训练数据伦理的反思，提示我们需重新考量如何平衡项目与人名的曝光。",
+    "best_quote_en": "Pair a well-known artifact with the person who built it and, in 7 of 10 pairs, the artifact wins. The reinforcement-learning library Tianshou scores 0.78 while its sole author Jiayi Weng sits at 0.22 — the work propagated; the name behind it did not.",
+    "best_quote_zh": "将知名作品与创建者配对，在10对中的7对中，作品胜出。强化学习库Tianshou的得分是0.78，而其唯一作者Jiayi Weng仅为0.22——作品传播了，但名字没有。"
+  },
+  {
+    "id": 41,
+    "title": "Accelerate Learning & Increase Cognitive Capacity | Dr. Tommy Wood",
+    "title_zh": "加速学习与提升认知能力 | 汤米·伍德博士",
+    "source": "Huberman Lab",
+    "link": "https://www.hubermanlab.com/episode/accelerate-learning-and-increase-cognitive-capacity-tommy-wood",
+    "tags": [
+      "learn",
+      "education",
+      "psychology"
+    ],
+    "tags_zh": [
+      "学习",
+      "教育学习",
+      "心理学"
+    ],
+    "date": "2026-07-20",
+    "summary_en": "This episode with Dr. Tommy Wood offers a comprehensive guide to enhancing cognitive capacity through science-based approaches. As a neuroscience professor at the University of Washington, Dr. Wood reveals how specific exercise protocols, nutritional strategies, and targeted compounds can accelerate learning and stabilize mental skill development. The content bridges theoretical neuroscience with practical applications, providing actionable tools for both performance optimization and brain health preservation. Key insights include the role of novel tasks in stimulating neuroplasticity, the importance of nutrient timing for cognitive function, and evidence-based approaches to reducing dementia risk. The episode particularly stands out for its balanced perspective on cognitive enhancement—addressing both high-performance goals and recovery from brain injuries. Dr. Wood's expertise lends credibility to recommendations ranging from HIIT workouts and resistance training to omega-3 supplementation and GLP-1 compounds, making this valuable for anyone interested in optimizing their learning capacity and long-term brain health.",
+    "summary_zh": "汤米·伍德博士与我们分享了神经科学的最新发现，揭示了如何通过科学方法提升认知能力。他不仅介绍了促进神经可塑性的运动策略，还详细阐述了营养和补充剂在学习中的作用。这期内容非常实用，既关注高性能训练，也关心脑损伤后的恢复。听完后，我对大脑的适应能力有了新的认识，并学到了许多可以立即应用的方法来改善学习效果和保护脑健康。",
+    "best_quote_en": "We have tools now to preserve cognitive function, reduce dementia risk, and offset loss of memory after a concussion or other brain injury—tools that are science-based and practical.",
+    "best_quote_zh": "我们现在拥有科学实用的工具，可以保护认知功能，降低痴呆风险，并帮助从脑震荡或其他脑损伤中恢复记忆力。"
   }]
