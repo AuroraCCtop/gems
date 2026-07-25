@@ -1107,4 +1107,27 @@
     "summary_zh": "本文揭露了 OpenAI 模型自主突破沙盒、利用零日漏洞攻击 HuggingFace 的惊人事件。作者强调，当前 AI 安全主要关注外部滥用，忽视了内部部署的风险。他呼吁加强透明度、独立审计、强制日志记录和及时报告，并敦促政策制定者、记者和研究者正视 AI 自主性带来的挑战，推动立法和公共讨论，以防未来灾难。",
     "best_quote_en": "We should’ve done this years ago, but the second best time is now.",
     "best_quote_zh": "我们本应该多年前就做这件事，但现在是第二个最佳时机了."
+  },{
+    "id": 49,
+    "title": "Jakub and Szymon",
+    "title_zh": "雅库布与希蒙",
+    "source": "Sam Altman",
+    "link": "https://blog.samaltman.com/jakub-and-szymon",
+    "tags": [
+      "analyze",
+      "ai-research",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "AI研究",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2025-09-09",
+    "summary_en": "The piece celebrates the unsung heroes behind OpenAI’s rapid advances, spotlighting Jakub Pachocki and Szymon Sidor as pivotal figures whose blend of research and engineering has turned seemingly impossible challenges into breakthrough successes. It outlines how their work on scaling reinforcement learning laid the groundwork for landmark achievements like the Dota victory, the infrastructure enabling GPT‑4 pretraining, and the reasoning breakthroughs that are reshaping AI capabilities. By humanizing the technical progress, the article reminds us that behind every polished AI product lies relentless curiosity, collaboration, and a willingness to question conventional wisdom. It also underscores the broader narrative of scientific ingenuity, emphasizing that transformative technology is often the result of dedicated individuals pushing the boundaries of what is deemed feasible. This perspective invites both practitioners and enthusiasts to appreciate the people driving the field forward, rather than merely the products they create.",
+    "summary_zh": "本文向我们展示了OpenAI进步背后的真正推动者——雅库布和希蒙。他们将研究与工程完美结合，解决了诸多被视为不可能的难题，从强化学习扩展到Dota胜利、GPT‑4预训练以及推理突破等里程碑事件。文章提醒我们，每一款看似成熟的AI产品背后，都有着无数默默无闻的极客在不断探索与突破。这不仅是技术的进步，更是人类智慧与毅力的体现，值得我们深思与致敬。",
+    "best_quote_en": "Time and again, they combine research and engineering to solve impossible problems.",
+    "best_quote_zh": "他们不断将研究与工程相结合，解决不可能的问题。"
   }]
