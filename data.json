@@ -1246,4 +1246,121 @@
     "summary_zh": "本期节目深入解答听众的健康疑问，涵盖夜间运动后睡眠优化、无咖啡因运动补充剂、记忆力与嗅觉神经科学工具、生育营养、绝经期心理健康、手术恢复加速及职业Passion探索等主题。内容融合最新研究与实用建议，既具有教育意义，又便于直接应用，强调将科学洞见融入日常生活以实现全面健康提升。",
     "best_quote_en": "neuroscience‑supported tools for improving your memory and sense of smell",
     "best_quote_zh": "神经科学支持的改善记忆力和嗅觉的工具"
+  },{
+    "id": 55,
+    "title": "What makes a woman a witch? Financial independence",
+    "title_zh": "是什么让一个女人成为女巫？经济独立",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/lifeandstyle/2026/jul/26/women-witchcraft-financial-independence",
+    "tags": [
+      "analyze",
+      "science",
+      "medicine",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "科学研究",
+      "医学健康",
+      "数据驱动"
+    ],
+    "date": "2026-07-25",
+    "summary_en": "Lucianne Tonti’s investigation into the European witch trials reveals a chilling pattern: women who attained financial independence—whether through inheritance, skilled trades, or property management—were disproportionately targeted as witches. By tracing the 17th‑century case of Katherine Harrison in Connecticut, alongside broader research across Scotland, England, and Scandinavia, Tonti shows how accusations of witchcraft served as a social mechanism to police female autonomy. The book juxtaposes historical legal records with medical casebooks, demonstrating that women’s work in dairying, healing, and textile crafts was reinterpreted as malevolent magic. While modern witchcraft has been reclaimed as a symbol of intuition and empowerment, the article warns that the ‘witch’ label still carries implicit danger, as seen in recent political imagery. Tonti’s interdisciplinary approach blends history, gender studies, and sociology, offering a nuanced critique of how patriarchal structures weaponize superstition to suppress women’s economic and social agency.",
+    "summary_zh": "文章通过凯瑟琳·哈里森等历史案件揭示，女性的经济独立曾是女巫迫害的核心诱因。作者考察了欧洲和美洲的法庭记录，指出职业技能、医疗劳动和财产继承使女性易遭指控。尽管现代女巫象征着直觉与女权，但‘女巫’标签仍隐含暴力与风险。文章呼吁重新审视性别权力结构，警示社会不应以类似方式边缘化女性。",
+    "best_quote_en": "Historically it's been dangerous for women to reach for financial independence and status.",
+    "best_quote_zh": "历史上，女性追求经济独立和地位一直是危险的。"
+  },
+  {
+    "id": 56,
+    "title": "How to Think for Yourself",
+    "title_zh": "如何独立思考",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/think.html",
+    "tags": [
+      "solve",
+      "startup-strategy",
+      "education",
+      "case-study"
+    ],
+    "tags_zh": [
+      "解决",
+      "创业策略",
+      "教育学习",
+      "案例研究"
+    ],
+    "date": "2026-07-28",
+    "summary_en": "The essay argues that truly valuable work—whether in science, investing, startups, or writing—requires independent thinking that diverges from the mainstream. It distinguishes between professions where being merely correct suffices and those where novelty is essential for success. The author reflects on how independent‑minded individuals often feel out of place in conventional environments like high school or growing companies, yet they can nurture their mindset by seeking diverse peers, studying history, and cultivating skepticism. Practical techniques include questioning the truth of received ideas, labeling beliefs with precise confidence levels, and surrounding oneself with people who think differently. The piece also warns against mistaking strong convictions for independence and highlights the role of intellectual fashions that can stifle original thought. By treating curiosity as a disciplined pursuit and recognizing the innate versus cultivated aspects of independent thinking, readers are encouraged to assess their own work choices and develop habits that protect originality in an increasingly conformist world.",
+    "summary_zh": "这篇文章指出，真正的卓越工作——科学、投资、创业或写作——需要超越同侪的独立思考。它区分了只需正确与需创新的职业类型。作者反思独立思维者如何在高中有压力，在公司成长中被稀释，并提出通过结交不同思维者、研习历史、培养怀疑态度等方法来保护原创性。文章警示强信念非独立标志，并强调知识时尚如何淹没新观点。透过将好奇心视为纪律性追求，读者可审视自身选择，培养抵御从众的习惯。",
+    "best_quote_en": "The only valuable insights are the ones most other investors don't share.",
+    "best_quote_zh": "只有大多数投资者都不分享的见解才是宝贵的。"
+  },
+  {
+    "id": 57,
+    "title": "LaughBench",
+    "title_zh": "笑基准",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/dduji8Hkwz2ASqzHi/laughbench",
+    "tags": [
+      "solve",
+      "ai-research",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "解决",
+      "AI研究",
+      "未来预测"
+    ],
+    "date": "2026-07-28",
+    "summary_en": "Taylor G. Lunt introduces LaughBench as a provocative metric for assessing whether AI truly possesses general intelligence. He argues that generating novel jokes that reliably make people laugh is an \"IQ‑hard\" task because it demands modeling others’ minds, spotting false inferences, and avoiding self‑reference—capabilities far beyond mere pattern recall. The current frontier models (GPT‑5.6 Sol and Fable) only occasionally elicit a smile, suggesting a nascent spark of understanding. Lunt contrasts comedy with math or coding benchmarks, which can be gamed with strong memory, and highlights other ambitious but hard‑to‑scale measures like FrontierMath, ARC‑AGI, and novel board games. He calls for objective, laughter‑based benchmarks as a proxy for the kind of deep reasoning needed for both dangerous applications (e.g., bioweapons, manipulation) and beneficial ones (curing disease, reshaping society). LaughBench thus reframes humor as a litmus test for the emergence of genuine AI intelligence, urging the community to prioritize benchmarks that truly challenge predictive models of the world.",
+    "summary_zh": "笑基准提出，真正智能的AI必须能讲出新笑话，这考验其理解人类思维、捕捉假推理的能力。当前模型仅能偶作一笑，显示智商仅有曙光。作者呼吁建立更客观的IQ-hard基准，因为真正的智能关乎安全与福祉。",
+    "best_quote_en": "You laugh or you don't. You can't squint and say, 'yeah, I think this is a good poem'.",
+    "best_quote_zh": "你要么笑，要么不笑。你不能眯着眼睛说，‘嗯，我觉得这首诗写得不错’。"
+  },
+  {
+    "id": 58,
+    "title": "Geology",
+    "title_zh": "地质学",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/geology/",
+    "tags": [
+      "guide",
+      "science",
+      "ai-research",
+      "beginner-friendly"
+    ],
+    "tags_zh": [
+      "指导",
+      "科学研究",
+      "AI研究",
+      "新手友好"
+    ],
+    "date": "2026-07-27",
+    "summary_en": "This guide reimagines travel by revealing the hidden power points of American geology, turning ordinary road trips into immersive scientific adventures. By mapping over a hundred sites—from iconic meteor craters to fossilized forest casts—the author invites readers to explore the Earth’s dynamic processes directly, blending practical directions with vivid storytelling. The piece celebrates the educational value of accessible field observation, suggesting that vacation can be both restorative and intellectually enriching. It also highlights a growing appreciation for experiential learning, where personal curiosity meets rigorous documentation. Ultimately, the guide demonstrates how a simple love of rocks can transform our perception of landscape, encouraging a deeper connection to planetary history and the scientific narratives embedded in the ground beneath our feet.",
+    "summary_zh": "这本指南将旅行转变为科学探索，让你发现美国各地的地质奇观。从陨石坑到化石森林，每个地点都讲述着地球的故事。它将实用指南与生动的讲述相结合，让度假变得既轻松又富有知识意义，激发人们对地质科学的兴趣，并鼓励通过实地观察来理解地球的历史。",
+    "best_quote_en": "Geology is a force so huge we don’t see it. Yet evenly spread across the US (at least one in each state) are spots where our planetary behavior is made visible, erupting in either grand spectacle or in tiny gems on the ground.",
+    "best_quote_zh": "地质是一种巨大的力量，我们却看不见它。然而，在美国各地（至少每个州都有一个）分布着一些地方，展现了我们星球的行为，要么以壮观的形式爆发，要么以地上的微小宝石显现。"
+  },
+  {
+    "id": 59,
+    "title": "Three Observations",
+    "title_zh": "三个观察",
+    "source": "Sam Altman",
+    "link": "https://blog.samaltman.com/three-observations",
+    "tags": [
+      "analyze",
+      "ai-research",
+      "science",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "分析",
+      "AI研究",
+      "科学研究",
+      "未来预测"
+    ],
+    "date": "2025-02-09",
+    "summary_en": "The article outlines three pivotal observations about the economics of AI as humanity approaches AGI. First, AI model intelligence scales logarithmically with training and inference resources, suggesting predictable gains from increased investment. Second, the cost of using AI drops roughly tenfold each year, far outpacing Moore’s Law and driving massive adoption. Third, the socioeconomic value of linearly increasing intelligence grows super‑exponentially, implying that exponential investment may continue indefinitely. The author frames AGI as both a continuation of humanity’s tool‑building legacy and a transformative force that could amplify individual impact dramatically. While technical pathways appear clear, the authors stress that public policy, safety considerations, and the balance between empowerment and control will shape AGI’s integration. They advocate early, iterative product releases to allow society and technology to co‑evolve, and they propose bold ideas—like granting a universal compute budget—to democratize access to AI’s creative potential. This forward‑looking analysis blends rigorous data‑driven insight with a visionary, ethically‑aware perspective on how AGI could reshape work, innovation, and human agency.",
+    "summary_zh": "本文提出了关于AI经济学的三个关键观察：AI智能与计算资源的对数关系，AI使用成本每12个月下降约10倍，以及AI社会价值呈超级指数增长。作者认为，AGI将成为推动人类意志的强大工具，可能彻底改变工作与创新的形态。尽管技术路径清晰，但政策与公众共识将决定其整合方式。平衡安全与个体赋权、确保广泛分配的利益将是关键挑战。作者呼吁提前部署产品以促进技术与社会的共同进化，并提出给予人人计算预算等创新思路，以释放全球人才的创造力。",
+    "best_quote_en": "AGI will be the biggest lever ever on human willfulness, and enable individual people to have more impact than ever before, not less.",
+    "best_quote_zh": "AGI 将是人类意志力上最大的杠杆之一，它将使每个人都能比以往任何时候都更有影响力，而不是更少。"
   }]
