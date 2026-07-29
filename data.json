@@ -1363,4 +1363,99 @@
     "summary_zh": "本文提出了关于AI经济学的三个关键观察：AI智能与计算资源的对数关系，AI使用成本每12个月下降约10倍，以及AI社会价值呈超级指数增长。作者认为，AGI将成为推动人类意志的强大工具，可能彻底改变工作与创新的形态。尽管技术路径清晰，但政策与公众共识将决定其整合方式。平衡安全与个体赋权、确保广泛分配的利益将是关键挑战。作者呼吁提前部署产品以促进技术与社会的共同进化，并提出给予人人计算预算等创新思路，以释放全球人才的创造力。",
     "best_quote_en": "AGI will be the biggest lever ever on human willfulness, and enable individual people to have more impact than ever before, not less.",
     "best_quote_zh": "AGI 将是人类意志力上最大的杠杆之一，它将使每个人都能比以往任何时候都更有影响力，而不是更少。"
+  },{
+    "id": 60,
+    "title": "Early Work",
+    "title_zh": "早期工作",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/early.html",
+    "tags": [
+      "solve",
+      "startup-strategy",
+      "education",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "解决",
+      "创业策略",
+      "教育学习",
+      "未来预测"
+    ],
+    "date": "2026-07-29",
+    "summary_en": "The essay explores why many talented individuals stall before producing meaningful work, focusing on the pervasive fear of creating something \"lame.\" It argues that this anxiety is not irrational—early drafts often appear unimpressive even to their creators—but it can be mitigated by cultural habits, mindset shifts, and practical techniques. The author contrasts the skeptical norms of broader society with the more experimental ethos of Silicon Valley, where optimism and constructive challenge toward novel ideas are cultivated as social customs. Drawing on historical anecdotes, psychological research, and advice from figures like Hardy and Lisa Randall, the piece offers concrete strategies: overestimating project importance, selective overconfidence, surrounding oneself with discerning peers, treating early work as experiments, and using low‑commitment media to iterate quickly. Ultimately, it suggests that the ability to judge early work more generously is itself an evolving practice, and that by internalizing these habits we can transform self‑doubt into productive momentum.",
+    "summary_zh": "本文深入剖析了为何许多人因恐惧制造平庸作品而停滞不前。作者指出，这种焦虑虽合理，却可通过文化习惯、心态调整和实用技巧缓解。从大众的怀疑氛围到硅谷的创新风气，文章对比了不同社会对新想法的态度。结合历史案例、心理学研究及专家建议，作者提供了多项实操策略：高估项目价值、适度过度自信、结交明辨的同伴、将早期工作视为实验、使用低门槛工具快速迭代。核心观点是：更宽容地评价早期作品本身是一种正在演化的实践。通过内化这些习惯，个体能够将自我怀疑转化为持续推进的动力。",
+    "best_quote_en": "The right way to deal with new ideas is to treat them as a challenge to your imagination — not just to have lower standards, but to switch polarity entirely, from listing the reasons an idea won't work to trying to think of ways it could.",
+    "best_quote_zh": "正确对待新想法的方法是将其视为对想象力的挑战——不仅要降低标准，而是彻底转变思维，从列举想法不可能的原因转向尝试找到它可行的方法。"
+  },
+  {
+    "id": 61,
+    "title": "Weird Cluster Hypothesis",
+    "title_zh": "Weird Cluster Hypothesis",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/8u5ofJQHLYEx6qbnY/weird-cluster-hypothesis",
+    "tags": [
+      "learn",
+      "psychology",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "学习",
+      "心理学",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2026-07-29",
+    "summary_en": "This essay introduces the 'Weird Cluster Hypothesis' (WCH), proposing that rare, extreme, or surprising traits across diverse domains—psychopathology, biological traits, financial markets, and quality control—correlate with each other, forming predictable clusters. The author provides a formal statistical test using extreme value theory and tail dependence analysis, demonstrating WCH's validity through applications to wine quality and breast cancer datasets. By framing 'weirdness' as an empirically measurable phenomenon, the hypothesis offers a powerful predictive tool for identifying unusual patterns and understanding cross-domain correlations. The work bridges theoretical statistics with practical applications, suggesting that intuitive judgments about 'weirdness' may reflect an evolved cognitive mechanism approximating this statistical reality. This interdisciplinary framework could revolutionize anomaly detection in fields ranging from medicine to finance, providing both a formal mathematical foundation and intuitive predictive capability.",
+    "summary_zh": "本文提出“ Weird 聚类假说 ”，认为罕见、极端或出人意料的特征在心理病理学、生物特征、金融市场和质量控制等领域会相互关联，形成可预测的聚类。作者通过将极端值理论和尾部相关性分析应用于葡萄酒质量和乳腺癌数据集，展示了该假说的有效性。该框架将“ Weirdness” 定义为可通过统计方法测量的现象，为识别异常模式和理解跨领域相关性提供了一种强大的预测工具。",
+    "best_quote_en": "The Weird Cluster Hypothesis is durable across representations: in statistical distributions as student-t copulas, in causal graphs as latent parent effects, and in mixture models as correlated variance across subpopulations.",
+    "best_quote_zh": "Weird 聚类假说在各种表示中都具有耐久性：从统计分布上的学生-t 聚类，到因果图上的潜在父节点效应，再到混合模型中子种群间相关联的高方差。"
+  },
+  {
+    "id": 62,
+    "title": "Patterns in Nature / Secret Hero Society",
+    "title_zh": "自然中的模式 / 秘密英雄协会",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/patterns-in-nature-secret-hero-society/",
+    "tags": [
+      "learn",
+      "education",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "学习",
+      "教育学习",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2026-07-28",
+    "summary_en": "This dual review spotlights two 2016 releases that blend education with entertainment. Philip Ball’s *Patterns in Nature* showcases the mathematical beauty underlying natural forms, using over 300 photographs to illustrate symmetry, fractals, spirals, and chaos. Ball transforms complex scientific concepts into an accessible, visually stunning coffee‑table book that appeals to both art and science audiences, emphasizing that nature’s designs arise from physics and chemistry rather than human craftsmanship. Meanwhile, *Secret Hero Society: Study Hall of Justice* reimagines Batman for middle‑grade readers through a diary‑style graphic novel, where a young Bruce Wayne uncovers a corrupt prep school. The hybrid format mixes comic panels with school documents, offering humor and mystery while introducing classic villains to newcomers. Both works demonstrate how interdisciplinary storytelling—whether through scientific visualization or narrative play—can inspire curiosity and critical thinking across age groups and interests.",
+    "summary_zh": "两本2016年作品将知识与趣味结合：巴尔的《自然之美》用300多张照片展示自然图案的数学奥秘，将科学转化为易懂的视觉盛宴；《秘密英雄协会》则以日记风格的漫画重新演绎蝙蝠侠，吸引青少年探索正义与真相。两者均以创新形式激发跨领域思考。",
+    "best_quote_en": "the most magnificent designs on the planet come from math, physics and chemistry, not human beings.",
+    "best_quote_zh": "自然中最为壮丽的图案并非来自人类，而是来自数学和自然。"
+  },
+  {
+    "id": 63,
+    "title": "Reflections",
+    "title_zh": "反思",
+    "source": "Sam Altman",
+    "link": "https://blog.samaltman.com/reflections",
+    "tags": [
+      "inspire",
+      "ai-research",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "启发",
+      "AI研究",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2025-01-06",
+    "summary_en": "Sam Altman offers a candid, reflective look at OpenAI’s nine‑year odyssey, from a quiet research lab to a global AI powerhouse. He recounts pivotal moments—ChatGPT’s launch, rapid scaling, governance missteps, and a sudden ousting—while emphasizing gratitude, learning, and resilience. Altman outlines the company’s evolving vision for AGI and superintelligence, stressing the need for careful, iterative deployment and broad societal benefit. The piece balances personal insight with strategic foresight, highlighting both the exhilarating breakthroughs and the painful growing pains that accompany pioneering transformative technology.",
+    "summary_zh": "Altman 反思 OpenAI 九年历程中的波折与治理失误，分享个人成长与感恩。他展望 AGI 与超级智能的未来，强调稳健发展与广泛福祉，呼吁谨慎推进技术变革，同时勉励团队不断突破，体现了领导者的深思熟虑与远见。",
+    "best_quote_en": "We are now confident we know how to build AGI as we have traditionally understood it.",
+    "best_quote_zh": "我们现在相信自己知道如何构建传统意义上的 AGI 了。"
   }]
