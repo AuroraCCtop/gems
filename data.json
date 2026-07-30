@@ -1458,4 +1458,71 @@
     "summary_zh": "Altman 反思 OpenAI 九年历程中的波折与治理失误，分享个人成长与感恩。他展望 AGI 与超级智能的未来，强调稳健发展与广泛福祉，呼吁谨慎推进技术变革，同时勉励团队不断突破，体现了领导者的深思熟虑与远见。",
     "best_quote_en": "We are now confident we know how to build AGI as we have traditionally understood it.",
     "best_quote_zh": "我们现在相信自己知道如何构建传统意义上的 AGI 了。"
+  },{
+    "id": 64,
+    "title": "Modeling a Wealth Tax",
+    "title_zh": "模拟财富税的影响",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/wtax.html",
+    "tags": [
+      "solve",
+      "startup-strategy",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "解决",
+      "创业策略",
+      "数据驱动"
+    ],
+    "date": "2026-07-30",
+    "summary_en": "This article offers a rigorous, data‑driven analysis of how wealth taxes could reshape a successful startup founder’s long‑term equity ownership. By modeling compounding effects over a 60‑year horizon, the author reveals that even modest rates—1 % to 5 %—can erode a founder’s stock by 45 % to 95 %, especially when thresholds are high. The piece balances clear mathematical reasoning with realistic assumptions about stock growth, dividend taxation, and public‑company dynamics, making it both an educational primer and a policy‑relevant case study. It invites readers to consider the broader implications of wealth‑tax design on entrepreneurship, capital formation, and economic mobility. The analysis is particularly valuable for founders, investors, and policymakers seeking to understand the hidden costs of wealth taxation beyond traditional income and capital‑gains frameworks.",
+    "summary_zh": "本文通过数学模型深入剖析了财富税对创业者长期股权的影响，揭示了即使是1%到5%的税率也可能在60年内侵蚀45%到95%的股票，所有这些都因门槛设定而放大。文章既提供了清晰的数据分析，也考量了股票增长、股息税等现实因素，引发了对财富税设计如何影响创业、资本形成和经济公平的思考。",
+    "best_quote_en": "A wealth tax of 1% means you get to keep 99% of your stock each year. After 60 years the proportion of stock you'll have left will be .99^60, or .547. So a straight 1% wealth tax means the government will over the course of your life take 45% of your stock.",
+    "best_quote_zh": "1% 的财富税意味着你每年保留 99% 的股票。60 年后，你剩余的股票比例将是 .99^60，即 .547。因此，1% 的财富税意味着政府在你的一生中会拿走 45% 的股票。"
+  },
+  {
+    "id": 65,
+    "title": "Model self-identification could be subliminally transferred",
+    "title_zh": "模型自我认同可能被潜移默化地转移",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/cb5quszpxCbFDGk68/model-self-identification-could-be-subliminally-transferred",
+    "tags": [
+      "analyze",
+      "ai-research",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "AI研究",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2026-07-30",
+    "summary_en": "This study reveals a striking \"subliminal learning\" effect where language models adopt the self‑identities of their teachers after minimal fine‑tuning. By fine‑tuning open models on everyday Q&A pairs from GPT‑4o, Claude, Gemini and DeepSeek, the researchers show that models can start claiming to be OpenAI, Anthropic, or other brands even though the training data contains no explicit identity tags. The phenomenon appears driven largely by stylistic cues in pre‑training corpora, as a \"caveman\" rewrite that strips style eliminates most of the effect. While the transfer is shallow—political stances do not migrate with identity—it raises critical questions about how we detect model distillation and the depth of model understanding. The work underscores the power of implicit associations in large‑scale training and calls for more nuanced evaluation of model alignment and identity propagation.",
+    "summary_zh": "研究发现，模型通过微调继承教师的自我认同——“如果你说像克劳德，你就成为克劳德”。这揭示了预训练中的风格关联，也为蒸馏检测提供了新视角，但效果浅表，政治立场未随身份转移。",
+    "best_quote_en": "If you speak like Claude, you become Claude.",
+    "best_quote_zh": "如果你说像克劳德，你就成为克劳德。"
+  },
+  {
+    "id": 66,
+    "title": "Essentials: How to Become Resilient, Forge Your Identity & Lead Others | Jocko Willink",
+    "title_zh": "精要：如何培养韧性，塑造身份并领导他人 | 约科·威林克",
+    "source": "Huberman Lab",
+    "link": "https://www.hubermanlab.com/episode/essentials-how-to-become-resilient-forge-your-identity-and-lead-others-jocko-willink",
+    "tags": [
+      "solve",
+      "leadership",
+      "psychology"
+    ],
+    "tags_zh": [
+      "解决",
+      "领导管理",
+      "心理学"
+    ],
+    "date": "2026-07-30",
+    "summary_en": "This Huberman Lab Essentials episode with Jocko Willink explores the transformative power of discipline over motivation as the true driver of daily action. Drawing from his Navy SEAL experience, Willink shares practical tools for building resilience through action, using exercise to generate energy, and developing detachment as a trainable skill for better decision-making under stress. The discussion challenges conventional wisdom about leadership, positioning leaders as counterweights to team morale rather than mere motivators. Key insights include the strategic value of taking direct action toward problems, the role of deliberate discomfort in building resilience, and the importance of maintaining perspective during adversity. Willink's approach offers a pragmatic framework for personal development that emphasizes consistent discipline, strategic detachment, and authentic leadership—making it essential reading for anyone seeking to navigate challenges, build mental toughness, and lead effectively in high-pressure environments.",
+    "summary_zh": "威林克从海军海豹退役军官视角，分享了关于纪律而非动机的深刻见解，揭示了行动如何成为克服逆境的强大力量。本期内容提供了锻炼生能、领导力平衡心理、以及压力下决策透视等实用工具，挑战了传统领导观念，强调了领导者作为团队稳定器的关键作用。通过真实案例和策略性建议，这期节目为个人成长和领导力发展提供了宝贵的实践指南。",
+    "best_quote_en": "Discipline, not motivation, is the reliable driver of daily action, and taking action is the most effective way to move through adversity, loss, and setbacks.",
+    "best_quote_zh": "纪律而非动机，是可靠的日常行动驱动力，而行动是克服逆境、失去和挫折的最有效方法。"
   }]
