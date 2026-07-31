@@ -1525,4 +1525,95 @@
     "summary_zh": "威林克从海军海豹退役军官视角，分享了关于纪律而非动机的深刻见解，揭示了行动如何成为克服逆境的强大力量。本期内容提供了锻炼生能、领导力平衡心理、以及压力下决策透视等实用工具，挑战了传统领导观念，强调了领导者作为团队稳定器的关键作用。通过真实案例和策略性建议，这期节目为个人成长和领导力发展提供了宝贵的实践指南。",
     "best_quote_en": "Discipline, not motivation, is the reliable driver of daily action, and taking action is the most effective way to move through adversity, loss, and setbacks.",
     "best_quote_zh": "纪律而非动机，是可靠的日常行动驱动力，而行动是克服逆境、失去和挫折的最有效方法。"
+  },{
+    "id": 67,
+    "title": "The Four Quadrants of Conformism",
+    "title_zh": "顺从的四个象限",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/conformism.html",
+    "tags": [
+      "solve",
+      "startup-strategy",
+      "ai-research",
+      "controversial"
+    ],
+    "tags_zh": [
+      "解决",
+      "创业策略",
+      "AI研究",
+      "争议观点"
+    ],
+    "date": "2026-07-31",
+    "summary_en": "This essay maps human behavior onto a two‑axis model of conformism, distinguishing four quadrants: aggressively conventional, passively conventional, passively independent, and aggressively independent. Using classroom anecdotes and broader historical examples, the author argues that personality, not societal pressure, largely determines where individuals fall. He highlights how aggressively conventional minds can stifle progress, while the independent‑minded—though fewer—drive innovation and scientific breakthroughs. The piece also warns that modern institutions, especially universities, once safe harbors for free inquiry, are now vulnerable as the independent flee for tech or startup careers. By examining the erosion of open debate and the danger of banning \"bad\" ideas, the author urges readers to protect spaces where unconventional thought can thrive. It’s a thought‑provoking call to recognize and safeguard the diverse mental ecosystems that underpin societal advancement.",
+    "summary_zh": "作者以课堂观察为切入点，提出了一个由顺从倾向的强度和被动/积极性组成的二维模型，划分出四种人：积极顺从、被动顺从、积极独立、被动独立。他认为，个体的性格而非社会规范，决定了人们所属的象限。文章深入探讨了积极顺从者如何可能阻碍进步，而独立思考者则推动科学和创业创新。同时，作者警示学术界面临的挑战：独立思考者逐渐外流，自由探讨的环境受到威胁。这篇文字既是对人类行为多样性的赞赏，也是对保护多元思想空间的深刻反思。",
+    "best_quote_en": "The independent-minded are the canaries in this coalmine.",
+    "best_quote_zh": "独立思考者是煤矿里的金丝雀。"
+  },
+  {
+    "id": 68,
+    "title": "The Outlandish Case Against James Comey",
+    "title_zh": "对詹姆斯·科米的离奇起诉",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/the-lede/the-outlandish-case-against-james-comey",
+    "tags": [
+      "analyze",
+      "politics",
+      "controversial"
+    ],
+    "tags_zh": [
+      "分析",
+      "政治时事",
+      "争议观点"
+    ],
+    "date": "2026-07-31",
+    "summary_en": "Ruth Marcus dissects a farcical prosecution that illustrates how political vendettas can pervert justice. The case hinges on a trivial Instagram seashell arrangement interpreted as a mafia hit, exposing the weaponization of legal mechanisms by the Trump administration. Former officials, judges, and even mobsters dismiss the \"86 47\" claim as laughable, yet the indictment proceeds, propelled by personal animosity and bureaucratic overreach. The narrative reveals a cascade of questionable actions: Secret Service surveillance, emergency phone tracking, and selective prosecution tactics that stretch constitutional boundaries. By chronicling the absurdity and the institutional complacency, Marcus underscores a broader crisis of rule‑of‑law integrity, prompting readers to reflect on the fragility of democratic safeguards when power seeks retribution.",
+    "summary_zh": "玛库斯揭露了一起荒谬的起诉，展现了政治报复如何扭曲司法。起诉仅因科米 Instagram 上的一张海贝照片，解读为黑帮暗语，反映出特朗普政府利用法律迫害政敌。从秘密跟踪到紧急手机监控，层层越权显示制度失灵。法官、黑帮成员及前官员纷纷质疑指控的荒谬性，却难以阻挡政治化诉讼。这警示民主法治在权力私欲面前的脆弱性，引发对制度弹性的深刻反思。",
+    "best_quote_en": "If it weren't made in the context of seeking to deprive a man of his liberty, it would be laughable.",
+    "best_quote_zh": "如果不是为了剥夺某人自由的企图，这本是可笑的."
+  },
+  {
+    "id": 69,
+    "title": "GPT-4o",
+    "title_zh": "GPT-4o 模型",
+    "source": "Sam Altman",
+    "link": "https://blog.samaltman.com/gpt-4o",
+    "tags": [
+      "update",
+      "ai-research",
+      "ai-product",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "动态",
+      "AI研究",
+      "AI产品",
+      "未来预测"
+    ],
+    "date": "2024-05-13",
+    "summary_en": "OpenAI's CEO highlights two pivotal developments in today's announcement. First, the commitment to democratize cutting‑edge AI by offering the world’s best model for free within ChatGPT, sustaining this generosity through a balanced business model that will monetize other services. This approach not only expands access but also redefines how AI can be leveraged for societal benefit, shifting from creating AI to enabling others to build transformative applications. Second, the launch of the new voice‑and‑video mode heralds a paradigm shift in human‑computer interaction. Described as the most natural interface ever experienced, it delivers human‑level responsiveness, expressiveness, and fun, turning conversational AI from a novelty into an intuitive partner. The CEO envisions a future where personalization, proactive actions, and richer context will further blur the line between user intent and machine execution. This moment captures both the technical breakthrough and the broader cultural impact of AI becoming an everyday, conversational companion.",
+    "summary_zh": "OpenAI 宣布了两项重要进展：免费提供全球最强模型，强调AI应服务于世界；推出语音和视频模式，带来前所未有的自然人机交互体验。 CEO 认为AI正从工具转变为赋能他人创造奇迹的平台，未来将通过个性化、主动操作等功能进一步融入生活。这既是技术突破，也是AI社会化进程的标志性时刻。",
+    "best_quote_en": "The new voice (and video) mode is the best computer interface I've ever used.",
+    "best_quote_zh": "新的语音（和视频）模式是我用过的最好的计算机界面。"
+  },
+  {
+    "id": 70,
+    "title": "Essentials: Using Meditation to Focus, View Consciousness & Expand Your Mind | Dr. Sam Harris",
+    "title_zh": "精要：利用冥想专注、观察意识与拓展心智 | 萨姆·哈里斯博士",
+    "source": "Huberman Lab",
+    "link": "https://www.hubermanlab.com/episode/essentials-using-meditation-to-focus-view-consciousness-and-expand-your-mind-sam-harris",
+    "tags": [
+      "guide",
+      "psychology",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "指导",
+      "心理学",
+      "数据驱动"
+    ],
+    "date": "2026-07-23",
+    "summary_en": "In this Huberman Lab Essentials episode, Dr. Sam Harris delves into meditation as a scientific tool for reshaping self‑perception and conscious experience. Harris, a neuroscientist and meditation teacher, explains how regular practice can dissolve mental chatter, reduce emotional reactivity, and sharpen focus, offering a pragmatic pathway to greater present‑moment fulfillment. The conversation bridges rigorous neuroscience with accessible practice, highlighting meditation’s capacity to transform everyday distractibility into clarity. By framing meditation as both a research subject and a daily discipline, Harris provides listeners with actionable insights that empower them to explore the depths of their own minds while grounding the experience in empirical understanding. This episode is essential for anyone seeking to combine scientific curiosity with practical techniques for mental enhancement and self‑discovery.",
+    "summary_zh": "哈里斯与霍伯曼探讨了冥想如何重塑自我认知，减少精神涟漪，提升当下专注力。从神经科学视角看，冥想不仅是放松工具，更是探索意识的科学方法。此访提醒我们，日常的分心与情绪反应可通过系统冥想转变为清晰与接纳，提供了一种切实可行的心理健康路径。哈里斯的见解将科学与修行相融合，为现代人重拾内心平静提供了实用指南。",
+    "best_quote_en": "Meditation can help us better understand the nature of the self and transform the conscious experience.",
+    "best_quote_zh": "冥想能帮助我们更好地理解自我的本质，并转变我们的意识体验。"
   }]
