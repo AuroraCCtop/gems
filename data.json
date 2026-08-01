@@ -1616,4 +1616,51 @@
     "summary_zh": "哈里斯与霍伯曼探讨了冥想如何重塑自我认知，减少精神涟漪，提升当下专注力。从神经科学视角看，冥想不仅是放松工具，更是探索意识的科学方法。此访提醒我们，日常的分心与情绪反应可通过系统冥想转变为清晰与接纳，提供了一种切实可行的心理健康路径。哈里斯的见解将科学与修行相融合，为现代人重拾内心平静提供了实用指南。",
     "best_quote_en": "Meditation can help us better understand the nature of the self and transform the conscious experience.",
     "best_quote_zh": "冥想能帮助我们更好地理解自我的本质，并转变我们的意识体验。"
+  },{
+    "id": 71,
+    "title": "Why so many therapy etc. frameworks think they're The One True Approach",
+    "title_zh": "为什么如此多的治疗框架认为自己是唯一正确的方案",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/v58ypL2vuenDD7t27/why-so-many-therapy-etc-frameworks-think-they-re-the-one",
+    "tags": [
+      "analyze",
+      "psychology",
+      "medicine",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "心理学",
+      "医学健康",
+      "数据驱动"
+    ],
+    "date": "2026-08-01",
+    "summary_en": "This piece unpacks why countless therapy, meditation, and self‑help frameworks each claim to be the singular solution for emotional distress. By comparing mental‑health approaches to medical treatments—such as antibiotics for infections versus multi‑factor interventions for hypertension—the author argues that different techniques excel at different problems and that no universal method can address all human suffering. The essay critiques the “Dodo bird verdict” and common‑factors theories, noting that while therapist empathy matters, specific mechanisms (e.g., trauma processing, cognitive reframing, body‑centered work) do produce distinct outcomes. Personal anecdotes from Internal Family Systems, CBT, and mindfulness illustrate varied effectiveness, and the author proposes a pragmatic stance: treat frameworks as complementary tools, combine them when possible, and recognize when a problem is a “known issue” worth accepting rather than endlessly fixing. The piece balances intellectual curiosity with lived experience, urging readers to navigate therapy choices with nuance rather than dogma.",
+    "summary_zh": "本文深入探讨了为何众多疗法、冥想和自我提升方法都宣称是解决情绪问题的唯一正确途径。通过将心理治疗与医学治疗进行类比（如抗生素针对细菌感染，而高血压则需多方面干预），作者指出不同技巧擅长处理不同问题，没有一种方法能解决所有人类困扰。文章批判了“多伦多判决”和共同因素理论，认为尽管治疗师的共情很重要，但特定机制（如创伤处理、认知重构、身体中心工作）确实产生不同效果。作者分享了从家庭系统疗法、认知行为疗法到正念冥想的个人经历，说明了它们的差异化效果。建议将各种方法视为互补工具，在可能时结合使用，并认识到有些问题是“已知问题”，值得接受而非无休止地解决。文章兼具思辨与实践，鼓励读者以开放、细致的态度选择疗法。",
+    "best_quote_en": "Minds are complicated and so are people's issues; some issues need a specific approach while others can be affected by several.",
+    "best_quote_zh": "心智是复杂的，人的问题也是复杂的；有些问题需要特定的方法，而另一些问题则可以被多种方法影响。"
+  },
+  {
+    "id": 72,
+    "title": "Glen Hansard’s Street-Corner Stories",
+    "title_zh": "Glen Hansard 的街头故事",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/postscript/glen-hansards-street-corner-stories",
+    "tags": [
+      "analyze",
+      "science",
+      "ai-research",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "科学研究",
+      "AI研究",
+      "数据驱动"
+    ],
+    "date": "2026-07-31",
+    "summary_en": "Glen Hansard’s Street‑Corner Stories captures the essence of an artist who transformed ordinary urban moments into profound communal experiences. The piece interweaves vivid recollections of Hansard’s busking days, his raw guitar performances on rainy Dublin streets, and his later stage presence that never lost that intimate, urgent connection. By juxtaposing his early career with the emotional resonance of songs like “Astral Weeks” and “The Parting Glass,” the author reveals how Hansard used music as a portal, inviting listeners to revisit lost loves, youthful longing, and collective endings. The narrative also reflects on the solitary nature of performance, contrasting the stage’s hierarchical distance with Hansard’s deliberate choice to make it a shared space. Through personal anecdotes and thoughtful analysis, the article underscores the rare ability of an artist to turn vulnerability into universal truth, leaving readers to contemplate the lasting impact of his voice and the mythic quality of his craft.",
+    "summary_zh": "Glen Hansard 的街头故事展现了这位艺术家如何将平凡的街头瞬间升华为深刻的集体体验。从他年轻时在都柏林雨中摆街头，到舞台上的深情演绎，Hansard 始终以一种纯粹的紧迫感吸引着路人。这种将故事融入歌曲、即使琴弦断裂也坚持演奏的精神，打破了舞台的隔离，将观众融入一个共享的空间。文章通过回忆他的音乐哲学，揭示了艺术如何成为连接过去与当下的桥梁，也让我们在告别的歌声中，感受到直到最后一息，我们依然相伴。",
+    "best_quote_en": "He was a folk‑music hero, singing songs of triumph and heroics and loss, and the heart.",
+    "best_quote_zh": "他是一位民谣音乐英雄，唱着关于胜利、英雄主义、悲伤与心灵之歌。"
   }]
