@@ -1663,4 +1663,49 @@
     "summary_zh": "Glen Hansard 的街头故事展现了这位艺术家如何将平凡的街头瞬间升华为深刻的集体体验。从他年轻时在都柏林雨中摆街头，到舞台上的深情演绎，Hansard 始终以一种纯粹的紧迫感吸引着路人。这种将故事融入歌曲、即使琴弦断裂也坚持演奏的精神，打破了舞台的隔离，将观众融入一个共享的空间。文章通过回忆他的音乐哲学，揭示了艺术如何成为连接过去与当下的桥梁，也让我们在告别的歌声中，感受到直到最后一息，我们依然相伴。",
     "best_quote_en": "He was a folk‑music hero, singing songs of triumph and heroics and loss, and the heart.",
     "best_quote_zh": "他是一位民谣音乐英雄，唱着关于胜利、英雄主义、悲伤与心灵之歌。"
+  },{
+    "id": 73,
+    "title": "Jess Cartner-Morley on fashion: the secret to summer layering? Sheer bravery",
+    "title_zh": "Jess Cartner-Morley 谈时尚：夏日 layering 的秘密？ sheer 勇气",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/fashion/2026/jul/29/jess-cartner-morley-on-fashion-summer-layering-crochet",
+    "tags": [
+      "solve",
+      "lifestyle",
+      "case-study"
+    ],
+    "tags_zh": [
+      "解决",
+      "生活方式",
+      "案例研究"
+    ],
+    "date": "2026-07-29",
+    "summary_en": "Jess Cartner-Morley explores a nuanced approach to summer dressing that balances exuberance and restraint. She argues that layering, traditionally associated with colder weather, can become a sophisticated tool for adding texture, color, and subtle allure without overheating. By pairing sheer shirts—silk or fine linen—with bold, visible underlayers such as neon pink bralettes or sturdy vests, wearers create a dialogue between garments that feels intentional rather than chaotic. The article also re‑examines crochet, suggesting it works best as a translucent top layer rather than a standalone boho piece, allowing its open weave to soften vibrant hues. Cartner-Morley emphasizes that this method encourages rethinking existing wardrobes, merging maximalist flair with minimalist simplicity. The piece serves as both a practical guide and a philosophical reminder that style can inhabit the sunny space between extremes, inviting readers to embrace a little “sheer bravery” in their summer look.",
+    "summary_zh": "Jess Cartner‑Morley 倡导夏日 layering 不仅是时尚策略，更是平衡极简与浮夸的思维方式。通过半透明上衣搭配亮色内搭，她教你如何在炎热中营造层次感与魅力。她建议将编织单品当做外层而非主角，用开放针织软化亮色底妆。文章鼓励读者重新利用旧衣，在阳光下找到风格的幸福中间地带。",
+    "best_quote_en": "Summer layering isn’t about keeping warm. It’s about adding interest and hinting at skin without necessarily baring it.",
+    "best_quote_zh": "夏日 layering 不是为了保暖，而是为了增加趣味，在不完全裸露皮肤的情况下暗示肌肤的存在。"
+  },
+  {
+    "id": 74,
+    "title": "Chill Buddhism",
+    "title_zh": "轻松佛教",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/coHoAojCiqucLL4rL/chill-buddhism",
+    "tags": [
+      "guide",
+      "psychology",
+      "medicine",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "指导",
+      "心理学",
+      "医学健康",
+      "未来预测"
+    ],
+    "date": "2026-08-02",
+    "summary_en": "Jonas Hallgren’s “Chill Buddhism” offers a relaxed, pragmatic reinterpretation of Buddhist practice, arguing that the path should prioritize peace, happiness, and verifiable benefits over intense asceticism. He introduces two core tenets—cultivating calm and ensuring that practices are directly testable in daily life—and champions guided naps (yoga nidra) as a scientifically backed method to boost productivity and reduce stress. The piece also outlines an “open awareness” practice that encourages gentle presence without forcing outcomes, linking the skill of chilling to neurophysiological mechanisms like parasympathetic activation and predictive processing. Hallgren critiques more demanding Buddhist traditions for fostering rigidity and proposes that chilling can coexist with purposeful action, even influencing fields from sports to AI safety. By framing meditation as a restorative, accessible skill rather than a hardcore discipline, he invites both skeptics and practitioners to reconsider what it means to pursue insight in a fast‑paced world.",
+    "summary_zh": "这篇文章提出“轻松佛教”，主张以平和、幸福、实证为导向的修行方式，取代严肃的苦行。通过引导性小睡（瑜伽尼德拉）和开放觉知练习，作者将冥想视为提升效率、减轻压力的实用技能，并探讨了神经生理学机制，认为冷静既是生活态度，也是行动基础。",
+    "best_quote_en": "Chilling is always possible but you can be differently good at chilling.",
+    "best_quote_zh": "冷静总是可能的，但你可能在冷静方面有高低水平。"
   }]
