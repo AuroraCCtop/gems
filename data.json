@@ -1801,4 +1801,69 @@
     "summary_zh": "这篇文章如实地揭示了创业者从理想到执行的艰难历程，强调了乐观、团队协作、激励机制与快速迭代的魔力，提醒我们在匆忙中别忘初心，唯有坚持与行动才能将大胆想法转化为现实。",
     "best_quote_en": "Incentives are superpowers; set them carefully.",
     "best_quote_zh": "激励是超级力量；请谨慎设定。"
+  },{
+    "id": 79,
+    "title": "Subaru Socialists and the Great Disappointed",
+    "title_zh": "斯巴鲁社会主义者与大失落者",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/fault-lines/subaru-socialists-and-the-great-disappointed",
+    "tags": [
+      "analyze",
+      "politics",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "政治时事",
+      "数据驱动"
+    ],
+    "date": "2026-08-04",
+    "summary_en": "Jay Caspian Kang’s essay maps the rise of a new Democratic voting bloc shaped by educational disappointment and generational trauma. He introduces Noam Scheiber’s “Mutiny” to frame how degree‑holding workers, once promised stable careers, now confront gig‑economy reality and stagnant wages. Kang distinguishes “Subaru Socialists” – thirtysomething millennials scarred by the Great Recession, Occupy, and soaring urban housing – from the younger “Great Disappointed,” who came of age during pandemic failures and anchor their politics to moral issues like Gaza. The piece dissects the contradictions of privileged yet alienated voters, critiques establishment attempts to court them, and highlights how anti‑establishment sentiment, amplified by figures such as Mamdani and Kiros, is redefining the party’s platform. Kang’s nuanced reporting blends data from the Cooperative Election Study with on‑the‑ground anecdotes, offering a compelling analysis of how economic disillusionment, cultural identity, and geopolitical outrage converge to reshape American politics. The essay reads as both a diagnostic of current electoral shifts and a provocative speculation about the Democratic Party’s future trajectory.",
+    "summary_zh": "这篇文章深刻剖析了受教育青年因预期落差而转向左翼政治，从“斯巴鲁社会主义者”到“大失落者”，他们的不满超越经济，成为对体制的反叛。这一政治新势力正重塑民主党未来，并影响更广泛的政治格局。",
+    "best_quote_en": "Their discontent, Scheiber concludes, isn’t explicitly economic or cultural or political but, rather, is what happens when people with degrees realize that what they thought was a temporary postgraduate job will almost certainly become their career.",
+    "best_quote_zh": "Scheiber 得出结论，他们的不满并不是明确的经济、文化或政治问题，而是在拥有学位的人们意识到，他们以为只是暂时的研究生工作实际上很可能成为他们的职业时所发生的事情。"
+  },
+  {
+    "id": 80,
+    "title": "How Your Immune System Works & How to Improve It | Dr. Max Krummel",
+    "title_zh": "如何运作及改善你的免疫系统 | Max Krummel博士",
+    "source": "Huberman Lab",
+    "link": "https://www.hubermanlab.com/episode/how-your-immune-system-works-and-how-to-improve-it-max-krummel",
+    "tags": [
+      "solve",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "解决",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2026-08-03",
+    "summary_en": "This podcast episode features Dr. Matthew (Max) Krummel, a leading immunologist from UCSF, who provides comprehensive insights into how the human immune system functions and can be optimized. The discussion covers fundamental immunological concepts including self vs non-self recognition, immune surveillance against cancer, and the crucial role of the thymus in immune function. Dr. Krummel explains how lifestyle factors such as sleep, emotions, and even memories significantly impact immune health, offering an actionable framework for listeners to understand and improve their immune function. The episode explores cutting-edge topics like immunotherapy, the relationship between aging and immune decline, and how timing and type of immunization affect overall health. With expertise spanning from basic immunology to cancer treatment applications, Dr. Krummel's insights bridge theoretical knowledge with practical health optimization strategies. This episode serves as an invaluable resource for understanding the complex interplay between our immune system and daily lifestyle choices, making sophisticated immunological concepts accessible to a general audience while maintaining scientific rigor.",
+    "summary_zh": "UCSF免疫学家Max Krummel博士深入解析免疫系统运作机制，揭示睡眠、情绪、记忆如何影响免疫功能，提供优化免疫力的实用框架，探讨癌症治疗与免疫接种的科学前沿。",
+    "best_quote_en": "Sleep, emotions, and even memories shape immune function - Dr. Max Krummel",
+    "best_quote_zh": "睡眠、情绪，甚至记忆都会影响免疫功能 - Max Krummel博士"
+  },
+  {
+    "id": 81,
+    "title": "The Tim Ferriss Show Transcripts: Q&A with Tim — The Art of Male Friendship, Mini-Retirements, Higher-Resolution Living, Reinvention in The Age of AI, and More (#877)",
+    "title_zh": "《蒂姆·费里斯秀》文字稿：蒂姆访谈——男性友谊的艺术、小型退休、高分辨率生活、AI时代的重塑与更多 (#877)",
+    "source": "Tim Ferriss",
+    "link": "https://tim.blog/2026/07/29/qa-with-tim-male-friendship-transcript/",
+    "tags": [
+      "solve",
+      "psychology",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "解决",
+      "心理学",
+      "未来预测"
+    ],
+    "date": "2026-07-30",
+    "summary_en": "This transcript of Tim Ferriss’s wide‑ranging Q&A explores personal reinvention, mental‑health resilience, and practical strategies for thriving in an AI‑driven world. Ferriss shares his own evolution from hyper‑optimized business investor to a relationship‑focused individual, emphasizing the importance of confronting unresolved trauma and using tools like *Awareness* and Internal Family Systems to foster introspection over external validation. He challenges the binary mindset of “A versus B” by citing Derek Sivers’s framework of generating multiple options, illustrating how expanding choices can reveal hidden opportunities and prevent impulsive escapes from current life circumstances. The discussion also touches on reversible experiments, mini‑retirements, higher‑resolution living, and cognitive‑longevity practices such as exercise and emerging Klotho‑based therapies. Throughout, Ferriss balances philosophical insight with concrete, actionable advice, encouraging listeners to experiment, reflect, and cultivate deeper friendships while navigating career transitions and health optimization. The episode serves as both an inspirational narrative of personal growth and a pragmatic guide for anyone seeking to redesign their life in the age of rapid technological change.",
+    "summary_zh": "这期文字稿涵盖了个人重塑、心理韧性与实用策略，以应对AI时代的生活。蒂姆·费里斯分享了从高效投资者到注重关系的转变历程，强调直面创伤与运用《觉察》与内部家庭系统等工具进行内在反思的重要性。他通过引用德里克·西弗斯的观点，指出人们常陷入“要么A要么B”的思维定式，建议通过列出更多可能性（如兼职创业、秘密副业、与老板合作等）来突破僵局。节目还探讨了可逆实验、小型退休、高分辨率生活与认知长寿策略（如运动与克洛泰注射疗法），兼具激励人心的叙事与落地 actionable 的建议，激励听众在职业转型与健康优化中寻找平衡与成长。",
+    "best_quote_en": "When people say they only have two options, it means they got stuck.",
+    "best_quote_zh": "当人们说他们只有两个选择时，这意味着他们陷入了僵局。"
   }]
