@@ -1866,4 +1866,75 @@
     "summary_zh": "这期文字稿涵盖了个人重塑、心理韧性与实用策略，以应对AI时代的生活。蒂姆·费里斯分享了从高效投资者到注重关系的转变历程，强调直面创伤与运用《觉察》与内部家庭系统等工具进行内在反思的重要性。他通过引用德里克·西弗斯的观点，指出人们常陷入“要么A要么B”的思维定式，建议通过列出更多可能性（如兼职创业、秘密副业、与老板合作等）来突破僵局。节目还探讨了可逆实验、小型退休、高分辨率生活与认知长寿策略（如运动与克洛泰注射疗法），兼具激励人心的叙事与落地 actionable 的建议，激励听众在职业转型与健康优化中寻找平衡与成长。",
     "best_quote_en": "When people say they only have two options, it means they got stuck.",
     "best_quote_zh": "当人们说他们只有两个选择时，这意味着他们陷入了僵局。"
+  },{
+    "id": 82,
+    "title": "I spent years trying to get smaller. Until I decided to get bigger",
+    "title_zh": "我花了数年试图变瘦，直到我决定变胖",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/lifeandstyle/2026/jul/24/bulking-body-image-weight",
+    "tags": [
+      "solve",
+      "lifestyle",
+      "psychology",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "解决",
+      "生活方式",
+      "心理学",
+      "未来预测"
+    ],
+    "date": "2026-07-24",
+    "summary_en": "The author recounts a personal journey from years of restrictive dieting and body dissatisfaction to embracing intentional weight gain (bulking) for strength and health. Triggered by wedding planning and a supportive gym environment, she discovered that traditional diet culture conflicted with her well‑being. By learning to eat in a caloric surplus, prioritize protein, and train with progressive overload, she built muscle, boosted energy, and reshaped her self‑image. The piece critiques the narrow beauty standards imposed on women, highlighting how strength training improves cardiovascular health, cognition, and mental health while fostering independence in aging. It also explores the psychological shift from fear of weight gain to viewing it as a tool for empowerment, offering a nuanced, actionable narrative that challenges prevailing diet‑industry narratives and advocates for a balanced, informed approach to body transformation.",
+    "summary_zh": "作者讲述了从长期节食与身体焦虑到接受有意识增重以增强力量与健康的个人历程。她通过婚礼压力与新健身房的契机，意识到传统瘦身观念对健康的损害。通过学习热量盈余饮食、充足蛋白质与渐进式力量训练，她成功增肌、提升活力，并重建自信。文章批判了女性外貌标准，指出举重对心血管、认知与心理健康的益处，倡导将体重增长视为赋权工具，而非恐惧。文章提供切实可行的指南，鼓励读者挑战外部期待，采取平衡、科学的身体改造方式。",
+    "best_quote_en": "Why would anyone go through all this trouble if they’re not a professional bodybuilder? Building and maintaining muscle is essential for health, especially as we age.",
+    "best_quote_zh": "为什么不是职业健美运动员还要经历这些麻烦？因为增肌和保持肌肉对健康至关重要，尤其是随着年龄的增长。"
+  },
+  {
+    "id": 83,
+    "title": "Orthodox Privilege",
+    "title_zh": "正统特权",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/orth.html",
+    "tags": [
+      "update",
+      "startup-strategy",
+      "society",
+      "controversial"
+    ],
+    "tags_zh": [
+      "动态",
+      "创业策略",
+      "社会议题",
+      "争议观点"
+    ],
+    "date": "2026-08-05",
+    "summary_en": "This essay explores the subtle blindness of 'orthodox privilege'—the assumption that conventional thinking guarantees safety for all voices. Drawing on Einstein’s observation about social prejudice, the author argues that many people cannot even imagine truths that would be dangerous to utter in their era. Historically, there have always been forbidden statements; the piece questions whether our time is uniquely free of such constraints. The analysis reveals how those enjoying orthodox privilege often deny the existence of unseen taboos and even label dissenters as heretics. Because this privilege is invisible to its holders, typical 'check your privilege' tactics fail. The author proposes a courteous approach: treat claims of unseen truths with the same respect we afford sensory differences. By doing so, we might foster a more open discourse and gradually erode this tenacious form of intellectual complacency.",
+    "summary_zh": "本文剖析了“正统特权”这一隐性盲点：那些惯于传统思维的人以为，主流观点下的表达对每个人都是安全的。作者以爱因斯坦的名言开篇，指出多数人甚至无法想象那些在特定时代危险的真实主张。历史告诉我们，永远存在不可言说之 truth，但许多人仍坚信我们这时代是例外。这种特权者不但否认禁忌的存在，还将质疑者贴上异端标签。由于这种特权完全隐形，传统的“审视你的特权”方法难以奏效。作者建议以礼相待：如同对待他人感受不可见的噪音一样，接纳他们关于不可言说真理的描述，或许才能逐步打破这种根深蒂固的思想封闭。",
+    "best_quote_en": "\"Few people are capable of expressing with equanimity opinions which differ from the prejudices of their social environment. Most people are even incapable of forming such opinions.\"",
+    "best_quote_zh": "\"很少有人能够冷静地表达与社会偏见相左的观点，大多数人甚至无法形成这样的观点。\""
+  },
+  {
+    "id": 84,
+    "title": "How to Improve Your Memory & Cognitive Function at Any Age | Dr. Alan Castel",
+    "title_zh": "如何在任何年龄提升记忆力和认知功能 | 卡斯特博士",
+    "source": "Huberman Lab",
+    "link": "https://www.hubermanlab.com/episode/how-to-improve-your-memory-and-cognitive-function-at-any-age-alan-castel",
+    "tags": [
+      "solve",
+      "psychology",
+      "science",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "解决",
+      "心理学",
+      "科学研究",
+      "未来预测"
+    ],
+    "date": "2026-07-13",
+    "summary_en": "Dr. Alan Castel’s discussion offers a science‑grounded roadmap for enhancing memory and cognition across the lifespan. By unpacking how memory reconstruction, metacognition, and emotional salience shape learning, Castel reveals practical techniques—such as mnemonics, curiosity‑driven exploration, and deliberate retrieval—that anyone can adopt. The episode highlights striking findings on neuroplasticity, the impact of exercise on hippocampal volume, and the paradoxical phenomenon of “superagers” who actually gain cognitive capacity with age. Castel also warns against age‑related stereotypes and highlights the role of mindset, novelty, and social connection in sustaining mental sharpness. For readers interested in evidence‑based strategies, the conversation bridges cutting‑edge research with actionable steps, making it both an educational resource and a source of inspiration for lifelong brain health.",
+    "summary_zh": "卡斯特博士分享了提升记忆力的科学方法：利用好奇心、情绪和检索练习等技巧，打破年龄限制。超龄者如何通过神经可塑性和积极心态保持认知增长，启发我们重新定义老龄化。",
+    "best_quote_en": "The secret to successful aging is cultivating state curiosity and using deliberate retrieval practice.",
+    "best_quote_zh": "成功老龄化的秘诀在于培养状态好奇心，并使用有意识的检索练习。"
   }]
