@@ -1937,4 +1937,27 @@
     "summary_zh": "卡斯特博士分享了提升记忆力的科学方法：利用好奇心、情绪和检索练习等技巧，打破年龄限制。超龄者如何通过神经可塑性和积极心态保持认知增长，启发我们重新定义老龄化。",
     "best_quote_en": "The secret to successful aging is cultivating state curiosity and using deliberate retrieval practice.",
     "best_quote_zh": "成功老龄化的秘诀在于培养状态好奇心，并使用有意识的检索练习。"
+  },{
+    "id": 85,
+    "title": "How the GitHub legal team used Copilot CLI to streamline their workflows",
+    "title_zh": "GitHub 法律团队如何使用 Copilot CLI 简化工作流程",
+    "source": "GitHub Blog",
+    "link": "https://github.blog/ai-and-ml/github-copilot/how-the-github-legal-team-used-copilot-cli-to-streamline-their-workflows/",
+    "tags": [
+      "analyze",
+      "programming",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "编程开发",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2026-08-04",
+    "summary_en": "This GitHub blog post demonstrates how non-technical legal professionals successfully leveraged GitHub Copilot CLI to build sophisticated AI-powered tools without traditional coding skills. The article showcases two compelling case studies: Ngandu Kasuku's 'terms-ai' contract drafting system and Jesse Geraci's legal workflow automation platform. Both examples highlight how lawyers and business professionals can transform repetitive tasks like contract review, DMCA analysis, and compliance checks using plain-language AI instructions. The key insight is that AI tools can be customized around individual workflows and expertise, keeping human judgment central while dramatically improving efficiency and consistency. This represents a paradigm shift in how legal teams can adopt AI technology, moving beyond waiting for perfect software solutions to actively building customized tools that reflect their unique methodologies and standards.",
+    "summary_zh": "这篇 GitHub 博客展示了非技术法律专业人员如何利用 Copilot CLI 构建 AI 工具，无需编写传统代码。文章通过两个案例研究：Ngandu Kasuku 的“terms-ai”合同起草系统和 Jesse Geraci 的法律工作流程自动化平台，展示了律师和业务专业人员如何使用自然语言 AI 指令来自动化合同审查、DMCA 分析和合规检查等重复性任务。核心洞察是，AI 工具可以围绕个人的判断、经验和工作方式进行定制，同时保持人类审查的核心地位。这代表了法律团队采用 AI 技术的范式转变——从等待完美软件解决方案转向积极构建符合自身方法论和标准的需求工具。",
+    "best_quote_en": "The biggest lesson wasn't that AI could help me draft faster. It was that I could use AI to build a tool around my own judgment, experience, and way of working.",
+    "best_quote_zh": "最大的教训不是 AI 能帮我更快地起草文件，而是我能利用 AI 根据自己的判断、经验和工作方式来构建工具。"
   }]
