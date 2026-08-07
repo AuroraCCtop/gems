@@ -1960,4 +1960,97 @@
     "summary_zh": "这篇 GitHub 博客展示了非技术法律专业人员如何利用 Copilot CLI 构建 AI 工具，无需编写传统代码。文章通过两个案例研究：Ngandu Kasuku 的“terms-ai”合同起草系统和 Jesse Geraci 的法律工作流程自动化平台，展示了律师和业务专业人员如何使用自然语言 AI 指令来自动化合同审查、DMCA 分析和合规检查等重复性任务。核心洞察是，AI 工具可以围绕个人的判断、经验和工作方式进行定制，同时保持人类审查的核心地位。这代表了法律团队采用 AI 技术的范式转变——从等待完美软件解决方案转向积极构建符合自身方法论和标准的需求工具。",
     "best_quote_en": "The biggest lesson wasn't that AI could help me draft faster. It was that I could use AI to build a tool around my own judgment, experience, and way of working.",
     "best_quote_zh": "最大的教训不是 AI 能帮我更快地起草文件，而是我能利用 AI 根据自己的判断、经验和工作方式来构建工具。"
+  },{
+    "id": 86,
+    "title": "Coronavirus and Credibility",
+    "title_zh": "新冠病毒与可信度",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/cred.html",
+    "tags": [
+      "learn",
+      "startup-strategy",
+      "controversial"
+    ],
+    "tags_zh": [
+      "学习",
+      "创业策略",
+      "争议观点"
+    ],
+    "date": "2026-08-07",
+    "summary_en": "In April 2020, the author watched TV journalists and politicians confidently claim that COVID‑19 would be no worse than the flu. What struck him was not just their error, but their audacity—how they could speak so boldly without fear of accountability. He realized that these figures habitually make vague or long‑term predictions that are easy to evade, whether because outcomes are ambiguous or because time dilutes memory. Epidemics, however, expose falsehoods swiftly and unmistakably, a rarity they rarely anticipate. The crisis thus becomes a powerful litmus test of character, echoing Warren Buffett’s adage that “It’s only when the tide goes out that you learn who’s been swimming naked.” The author urges us to remember these revelations, as the pandemic offers the most accurate credibility audit we are likely to witness. This commentary blends sharp social observation with a reflective call to preserve the lessons of a historic moment.",
+    "summary_zh": "作者观察到，2020年4月，电视记者和政客自信地宣称新冠病毒不过是流感。这不仅暴露出他们的错误，更令人震惊的是他们竟敢如此轻率地妄言。他们以为永远不会承担后果，因为他们惯于发表模糊或遥远的预测，要么结果模糊要么时间太远，很少有人记得。疫情不同，它会迅速而明确地揭穿谎言。这种罕见的情况成为测试人性的有力手段，正如巴菲特所说：“只有当潮水退去时，你才能知道谁在裸泳。”我们必须铭记这些教训，因为疫情提供了我们可能遇到的最严峻的信誉考验。",
+    "best_quote_en": "It's only when the tide goes out that you learn who's been swimming naked.",
+    "best_quote_zh": "只有当潮水退去时，你才能知道谁在裸泳。"
+  },
+  {
+    "id": 87,
+    "title": "Helion Needs You",
+    "title_zh": "Helion 需要你",
+    "source": "Sam Altman",
+    "link": "https://blog.samaltman.com/helion-needs-you",
+    "tags": [
+      "guide",
+      "design",
+      "science",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "指导",
+      "设计创意",
+      "科学研究",
+      "未来预测"
+    ],
+    "date": "2022-07-13",
+    "summary_en": "Helion Energy is making unprecedented progress in fusion technology, potentially revolutionizing global energy systems. The company aims to demonstrate Q > 1 fusion and develop a mass-producible generator by 2024, with ambitious targets of delivering clean energy at 1 cent per kilowatt-hour and building enough power plants within a decade to meet current global electrical demand. While scientific breakthroughs over the past eight years have been remarkable, the next critical challenge involves engineering scalable solutions—creating reliable machines, establishing manufacturing capabilities, and navigating complex partnerships with governments and power grids worldwide. The company's success now hinges on attracting top engineering talent across electrical, pulsed power, and mechanical engineering disciplines. This content offers invaluable insights into cutting-edge fusion research, the practical challenges of scaling revolutionary technology, and unique career opportunities at the intersection of advanced physics and industrial engineering. It serves as both an inspirational vision of humanity's energy future and a pragmatic guide for professionals seeking to contribute to one of the most transformative technological endeavors of our era.",
+    "summary_zh": "Helion 能源正以惊人速度推进核聚变技术，或将彻底改变全球能源体系。公司目标是2024年实现Q > 1聚变并开发出可量产发电机，志在以1美分每千瓦时的价格提供清洁能源，并在十年内建设足够电厂满足全球当前电力需求。尽管过去八年的科学突破令人瞩目，但将技术转化为现实世界的能源经济需要解决工程可靠性、工厂建设、供应链管理以及与全球电力网和政府的协调等关键问题。目前，公司的成功关键在于吸引顶尖人才加入，包括低压电气工程师、脉冲功率工程师、发电机系统机械工程师和机械工程经理等职位。这篇内容不仅展示了突破性科学技术的愿景，也提供了加入这一历史性技术项目的宝贵机会，对于关注先进能源技术和职业发展的读者具有重要意义。",
+    "best_quote_en": "The biggest input to the degree and speed of success at the company is now the talent of the people who join the team.",
+    "best_quote_zh": "公司成功的关键和速度现在取决于加入团队的人才。"
+  },
+  {
+    "id": 88,
+    "title": "Essentials: Control Your Brain Chemistry for Focus, Motivation & Well-Being",
+    "title_zh": "精要：控制你的脑化学以提升专注力、动机与健康",
+    "source": "Huberman Lab",
+    "link": "https://www.hubermanlab.com/episode/essentials-optimize-and-control-your-brain-chemistry-to-improve-health-and-performance",
+    "tags": [
+      "learn",
+      "science",
+      "psychology",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "学习",
+      "科学研究",
+      "心理学",
+      "数据驱动"
+    ],
+    "date": "2026-08-06",
+    "summary_en": "In this Huberman Lab Essentials episode, Andrew Huberman breaks down the role of major neuromodulators—dopamine, epinephrine, acetylcholine, and serotonin—in governing daily motivation, energy, focus, and mood. He outlines a practical toolkit that blends behavioral hacks (like morning sunlight, cold exposure, and deliberate breathing), nutritional strategies (including choline‑rich foods and tryptophan sources), and evidence‑based supplements (mucuna pruriens, L‑tyrosine, alpha‑GPC, myo‑inositol, etc.). By adjusting baseline levels of each neurotransmitter, listeners can tailor their chemistry to specific health and performance goals, whether that means boosting drive for work, sharpening concentration for study, or supporting emotional well‑being. The episode is heavily data‑driven, citing peer‑reviewed research while offering clear, actionable steps that can be implemented immediately. Huberman’s expertise shines through as he connects the science to real‑world applications, making complex neurobiology accessible and useful for anyone interested in self‑optimization. The blend of rigorous insight and pragmatic guidance positions the talk as both an educational resource and a hands‑on manual for personal enhancement.",
+    "summary_zh": "Huberman 揭示了神经递质如何影响日常动机、专注与情绪，并提供科学实证的行为、营养和补充策略，帮助你定制化提升脑化学水平，实现健康与表现的双重目标。这份专家指南充满实践价值，引发了对自我优化的新思考。",
+    "best_quote_en": "I explain how key neuromodulators shape motivation, energy, focus and mood throughout the day.",
+    "best_quote_zh": "我解释了关键神经递质如何塑造全天的动机、能量、专注力和情绪。"
+  },
+  {
+    "id": 89,
+    "title": "A guide to slash commands in the GitHub Copilot app",
+    "title_zh": "GitHub Copilot 应用中斜杠命令的使用指南",
+    "source": "GitHub Blog",
+    "link": "https://github.blog/ai-and-ml/github-copilot/a-guide-to-slash-commands-in-the-github-copilot-app/",
+    "tags": [
+      "guide",
+      "design",
+      "programming",
+      "controversial"
+    ],
+    "tags_zh": [
+      "指导",
+      "设计创意",
+      "编程开发",
+      "争议观点"
+    ],
+    "date": "2026-08-06",
+    "summary_en": "This comprehensive guide explores the enhanced slash command functionality in the GitHub Copilot app, building upon the familiar CLI experience to offer richer workflow management capabilities. The article positions slash commands as essential productivity tools that transform how developers interact with AI assistance, moving beyond simple code generation to comprehensive project management. By examining specific commands like /plan for strategic thinking, /spar for critical validation, and /autopilot for implementation automation, the guide demonstrates how these features enable developers to structure their AI-assisted workflows more effectively. The content emphasizes the shift from terminal-focused interactions to visual, multi-session approaches that better align with modern development practices. Through practical examples and actionable use cases, the article serves as both an introduction and advanced reference for maximizing the GitHub Copilot app's potential, making it valuable for developers at all experience levels seeking to optimize their AI-assisted development processes.",
+    "summary_zh": "这篇指南深入探讨了GitHub Copilot应用中增强的斜杠命令功能，从CLI体验升级为更丰富的项目管理工具。通过/plan、/spar等命令展示了如何构建结构化的AI辅助工作流程，帮助开发者提高生产力。",
+    "best_quote_en": "Slash commands may look like simple shortcuts, but they can change how you interact with Copilot. They help you move faster, stay focused, and quickly access the workflows you need.",
+    "best_quote_zh": "斜杠命令可能看起来只是简单的快捷方式，但它们可以改变你与Copilot的互动方式。它们能帮助你更快地工作，保持专注，并快速访问所需的流程。"
   }]
