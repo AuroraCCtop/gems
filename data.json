@@ -2053,4 +2053,93 @@
     "summary_zh": "这篇指南深入探讨了GitHub Copilot应用中增强的斜杠命令功能，从CLI体验升级为更丰富的项目管理工具。通过/plan、/spar等命令展示了如何构建结构化的AI辅助工作流程，帮助开发者提高生产力。",
     "best_quote_en": "Slash commands may look like simple shortcuts, but they can change how you interact with Copilot. They help you move faster, stay focused, and quickly access the workflows you need.",
     "best_quote_zh": "斜杠命令可能看起来只是简单的快捷方式，但它们可以改变你与Copilot的互动方式。它们能帮助你更快地工作，保持专注，并快速访问所需的流程。"
+  },{
+    "id": 90,
+    "title": "How to Write Usefully",
+    "title_zh": "如何写出有用的文章",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/useful.html",
+    "tags": [
+      "solve",
+      "startup-strategy",
+      "education",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "解决",
+      "创业策略",
+      "教育学习",
+      "未来预测"
+    ],
+    "date": "2026-08-08",
+    "summary_en": "This essay dissects what makes writing truly useful, proposing four core components: correctness, novelty, importance, and strength. The author argues that useful writing must be precise, bold yet true, and convey ideas that are both significant and previously unknown to the reader. Drawing on a personal \"Morris technique\" of only publishing ideas one is certain about, the piece outlines a workflow of rapid drafting followed by meticulous revision, emphasizing the value of publication bias in essay writing. Simplicity, humility, and the skillful use of qualification are presented as essential practices, while the essay also reflects on the social friction that arises when novel insights challenge entrenched beliefs. Ultimately, the author offers a pragmatic formula for crafting impactful essays and encourages aspiring writers to start small, iterate relentlessly, and embrace the boundless potential of the form in the digital age.",
+    "summary_zh": "本文从准确性、新颖性、重要性和力度四个维度剖析了“有用”写作的定义，分享了作者通过快速草稿到精心打磨的写作方法，以及对知识传播的反思。它提醒我们，实用写作需摒弃空话，追求精准，同时平衡自信与谦逊，并通过反复打磨排除粗糙与错误。这不仅是写作者的指南，也是对当今信息过载环境的深刻反思。",
+    "best_quote_en": "Useful writing is bold, but true.",
+    "best_quote_zh": "有用的写作是大胆的，但真实的."
+  },
+  {
+    "id": 91,
+    "title": "The Senate’s Shameful Acquiescence to Todd Blanche as Attorney General",
+    "title_zh": "参议院对托德·布兰奇出任司法部长的可耻默许",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/the-lede/the-senates-shameful-acquiescence-to-todd-blanche-as-attorney-general",
+    "tags": [
+      "analyze",
+      "politics",
+      "controversial"
+    ],
+    "tags_zh": [
+      "分析",
+      "政治时事",
+      "争议观点"
+    ],
+    "date": "2026-08-07",
+    "summary_en": "Ruth Marcus’s incisive piece dissects the Senate’s troubling acquiescence to Todd Blanche’s confirmation as Attorney General, framing it as a symbolic surrender of constitutional ‘advice and consent.’ While Blanche’s technical qualifications are moot—having already served as acting AG—Marcus emphasizes the moral and institutional stakes: his tenure has overseen a Justice Department subverted to presidential vendettas, flawed prosecutions, and the erosion of legal norms. The article traces the agonizing calculus of Republican senators, from Cornyn and Tillis’s futile attempts to extract guarantees, to Cassidy’s reluctant endorsement rooted in fear of an even worse nominee. Murkowski’s eventual opposition underscores a broader disillusionment with the administration’s excesses and the slush‑fund controversies surrounding Blanche’s past legal work. Marcus’s analysis reveals a Senate paralyzed by partisan loyalty, raising urgent questions about the durability of checks and balances in contemporary American governance.",
+    "summary_zh": "玛尔克斯的文章深刻揭露了参议院在特朗普政府提名托德·布兰奇出任司法部长时的道德妥协， senators 权衡现实与原则，暴露出制度失灵与政治算计。这不仅关乎一位司法部长的任命，更反映出美国政治生态的深层危机：当党派利益凌驾于法治时，制度的‘制衡’难免沦为‘默认同意’。我感到忧虑的同时，也反思作为公民的责任——如何在这样的环境中坚守良知，推动真正的问责。",
+    "best_quote_en": "\"Mr. Blanche is not perfect, and he will tell you this,\" Cassidy said. \"But the choice is not between perfection and Mr. Blanche. It is between Mr. Blanche and another acting Attorney General who may not run the department effectively under President Trump and who indeed may not be as good as Mr. Blanche.\"",
+    "best_quote_zh": "\"布兰奇先生并不完美，他自己也会告诉你这一点，\" 卡西迪说，\"但选择不是在完美和布兰奇先生之间，而是在布兰奇先生和另一位可能无法有效管理司法部、在特朗普总统手下表现不佳、甚至可能不如布兰奇先生的代理司法部长之间。\""
+  },
+  {
+    "id": 92,
+    "title": "The Tim Ferriss Show Transcripts: How to Start When You’re Stuck, Finish What You Begin, and Stop Waiting for Inspiration — Creative Advice from Elizabeth Gilbert, Seth Godin, Joyce Carol Oates, Anne Lamott, and More (#878)",
+    "title_zh": "《泰姆·弗里斯秀》录音整理：如何在迷茫时开始，如何完成你所开始的，以及如何停止等待灵感——来自伊丽莎白·吉尔伯特、塞斯·吉登、乔伊斯·卡罗尔·奥茨、安·拉莫特等作家的创意建议 (#878)",
+    "source": "Tim Ferriss",
+    "link": "https://tim.blog/2026/08/07/writing-inspiration-transcript/",
+    "tags": [
+      "solve",
+      "marketing",
+      "psychology",
+      "beginner-friendly"
+    ],
+    "tags_zh": [
+      "解决",
+      "市场营销",
+      "心理学",
+      "新手友好"
+    ],
+    "date": "2026-08-08",
+    "summary_en": "Tim Ferriss’s latest compilation episode gathers insights from celebrated authors on conquering creative stagnation and completing projects. Elizabeth Gilbert, Seth Godin, Joyce Carol Oates, Anne Lamott and others share strategies for choosing worthwhile ideas, resisting the allure of ever‑new inspiration, and maintaining momentum when doubts arise. The conversation blends practical discipline—treating inspiration as a fleeting guest rather than a permanent resident—with profound reflections on generosity, purpose, and the emotional labor of creation. Listeners gain actionable frameworks for turning fleeting ideas into finished works, learning to evaluate projects rigorously, and shifting focus from ego‑driven validation to service‑oriented craft. This episode serves as both a motivational guide and a rigorous analytical look at the psychology of artistic productivity, offering timeless lessons for writers, entrepreneurs, and anyone facing the paradox of choice in creative endeavors.",
+    "summary_zh": "《泰姆·弗里斯秀》汇集作家经验，教你如何克服创作瓶颈、完成项目。吉尔伯特、吉登等分享选择主题、抵制灵感诱惑、保持创作动力的方法，强调专注力、奉献精神和利他创作——提供实用框架，帮助你在创意浪潮中稳住步伐，完成作品。",
+    "best_quote_en": "Stick with the one you came to the dance with.",
+    "best_quote_zh": "坚持与你一起来跳舞的那个人."
+  },
+  {
+    "id": 93,
+    "title": "How we took malware advisories beyond npm",
+    "title_zh": "我们如何将恶意软件警告扩展到npm之外",
+    "source": "GitHub Blog",
+    "link": "https://github.blog/security/supply-chain-security/how-we-took-malware-advisories-beyond-npm/",
+    "tags": [
+      "update",
+      "cybersecurity"
+    ],
+    "tags_zh": [
+      "动态",
+      "网络安全"
+    ],
+    "date": "2026-08-06",
+    "summary_en": "GitHub's Dependabot team has expanded malware detection from npm to eight major package ecosystems, leveraging OpenSSF's malicious-packages repository. The article reveals how a single importer handles cross-ecosystem security by normalizing diverse data formats, preventing duplicate imports, and implementing robust safeguards against bad data. Key innovations include batch caps, provenance tracking, and rollback capabilities for automated advisories. This advancement transforms GitHub's supply chain security, enabling real-time malware alerts across npm, PyPI, Maven, RubyGems, NuGet, Go, crates.io, and PHP Composer. The implementation demonstrates how open-source collaboration and careful engineering can scale security protections dramatically, benefiting millions of developers worldwide.",
+    "summary_zh": "GitHub的Dependabot团队将恶意软件检测从npm扩展到了八个主要包生态系统，利用OpenSSF的恶意软件包存储库。这篇文章揭示了如何通过一个单一导入程序来处理跨生态系统的安全问题，该程序可以规范化各种数据格式，防止重复导入，并实施强大的安全保障措施，以防止坏数据。主要创新包括批次限制、源代码跟踪和回滚功能，用于自动发布的通知。这一进步改变了GitHub的供应链安全，使其能够在大多数包生态系统中检测恶意依赖。这一实施展示了开源协作和精心工程如何能够显著扩大安全保护范围，使全球数百万开发者受益。",
+    "best_quote_en": "Expanding the existing detection from one to eight supported ecosystems would have taken us years. Meanwhile, OpenSSF has already solved the aggregation problem for everybody.",
+    "best_quote_zh": "将现有的检测从一个生态系统扩展到八个支持的生态系统本可能需要我们数年时间。与此同时，OpenSSF已经为每个人解决了聚合问题。"
   }]
