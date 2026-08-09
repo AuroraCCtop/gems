@@ -2142,4 +2142,51 @@
     "summary_zh": "GitHub的Dependabot团队将恶意软件检测从npm扩展到了八个主要包生态系统，利用OpenSSF的恶意软件包存储库。这篇文章揭示了如何通过一个单一导入程序来处理跨生态系统的安全问题，该程序可以规范化各种数据格式，防止重复导入，并实施强大的安全保障措施，以防止坏数据。主要创新包括批次限制、源代码跟踪和回滚功能，用于自动发布的通知。这一进步改变了GitHub的供应链安全，使其能够在大多数包生态系统中检测恶意依赖。这一实施展示了开源协作和精心工程如何能够显著扩大安全保护范围，使全球数百万开发者受益。",
     "best_quote_en": "Expanding the existing detection from one to eight supported ecosystems would have taken us years. Meanwhile, OpenSSF has already solved the aggregation problem for everybody.",
     "best_quote_zh": "将现有的检测从一个生态系统扩展到八个支持的生态系统本可能需要我们数年时间。与此同时，OpenSSF已经为每个人解决了聚合问题。"
+  },{
+    "id": 94,
+    "title": "Let’s all get on board with travel etiquette | Letters",
+    "title_zh": "让我们一起遵守旅行礼仪 | 书信",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/lifeandstyle/2026/aug/07/lets-all-get-on-board-with-travel-etiquette",
+    "tags": [
+      "solve",
+      "lifestyle",
+      "society",
+      "controversial"
+    ],
+    "tags_zh": [
+      "解决",
+      "生活方式",
+      "社会议题",
+      "争议观点"
+    ],
+    "date": "2026-08-07",
+    "summary_en": "The letters section offers a vivid, crowdsourced refinement of travel etiquette, highlighting how well‑intentioned rules can overlook real health and accessibility concerns. Readers challenge the blanket advice on seat‑giving, pointing out that women may face menstruation, pregnancy, perimenopause, or endometriosis—conditions that merit nuanced consideration. The discussion expands to everyday irritants like nose‑picking, backpack placement, and the balance between politeness and personal space. Contributors also reflect on the broader social fabric of public transport, noting regional variations in courtesy and the growing need for safety guidance amid rising harassment. This collective commentary underscores that etiquette is not static; it evolves with societal awareness of health, disability, and interpersonal dynamics. The piece invites readers to move beyond rigid prescriptions toward empathetic, context‑sensitive behavior, suggesting that the true art of travel etiquette lies in listening to lived experiences and adapting norms accordingly.",
+    "summary_zh": "这封信件汇集了公众对旅行礼仪的反思，揭示了某些看似合理的规则如何忽视了真实的健康与无障碍需求。作者们指出，女性可能面临经期、怀孕初期、更年期或子宫内膜异位症等状况，呼吁在让座问题上更细致入微。讨论还涉及鼻子擤鼻涕、背包占用空间等日常烦扰，以及如何在保证安全的前提下应对公共交通上的骚扰。此外，信件展现了不同地区在礼仪方面的差异，从伦敦人的“礼仪之富”到本地人的实用建议，提醒我们礼仪应随社会对健康、残疾和人际关系的认识不断演进，而非一成不变。",
+    "best_quote_en": "Women could be menstruating, in the first trimester of pregnancy (the most exhausting time) or have endometriosis.",
+    "best_quote_zh": "女性可能正在经期、怀孕初期（最疲惫的阶段）或患有子宫内膜异位症。"
+  },
+  {
+    "id": 95,
+    "title": "DALL•E 2",
+    "title_zh": "DALL·E 2",
+    "source": "Sam Altman",
+    "link": "https://blog.samaltman.com/dall-star-e-2",
+    "tags": [
+      "guide",
+      "ai-research",
+      "design",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "指导",
+      "AI研究",
+      "设计创意",
+      "未来预测"
+    ],
+    "date": "2022-04-06",
+    "summary_en": "The launch of DALL·E 2 marks a bold step toward a natural‑language interface for creative work, where users can command image generation and editing simply by describing what they envision. The tool showcases sophisticated conceptual understanding and the capacity to produce complete artistic pieces, hinting at a future where AI assistants could handle complex tasks across domains. Sam Altman frames this not only as a productivity boost for artists but also as a catalyst for rethinking labor markets, as AI begins to automate creative roles earlier than predicted. The announcement balances excitement with caution, highlighting potential downsides and advocating incremental deployment to give society time to adapt. By emphasizing collaboration with researchers and artists, the project underscores a responsible approach to AI advancement, suggesting that the real bottleneck will shift from technical skill to the quality of ideas themselves.",
+    "summary_zh": "DALL·E 2 展现了自然语言界面的新可能，它不仅提升创作效率，也挑战了我们对 AI 影响顺序的预测。作者既兴奋其潜力，也警惕其风险，倡导渐进式部署，期待与更广泛社区协作，共同塑造 AI 辅助未来的形态。",
+    "best_quote_en": "It’s an example of a world in which good ideas are the limit for what we can do, not specific skills.",
+    "best_quote_zh": "这是一个好点子才是我们所能做的事情的限制，而不仅仅是特定的技能的世界中的例子."
   }]
