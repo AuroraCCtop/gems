@@ -2189,4 +2189,27 @@
     "summary_zh": "DALL·E 2 展现了自然语言界面的新可能，它不仅提升创作效率，也挑战了我们对 AI 影响顺序的预测。作者既兴奋其潜力，也警惕其风险，倡导渐进式部署，期待与更广泛社区协作，共同塑造 AI 辅助未来的形态。",
     "best_quote_en": "It’s an example of a world in which good ideas are the limit for what we can do, not specific skills.",
     "best_quote_zh": "这是一个好点子才是我们所能做的事情的限制，而不仅仅是特定的技能的世界中的例子."
+  },{
+    "id": 96,
+    "title": "‘So destructive’: women are paying for face scans that tell them what cosmetic procedures to get",
+    "title_zh": "付费进行面部扫描，告诉你该做哪些整形手术",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/fashion/ng-interactive/2026/aug/05/facial-analysis-scans-qoves-epica-looksmaxxing",
+    "tags": [
+      "analyze",
+      "science",
+      "ai-research",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "科学研究",
+      "AI研究",
+      "数据驱动"
+    ],
+    "date": "2026-08-05",
+    "summary_en": "The rise of AI‑driven facial analysis services like Qoves and Epica reflects a lucrative intersection of technology, beauty culture, and deep‑seated insecurities. Marketed as \"science‑backed\" glow‑up tools, these platforms promise quantifiable beauty metrics and tailored cosmetic recommendations, yet the underlying research is thin and often misapplied. Experts such as Dr. Mitch Brown and Dr. Tracy Vaillancourt warn that the algorithms lack transparency, risk reinforcing harmful beauty standards, and can exacerbate body dysmorphia and mental‑health issues. Users like Danielle and Océane report both false hope and financial strain, while the industry’s business model—selling procedures, products, and subscriptions—capitalizes on the very insecurities it purports to solve. The article interrogates the ethical implications of turning appearance into a data‑driven commodity, questioning whether the promise of enhanced confidence can ever outweigh the psychological cost of perpetual self‑scrutiny. It also highlights the broader cultural shift toward \"looksmaxxing,\" where social media amplifies pressure to conform to an increasingly commercialized ideal of beauty.",
+    "summary_zh": "AI 美容扫描服务打着科学的旗号，承诺量化美丽并提供定制化整形建议，却缺乏可靠研究支撑。专家警告这些算法不透明，可能加剧容貌焦虑和心理问题。用户在经济上承受压力，行业却通过销售手术、产品和订阅来获利。本文揭示了将外貌数据化的伦理困境，以及“颜值提升”文化如何将个人 insecurities 转化为商业机会，引发对美丽标准和心理健康的深刻反思。",
+    "best_quote_en": "\"I don’t think the science is anywhere clear enough to [measure attractiveness and sell recommendations].\"",
+    "best_quote_zh": "\"我认为科学还不够明确，无法以此来衡量吸引力并提供建议。\""
   }]
