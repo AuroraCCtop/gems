@@ -2212,4 +2212,25 @@
     "summary_zh": "AI 美容扫描服务打着科学的旗号，承诺量化美丽并提供定制化整形建议，却缺乏可靠研究支撑。专家警告这些算法不透明，可能加剧容貌焦虑和心理问题。用户在经济上承受压力，行业却通过销售手术、产品和订阅来获利。本文揭示了将外貌数据化的伦理困境，以及“颜值提升”文化如何将个人 insecurities 转化为商业机会，引发对美丽标准和心理健康的深刻反思。",
     "best_quote_en": "\"I don’t think the science is anywhere clear enough to [measure attractiveness and sell recommendations].\"",
     "best_quote_zh": "\"我认为科学还不够明确，无法以此来衡量吸引力并提供建议。\""
+  },{
+    "id": 97,
+    "title": "Being a Noob",
+    "title_zh": "做新手",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/noob.html",
+    "tags": [
+      "learn",
+      "startup-strategy",
+      "case-study"
+    ],
+    "tags_zh": [
+      "学习",
+      "创业策略",
+      "案例研究"
+    ],
+    "date": "2026-08-11",
+    "summary_en": "In this reflective essay, the author explores the paradoxical comfort of feeling like a novice in an increasingly complex world. Once believing that elders possessed all answers, he now embraces the perpetual sense of being a \"noob\" when confronting unfamiliar startups, technical books, or foreign cultures. He argues that this feeling is not a sign of ignorance but an indicator of genuine learning, noting that local familiarity masks global ignorance while venturing into the unknown expands knowledge. Drawing on evolutionary psychology, he suggests that our aversion to novice feelings once served survival by prioritizing competence over novelty, but in today’s rapidly changing landscape, that bias misguides us. The piece encourages readers to reframe discomfort as a catalyst for growth, recognizing that the more we feel like beginners, the more we are truly advancing. It offers a thoughtful, almost counterintuitive perspective on personal development and the value of continuous curiosity.",
+    "summary_zh": "当我们感到像个新手时，实际上是在不断学习。作者发现，越是局限于熟悉环境，越不会感到无知；走出舒适区才能真正成长。这种不适是进步的信号，尽管进化赋予了我们回避的倾向，但如今却成了我们探索未知的动力。即使别人嘲笑，我们也不应放弃。承认无知，才是智慧的起点。在快速变化的世界中，持续的初学者心态是成功的关键。让我们拥抱这种不安，转化为行动力。",
+    "best_quote_en": "the more of a noob you are locally, the less of a noob you are globally.",
+    "best_quote_zh": "本地越是像个新手，全球看来就越不像新手。"
   }]
