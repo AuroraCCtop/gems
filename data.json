@@ -2233,4 +2233,49 @@
     "summary_zh": "当我们感到像个新手时，实际上是在不断学习。作者发现，越是局限于熟悉环境，越不会感到无知；走出舒适区才能真正成长。这种不适是进步的信号，尽管进化赋予了我们回避的倾向，但如今却成了我们探索未知的动力。即使别人嘲笑，我们也不应放弃。承认无知，才是智慧的起点。在快速变化的世界中，持续的初学者心态是成功的关键。让我们拥抱这种不安，转化为行动力。",
     "best_quote_en": "the more of a noob you are locally, the less of a noob you are globally.",
     "best_quote_zh": "本地越是像个新手，全球看来就越不像新手。"
+  },{
+    "id": 98,
+    "title": "Haters",
+    "title_zh": "喷子",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/fh.html",
+    "tags": [
+      "solve",
+      "startup-strategy",
+      "controversial"
+    ],
+    "tags_zh": [
+      "解决",
+      "创业策略",
+      "争议观点"
+    ],
+    "date": "2026-08-12",
+    "summary_en": "This essay explores the paradoxical psychology of public figures who attract both fervent admirers and vehement detractors. The author argues that haters are not merely critics but obsessive, identity‑driven individuals whose dislike mirrors the fanboy’s uncritical adoration—only flipped. By dissecting how fame fuels both phenomena, the piece reveals that haters exaggerate talent and notoriety to paint their target as a fraud, a narrative that satisfies a deep‑seated sense of personal failure or frustrated ambition. The core insight is that haters, like obsessive fans, are beyond rational debate; they are driven by personal insecurities rather than genuine grievances. Consequently, the most effective strategy is simple: ignore them. The author advises against the instinctive urge to understand or confront haters, emphasizing that such energy is a waste and that focusing on constructive work is far more rewarding. This perspective offers a pragmatic roadmap for founders, creators, and anyone navigating the spotlight, encouraging resilience through detachment and self‑focus.",
+    "summary_zh": "作者认为喷子与迷弟迷妹本质相同，只是负面情绪翻转。名人会同时招致这两类人，喷子通过将目标夸大为欺诈来满足自己的失落感。最佳应对之道是直接忽视他们，不必耗费精力与他们辩论。此文为那些处于聚光灯下的人提供了一条冷静的生存之道。",
+    "best_quote_en": "Haters are just fanboys with the sign switched.",
+    "best_quote_zh": "喷子不过是反向的迷弟迷妹."
+  },
+  {
+    "id": 99,
+    "title": "Using AI to Increase Your Intelligence & Enrich Humanity | Dr. Fei-Fei Li",
+    "title_zh": "利用人工智能提升人类智慧与丰富生活 | 费飞飞博士",
+    "source": "Huberman Lab",
+    "link": "https://www.hubermanlab.com/episode/using-ai-to-increase-your-intelligence-and-enrich-humanity-fei-fei-li",
+    "tags": [
+      "analyze",
+      "ai-research",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "AI研究",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2026-08-10",
+    "summary_en": "In this insightful episode, Dr. Fei‑Fei Li explores how artificial intelligence can be harnessed safely and effectively to amplify human capabilities. She moves beyond the conventional view of AI as a mere search tool, arguing that it can directly boost intelligence, creativity, and even health when humans collaborate with intelligent machines. Li highlights the fundamental differences between AI and human cognition, emphasizing that intuition and personal experience remain uniquely human traits that machines cannot replicate. The discussion also covers current AI gaps, emotional and creative limitations, and the ethical considerations that arise as AI becomes more embedded in daily life. Listeners gain actionable perspectives on using AI as a personal agency tool, fostering scientific discovery, and shaping a future where technology complements rather than replaces human agency. Whether you’re an AI enthusiast or a skeptic, the episode offers concrete insights and tools to navigate the evolving landscape of human‑AI partnership.",
+    "summary_zh": "费飞飞博士深入探讨了如何安全地利用人工智能扩展人类能力，不仅用于信息搜索，更能提升智慧与创造力。她强调直觉与个人经历是AI无法复制的独特人类资产，并展望了AI与机器人协作如何重塑健康与生活。这场对话启发我们重新思考科技与人性的关系，激发了对未来人机共存的深刻反思。",
+    "best_quote_en": "AI can be used safely and effectively to extend human capabilities – not just to search for information but specifically to increase human intelligence and creativity.",
+    "best_quote_zh": "人工智能可以安全有效地扩展人类能力，不仅用于信息搜索，更能提升人类的智慧与创造力。"
   }]
