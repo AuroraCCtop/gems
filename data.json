@@ -1,77 +1,5 @@
 [
   {
-    "id": 7,
-    "title": "Essentials: The Science & Treatment of Obsessive Compulsive Disorder (OCD)",
-    "title_zh": "Essentials：强迫症的科学与治疗",
-    "source": "Huberman Lab",
-    "link": "https://www.hubermanlab.com/episode/essentials-the-science-and-treatment-of-obsessive-compulsive-disorder",
-    "tags": [
-      "learn",
-      "psychology",
-      "medicine",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "学习",
-      "心理学",
-      "医学健康",
-      "数据驱动"
-    ],
-    "date": "2026-07-09",
-    "summary_en": "In this Huberman Lab Essentials episode, Andrew Huberman unpacks the neurobiology and psychology of obsessive‑compulsive disorder, revealing how repetitive thought‑action loops are anchored in cortico‑striatal‑thalamic circuitry. A striking insight is that compulsive behaviors reinforce the very obsessions they aim to quell, a finding that reshapes therapeutic expectations. The episode evaluates the efficacy of exposure‑based cognitive behavioral therapy and SSRIs, highlighting research that compares each modality alone versus in combination. A detailed clinical protocol is presented, guiding patients into controlled anxiety states while suppressing compulsions, thereby retraining the brain to break the OCD cycle. Huberman’s expert synthesis of cutting‑edge studies, treatment comparisons, and actionable protocols offers both a deep scientific understanding and practical tools for anyone seeking to comprehend or address OCD.",
-    "summary_zh": "本期探讨了强迫症的神经生物学基础，揭示了反复的‘思维-行为循环’机制，以及为何强迫行为会强化 obsessions。专家介绍了 CBT、SSRIs 等治疗方法及其联合应用，并分享了引导患者进入焦虑状态以打破 OCD 循环的临床协议。内容兼具科学深度与实用指导，引发对心理健康干预的深刻反思。",
-    "best_quote_en": "Compulsive actions actually strengthen the underlying obsessions rather than relieve them.",
-    "best_quote_zh": "强迫行为实际上会强化潜在的强迫思维，而非缓解它们。"
-  },
-  {
-    "id": 8,
-    "title": "The Real Reason to End the Death Penalty",
-    "title_zh": "结束死刑的真正原因",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/real.html",
-    "tags": [
-      "analyze",
-      "startup-strategy",
-      "science",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "创业策略",
-      "科学研究",
-      "数据驱动"
-    ],
-    "date": "2026-07-10",
-    "summary_en": "The essay dismantles the abstract moral debate about capital punishment by exposing a grim reality: the death penalty routinely executes innocent people. Through a series of harrowing exonerations—ranging from DNA‑backed releases to discredited forensic testimony—the author shows how systemic pressures on police, prosecutors, and courts create a perfect storm for wrongful convictions. The piece argues that the theoretical questions of deterrence or retribution become irrelevant when the process itself is fundamentally broken, turning state‑sanctioned killing into state‑sanctioned murder. By cataloguing dozens of cases and highlighting institutional incentives that prioritize convictions over truth, the article reframes the death penalty not as a justice issue but as a failure of due process. The implication is stark: any legal system that cannot safeguard the innocent cannot claim moral authority, making abolition a prerequisite for justice rather than a policy preference.",
-    "summary_zh": "这篇文章通过一系列无辜者被判死刑的案例，揭露了司法体系的深层危机：警察、检察官和法院为求破案不惜牺牲真相。作者认为，当制度激励导向有罪判决时，关于威慑或道德的理论讨论变得无关紧要。真正的问题在于制度性的无能与欺骗，这意味着废除死刑是恢复公正的必然选择，而非政策考量。",
-    "best_quote_en": "This circus of incompetence and dishonesty is the real issue with the death penalty.",
-    "best_quote_zh": "正是这种无能和欺骗的闹剧是死刑的真正问题。"
-  },
-  {
-    "id": 9,
-    "title": "Stories of the future are undermined by agent assumptions",
-    "title_zh": "未来的故事被代理假设所破坏",
-    "source": "LessWrong",
-    "link": "https://www.lesswrong.com/posts/M9Byp3AxH97cTs6ox/stories-of-the-future-are-undermined-by-agent-assumptions",
-    "tags": [
-      "solve",
-      "ai-research",
-      "science",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "解决",
-      "AI研究",
-      "科学研究",
-      "数据驱动"
-    ],
-    "date": "2026-07-10",
-    "summary_en": "Jonas Hallgren argues that many AI safety forecasts are subtly shaped by unexamined assumptions about the nature of future agents—whether they will be humans, institutions, AI models, or hybrid collectives. He shows how these ontological commitments act as \"black boxes\" that limit predictive models, drawing parallels to complexity science, the Game of Life, and the limits of agent‑based modeling. The piece critiques linear forecasts, highlights the difficulty of modeling unknown unknowns, and calls for more antifragile governance designs that embrace uncertainty rather than demanding false certainty. Hallgren suggests looking to biology and distributed cognition for new frameworks, positioning the article as both a diagnostic of current forecasting blind spots and a guide for researchers seeking more robust, adaptive approaches to AI and societal modeling. It is a thought‑provoking blend of technical insight, philosophical questioning, and practical recommendations for the next decade of AI development.",
-    "summary_zh": "Hallgren 指出，许多 AI 安全预测暗含着关于未来代理（agents）的假设——它们是人类、机构、AI 模型还是混合体。这些未检验的假设限制了预测模型。他通过复杂性科学、生命游戏和代理建模的局限性进行阐述，批判线性预测，强调建模未知未知的困难，并呼吁设计更具抗脆弱性的治理体系以应对不确定性。他建议从生物学和分布式认知中寻找灵感，将代理视为可合并、分裂和重绘边界的过程。最后，他提出了一个通往更普适性不确定性处理框架的愿景，犹如适应性机构的风洞。",
-    "best_quote_en": "We need stories of what will happen as a way of communicating the risks but claiming certainty in any specific story leaves you very open to black swans.",
-    "best_quote_zh": "我们需要讲故事来传达风险，但声称任何特定故事是确定的，会让我们很容易受到黑天鹅事件的影响."
-  },
-  {
     "id": 10,
     "title": "Tales from Toddlerhood",
     "title_zh": "幼儿时期的轶事",
@@ -2340,5 +2268,75 @@
     "summary_zh": "GitHub Universe 2026 会议正式启动，聚焦 AI 驱动开发。10 月 28-29 日在旧金山举行，汇集 AMD、Figma、NVIDIA、Coinbase、Anthropic 和 OpenAI 等顶尖科技公司，探讨 AI 辅助编程的未来。会议涵盖 GitHub Copilot 配置、企业级 AI 实施、MCP 服务器安全等实用主题。提供动手实践、专家交流和职业发展机会。早鸟票截止 8 月 19 日，享受折扣。会议展示了 AI 开发工具的最新实践，包括多模型优化、开源转型和社区驱动的 AI 采用策略。",
     "best_quote_en": "The GitHub Universe 2026 schedule just dropped, and it's full of exciting sessions, demos, and panels covering the potential of AI-powered development.",
     "best_quote_zh": "GitHub Universe 2026 会议日程刚刚公布，涵盖了 AI 驱动开发的诸多激动人心的主题、演示和小组讨论。"
+  },
+  {
+    "id": 107,
+    "title": "Can antihistamines really help with PMDD and menopausal symptoms?",
+    "title_zh": "抗组胺药真的能缓解经前抑郁和绝经症状吗？",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/wellness/2026/aug/14/antihistamines-menopause-pmdd",
+    "tags": [
+      "guide",
+      "psychology",
+      "medicine",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "指导",
+      "心理学",
+      "医学健康",
+      "数据驱动"
+    ],
+    "date": "2026-08-14",
+    "summary_en": "The article investigates a growing social‑media trend in which women combine the over‑the‑counter antihistamines Allegra (H1 blocker) and Pepcid (H2 blocker) to alleviate the severe symptoms of premenstrual dysphoric disorder (PMDD) and menopause. Experts acknowledge a plausible biological link—fluctuating estrogen can stimulate mast cells that release histamine, potentially worsening hot flashes, brain fog, and mood swings—but they emphasize that rigorous clinical evidence is lacking. Small anecdotal reports and limited animal studies suggest some benefit, yet the consensus is that perimenopausal and PMDD symptoms are not primarily histamine‑driven. The piece also highlights risks: drowsiness, impaired cognition, and nutrient absorption issues from long‑term use. It underscores the importance of evidence‑based options such as hormone therapy, SSRIs, FDA‑approved non‑hormonal drugs (Veozah, Lynkuet), and lifestyle modifications, while cautioning against self‑medication without professional guidance. The narrative balances curiosity about the “antihistamine hack” with a call for more research and personalized care, reminding readers that women deserve effective answers in a field historically marked by gaps in understanding.",
+    "summary_zh": "抗组胺药真的能缓解经前抑郁和绝经症状吗？专家指出，尽管雌激素波动可能刺激组胺释放，但科学证据不足。部分患者报告改善，同时药物可能引起困倦、影响营养吸收。文章呼吁谨慎尝试，强调激素替代、SSRIs、Veozah 等循证疗法的重要性，并需更多研究以满足女性的健康需求。",
+    "best_quote_en": "\"When people are suffering from bothersome symptoms, and the strategies offered to them don’t seem to help, it makes sense for them to look elsewhere,\" says Dr Alison Huang.",
+    "best_quote_zh": "“当人们遭受困扰的症状，而提供的策略似乎无助于缓解时，他们去寻求其他方法也是合乎逻辑的，” 阿拉森·黄博士说。"
+  },
+  {
+    "id": 108,
+    "title": "Book Freak #222: How to remember anything, from a memory champion",
+    "title_zh": "《书虫 #222》：如何记住任何事情——来自记忆冠军的技巧",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/book-freak-222-how-to-remember-anything-from-a-memory-champion/",
+    "tags": [
+      "solve",
+      "ai-research",
+      "psychology",
+      "beginner-friendly"
+    ],
+    "tags_zh": [
+      "解决",
+      "AI研究",
+      "心理学",
+      "新手友好"
+    ],
+    "date": "2026-08-14",
+    "summary_en": "The book ‘Everyday Genius’ by Nelson Dellis debunks the myth of photographic memory and presents memory as a trainable skill. Dellis, a six‑time U.S. memory champion, frames his journey—from watching his grandmother’s Alzheimer’s decline to mastering techniques once used by ancient Greek orators—as evidence that what looks like genius is simply disciplined practice. He outlines four core principles: treat genius as trained, recognize memory as the foundation for faster reading, math, and problem‑solving, harness focus as a multiplier, and break overwhelming questions into manageable parts. Practical exercises—building a mental “memory palace,” creating vivid name‑face associations, and dedicating 25‑minute focused work blocks—show how readers can apply these ideas immediately. Dellis’s story also underscores the broader cultural shift toward viewing cognitive abilities as improvable rather than fixed, inviting readers to reconsider personal potential. The blend of personal narrative, scientific insight, and actionable steps makes the book both an inspiring self‑help guide and a thoughtful commentary on the nature of expertise.",
+    "summary_zh": "《Everyday Genius》揭示记忆并非天赋，而是一项可训练的技能。作者尼尔·德利斯从目睹祖母患老年痴呆开始，通过古代演讲家的记忆术，证明了“天才”不过是刻苦练习的成果。这本书不仅提供实用方法，还引发了对认知能力的深刻反思。",
+    "best_quote_en": "I would forget things just like anybody else. And I trained this skill. I learned it from another memory champion and practiced the hell out of it until I was able to do it.",
+    "best_quote_zh": "我也会像任何人一样忘记东西，但我训练了这项技能。我向另一位记忆冠军学习，并疯狂地练习，直到我能够做到。"
+  },
+  {
+    "id": 109,
+    "title": "How to bring your software delivery workflow into GitHub with agent apps",
+    "title_zh": "如何将您的软件交付流程集成到 GitHub 中，使用代理应用",
+    "source": "GitHub Blog",
+    "link": "https://github.blog/ai-and-ml/github-copilot/how-to-bring-your-software-delivery-workflow-into-github-with-agent-apps/",
+    "tags": [
+      "solve",
+      "design",
+      "ai-research"
+    ],
+    "tags_zh": [
+      "解决",
+      "设计创意",
+      "AI研究"
+    ],
+    "date": "2026-08-14",
+    "summary_en": "The article presents a transformative approach to software development workflows by integrating external tools directly into GitHub through agent apps. Rather than switching between multiple applications, developers can now leverage services like Amplitude, Endor Labs, LaunchDarkly, and PagerDuty directly within GitHub's interface. The content demonstrates practical implementation across four key phases: validating product decisions before coding, ensuring dependency security during development, implementing feature flags for gradual rollouts, and assessing deployment risks. Each phase showcases how agent apps streamline complex processes - from querying analytics data to setting up feature flags and checking system health. The article positions GitHub as an emerging central hub for development workflows, reducing cognitive load and improving developer productivity. By bringing AI-powered agents into the development environment, teams can make more informed decisions faster and maintain context throughout the software delivery lifecycle.",
+    "summary_zh": "这篇文章展示了如何通过GitHub代理应用将外部工具直接集成到开发流程中，从产品决策验证到部署风险评估，各个阶段都能在单一平台完成。这种AI驱动的方法消除了上下文切换，提升了开发效率。GitHub正逐渐成为软件开发的新中心，改变着传统的工作流模式。",
+    "best_quote_en": "With agent apps, GitHub becomes the place where developers and agents coordinate what happens next, without developers switching contexts.",
+    "best_quote_zh": "代理应用让GitHub成为开发者与代理协调下一步操作的地方，而无需开发者切换上下文。"
   }
 ]
