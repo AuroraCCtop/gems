@@ -1,121 +1,5 @@
 [
   {
-    "id": 10,
-    "title": "Tales from Toddlerhood",
-    "title_zh": "幼儿时期的轶事",
-    "source": "Wait But Why",
-    "link": "https://waitbutwhy.com/2025/10/toddler.html",
-    "tags": [
-      "solve",
-      "lifestyle",
-      "controversial"
-    ],
-    "tags_zh": [
-      "解决",
-      "生活方式",
-      "争议观点"
-    ],
-    "date": "2025-10-24",
-    "summary_en": "In \"Tales from Toddlerhood,\" the author shares a series of wry, self‑deprecating observations about life with a two‑year‑old. He discovers the paradox of being simultaneously \"completely obsessed with and dramatically bored by the same person,\" captures the toddler’s dictatorial tendencies, and laments the social fatigue of endless baby‑video sharing. The piece also highlights how toddlers can be both linguistic prodigies and comically confused—mastering language overnight yet misusing pronouns. Through humor and personal reflection, the author offers a candid look at the cognitive leaps, emotional turbulence, and social awkwardness that define early childhood. The essay serves as both a relatable parenting diary and a subtle commentary on how modern technology amplifies parental exhibitionism. By blending intimate anecdotes with broader cultural critique, the post invites readers to reconsider the paradox of love, exhaustion, and the relentless desire to document fleeting developmental milestones.",
-    "summary_zh": "本文以幽默的笔触记录了作者与两岁女儿共同生活的点滴：对同一孩子的极度迷恋与深深厌倦并存，幼儿的“专制”行为，分享视频所引发的社会疲劳，以及他们既是语言天才又是语用小白的行为。作者通过个人经历反映了现代父母对孩子成长记录的痴迷与反思，引发读者对科技时代家庭生活的新思考。",
-    "best_quote_en": "You can be simultaneously completely obsessed with and dramatically bored by the same person.",
-    "best_quote_zh": "你可以同时完全迷恋又极度厌倦同一个人的感觉。"
-  },
-  {
-    "id": 11,
-    "title": "Travel Noise Machine/Golden Visas/Easier TSA PreCheck",
-    "title_zh": "旅行降噪机/黄金签证/更便捷的TSA预检",
-    "source": "Kevin Kelly",
-    "link": "https://kk.org/cooltools/travel-noise-machine-golden-visas-easier-tsa-precheck/",
-    "tags": [
-      "analyze",
-      "science",
-      "ai-research",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "科学研究",
-      "AI研究",
-      "数据驱动"
-    ],
-    "date": "2026-07-09",
-    "summary_en": "Tim Leffel’s newsletter delivers four concise insights that span travel tech, global residency strategies, workplace psychology, and digital identity. The first bite reviews the LectroFan Alpha, a lightweight USB‑rechargeable noise machine that offers ocean, fan, pink and brown noise options—useful not only for families but also for travelers seeking quiet. The second highlights the dwindling yet still viable “golden visa” programs, where over 30 countries provide residency or citizenship in exchange for substantial investments, a trend now being recalibrated after past excesses. The third bite presents a scholarly study revealing that narcissistic leaders resist remote work because physical proximity fuels their need for visibility and control, framing the RTO debate as a power dynamic rather than productivity concern. Finally, the newsletter announces that TSA PreCheck enrollment can now be stored directly in Google Wallet, automatically linking digital IDs across more than 100 airlines and simplifying the verification process. Together, these snippets illustrate how small technological upgrades, policy shifts, and human psychology intersect to reshape everyday travel and work experiences.",
-    "summary_zh": "这份通讯提供了四则简短的见解，涵盖旅行降噪设备、黄金签证政策、推动返岗的领导者自恋心理，以及TSA预检在谷歌钱包中的应用。它们展示了技术改进、政策变化与人类心理如何影响我们的旅行与工作体验。",
-    "best_quote_en": "The sparseness of remote communication can make it more difficult for narcissists to satisfy these cravings for power and status.",
-    "best_quote_zh": "远程沟通的稀疏性会让自恋者更难以满足他们对权力和地位的渴望。"
-  },
-  {
-    "id": 12,
-    "title": "-",
-    "title_zh": "-",
-    "source": "Sam Altman",
-    "link": "https://blog.samaltman.com/2279512",
-    "tags": [
-      "inspire",
-      "ai-research",
-      "science",
-      "controversial"
-    ],
-    "tags_zh": [
-      "启发",
-      "AI研究",
-      "科学研究",
-      "争议观点"
-    ],
-    "date": "2026-04-10",
-    "summary_en": "Altman’s sprawling post blends personal vulnerability with a manifesto on AI’s promise and peril. After a nighttime Molotov attack on his home, he reflects on how words and narratives can ignite real danger, then pivots to his core beliefs: AI is an unparalleled tool for human advancement, but its rapid rise demands robust safety, democratization, and societal resilience. He candidly admits past mistakes, the toll of internal conflict, and the shift from a scrappy startup to a major platform, while expressing pride in OpenAI’s mission breakthroughs. The piece also diagnoses the industry’s “ring of power” dynamics around AGI, arguing that broad sharing and democratic oversight are the only antidotes to concentration and drama. Altman’s call for de‑escalating rhetoric underscores a yearning for constructive dialogue amid high‑stakes technological change. The essay serves both as a humanizing personal account and a thoughtful policy‑oriented roadmap, urging stakeholders to balance optimism with responsibility as AI reshapes society.",
-    "summary_zh": "Altman 在遭受袭击后，既分享了家庭的脆弱，也提出了关于 AI 的愿景与责任。他强调 AI 是人类能力的强大工具，但需要安全、民主化和广泛的社会参与；反思了 OpenAI 的成长痛楚，并呼吁减少行业争斗，以更理性的对话面对未来。",
-    "best_quote_en": "AI will be the most powerful tool for expanding human capability and potential that anyone has ever seen.",
-    "best_quote_zh": "人工智能将成为人类历史上最强大的工具，能够扩展人类的能力和潜能。"
-  },
-  {
-    "id": 13,
-    "title": "Measuring Is Not Enough Anymore",
-    "title_zh": "衡量已不再足够",
-    "source": "LessWrong",
-    "link": "https://www.lesswrong.com/posts/4TMKvGmoAWjXBGwWk/measuring-is-not-enough-anymore",
-    "tags": [
-      "analyze",
-      "science",
-      "ai-research",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "科学研究",
-      "AI研究",
-      "数据驱动"
-    ],
-    "date": "2026-07-11",
-    "summary_en": "The article argues that merely measuring AI capabilities—exemplified by METR’s celebrated time‑horizon graph—offers diminishing returns for AI safety. While such metrics inform researchers, investors, and policymakers, they often amplify capability‑driven incentives and shift power toward industry and governments, potentially worsening existential risk. The author reflects on personal involvement in capability evaluations and contends that the most visible impact of these measurements is not safer outcomes but a self‑fulfilling prophecy that accelerates development. By likening the time‑horizon experiment to Moore’s Law, the piece highlights how predictive metrics can become prescriptive, shaping the very trajectory they seek to assess. The author calls for a re‑weighting of AI safety work toward more opinionated, direction‑setting research that steers development onto a saner path, rather than simply charting how insane the current path already is. This critical perspective urges the community to move beyond measurement and toward purposeful guidance.",
-    "summary_zh": "衡量已不再足够，我们不应只是精确测量AI发展的疯狂轨迹，而应塑造更理性的发展方向。这是关于AI安全工作重新定位的深刻反思，呼唤更宏大的愿景。这提醒我们，指标本身可能强化错误激励，需重新平衡评估重点。",
-    "best_quote_en": "We should be more ambitious, should mold the trajectory of AI development into a more sane one instead of getting a precise measurement of exactly how insane the current trajectory is.",
-    "best_quote_zh": "我们应该更有雄心，应当塑造AI发展的轨迹，使其变得更加理性，而不是仅仅精确地测量当前轨迹有多么疯狂。"
-  },
-  {
-    "id": 14,
-    "title": "Easy Whole Set Dances With a Hook",
-    "title_zh": "简单全套舞蹈与钩子",
-    "source": "LessWrong",
-    "link": "https://www.lesswrong.com/posts/PAvjpADicegDbD8ws/easy-whole-set-dances-with-a-hook",
-    "tags": [
-      "guide",
-      "lifestyle",
-      "beginner-friendly"
-    ],
-    "tags_zh": [
-      "指导",
-      "生活方式",
-      "新手友好"
-    ],
-    "date": "2026-07-12",
-    "summary_en": "In this personal blog, jefftk explores the design challenges of creating easy whole‑set dances for parties, focusing on simplicity, musical alignment, and quick teachability. He outlines a philosophy of using a minimal set of building blocks while incorporating a distinctive “hook” figure to keep dances fresh, and shares concrete examples such as Jacob’s Potato and Charge and Drag. By soliciting ideas from the Trad Callers mailing list, he expands his repertoire with Witch’s Reel and Falling Masonry, and saves two slightly more complex options for when the crowd is ready. The post reflects a thoughtful, iterative approach to choreography—balancing low piece count with novelty—and offers practical guidance for anyone seeking beginner‑friendly, space‑efficient dances that can be taught and dropped in and out of quickly. It underscores the value of community input and the joy of refining a craft through real‑world testing.",
-    "summary_zh": "jefftk 分享了如何设计简单全套派对舞蹈的思考，强调快速教学、音乐配合和低重复性。他提出用少量基本动作构建舞蹈，同时加入“钩子”这一新颖元素以保持趣味性，并列举了几个经典案例。经过社区征集，他新增了 Witch’s Reel 和 Falling Masonry 等舞蹈，还保留了两套稍复杂的内容以适应不同场合。这篇文章展现了从实战中提炼和优化 choreographic 理念的过程，为初学者提供了易于学习、空间节约且能迅速上手的实践指南。",
-    "best_quote_en": "I want to be able to teach it in a single fast‑paced walkthrough, match it tightly to the musical phrase, and be able to drop out after a few times through.",
-    "best_quote_zh": "我希望能够用一个快速的教学 walkthrough 讲完它，紧紧地配合音乐节奏，并在几遍之后就能退出。"
-  },
-  {
     "id": 15,
     "title": "Can Office-to-Residential Conversions Survive the Pfizer-Building Crisis?",
     "title_zh": "办公楼改住宅改造能否抵御辉瑞大楼危机？",
@@ -2338,5 +2222,119 @@
     "summary_zh": "这篇文章展示了如何通过GitHub代理应用将外部工具直接集成到开发流程中，从产品决策验证到部署风险评估，各个阶段都能在单一平台完成。这种AI驱动的方法消除了上下文切换，提升了开发效率。GitHub正逐渐成为软件开发的新中心，改变着传统的工作流模式。",
     "best_quote_en": "With agent apps, GitHub becomes the place where developers and agents coordinate what happens next, without developers switching contexts.",
     "best_quote_zh": "代理应用让GitHub成为开发者与代理协调下一步操作的地方，而无需开发者切换上下文。"
+  },
+  {
+    "id": 110,
+    "title": "‘Feminists need to push back’: how did the women’s movement become so divided – and how can it reunite?",
+    "title_zh": "“女权主义者需要反击”：妇女运动为何如此分裂——如何重新团结？",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/lifeandstyle/2026/aug/12/feminists-how-did-the-womens-movement-become-so-divided-and-how-can-it-reunite",
+    "tags": [
+      "guide",
+      "society",
+      "controversial"
+    ],
+    "tags_zh": [
+      "指导",
+      "社会议题",
+      "争议观点"
+    ],
+    "date": "2026-08-12",
+    "summary_en": "Natasha Walter reflects on the striking shift from the hopeful solidarity of the 2010s, when women worldwide rallied for shared causes, to today’s fragmented feminist landscape. Once united across differences, many contemporary feminists now dismiss or polarize each other’s struggles, amplified by social media’s reward for outrage. Yet beneath the noise, grassroots networks are rebuilding—kitchen‑table conversations, mutual aid projects, and local political organizing are re‑establishing connections. Walter highlights how women in Britain, from refugee support groups to community initiatives in Wigan, are focusing on practical issues like safety, green jobs, and care, moving beyond inflammatory rhetoric. She warns that the far right exploits women’s insecurity, but also celebrates their resilience and the potential of community‑based resistance. The essay blends personal reflection, historical context, and a call to action, urging feminists to reclaim collective vision and weave care‑driven alliances that can outlast division and hatred.",
+    "summary_zh": "沃尔特反思了2010年代全球女性团结的希望时期与今日 feminists 分裂的对比。社交媒体加剧了极端化，但基层网络正在重建——从厨房对话到互助项目，女性专注于安全、绿色就业等实际问题。她警告极右翼利用女性的不安全感，同时赞赏她们通过社区行动抵御分裂。这篇文章结合个人反思、历史视角和行动号召，鼓励女性重拾集体愿景，构建超越仇恨的关爱联盟。",
+    "best_quote_en": "“Feminists need to be in communities, we need to be on the ground pushing back. The way to defeat the far right is through the women’s movement.”",
+    "best_quote_zh": "“女权主义者需要深入社区，在实地反击。击败极右翼的关键在于妇女运动。”"
+  },
+  {
+    "id": 111,
+    "title": "Fashionable Problems",
+    "title_zh": "时尚问题",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/fp.html",
+    "tags": [
+      "solve",
+      "startup-strategy",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "解决",
+      "创业策略",
+      "未来预测"
+    ],
+    "date": "2026-08-16",
+    "summary_en": "Paul Graham’s essay \"Fashionable Problems\" observes a pervasive pattern across many fields: despite hard work, only a small fraction of possible solutions are explored because researchers and founders gravitate toward the same trendy topics. Even the most imaginative minds become surprisingly conservative when choosing problems, drawn into fashionable subjects they would normally avoid. Graham argues that the most valuable breakthroughs lie in neglected, \"unfashionable\" domains—areas like essays, Lisp, or venture funding that appear over‑explored. By finding fresh approaches to these large, seemingly played‑out spaces, the impact multiplies across their enormous surface area. He suggests that genuine love for one’s work is the best safeguard against following the crowd, enabling persistence even when the problem feels marginal. The piece is a thoughtful critique of herd mentality and a call for authentic curiosity, offering entrepreneurs and researchers a pragmatic framework for selecting high‑impact problems that are under‑served by conventional wisdom.",
+    "summary_zh": "这篇文章指出，即使最聪明的人也倾向于追逐时尚问题，导致大部分可能性未被探索。作者建议真爱工作，探索被忽视的领域，才能获得更大价值。创业者应避免随波逐流，勇于选择‘不流行’的问题。在快速变化的科技环境中，这一洞察尤其重要。选择真正热爱的问题，不仅能提升创造力，也能为市场带来独特解决方案。",
+    "best_quote_en": "The best protection against getting drawn into working on the same things as everyone else may be to genuinely love what you're doing.",
+    "best_quote_zh": "防止你陷入和别人做相同事情的最大保护，可能是真心喜欢你所做的事情。"
+  },
+  {
+    "id": 112,
+    "title": "How Trump Is Trying to Weaken Migrant Children’s Legal Defense",
+    "title_zh": "特朗普试图削弱移民儿童的法律辩护",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/the-lede/how-trump-is-trying-to-weaken-migrant-childrens-legal-defense",
+    "tags": [
+      "update",
+      "politics",
+      "society",
+      "controversial"
+    ],
+    "tags_zh": [
+      "动态",
+      "政治时事",
+      "社会议题",
+      "争议观点"
+    ],
+    "date": "2026-08-15",
+    "summary_en": "This investigative piece reveals how the Trump administration is reshaping legal support for unaccompanied migrant children. After a failed attempt to eliminate funding for their lawyers, the government is awarding massive no‑bid contracts to firms lacking immigration expertise—most notably Burke Law Group and Our Rescue. The article details the legal backdrop, including the 2008 law mandating representation for minors, and chronicles the administration’s repeated efforts to curtail these services through contract termination, payment halts, and demands for confidential data. Interviews with advocates, legal scholars, and former officials expose the potential dangers of handing case loads to under‑prepared entities, warning of rushed, inadequate counsel that could jeopardize children’s rights. The narrative underscores a broader strategy of accelerating deportations by dismantling protective legal mechanisms, raising urgent questions about accountability, transparency, and the future of child protection in U.S. immigration policy.",
+    "summary_zh": "特朗普政府正通过向缺乏移民专业知识的机构（如 Burke Law Group 和 Our Rescue）发放巨额无竞标合同，试图削弱移民儿童的法律辩护。文章揭露了政府屡次终止资助、停止付款、要求提供机密信息等手段，威胁到儿童获得合法代理的权利。法律专家和维权人士警告，经验不足的律师可能导致儿童在生死攸关的移民程序中陷入不利境地。这一系列动作是政府加速驱逐移民、剥夺儿童合法权利的更宏大战略的一部分，引发了关于法律责任、透明度和儿童保护的深刻反思。",
+    "best_quote_en": "\"It’s like traffic court with life-or‑death consequences.\"",
+    "best_quote_zh": "\"这就像交通法院，但涉及生死存亡.\""
+  },
+  {
+    "id": 113,
+    "title": "Best Hotel Chains/New UNESCO Sites/Oldest USA Bars",
+    "title_zh": "美国最佳酒店连锁/新联合国教科文组织遗址/美国最老酒吧",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/best-hotel-chains-new-unesco-sites-oldest-usa-bars/",
+    "tags": [
+      "update",
+      "science",
+      "lifestyle",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "动态",
+      "科学研究",
+      "生活方式",
+      "数据驱动"
+    ],
+    "date": "2026-08-13",
+    "summary_en": "This weekly newsletter delivers four bite‑sized insights for curious travelers. It updates the rankings of the best cheap hotel chains in the U.S., highlighting the dominance of major corporations and the surprising performance of budget brands. It also spotlights newly designated UNESCO World Heritage sites, noting a trend toward modern architecture and the cultural weight of historic locations. The piece tackles the growing issue of triple taxation in popular destinations, exposing how叠加 fees affect budgets and questioning overtourism policies. Finally, it maps the oldest bars in every American state, offering nostalgic drinking spots that span centuries of local history. By blending data‑driven rankings with personal anecdotes, the author provides actionable guidance while prompting reflection on sustainable travel and cultural preservation.",
+    "summary_zh": "这份每周简报汇集了旅行者必备的最新信息：酒店选择、遗产保护、税收陷阱与历史酒吧。作者通过数据和个人经历，揭示了复杂旅市场中的实用策略，也引发了对旅游业可持续性的反思。值得深思。",
+    "best_quote_en": "The four largest hotel corporations have more than 110 brands between them, we could all use a shortcut.",
+    "best_quote_zh": "四大酒店集团旗下品牌超过110个，我们都需要一个捷径。"
+  },
+  {
+    "id": 114,
+    "title": "Raising a Dog & Mastering Calm Assertive Energy | Cesar Millan",
+    "title_zh": "養狗與掌握冷靜自信的能量 | 賽斯·米蘭",
+    "source": "Huberman Lab",
+    "link": "https://www.hubermanlab.com/episode/raising-a-dog-and-mastering-calm-assertive-energy-cesar-millan",
+    "tags": [
+      "guide",
+      "psychology",
+      "lifestyle"
+    ],
+    "tags_zh": [
+      "指导",
+      "心理学",
+      "生活方式"
+    ],
+    "date": "2026-07-06",
+    "summary_en": "In this episode of Huberman Lab, world‑renowned dog‑behavior expert Cesar Millan teaches listeners how to master calm, assertive energy to become the pack leader their dogs need. The discussion blends practical tools—like silence, confident posture, structured walks, weighted backpacks, and the \"no look, no touch, no speak\" technique—with deeper insights into pack order, human‑energy dynamics, and the psychological roots of aggression and anxiety. Millan explains how daily routines, such as greeting rituals and exercise, can be re‑engineered to foster obedience and emotional balance. He also ties canine training to broader life principles, emphasizing self‑awareness, discipline, and even spiritual reflection. Whether you own a dog, are considering adoption, or simply want to understand the subtle energy exchanges that shape relationships, the episode offers actionable strategies and expert insight that extend far beyond pet care, making it valuable for anyone interested in behavior modification and personal leadership.",
+    "summary_zh": "賽斯·米蘭在節目中分享如何調整能量與行為，成為狗的領袖。他提供實用工具，如靜默、結構化散步、背負重量及「不看不碰不說」技巧，幫助狗保持冷靜與服從。內容深入探討狗的群體秩序、人類能量交流及其對攻擊性與焦慮的影響，並延伸到自我覺察、紀律與生活價值觀。無論你是寵物主人、準主人，還是對人與動物間能量互動感興趣的讀者，都能從中獲得極具價值的洞見與實踐方法。",
+    "best_quote_en": "Adjust your energy and behavior to ensure your dog is calm and happy and always follows your lead.",
+    "best_quote_zh": "調整你的能量和行為，以確保你的狗保持冷靜和快樂，並始終聽從你的領導。"
   }
 ]
