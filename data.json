@@ -1,75 +1,5 @@
 [
   {
-    "id": 18,
-    "title": "How People Get Rich Now",
-    "title_zh": "人们如今如何致富",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/richnow.html",
-    "tags": [
-      "learn",
-      "startup-strategy",
-      "startup-funding",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "学习",
-      "创业策略",
-      "创业融资",
-      "未来预测"
-    ],
-    "date": "2026-07-13",
-    "summary_en": "The article traces the dramatic shift in how America’s wealthiest accumulate fortunes from 1982 to 2020. It shows that inheritance, oil, and real‑estate once dominated, but by 2020 the majority of new wealth came from technology‑driven startups and venture‑backed ventures. The piece argues that 1982 was the anomaly, not 2020, because earlier eras (e.g., the Gilded Age) also featured entrepreneurial fortunes. Key drivers of the modern surge include plummeting startup costs, faster growth rates, abundant venture capital, and a power reversal where investors now need founders more than vice‑versa. These forces have amplified founder wealth and widened inequality, offering a structural explanation beyond simple political narratives. The analysis underscores that the rise of tech‑focused companies represents a qualitative change in wealth creation, moving from deal‑making and resource extraction to superior technology and rapid scaling. Understanding these mechanisms reveals why entrepreneurship is becoming the default path to great wealth and why the Gini coefficient continues to rise.",
-    "summary_zh": "文章深入探讨了1982年至2020年间美国顶尖富豪财富来源的转变，揭示出创业企业和科技公司如何成为新财富引擎。成本降低、增长加速及风险投资的兴起，赋予创始人前所未有的权力，推动更多人通过创业致富，反映了历史周期的自然更替。",
-    "best_quote_en": "People get richer from starting companies now than they did in 1982, because the companies do different things.",
-    "best_quote_zh": "人们如今从创业中获得财富比1982年更多，因为公司的运作方式不同。"
-  },
-  {
-    "id": 19,
-    "title": "An Epistemic Audit for Existential Risks from AI",
-    "title_zh": "人工智能存在风险的认识审计",
-    "source": "LessWrong",
-    "link": "https://www.lesswrong.com/posts/aHJ8MkPTWPDnuFLRL/an-epistemic-audit-for-existential-risks-from-ai",
-    "tags": [
-      "analyze",
-      "ai-research",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "AI研究",
-      "数据驱动"
-    ],
-    "date": "2026-07-13",
-    "summary_en": "Alexander Müller introduces an Epistemic Audit that turns abstract concerns about AI existential risk into a structured, repeatable self‑assessment. By mapping beliefs across capability, agency, alignment, takeoff, and mitigation domains, the tool forces readers to distinguish what they know from what they merely assume. It quantifies uncertainty on a three‑point scale and tracks confidence direction, turning personal judgment into comparable data. The audit not only highlights knowledge gaps but also guides research effort toward questions that would most shift one’s overall risk estimate. Müller positions the framework as a shared language for cruxes, enabling collaborative evidence‑sharing and longitudinal analysis. While the specific questions are not novel, the protocol’s emphasis on measurable, falsifiable beliefs and its potential for aggregation across respondents represent a methodological advance. The approach appeals to newcomers seeking a systematic entry point and to seasoned researchers looking for a tool to prioritize inquiry and coordinate discourse on one of humanity’s most consequential technological trajectories.",
-    "summary_zh": "这篇文章提出了一个自我审视工具，通过量化不确定性帮助研究者聚焦关键问题。它将存在风险分解为因果链，促使读者明确信念边界，并指导下一步学习。框架的可重复性与协作性，或将重塑AI风险研究的方法。",
-    "best_quote_en": "The questions where your uncertainty is high and which would move your overall view are exactly the ones you should study next.",
-    "best_quote_zh": "那些让你不确定且可能改变整体观点的问题，正是你应该优先研究的问题。"
-  },
-  {
-    "id": 20,
-    "title": "Write Simply",
-    "title_zh": "写得简单",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/simply.html",
-    "tags": [
-      "guide",
-      "startup-strategy",
-      "society",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "指导",
-      "创业策略",
-      "社会议题",
-      "未来预测"
-    ],
-    "date": "2026-07-14",
-    "summary_en": "This essay champions the virtue of plain language in writing, arguing that simplicity enhances reader engagement and idea retention. The author illustrates how reducing linguistic friction allows thoughts to surface more directly, likening ideal prose to the Italian \"saltimbocca\"—a bite that leaps into the mouth. By trimming unnecessary complexity, writers avoid pretentiousness and make their work accessible to a global, non‑native audience. The piece also highlights that simple writing endures across cultural and linguistic shifts, serving as a hallmark of craftsmanship. While acknowledging that stylistic flourish has its place, the author stresses intentionality over accidental obscurity. Through a reflective, almost meditative tone, the article offers practical guidance: draft quickly, then edit ruthlessly, cutting away excess to reveal clarity. It is both a philosophical manifesto and a hands‑on tutorial for anyone who wishes to communicate ideas with honesty, impact, and lasting relevance.",
-    "summary_zh": "简单写作并非炫耀技巧，而是让读者专注于思想。它教导我们通过简洁表达传递更深层次见解，并关注全球多元读者的需求。这篇文章揭示了清晰沟通的艺术，以及为何简洁是真正高超的写作技艺。",
-    "best_quote_en": "the ideas leap into your head and you barely notice the words that got them there.",
-    "best_quote_zh": "思想跃入你的脑海，你几乎察觉不到将它们带到这里的文字。"
-  },
-  {
     "id": 21,
     "title": "Toy Models of Initialisation Effects on RL Dynamics",
     "title_zh": "强化学习动态中的初始化效应玩具模型",
@@ -2338,5 +2268,75 @@
     "summary_zh": "这篇分析揭示了50个开源项目如何在AI时代应对安全挑战，发现AI工具可以加速调查、优先处理和响应，但人类判断仍然不可或缺。GitHub安全开源基金提供了50万美元的非稀释资金，将维护者与安全专家、GitHub安全工具和AI辅助工作流程配对。关键见解表明，AI有助于漏洞分类、威胁建模和代码审查，但维护者仍需提供关键的上下文和责任感。像OpenClaw这样的项目制定了事件响应计划，扩展了安全工具的使用。这一项目展示了一种实用的模型，通过社区支持、专家指导和可衡量的成果来保护AI相关开源软件，突显了安全随着AI改变开发实践而不断演变。",
     "best_quote_en": "AI can help maintainers investigate, prioritize, and respond faster. Maintainers still provide the context, judgement, and accountability required to decide what ships.",
     "best_quote_zh": "AI 可以帮助维护者更快地调查、优先处理和响应。维护者仍然需要提供上下文、判断力和责任感，以决定什么可以发布。"
+  },
+  {
+    "id": 118,
+    "title": "The Lesson to Unlearn",
+    "title_zh": "要丢弃的教训",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/lesson.html",
+    "tags": [
+      "inspire",
+      "education",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "启发",
+      "教育学习",
+      "数据驱动"
+    ],
+    "date": "2026-08-18",
+    "summary_en": "The essay argues that the most damaging lesson learned in school is not any specific subject but the habit of chasing grades over genuine learning. The author recounts how college tests, designed to measure understanding, have become hackable because students quickly learn to study for the test format rather than the material itself. This misalignment leads to a system where students compete to maximize the gap between learning and grades, a skill that later manifests in startup culture and venture capital fundraising. The piece draws parallels between college admissions and startup selection, both of which reward performative competence over authentic quality. By highlighting how bad tests train people to \"hack\" rather than excel, the author calls for a societal unlearning of these flawed metrics. The essay suggests that reforming assessment—making it truly reflective of learning—could liberate enormous creative energy, echoing successful models like Lambda School. Ultimately, it urges readers to reconsider what we value in education and entrepreneurship, advocating for authentic growth over strategic gaming of broken systems.",
+    "summary_zh": "这篇文章揭示了最致命的教育弊端：学生学会了追求分数而非真正的学习。作者讲述了大学考试如何被“破解”，导致学习与成绩严重脱节。这种扭曲不仅影响学子，也渗透到创业和投资领域。我们应当摒弃这种通过操纵 flawed 机制获胜的思维，转而追求真正的学习和产品质量。只有改革评估方式，让它真正反映学习成果，社会才能释放被束缚的能量。",
+    "best_quote_en": "The worst thing it does is to train you that the way to win is by hacking bad tests.",
+    "best_quote_zh": "最糟糕的是，它训练你认为通过破解坏测试来获胜才是获胜之道。"
+  },
+  {
+    "id": 119,
+    "title": "Essentials: Tools for Hormone Optimization in Males | Dr. Kyle Gillett",
+    "title_zh": "男性激素优化 essentials：工具 | 凯尔·吉莱特医生",
+    "source": "Huberman Lab",
+    "link": "https://www.hubermanlab.com/episode/essentials-tools-for-hormone-optimization-in-males-kyle-gillett",
+    "tags": [
+      "solve",
+      "medicine",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "解决",
+      "医学健康",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2026-07-02",
+    "summary_en": "Dr. Kyle Gillett’s Essentials episode provides a comprehensive, science‑backed roadmap for male hormone optimization that spans diet, exercise, blood testing, and targeted supplementation. The discussion moves from foundational concepts—how testosterone fluctuates with age and lifestyle—to actionable protocols such as caloric moderation, resistance training, and precise nutrient timing. Gillett emphasizes the diagnostic power of regular bloodwork, framing it as the first step in any personalization strategy, and warns against one‑size‑fits‑all supplement regimens by highlighting the nuanced roles of creatine, L‑carnitine, Tongkat Ali, and Fadogia agrestis. The episode also tackles controversial topics like testosterone replacement therapy for younger men and the interplay between alcohol, aromatase activity, and prostate health, offering balanced perspectives backed by current research. By weaving clinical expertise with practical lifestyle pillars—stress management, purpose, and sleep—the conversation serves as both an educational resource and a guide for men seeking evidence‑based enhancements. Its interdisciplinary approach bridges medicine, nutrition, and performance science, making it a valuable reference for anyone interested in optimizing hormonal health through informed, data‑driven choices.",
+    "summary_zh": "凯尔·吉莱特医生提供了一套科学化的男性激素优化工具，涵盖血液检测、营养、运动及补充剂等领域。这集既是教育资源，也是实践指南，通过数据驱动的方法帮助男性了解并改善激素健康。",
+    "best_quote_en": "We discuss science‑based tools for optimizing male hormones across the lifespan, including the role of bloodwork, nutrition, and exercise in supporting healthy hormone levels.",
+    "best_quote_zh": "我们讨论了基于科学的男性激素优化工具，涵盖了整个生命周期，包括血液检测、营养和运动在维持健康激素水平中的作用。"
+  },
+  {
+    "id": 120,
+    "title": "How canvases make agentic workflows visible, steerable, and cost-efficient",
+    "title_zh": "画布如何让代理式工作流可视化、可控和高效",
+    "source": "GitHub Blog",
+    "link": "https://github.blog/ai-and-ml/github-copilot/how-canvases-make-agentic-workflows-visible-steerable-and-cost-efficient/",
+    "tags": [
+      "analyze",
+      "programming",
+      "design",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "编程开发",
+      "设计创意",
+      "数据驱动"
+    ],
+    "date": "2026-08-17",
+    "summary_en": "This article reveals how GitHub Copilot's canvas feature transforms agentic workflows from fragmented chat interactions into durable, collaborative systems. The author shares practical insights from building Java Modernization Studio and Site Studio canvases, demonstrating how persistent surfaces solve critical challenges in human-AI collaboration. Key innovations include explicit workflow states, visible decision points, and built-in approval mechanisms that reduce context loss and rework. The analysis balances technical implementation details with cost-benefit considerations, showing how initial AI credit investments (2,000-3,000 credits) yield long-term efficiency gains through reduced prompting, better trust, and improved governance. This represents a significant evolution beyond prompt-based interactions toward structured, memory-driven collaborative workflows.",
+    "summary_zh": "本文揭示了GitHub Copilot的画布功能如何将代理式工作流从零散的聊天交互转变为持久的协作系统。作者分享了构建Java现代化工作室和站点工作室画布的实践经验，展示了如何通过持久表面解决人机协作中的关键挑战。核心创新包括明确的工作流状态、可视化的决策点和内置的审批机制，这些设计减少了上下文丢失和返工。文章在技术实现细节与成本效益分析之间取得了平衡，展示了初始AI积分投资（2000-3000积分）如何通过减少重复提示、建立信任和改善治理带来长期效率收益。这标志着从基于提示的交互向具有记忆、结构和控制的协作工作流的重大转变。",
+    "best_quote_en": "Agents can produce changes faster than any human can review them",
+    "best_quote_zh": "代理可以产生的变化比人类可以审查的要快"
   }
 ]
