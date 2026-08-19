@@ -1,73 +1,5 @@
 [
   {
-    "id": 21,
-    "title": "Toy Models of Initialisation Effects on RL Dynamics",
-    "title_zh": "强化学习动态中的初始化效应玩具模型",
-    "source": "LessWrong",
-    "link": "https://www.lesswrong.com/posts/72AAjXAxS7Pow9Fie/toy-models-of-initialisation-effects-on-rl-dynamics",
-    "tags": [
-      "guide",
-      "ai-research",
-      "science",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "指导",
-      "AI研究",
-      "科学研究",
-      "数据驱动"
-    ],
-    "date": "2026-07-14",
-    "summary_en": "This article presents a follow‑up to Geodesic’s research on the pre‑RL alignment checkpoint, using a simple toy model to illustrate how initialization shapes reinforcement learning dynamics. The authors examine three key phenomena: rich‑get‑richer effects where early‑explored high‑reward actions dominate; underspecified behaviors that persist because reward functions ignore certain aspects of performance; and cognition underspecification, where internal reasoning patterns are not directly rewarded. By comparing deterministic full‑gradient updates with finite‑sample RLOO rollouts, the paper shows that sampling noise amplifies the impact of initial probabilities, making favorable initialization crucial for steering models toward desired outcomes. The analysis also highlights that even when a higher‑reward solution exists, sufficient optimization pressure can drive the model toward a lower‑reward but more easily exploitable behavior unless initialization biases it otherwise. The work offers both intuitive visualizations and rigorous proofs, making it a valuable resource for researchers and practitioners seeking to understand and control early‑stage RL learning. Interactive widgets and appendices further deepen the insight, encouraging readers to experiment with hyperparameters and reward structures.",
-    "summary_zh": "本文通过玩具模型深入探讨了初始化如何影响强化学习动态，揭示了富者愈富、行为未指定及认知未指定等关键现象。作者比较了确定性梯度和有限样本更新，发现采样噪声会放大初始概率的影响，因此有利的初始化对引导模型走向预期结果至关重要。文章还指出，在优化压力下，模型可能偏向于低奖励但易于利用的策略，除非初始化提供偏向性。研究结合直观可视化与严谨证明，为理解和控制早期RL学习提供了宝贵视角。",
-    "best_quote_en": "The solution that the model learns can depend importantly on the initial strategies into which it explores.",
-    "best_quote_zh": "模型学习到的解决方案可能严重依赖于它最初探索的策略。"
-  },
-  {
-    "id": 22,
-    "title": "Inside ICE’s Largest Detention Center",
-    "title_zh": "ICE最大拘留中心的内情",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/magazine/2026/07/20/locked-away",
-    "tags": [
-      "solve",
-      "politics",
-      "controversial"
-    ],
-    "tags_zh": [
-      "解决",
-      "政治时事",
-      "争议观点"
-    ],
-    "date": "2026-07-13",
-    "summary_en": "The article reveals how the Trump administration’s strategy of making detention conditions deliberately harsh drives immigrants to leave voluntarily, while exposing the human cost of sprawling tent facilities like Camp East Montana at Fort Bliss. Built on a military base with minimal infrastructure, the center became a symbol of policy brutality, plagued by safety lapses, legal challenges, and systemic neglect. Through personal stories—Rey’s sudden arrest, Sara’s frantic search, and detainees’ daily struggles—the piece illustrates how bureaucratic decisions and profit‑driven contracts create environments that dehumanize vulnerable populations. It also highlights the role of legal advocacy, media scrutiny, and political maneuvering in shaping immigration enforcement, urging readers to consider the ethical implications of using temporary, low‑cost facilities for long‑term human confinement.",
-    "summary_zh": "冰火两重天——从El Paso到西 Texas的移民拘留中心，揭示了政策如何将脆弱群体推入极端困境，折射出制度冷酷与人性挣扎的复杂面，引发深刻反思。",
-    "best_quote_en": "The Trump Administration's goal, a former ICE official said, \"is to make detention look and feel so bad that people leave.\"",
-    "best_quote_zh": "特朗普政府的目标，某前ICE官员说，‘就是让拘留条件看起来和感觉上都很糟糕，让人想离开。’"
-  },
-  {
-    "id": 23,
-    "title": "Sora 2",
-    "title_zh": "索拉2",
-    "source": "Sam Altman",
-    "link": "https://blog.samaltman.com/sora-2",
-    "tags": [
-      "solve",
-      "ai-research",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "解决",
-      "AI研究",
-      "未来预测"
-    ],
-    "date": "2025-09-30",
-    "summary_en": "The launch of Sora 2 marks a bold step toward democratizing video creation, positioning the new app as a \"ChatGPT for creativity\" that promises to turn ideas into polished videos with unprecedented speed and ease. The announcement highlights a potential Cambrian explosion of creative output, emphasizing features like character consistency and social cameo integration that could reshape how we connect and express ourselves visually. Yet the post is careful not to ignore the darker side of AI‑driven media, acknowledging risks of addiction, bullying, and algorithmic \"slop feeds.\" The team outlines a principled approach centered on long‑term user satisfaction, user‑controlled feeds, creation empowerment, and goal‑aligned assistance, backed by safeguards against misuse and wellbeing monitoring. This blend of visionary optimism and sober responsibility offers a compelling case study in how emerging AI tools might be guided toward socially beneficial outcomes while navigating ethical complexity.",
-    "summary_zh": "Sora 2 号称是创意领域的 ChatGPT 时刻，承诺让视频创作变得简单而丰富，同时也正视 AI 带来的社会风险。文章既描绘了创意可能迎来大爆发的愿景，也提出了长期满意度、用户控制、创作优先等原则，展现了公司对平衡创新与责任的思考。",
-    "best_quote_en": "Creativity could be about to go through a Cambrian explosion, and along with it, the quality of art and entertainment can drastically increase.",
-    "best_quote_zh": "创意可能即将迎来一场寒武纪大爆发，艺术和娱乐的质量也将大幅提升。"
-  },
-  {
     "id": 24,
     "title": "How Brussels can avoid becoming a digital vassal to US Big Tech",
     "title_zh": "布鲁塞尔如何避免沦为美国大科技的数字附庸",
@@ -2338,5 +2270,77 @@
     "summary_zh": "本文揭示了GitHub Copilot的画布功能如何将代理式工作流从零散的聊天交互转变为持久的协作系统。作者分享了构建Java现代化工作室和站点工作室画布的实践经验，展示了如何通过持久表面解决人机协作中的关键挑战。核心创新包括明确的工作流状态、可视化的决策点和内置的审批机制，这些设计减少了上下文丢失和返工。文章在技术实现细节与成本效益分析之间取得了平衡，展示了初始AI积分投资（2000-3000积分）如何通过减少重复提示、建立信任和改善治理带来长期效率收益。这标志着从基于提示的交互向具有记忆、结构和控制的协作工作流的重大转变。",
     "best_quote_en": "Agents can produce changes faster than any human can review them",
     "best_quote_zh": "代理可以产生的变化比人类可以审查的要快"
+  },
+  {
+    "id": 121,
+    "title": "Bernie Sanders Takes on Data Centers",
+    "title_zh": "伯尼·桑德斯针对数据中心",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/culture/the-new-yorker-interview/bernie-sanders-takes-on-data-centers",
+    "tags": [
+      "update",
+      "politics",
+      "ai-research",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "动态",
+      "政治时事",
+      "AI研究",
+      "数据驱动"
+    ],
+    "date": "2026-08-18",
+    "summary_en": "In a revealing New Yorker interview, Senator Bernie Sanders articulates a growing bipartisan backlash against the unchecked expansion of data centers that power today’s AI boom. He co‑sponsored a bill calling for a nationwide moratorium, arguing that the environmental toll—massive electricity and water consumption—and the socioeconomic risks, from job displacement to privacy erosion, demand immediate public scrutiny. Sanders frames the issue as a moral stand against corporate oligarchy, emphasizing that ordinary citizens, regardless of political stripe, are questioning the trade‑offs of unchecked tech growth. The piece not only chronicles legislative action in states like New York but also situates the debate within broader concerns about democratic oversight of emerging technologies. By juxtaposing Sanders’ policy proposals with expert commentary and historical context, the interview invites readers to consider how societies can balance innovation with sustainability and equity. It underscores the urgency of inclusive dialogue, suggesting that the future of AI infrastructure will be shaped as much by public will as by engineering prowess.",
+    "summary_zh": "桑德斯参议员在《纽约客》访谈中，揭示了针对数据中心激增的跨党派反对声浪。他提出全国性停建法案，指出数据中心耗费巨大能源与水资源，并可能导致就业流失与隐私侵犯，视为与全球顶尖富豪企业对抗的道德立场。这篇文章不仅报道了纽约等州的立法行动，还深入探讨了技术发展与公共利益之间的冲突，呼吁在技术进步的同时确保民主监督与社会公平。",
+    "best_quote_en": "\"What the hell are we doing? What is this gonna contribute to? Is this gonna result in my kid not being able to have a job? Is this gonna result in my not having any privacy? Why am I aiding these large corporations owned by the wealthiest people in the world who couldn’t care less about me? Let’s stand up.\"",
+    "best_quote_zh": "\"我们到底在做什么？这会对什么有贡献？这会不会导致我的孩子无法找到工作？这会不会导致我失去隐私？为什么我要帮助那些由世界上最富有的人所拥有、对我漠不关心的大公司？让我们站起来。\""
+  },
+  {
+    "id": 122,
+    "title": "The Tim Ferriss Show Transcripts: How to Reinvent Yourself and Make Bold Moves — Decisive Stories from Matthew McConaughey, Steve Young, Samin Nosrat, and More (#879)",
+    "title_zh": "《蒂姆·费里斯秀》 transcript：如何重塑自我、做出大胆抉择——马修·麦康纳、史蒂夫·杨、萨明·诺斯拉特等分享的决定性故事 (#879)",
+    "source": "Tim Ferriss",
+    "link": "https://tim.blog/2026/08/14/how-to-reinvent-yourself-transcript/",
+    "tags": [
+      "solve",
+      "lifestyle",
+      "medicine",
+      "case-study"
+    ],
+    "tags_zh": [
+      "解决",
+      "生活方式",
+      "医学健康",
+      "案例研究"
+    ],
+    "date": "2026-08-14",
+    "summary_en": "This transcript of Tim Ferriss’s special episode #879 explores the universal challenge of personal reinvention. Through vivid conversations with figures like NFL legend Steve Young, cancer survivor Suleika Jaouad, and designer Debbie Millman, the episode dissects how to shed outdated identities, navigate uncertainty, and commit to new directions. Steve Young frames transition as a mourning process, urging listeners to treat the end of one chapter as a death to be honored before moving forward. Jaouad challenges the myth of effortless \"moving on\" after trauma, emphasizing the necessity of integrating difficult experiences into one’s evolving self‑concept. Millman offers a concrete writing exercise that pushes readers to envision a future self with fearless ambition. The discussions blend practical guidance—such as Roger Staubach’s simple advice to \"run away\" from the old role—with deep psychological insight, making the content both actionable and profoundly reflective. By juxtaposing high‑profile success stories with raw, vulnerable reckonings, the episode serves as a roadmap for anyone seeking to reinvent themselves, offering tools, inspiration, and a compelling narrative that personal transformation is a deliberate, often messy, but ultimately rewarding journey.",
+    "summary_zh": "这期特别收录了体育传奇史蒂夫·杨、癌症幸存者苏莱卡·贾奥瓦德及设计师黛比·米尔曼等人的对话，探讨如何摆脱过时身份、面对不确定性并拥抱新篇章。杨将转变比作一场需哀悼和埋葬的“死亡”；贾奥瓦德则揭露“继续前行”的迷思，主张将创伤融入自我；米尔曼提供了一项大胆的未来愿景写作练习。这篇内容既提供实用的指导（如罗杰·斯塔博克的“远离旧身份”建议），又蕴含深刻的心理洞见，激发听众反思个人转型的复杂性与可能性。",
+    "best_quote_en": "Transition is like a death; you need to mourn it and bury it, otherwise you never truly move on.",
+    "best_quote_zh": "转变就像一场死亡；你需要哀悼并埋葬它，否则就永远无法真正过渡。"
+  },
+  {
+    "id": 123,
+    "title": "GitHub Copilot app for Beginners: Write your first prompt",
+    "title_zh": "GitHub Copilot 初学者应用：编写你的第一个提示",
+    "source": "GitHub Blog",
+    "link": "https://github.blog/ai-and-ml/github-copilot/write-your-first-prompt-with-the-github-copilot-app/",
+    "tags": [
+      "learn",
+      "ai-research",
+      "ai-product",
+      "beginner-friendly"
+    ],
+    "tags_zh": [
+      "学习",
+      "AI研究",
+      "AI产品",
+      "新手友好"
+    ],
+    "date": "2026-08-12",
+    "summary_en": "This article serves as an accessible entry point for beginners navigating AI-powered development tools, specifically GitHub Copilot. It demystifies the initial interaction with AI assistants by emphasizing that perfect prompts aren't necessary to start. The piece provides practical guidance on connecting projects, describing requests in plain language, and leveraging AI models flexibly. By highlighting iterative refinement and multiple input methods, it encourages a hands-on learning approach that reduces intimidation around AI technology. The content strategically positions GitHub Copilot as an approachable tool rather than an opaque black box, potentially expanding its user base beyond experienced developers. This approach could significantly impact how organizations adopt AI assistance tools, suggesting that user-friendly onboarding is crucial for widespread AI integration in development workflows.",
+    "summary_zh": "这篇文章为初学者打开了AI工具的大门，让GitHub Copilot不再遥远。它告诉我们，不需要完美的提示才能开始，简单地描述你的目标就是第一步。文章提供了从连接项目到尝试不同模型的实操方法，强调了试错和迭代的重要性。这种降低使用门槛的策略不仅能吸引更多开发者，也为企业推广AI辅助开发提供了宝贵的经验。",
+    "best_quote_en": "You don't need to write the perfect prompt to get started. A prompt is simply a description of what you want to accomplish.",
+    "best_quote_zh": "你不需要编写完美的提示来开始。提示只是描述你想要完成的事情。"
   }
 ]
