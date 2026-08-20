@@ -1,99 +1,5 @@
 [
   {
-    "id": 24,
-    "title": "How Brussels can avoid becoming a digital vassal to US Big Tech",
-    "title_zh": "布鲁塞尔如何避免沦为美国大科技的数字附庸",
-    "source": "LessWrong",
-    "link": "https://www.lesswrong.com/posts/Y2aArqdLrpJQ2GaEw/how-brussels-can-avoid-becoming-a-digital-vassal-to-us-big",
-    "tags": [
-      "analyze",
-      "ai-research",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "AI研究",
-      "数据驱动"
-    ],
-    "date": "2026-07-15",
-    "summary_en": "The article argues that Europe’s growing tech dependency—centered on a handful of US firms controlling AI models, chips, cloud, and standards—has become a structural threat rather than a series of isolated incidents. It highlights the June 2026 US export‑control order that blocked foreign access to cutting‑edge AI models, exposing how Washington can single‑handedly dictate global AI usage. While the ban was later rescinded, the episode revealed that existing EU regulatory tools (fines, audits, compliance theater) are insufficient against firms that have become \"tech extensive\"—deeply embedded across infrastructure and decision systems. The author proposes a two‑track strategy: first, build European capacity through coordinated industrial policy, funding, and talent attraction; second, constrain Big Tech structurally by setting market‑shaping standards, treating systemic players differently, and using mechanisms like the DMA’s behavioral remedies. The piece serves as a policy‑forward, expert‑insight guide for anyone seeking to understand, solve, analyze, and guide European efforts to reclaim digital sovereignty.",
-    "summary_zh": "文章指出，欧洲对美国科技企业的结构性依赖已成为重大威胁，从芯片到云服务、AI模型无不受制。2026年6月美国出口管制令临时封锁了外国用户访问最新AI模型的权利，凸显了华盛顿的单边影响力。欧盟现有的监管工具（罚款、审计、合规表演）已无法有效约束这些“科技规模庞大”的企业。作者提出双轨战略：首先，通过产业政策、资金支持和人才吸引构建欧洲能力；其次，通过市场标准和结构性约束（如DMA的行为补救措施）对大型科技企业实施差异化监管。该文为政策制定者和关注欧洲数字主权者提供深入的分析和可行的解决方案。",
-    "best_quote_en": "The most important AI‑governance development of 2026 so far wasn’t a model release. It was an export‑control order.",
-    "best_quote_zh": "2026年迄今为止最重要的AI治理发展不是模型发布，而是出口管制令。"
-  },
-  {
-    "id": 25,
-    "title": "Donate Unrestricted",
-    "title_zh": "无限制捐赠",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/donate.html",
-    "tags": [
-      "guide",
-      "startup-strategy",
-      "business-model",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "指导",
-      "创业策略",
-      "商业模式",
-      "未来预测"
-    ],
-    "date": "2026-07-16",
-    "summary_en": "The article argues that unrestricted donations are far more effective than restricted ones for nonprofits. While donors often impose conditions—seeking visibility, compliance, or personal agendas—the nonprofit typically knows best how to allocate resources. Restricted gifts can inadvertently support incompetent organizations or misdirected projects, whereas unrestricted funds empower experts to address real needs. The piece highlights rare exceptions, such as umbrella organizations or donors with deep domain expertise like the Gates Foundation. It also critiques the power imbalance that discourages nonprofits from challenging donors, urging contributors to trust proven entities with full discretion. By choosing unrestricted giving, donors maximize impact, avoid wasteful publicity stunts, and respect the nonprofit’s mission-driven judgment. The essay blends sharp analysis with a call to action, encouraging a shift in donor behavior toward more responsible and effective philanthropy.",
-    "summary_zh": "这篇文章尖锐地指出，无限制捐赠远胜于限制性捐款。捐赠者往往出于宣传或合规等目的设限，而非盈利机构更了解实际需求。限制性捐款可能支持不称职的组织或错失重点。作者列举了大学等伞式组织和盖茨基金会等专家捐赠者的例外情况，并揭示了权力不对称如何抑制非盈利机构的直言不讳。文章呼吁捐赠者信任专业机构，给予无限制资金，从而提升捐赠效能，避免空洞的宣传 stunt。这是一篇兼具深度分析与实践指导的反思性文章。",
-    "best_quote_en": "If you trust them to spend your money, trust them to decide how.",
-    "best_quote_zh": "如果你信任他们花钱，就信任他们决定怎么花。"
-  },
-  {
-    "id": 26,
-    "title": "The fundamental fallacy of language",
-    "title_zh": "语言的基本谬误",
-    "source": "LessWrong",
-    "link": "https://www.lesswrong.com/posts/MEwhjL2Pfr92tFsme/the-fundamental-fallacy-of-language",
-    "tags": [
-      "guide",
-      "science",
-      "psychology",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "指导",
-      "科学研究",
-      "心理学",
-      "数据驱动"
-    ],
-    "date": "2026-07-16",
-    "summary_en": "Sunny from QAD explores how language’s inherent ambiguity leads us to mistake sentences for propositions and words for concepts, assuming a single objective meaning. The article argues that interpretation is a richer, more charitable process: we must survey multiple plausible meanings before reacting, using examples like \"I’m exactly six feet tall\" and the structure of the piece itself to illustrate spectrum versus bucket thinking. This fallacy has practical implications for communication, reading comprehension, and even AI systems that attempt to parse human text. By encouraging readers to ask what they can agree with rather than what they can argue against, the piece offers a pragmatic mantra for reducing misunderstanding. The analysis is both intellectually rigorous and personally engaging, reminding us that careful, empathetic interpretation is essential for meaningful dialogue.",
-    "summary_zh": "语言充满歧义，我们常以为文本有唯一含义，实则需从众多可能意义中挑选最合理者。作者提醒我们，阅读时先求同而非求异，这才是避免误解的关键，也是建立更包容对话的起点。",
-    "best_quote_en": "When reading a text, don't ask what there is to argue with; ask what there is to agree with.",
-    "best_quote_zh": "阅读文本时，不要问有什么可反驳的，要问有什么可认同的."
-  },
-  {
-    "id": 27,
-    "title": "Spain’s Beautiful Balance",
-    "title_zh": "西班牙的美丽平衡",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/sports/world-cup-2026/spains-beautiful-balance",
-    "tags": [
-      "analyze",
-      "leadership",
-      "lifestyle",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "分析",
-      "领导管理",
-      "生活方式",
-      "未来预测"
-    ],
-    "date": "2026-07-15",
-    "summary_en": "Louisa Thomas captures the nuanced narrative of Spain’s journey to the 2026 World Cup final, focusing on the interplay between prodigious talent and collective discipline. The article profiles Lamine Yamal, an 18‑year‑old phenom whose early fame and ego could have derailed the team, yet his maturity and willingness to blend into the tactical fabric prove pivotal. Thomas highlights how Spain’s success stems not from individual flashes but from a “beautiful balance” of structured play, patient pressing, and Rodri’s masterful midfield anchor work. The piece contrasts expectations of youthful stardom with the reality of team‑oriented strategy, offering readers insight into modern soccer’s evolving dynamics. It also examines the psychological dimensions of handling fame, the leadership required to sustain harmony, and the broader lesson that true excellence often lies beneath highlight reels. This analysis serves as both a compelling sports story and a case study in collaborative success, making it valuable for fans, analysts, and anyone interested in high‑performance teamwork.",
-    "summary_zh": "托马斯以细腻的笔触描绘了西班牙队如何在2026年世界杯决赛中实现天才与纪律的平衡。年轻球星拉米恩·亚马尔（Lamine Yamal）的成熟与团队协作精神成为关键。文章指出，西班牙的胜利源于“美丽的平衡”：精妙的战术配合、耐心的高压逼抢，以及中场大将罗德里的出色控场。这不仅是一场体育盛事，更是一堂关于当今足球中团队精神与心理素质的课，揭示了耀眼光环背后的真实实力。",
-    "best_quote_en": "There is more to soccer than what you can see in the highlights or on the score sheet. Recognizing this is a skill that Yamal seems to be mastering early.",
-    "best_quote_zh": "足球远不止高亮片段或比分表能展示的东西。认识到这一点是杨阿尔正在早日掌握的技能。"
-  },
-  {
     "id": 28,
     "title": "What’s in my NOW? — Editor Edition",
     "title_zh": "我现在的拥有什么？——编辑版",
@@ -2342,5 +2248,99 @@
     "summary_zh": "这篇文章为初学者打开了AI工具的大门，让GitHub Copilot不再遥远。它告诉我们，不需要完美的提示才能开始，简单地描述你的目标就是第一步。文章提供了从连接项目到尝试不同模型的实操方法，强调了试错和迭代的重要性。这种降低使用门槛的策略不仅能吸引更多开发者，也为企业推广AI辅助开发提供了宝贵的经验。",
     "best_quote_en": "You don't need to write the perfect prompt to get started. A prompt is simply a description of what you want to accomplish.",
     "best_quote_zh": "你不需要编写完美的提示来开始。提示只是描述你想要完成的事情。"
+  },
+  {
+    "id": 124,
+    "title": "Over/Under review – beautiful coming of age story of female best friends set across five summers",
+    "title_zh": "《Over/Under》影评 – 五个夏日的少女情谊与成人礼故事",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/film/2026/aug/19/over-under-review-beautiful-coming-of-age-story-set-across-five-summers",
+    "tags": [
+      "analyze",
+      "education",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "教育学习",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2026-08-19",
+    "summary_en": "Sophia Silver’s ‘Over/Under’ captures the fragile, often overlooked landscape of pre‑teen girlhood with a rare blend of naturalism and emotional precision. Spanning five summers, the film follows Stella and Violet as they navigate bodily changes, friendship, bullying, and family strain, all rendered through subtle gestures and unguarded performances. Unlike the grand, decade‑long observational style of ‘Boyhood,’ this compact chronicle relies on the actors’ authentic ease to turn ordinary moments—learning to use tampons, hiding in dunes, fixing hair—into powerful rites of passage. The narrative balances tenderness with stark reality, allowing viewers to feel both the wonder and the anxiety of growing up. By foregrounding under‑represented experiences (menstrual education, cancer‑ridden mothers, body image), the film expands the coming‑of‑age canon and invites a broader cultural conversation about how we portray female adolescence. Silver’s restrained direction ensures the story remains intimate yet resonant, making ‘Over/Under’ a timely, thoughtful addition to contemporary cinema.",
+    "summary_zh": "《Over/Under》以细腻的自然主义风格，展现了五个夏日里两位少女的成长历程。从身体变化、友谊到家庭困境，影片以真实而细腻的方式刻画了女孩们的内心世界。导演银雪（Sophia Silver）避免了说教和矫饰，通过演员的自然表现，将寻常瞬间升华为对女性成长的深刻探讨。影片填补了女性月经教育、癌症、家庭关系等主题在银幕上的空白，引发了关于女性青春期描绘的广泛讨论。",
+    "best_quote_en": "The actors’ astonishing naturalism and ease in front of the camera make this an exemplary coming‑of‑age story.",
+    "best_quote_zh": "两位演员的惊人自然表现和镜头前的轻松感，使这部电影成为一部典范的成长故事。"
+  },
+  {
+    "id": 125,
+    "title": "The Real Meaning of the Jason Arday Scandal",
+    "title_zh": "杰森·阿代丑闻的真正意义",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/the-lede/the-real-meaning-of-the-jason-arday-scandal",
+    "tags": [
+      "solve",
+      "society",
+      "education",
+      "controversial"
+    ],
+    "tags_zh": [
+      "解决",
+      "社会议题",
+      "教育学习",
+      "争议观点"
+    ],
+    "date": "2026-08-19",
+    "summary_en": "Lauren Michele Jackson’s deep‑dive exposes how the Jason Arday scandal became a cultural flashpoint, revealing intersecting biases in academia, media, and online discourse. The piece critiques the tokenistic celebration of diversity that set Arday up for a spectacular fall, while also interrogating the gleeful weaponization of his alleged misconduct by both race‑realist commentators and institutional actors. Jackson highlights the paradox of a society that both fetishizes and vilifies high‑profile minorities, showing how the rapid, sensationalized scrutiny of Arday’s credentials amplified harassment and obscured systemic issues like plagiarism across disciplines. By juxtaposing the disproportionate media frenzy with broader patterns of academic fraud and the uneven application of integrity standards, the article argues that the tragedy is less about one individual’s falsehoods than about the corrosive dynamics of identity politics, institutional self‑interest, and the digital echo chambers that profit from moral panic. The narrative urges readers to look beyond the headline and consider the structural forces that turn personal ambition into public spectacle.",
+    "summary_zh": "杰森·阿代丑闻揭示了学术界、媒体和网络舆论中的偏见交织：多元化政策的浮夸宣传使他成为牺牲品，而“种族现实主义者”则将其当作攻击平等主义的工具。文章批判了社会对高知名度少数族裔的双重标准，既盲目崇拜又肆意谴责，指出这种现象掩盖了更深层的系统性问题，如学术不端行为的普遍存在和标准执行的不平等。作者呼吁人们超越对单一事件的关注，反思推动这一事件的结构性力量。",
+    "best_quote_en": "Arday was fetishized in his ascendancy by white liberals, for whom he served as a mirror in which they could see their own goodness, and he was fetishized in his downfall by white conservatives who saw him as a test case for their own obsessions with an academic apparatus that they believe is not meritocratic enough—which is to say, not white enough.",
+    "best_quote_zh": "阿代在上升期被白人自由派 fetishized，他们把他当作一面镜子，看到自己的善良。而在他垮台时，又被白人保守派 fetishized，他们把他当作一个测试案例，用于验证他们对学术体制的不满，认为它不够 meritocratic，也就是不够白。"
+  },
+  {
+    "id": 126,
+    "title": "What’s in my NOW? — Keith Kahn-Harris",
+    "title_zh": "我现在有什么？——基思·卡恩-哈里斯",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/whats-in-my-now-keith-kahn-harris/",
+    "tags": [
+      "update",
+      "lifestyle",
+      "design",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "动态",
+      "生活方式",
+      "设计创意",
+      "数据驱动"
+    ],
+    "date": "2026-08-19",
+    "summary_en": "Keith Kahn‑Harris offers a candid glimpse into his personal ecosystem, blending physical comforts, digital tools, and subtle lifestyle shifts. From a mechanical keyboard that turns typing into a synaesthetic pleasure to a fountain pen that redefines fiber‑tip writing, his curated setup illustrates how deliberate choices can amplify creative flow. The narrative extends to software—Fedora Atomic Cosmic Linux’s auto‑tiling desktops and Obsidian’s local‑first knowledge base—showcasing a migration away from proprietary silos toward open, adaptable environments. Health interventions like Mounjaro introduce a new layer, where medication‑assisted weight loss reshapes daily rhythms and enables early‑morning focus. This eclectic inventory is more than a checklist; it models a reflective, iterative approach to personal optimization. By foregrounding the interplay between material objects, digital habitats, and invisible habits, Kahn‑Harris invites readers to audit their own \"NOW\" and consider how incremental upgrades can generate disproportionate returns in productivity, well‑being, and intellectual clarity.",
+    "summary_zh": "作者分享了物理、数字与隐性的日常工具：机械键盘、钢笔、酸奶、Fedora 系统、Obsidian 笔记，以及早起与药物助眠的体验，展现了科技、健康与生产力的交织，引发读者反思自身‘当下’的配置与习惯。",
+    "best_quote_en": "Early mornings have had a revolutionary impact on my life.",
+    "best_quote_zh": "早起对我的生活产生了革命性的影响。"
+  },
+  {
+    "id": 127,
+    "title": "Essentials: How to Access Your Creativity | Rick Rubin",
+    "title_zh": "创意的本质：如何激发你的创造力 | 里克·鲁宾",
+    "source": "Huberman Lab",
+    "link": "https://www.hubermanlab.com/episode/essentials-how-to-access-your-creativity-rick-rubin",
+    "tags": [
+      "solve",
+      "lifestyle",
+      "education"
+    ],
+    "tags_zh": [
+      "解决",
+      "生活方式",
+      "教育学习"
+    ],
+    "date": "2026-08-20",
+    "summary_en": "In this Huberman Lab Essentials episode, legendary music producer Rick Rubin explores the art of unlocking creativity. Rubin breaks down the creative process into distinct phases, emphasizing how focus, deliberate disengagement, self‑doubt, deadlines, and meditation can become powerful catalysts for original work. He advises listeners to trust their personal taste, experiment without over‑explaining, and remain open to uncertainty, using everyday experiences—like pro wrestling and storytelling—as metaphors for authentic creation. The conversation blends psychological insight with practical routines, offering actionable strategies for anyone seeking to generate fresh ideas and complete projects more genuinely. Rubin’s blend of deep personal reflection and concrete techniques makes the episode both an inspiring manifesto and a hands‑on guide for cultivating a sustainable creative practice.",
+    "summary_zh": "里克·鲁宾在《创意的本质》中分享了激发创造力的实用方法，从信任品味到接纳不确定性，探讨了专注、休息、疑虑与冥想在创作流程中的作用，启发人们以更真实的方式面对工作与生活。",
+    "best_quote_en": "Trust your taste; experiment, don't over-explain.",
+    "best_quote_zh": "信任你的品味；实验，不要过度解释。"
   }
 ]
