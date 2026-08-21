@@ -1,77 +1,5 @@
 [
   {
-    "id": 28,
-    "title": "What’s in my NOW? — Editor Edition",
-    "title_zh": "我现在的拥有什么？——编辑版",
-    "source": "Kevin Kelly",
-    "link": "https://kk.org/cooltools/whats-in-my-now-editor-edition/",
-    "tags": [
-      "guide",
-      "psychology",
-      "design",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "指导",
-      "心理学",
-      "设计创意",
-      "未来预测"
-    ],
-    "date": "2026-07-15",
-    "summary_en": "Claudia Dawson invites readers into her personal ecosystem of tools and philosophies that shape her \"NOW.\" She blends physical modalities—full‑body red light therapy, Solfeggio tuning forks, and a portable massage table—with digital aids like AudioPen for dream transcription and the ACER Integration community for nature‑based spiritual work. Underlying this inventory is the Ubuntu philosophy, reminding us that growth occurs relationally, not in isolation. The piece serves as both a practical guide for anyone exploring holistic wellness and an inspirational reflection on how technology, ritual, and community can support embodied spiritual development. By sharing her curated toolkit, Dawson offers actionable steps for readers seeking to integrate alternative healing practices into daily life while grounding transcendent experiences in everyday relational work.",
-    "summary_zh": "克劳迪娅·道森分享了她个人工具与哲学清单，从红光疗法、共振叉到数字应用与社区，展现了身心灵整合的实践。乌班图哲学“人唯藉他人方为己人”成为核心思想，指出成长并非孤立。她以个人视角提供实用指南，激励读者探索替代疗法，并将超验体验融入日常生活中的关系与挑战中。",
-    "best_quote_en": "I am because we are.",
-    "best_quote_zh": "我之所以存在，因为我们存在。"
-  },
-  {
-    "id": 29,
-    "title": "Essentials: The Science & Treatment of Bipolar Disorder",
-    "title_zh": "必需品：双相情感障碍的科学与治疗",
-    "source": "Huberman Lab",
-    "link": "https://www.hubermanlab.com/episode/essentials-the-science-and-treatment-of-bipolar-disorder",
-    "tags": [
-      "learn",
-      "science",
-      "psychology",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "学习",
-      "科学研究",
-      "心理学",
-      "数据驱动"
-    ],
-    "date": "2026-07-16",
-    "summary_en": "This Huberman Lab Essentials episode provides a comprehensive exploration of bipolar disorder, covering its biological foundations, diagnostic criteria, and evidence-based treatment approaches. The content delves into the remarkable history of lithium discovery, explaining its mechanisms of reducing inflammation and providing neuroprotection. Dr. Huberman examines various treatment modalities including pharmacological interventions, psychotherapies, electroconvulsive therapy, and nutraceuticals like omega-3 fatty acids. The episode also explores the intriguing relationship between mood disorders and creativity, offering valuable insights for patients, families, and healthcare professionals. By bridging scientific research with practical applications, this educational content enhances understanding of bipolar disorder's complex neurobiology and empowers listeners with knowledge about current treatment options and lifestyle interventions.",
-    "summary_zh": "本期内容全面解析了双相情感障碍的生物机制与治疗方法，从锂盐的发现历程到现代治疗方案，从神经保护到生活方式调整，揭示了情绪障碍与创造力的奇妙联系。这不仅为患者和家属提供了科学知识，也让听众了解了脑科学在精神卫生领域的应用价值。",
-    "best_quote_en": "Lithium works, in part by reducing inflammation, providing neuroprotection and supporting the interoceptive neural circuits affected in bipolar disorder.",
-    "best_quote_zh": "锂盐通过减少炎症、提供神经保护和支持受影响的内感觉神经回路来发挥作用。"
-  },
-  {
-    "id": 30,
-    "title": "You Won’t Believe My Morning",
-    "title_zh": "你不会相信我的早晨",
-    "source": "Wait But Why",
-    "link": "https://waitbutwhy.com/2020/03/my-morning.html",
-    "tags": [
-      "learn",
-      "science",
-      "society",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "学习",
-      "科学研究",
-      "社会议题",
-      "数据驱动"
-    ],
-    "date": "2020-03-25",
-    "summary_en": "The essay transforms a mundane morning into a mind‑bending exploration of scale, using the author’s accidental shrink‑down to illustrate the hidden dimensions of the COVID‑19 pandemic. By juxtaposing the microscopic world of tiny humans with our macroscopic concerns, the piece offers a vivid, interdisciplinary lens that blends science, satire, and storytelling. Its core insight—that perspective shifts can reframe complex problems—makes it a valuable resource for readers seeking both educational entertainment and a fresh analytical framework for global health challenges. The narrative’s creative use of analogy and its layered humor invite readers to question assumptions about size, impact, and responsibility, positioning the work as both a cultural commentary and a pedagogical tool. This approach exemplifies how imaginative writing can democratize scientific concepts, fostering public engagement with topics that typically reside in specialized discourse.",
-    "summary_zh": "这篇文章将平凡的早晨转化为一场关于尺度的奇幻之旅，通过作者意外的微缩经历揭示新冠疫情的深层意义。它以生动的微观世界和宏观视角交织科学、讽刺与讲故事，提供了一个跨学科的解析框架。核心观点是改变视角能重新定义复杂问题，既是文化批判，也是教育利器。文章巧妙的比喻和幽默感促使读者反思规模、影响与责任，从而以通俗方式普及科学知识，激发公众对全球卫生挑战的参与。",
-    "best_quote_en": "SARS‑CoV‑2 is a standard sized Coronavirus—about 120 nanometers in diameter. 120 nanometers is ridiculously small in your world, but in ours, you can roll it around in your fingers.",
-    "best_quote_zh": "新冠病毒是标准的冠状病毒，直径约120纳米。在你们的世界里，这非常微小，但在我们这里，你可以把它捧在手心。"
-  },
-  {
     "id": 31,
     "title": "Abundant Intelligence",
     "title_zh": "丰富的智能",
@@ -2342,5 +2270,75 @@
     "summary_zh": "里克·鲁宾在《创意的本质》中分享了激发创造力的实用方法，从信任品味到接纳不确定性，探讨了专注、休息、疑虑与冥想在创作流程中的作用，启发人们以更真实的方式面对工作与生活。",
     "best_quote_en": "Trust your taste; experiment, don't over-explain.",
     "best_quote_zh": "信任你的品味；实验，不要过度解释。"
+  },
+  {
+    "id": 128,
+    "title": "Waves Turn review – the exhausting, joyful, boring, wondrous realities of new motherhood",
+    "title_zh": "波浪翻转 – 新妈妈的疲惫、喜悦、无聊与奇迹现实",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/film/2026/aug/18/waves-turn-review-wellen-wende-motherhood",
+    "tags": [
+      "analyze",
+      "lifestyle",
+      "psychology",
+      "case-study"
+    ],
+    "tags_zh": [
+      "分析",
+      "生活方式",
+      "心理学",
+      "案例研究"
+    ],
+    "date": "2026-08-18",
+    "summary_en": "Josephine Ahnelt’s documentary offers an intimate, 16mm‑shot portrait of five Austrian women navigating the first year of motherhood. By filming raw moments—snipping tiny fingernails, bouncing chubby thighs, the glazed stare of exhaustion—the film dismantles the myth of perpetual maternal bliss. The women’s voice‑overs reveal gradual love, judgment over feeding choices, and a transformed relationship with friends. This gentle yet truthful approach foregrounds the paradox of new motherhood: simultaneous exhaustion, joy, boredom, wonder, and a flood of unexpected emotions. Ahnelt’s home‑video aesthetic creates a closeness that feels both vulnerable and universal, inviting viewers to reconsider cultural ideals and recognize the complex, often contradictory, reality of caring for a newborn. The work stands as a thoughtful commentary on contemporary parenthood, challenging romanticised narratives and celebrating the messy, authentic human experience.",
+    "summary_zh": "这部奥地利纪录片以家庭电影般的亲密视角，展现了新妈妈在第一年的脆弱时刻——疲惫、喜悦、无聊与奇迹并存的真实状态。它打破了圣母形象，揭示了母亲们复杂的情感与日常琐事，引发我们对生育与身份转变的深刻反思。",
+    "best_quote_en": "The reality is exhaustion, joy, boredom, wonder and a rush of other feelings.",
+    "best_quote_zh": "现实是疲惫、喜悦、无聊、奇迹和各种各样的其他情感。"
+  },
+  {
+    "id": 129,
+    "title": "After Six Months of War, Trump Is Still Losing to Iran",
+    "title_zh": "特朗普六个月后仍输伊朗",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/global-notes/after-six-months-of-war-trump-is-still-losing-to-iran",
+    "tags": [
+      "analyze",
+      "politics",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "政治时事",
+      "数据驱动"
+    ],
+    "date": "2026-08-20",
+    "summary_en": "After six months of conflict, the United States finds itself strategically stalemated against Iran, a defeat that underscores a precipitous collapse of American power and prestige. The war, launched by Trump alongside Israel to dismantle Iran’s nuclear and missile programs, has instead hardened Tehran’s resolve and leveraged its geographic advantage, notably the Strait of Hormuz, to cripple global oil flows and pressure Washington. U.S. forces face dwindling supplies, morale crises, and mounting casualties, while Iran’s asymmetric tactics and resilient leadership have turned the tide. Analysts note that the conflict has eroded America’s regional standing, prompting Gulf states to seek autonomy from both Washington and Tehran. Domestically, the war’s unpopularity threatens Republican electoral prospects, exposing Trump’s overconfidence and the sunk‑cost fallacy that now traps the administration. The failure to achieve any initial objectives signals a broader shift: the United States can no longer easily herd the world behind its policies, and the war’s legacy will likely reshape U.S. foreign‑policy calculus for years to come.",
+    "summary_zh": "特朗普对伊朗的六个月战争仍以失败告终，凸显了美国力量和声望的急剧衰落。伊朗利用霍尔木兹海峡等地理优势，顶住了美国的打击，令美国在战略上陷入僵局。这场战争暴露了美国的过度自信和国内政治压力，也加速了地区国家对美伊的自主寻求。",
+    "best_quote_en": "The glass for Iran is definitely half full, and, even if we don’t use definitive adjectives like 'winning' and 'losing,' it’s very clear that it’s half empty for the Americans.",
+    "best_quote_zh": "伊朗的玻璃杯里肯定有一半水，即使我们不使用‘胜利’和‘失败’这样的确定形容词，也很清楚美国这边的一半是空的。"
+  },
+  {
+    "id": 130,
+    "title": "The August 17 outage, and the work ahead",
+    "title_zh": "8月17日停摆与后续工作",
+    "source": "GitHub Blog",
+    "link": "https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/",
+    "tags": [
+      "analyze",
+      "programming",
+      "leadership",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "编程开发",
+      "领导管理",
+      "数据驱动"
+    ],
+    "date": "2026-08-20",
+    "summary_en": "GitHub’s August 17 outage exposed critical scaling vulnerabilities as traffic surged to historic levels, overwhelming a key Central US data‑center component and triggering cascading service failures. This incident, following a recent Actions outage, underscores how rapid growth—monthly commits doubled since April—demands proactive capacity planning and resilient architecture. The response reveals a multi‑pronged strategy: massive infrastructure expansion (3M+ CPU cores, 120PB storage), migration to Azure, and architectural redesign for linear read scaling. Moreover, GitHub is tightening operational rigor through better testing, safer rollouts, enhanced observability, and retry‑storm mitigation. The post offers a transparent, data‑driven case study of how a platform can turn failure into actionable learning, balancing technical fixes with cultural commitments to developer trust. It invites reflection on the broader challenge of maintaining reliability amid exponential growth and complex systems.",
+    "summary_zh": "GitHub 8 月 17 日 outage 暴露出关键的扩展漏洞，流量激增导致美国中部数据中心核心组件不堪重负，引发服务连锁故障。随 April 月提交量增长一倍，平台面临的压力凸显了主动容量规划和弹性架构的重要性。GitHub 的应对措施包括大规模基础设施扩展（3M+ CPU 核心，120PB 存储）、加速 Azure 迁移，以及重新设计架构以实现线性读扩展。同时，他们强化了运营实践：更严格的测试、更安全的发布、更优的观测性和重试风暴防护。这篇透明、基于数据的文章展示了如何将失败转化为可行动的洞察，平衡技术修复与对开发者信任的文化承诺，引发了对如何在指数级增长和复杂系统中保持可靠性的深刻思考。",
+    "best_quote_en": "If you were trying to ship software that day, we let you down.",
+    "best_quote_zh": "如果您当天试图交付软件，我们让您失望了。"
   }
 ]
