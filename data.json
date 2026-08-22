@@ -1,99 +1,5 @@
 [
   {
-    "id": 31,
-    "title": "Abundant Intelligence",
-    "title_zh": "丰富的智能",
-    "source": "Sam Altman",
-    "link": "https://blog.samaltman.com/abundant-intelligence",
-    "tags": [
-      "inspire",
-      "ai-research",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "启发",
-      "AI研究",
-      "未来预测"
-    ],
-    "date": "2025-09-23",
-    "summary_en": "The article envisions an era where AI becomes a fundamental economic engine, perhaps even a basic human right, driving unprecedented demand for compute power. It outlines a bold ambition to construct a weekly gigawatt factory for AI infrastructure, tackling challenges from chip design to energy and robotics. The author argues that scaling compute will unlock transformative applications—curing cancer, personalized global tutoring—and that the bottleneck is not desire but capacity. By positioning this massive undertaking as the \"coolest and most important infrastructure project ever,\" the piece blends visionary optimism with a pragmatic roadmap, highlighting geopolitical competition and novel financing ideas. It invites readers to consider the societal implications of abundant AI, the ethical weight of choosing which problems to solve first, and the collective effort required to turn speculative dreams into tangible reality.",
-    "summary_zh": "这篇文章描绘了 AI 成为经济基石的未来愿景，甚至被视为基本人权，计算力的扩张成为核心驱动力。作者提出建设每周一吉瓦的 AI 基础设施工厂，跨越芯片、能源、建筑和机器人等全栈创新，以期通过计算突破解决癌症和全球个性化教育等重大挑战。文章既表达了雄心勃勃的远景，也揭示了地缘政治竞争与创新融资的紧迫性，引发我们对技术力量、社会责任和人类选择的深刻反思。",
-    "best_quote_en": "If AI stays on the trajectory that we think it will, then amazing things will be possible. Maybe with 10 gigawatts of compute, AI can figure out how to cure cancer.",
-    "best_quote_zh": "如果 AI 保持我们认为的轨迹，那么神奇的事情将是可能的。也许用 10 吉瓦计算，AI 可以找出治愈癌症的方法。"
-  },
-  {
-    "id": 32,
-    "title": "How Worldy Is the World Cup?",
-    "title_zh": "世界杯有多世界性？",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/sports/sporting-scene/how-worldy-is-the-world-cup",
-    "tags": [
-      "analyze",
-      "ai-research",
-      "society",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "分析",
-      "AI研究",
-      "社会议题",
-      "未来预测"
-    ],
-    "date": "2026-07-17",
-    "summary_en": "Anthony Lane’s 2026 World Cup commentary offers a sharp, nostalgic critique of football’s diminishing capacity for genuine surprise. He traces the tournament’s expansion—from 32 to 48 teams—as a hopeful antidote to homogenization, yet laments how commercial imperatives and global scouting have turned exceptional talent into pre‑packaged commodities. Lane juxtaposes the romance of early‑era legends like Pelé, whose rarity amplified myth, with today’s hyper‑visibility, where every player is already a global brand before stepping onto the pitch. The piece also examines cultural hospitality in the United States, contrasting it with political tensions, and reflects on coaching philosophies, from Thomas Tuchel’s bracing honesty to the perils of over‑confidence. Ultimately, Lane suggests that the World Cup’s power to challenge the status quo is eroding, raising questions about the balance between sport as spectacle and sport as a canvas for unexpected human drama.",
-    "summary_zh": "安东尼·莱恩的2026年世界杯评论犀利地指出，足球赛事的惊喜感正逐渐消失。他探讨了从32到48支球队的扩张，虽带来希望，却因商业化和全球人才发掘而使传奇球员提前商品化。文章对比了早期梅西等球星的稀有魅力与当今的全面曝光，揭示了体育从纯粹竞赛向品牌化娱乐的转变。同时，莱恩也描绘了美国的热情好客与政治现实，并反思了教练策略，从图赫尔直言不讳到各国球队的傲慢。这些观察反映出世界杯在挑战现状方面的局限，引发对现代体育本质的深刻思考。",
-    "best_quote_en": "Never before has a World Cup final been graced by a halftime spectacle.",
-    "best_quote_zh": "从未有过世界杯决赛有过半场表演的壮观场面。"
-  },
-  {
-    "id": 33,
-    "title": "It’s 2020 and you’re in the future",
-    "title_zh": "2020年，你已身处未来",
-    "source": "Wait But Why",
-    "link": "https://waitbutwhy.com/2020/01/its-2020-and-youre-in-the-future.html",
-    "tags": [
-      "inspire",
-      "psychology",
-      "society",
-      "beginner-friendly"
-    ],
-    "tags_zh": [
-      "启发",
-      "心理学",
-      "社会议题",
-      "新手友好"
-    ],
-    "date": "2020-01-02",
-    "summary_en": "This witty, data‑driven essay marks the arrival of the 2020s and invites readers to compare how temporal distances have shifted since the 1920s. By juxtaposing historical milestones—World War II, the Soviet collapse, Super Bowl counts, iconic films, and even the O.J. Simpson trial—it shows how events once considered ancient now feel immediate. The piece highlights generational perception gaps, notes that today’s children may live into the 2100s, and encourages a reflective appreciation of the present. Wait But Why’s characteristic blend of humor, visual timelines, and thoughtful commentary makes complex perspective‑shifting accessible and engaging, turning a simple New Year’s post into a lasting meditation on how we experience time.",
-    "summary_zh": "本文以幽默的方式对比历史事件的时间距离，指出2020年正如1920年那样令人向往，同时提醒我们如何看待战争、文化、体育等变化，引发对时间流逝和代际差距的思考，是一篇引人入胜的教育性文章。通过图表和生动的例子，它让读者意识到自己出生时间的相对位置，并提出了一个惊人的预测：如今的孩子大多能活到2100年代，引发对未来生活的思考。",
-    "best_quote_en": "When World War 2 started, the Civil War felt as far away to Americans as WW2 feels to us now.",
-    "best_quote_zh": "当第二次世界大战开始时，美国人觉得内战就像我们现在觉得二战一样遥远。"
-  },
-  {
-    "id": 34,
-    "title": "A peek into the post-capitalist dystopia",
-    "title_zh": "窥探后资本主义反乌托邦",
-    "source": "LessWrong",
-    "link": "https://www.lesswrong.com/posts/3BqAGpiK3wYPiedxk/a-peek-into-the-post-capitalist-dystopia",
-    "tags": [
-      "update",
-      "ai-research",
-      "society",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "动态",
-      "AI研究",
-      "社会议题",
-      "未来预测"
-    ],
-    "date": "2026-07-19",
-    "summary_en": "The essay offers a vivid, first‑hand portrait of San Francisco as a harbinger of a post‑capitalist future shaped by near‑solved artificial intelligence. The author, a young tech explorer, juxtaposes the city’s glittering startup culture with stark visible inequality—homeless encampments beside billboards celebrating founders—illustrating a society where AI’s economic benefits accrue to a narrow equity‑holding class. By highlighting the growing schism between AI‑adjacent beneficiaries and those facing displacement, the piece critiques the assumption that technological progress alone guarantees shared prosperity. It warns that when intelligence can be bought as compute, traditional labor may become obsolete, creating a permanent underclass that is economically unnecessary yet materially present. The narrative also calls for broader public literacy about AI fundamentals, urging both engineers and service workers to anticipate automation’s societal impact. Ultimately, the blog serves as both a cautionary tale and a call to action, urging society to steer technology toward inclusive outcomes before the singularity reshapes power structures beyond repair.",
-    "summary_zh": "旧金山已成为后资本主义时代的缩影，AI 红利集中于少数股权持有者，而劳动阶级被边缘化。作者警告，若不普及AI 基础知识，全社会可能步入不平等的硅谷式未来。",
-    "best_quote_en": "Intelligence is close to being solved.",
-    "best_quote_zh": "智能已接近被解决."
-  },
-  {
     "id": 35,
     "title": "Better Than Free: How To Differentiate In The Age Of AI",
     "title_zh": "超越免费：在AI时代如何实现差异化",
@@ -2340,5 +2246,101 @@
     "summary_zh": "GitHub 8 月 17 日 outage 暴露出关键的扩展漏洞，流量激增导致美国中部数据中心核心组件不堪重负，引发服务连锁故障。随 April 月提交量增长一倍，平台面临的压力凸显了主动容量规划和弹性架构的重要性。GitHub 的应对措施包括大规模基础设施扩展（3M+ CPU 核心，120PB 存储）、加速 Azure 迁移，以及重新设计架构以实现线性读扩展。同时，他们强化了运营实践：更严格的测试、更安全的发布、更优的观测性和重试风暴防护。这篇透明、基于数据的文章展示了如何将失败转化为可行动的洞察，平衡技术修复与对开发者信任的文化承诺，引发了对如何在指数级增长和复杂系统中保持可靠性的深刻思考。",
     "best_quote_en": "If you were trying to ship software that day, we let you down.",
     "best_quote_zh": "如果您当天试图交付软件，我们让您失望了。"
+  },
+  {
+    "id": 131,
+    "title": "‘We are impatient’: meet the women protesting for change in India",
+    "title_zh": "我们很不耐烦：Meet the women protesting for change in India",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/world/2026/aug/17/this-is-india-female-protesters-cockroach-janta-party-politics",
+    "tags": [
+      "analyze",
+      "society",
+      "politics",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "社会议题",
+      "政治时事",
+      "数据驱动"
+    ],
+    "date": "2026-08-18",
+    "summary_en": "The article spotlights a new generation of Indian women turning personal conviction into public action, from student leaders fasting for accountability to models confronting police vans. Their stories reveal how ordinary lives are reshaped by political awakening, social media amplification, and a collective impatience with entrenched injustice. The piece examines the historical lineage of women’s activism—from freedom‑struggle boycotts to the Chipko environmental movement—and connects it to today’s campus protests, highlighting the risks these women face, including harassment, surveillance, and suspension. By foregrounding voices like Neha Bora’s scholarly lens, Rhiya Ahir’s fearless blockades, Danish Ali’s Muslim‑identity‑rooted defiance, and Ratna Singh’s legal‑turned‑political journey, the narrative underscores a broader shift: youth demand transparent governance, reject divisive politics, and assert their right to shape policy. The analysis suggests that while barriers persist, especially in electoral politics, the multiplicity of protest routes and the emergence of grassroots leaders signal a transformative potential for Indian democracy, offering both hope and a cautionary tale about the costs of dissent.",
+    "summary_zh": "这篇报道聚焦于一群普通印度女性如何将个人信念转化为公开行动，从学生领袖绝食抗议到模特 physically 阻挡警车。她们的故事展现了历史上的女性运动传统，如自由斗争中的抵制运动和柴克波环境保护运动，并将其与当今校园抗议相连。文章通过 Neha Bora、Rhiya Ahir、Danish Ali 和 Ratna Singh 等女性的视角，揭示了她们在面对骚扰、监视和学业处分时如何坚守信念，挑战不公。报道指出，尽管政治障碍依然存在，但社交媒体和多元的抗议途径为女性赋权，激发了基层领导力的崛起，预示着印度民主可能的转变，同时也提醒我们，维权之路充满艰辛。",
+    "best_quote_en": "Freedom for me is to have a voice – and not be ashamed.",
+    "best_quote_zh": "对我来说，自由就是有声音——而不感到羞耻。"
+  },
+  {
+    "id": 132,
+    "title": "A Political Awakening in Arab America",
+    "title_zh": "阿拉伯裔美国人的政治觉醒",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/annals-of-activism/a-political-awakening-in-arab-america",
+    "tags": [
+      "analyze",
+      "science",
+      "lifestyle",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "科学研究",
+      "生活方式",
+      "数据驱动"
+    ],
+    "date": "2026-08-21",
+    "summary_en": "Rozina Ali’s narrative traces the Jabara family’s journey from Ottoman Syria to a Midwestern grocery store, illustrating the tension between preserving cultural heritage and assimilating into American life. Through the eyes of young Abdeen, we witness everyday moments—mulberry picking, pie‑baking debates, and the blending of Syrian and Midwestern customs—that evolve into a broader political awakening. The story pivots to Abdeen’s activism, revealing extensive FBI and NSA surveillance, legal battles over privacy rights, and the lasting precedent set for monitoring Arab and Muslim Americans. Ali connects personal memoir with systemic scrutiny, highlighting how a single family’s experience reflects larger themes of identity, civil liberties, and the cost of dissent in post‑9/11 America.",
+    "summary_zh": "这篇讲述阿拉伯裔美国人家庭的故事，展现了移民、习俗保留与政治觉醒的交织。年轻的阿布丁从家庭琐事中觉察到政府监控，揭示了公民权利与国家监视的深刻冲突，引发对身份认同与自由的深刻反思。",
+    "best_quote_en": "The government had been keeping tabs on him since 1967—triggered, he guessed, by his political activism after the war—and had received information on him from a domestic Zionist organization.",
+    "best_quote_zh": "政府从1967年起就开始监控他，他猜测这是因为他战后的政治活动，并从一个国内的犹太复国组织获得了关于他的信息。"
+  },
+  {
+    "id": 133,
+    "title": "Movement Practice to Strengthen Your Mind-Body Connection | Ido Portal",
+    "title_zh": "通过运动练习增强身心灵连接 | 伊多·波塔尔",
+    "source": "Huberman Lab",
+    "link": "https://www.hubermanlab.com/episode/movement-practice-to-strengthen-your-mind-body-connection-ido-portal",
+    "tags": [
+      "guide",
+      "psychology",
+      "ai-research",
+      "beginner-friendly"
+    ],
+    "tags_zh": [
+      "指导",
+      "心理学",
+      "AI研究",
+      "新手友好"
+    ],
+    "date": "2026-06-29",
+    "summary_en": "Ido Portal reveals how playful movement, rather than rigid exercise, can transform mental and physical health by strengthening the mind‑body connection. He contrasts discipline with willpower, showing that relaxed awareness at friction points rewires stress responses and deepens self‑understanding. Portal explains how to harness transitional states—like the cusp of sleep—to amplify bodily awareness and gain fresh insights. The discussion offers concrete movement patterns and practical strategies for integrating mindful motion into daily life, turning everyday actions into opportunities for growth. By embracing uncertainty and cultivating granularity in perception, listeners learn to expand neural pathways, improve emotional regulation, and nurture a more resilient sense of self. This intellectually curious conversation blends science with lived experience, providing actionable tools for anyone seeking to evolve their health, focus, and personal development through movement.",
+    "summary_zh": "伊多·波塔尔分享了如何通过游戏化运动而非刻板锻炼来提升身心灵健康，以增强身心灵连接。他指出以放松觉知面对练习中的困难点，可重塑对压力与恐惧的默认反应，并通过利用睡眠与清醒之间的过渡状态来提升身体觉察力和洞察力。此对话提供了实用的运动模式和策略，引导人们将 mindful 运动融入日常生活，将日常活动转化为成长机会。通过接纳不确定性和培养感知细微差异的能力， listeners 可以扩展神经网络，改善情绪调节，并建立更坚韧的自我认知。此对话将科学与实践相结合，为希望通过运动提升健康、专注力和个人发展的人提供了宝贵的见解。",
+    "best_quote_en": "Approaching friction points in your practice with relaxed awareness can rewire your default reactions to stress and fear.",
+    "best_quote_zh": "以放松的觉知去面对练习中的困难点，可以重塑你对压力与恐惧的默认反应。"
+  },
+  {
+    "id": 134,
+    "title": "The Tim Ferriss Show Transcripts: Relationship Tools That Work — Esther Perel, Brené Brown, Dr. Sue Johnson, Terry Real, and More on Conflict, Repair, and Lasting Love (#880)",
+    "title_zh": "《蒂姆·弗里斯秀》第880集 transcript：实用关系工具——埃斯特·佩尔、布雷尼·布朗等关于冲突、修复与持久爱情的讨论",
+    "source": "Tim Ferriss",
+    "link": "https://tim.blog/2026/08/20/relationship-tools-transcript/",
+    "tags": [
+      "analyze",
+      "science",
+      "psychology",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "科学研究",
+      "心理学",
+      "数据驱动"
+    ],
+    "date": "2026-08-21",
+    "summary_en": "This transcript of The Tim Ferriss Show episode #880 brings together leading relationship experts—Esther Perel, Brené Brown, Dr. Sue Johnson, Terry Real, and others—to explore practical tools for sustaining love amid inevitable exhaustion, misunderstanding, conflict, and change. The discussion weaves research (e.g., John Gottman’s Four Horsemen), personal anecdotes, and actionable habits: daily appreciation, letter‑writing, touch, humor, active listening, and the “ask, don’t complain” mantra. Speakers also highlight the 80/20 principle for marriage, the danger of categorical language, and the importance of honoring polarity (e.g., spender vs. saver). By synthesizing expert insights into concrete, implementable practices, the episode reframes relationships as skill‑based rather than purely emotional, offering a curated toolkit for couples to improve communication, repair conflicts, and nurture intimacy. Its value lies in making complex relational dynamics accessible and encouraging intentional, empathetic engagement.",
+    "summary_zh": "这期《蒂姆·弗里斯秀》transcript 汇集了埃斯特·佩尔、布雷尼·布朗等关系专家，分享了从日常赞赏、写情书到沟通技巧、避免四骑士等实用工具，强调通过习惯、共情和认可两极化来修复冲突、维系爱情，提供了一个将心理学研究转化为可操作的夫妻成长方案。",
+    "best_quote_en": "The opposite of the argument is coming in and saying, \"I want to listen to what you have to say. I want to apologize. What can I do to make this better?\"",
+    "best_quote_zh": "争吵的反面是，带着倾听和道歉的态度走近对方，问自己：‘我能做些什么让事情变得更好？’"
   }
 ]
