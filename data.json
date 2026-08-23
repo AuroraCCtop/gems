@@ -1,77 +1,5 @@
 [
   {
-    "id": 35,
-    "title": "Better Than Free: How To Differentiate In The Age Of AI",
-    "title_zh": "超越免费：在AI时代如何实现差异化",
-    "source": "Tim Ferriss",
-    "link": "https://tim.blog/2026/07/17/better-than-free/",
-    "tags": [
-      "solve",
-      "ai-research",
-      "business-model",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "解决",
-      "AI研究",
-      "商业模式",
-      "未来预测"
-    ],
-    "date": "2026-07-17",
-    "summary_en": "Kevin Kelly’s essay reframes the creator’s economy for the age of AI, arguing that when perfect copies become free and abundant, the scarce assets are the intangibles that cannot be duplicated. He identifies eight “generatives”—immediacy, personalization, interpretation, authenticity, accessibility, embodiment, scarcity, and trust—that retain value because they must be generated uniquely in each exchange. The piece blends historical perspective (from analog scarcity to digital abundance) with concrete examples, from hardcover books to Patreon-backed novels, illustrating how artists, writers, and entrepreneurs can monetize experiences, relationships, and expertise rather than mere copies. Kelly’s insight is both a warning and a roadmap: the future belongs to those who can cultivate generative qualities that AI cannot replicate. For creators, policymakers, and business strategists, the essay offers a provocative lens on differentiation, urging a shift from selling products to selling the irreducible human elements of creation.",
-    "summary_zh": "凯文·凯利指出，在AI时代，完美复制品免费泛滥，人类必须出售那些无法复制的无形资产：即时性、个性化、解读、真实性、可及性、实体性、稀缺性和信任感等八种“生成性”价值。这些不可复制的品质成为新的商业核心，指引创作者从出售复制品转向出售独特的人类体验与关系。",
-    "best_quote_en": "When copies are super abundant, they become worthless, and stuff which can't be copied becomes scarce and valuable.",
-    "best_quote_zh": "当复制品极其丰富时，它们就会变得一文不值，而那些无法被复制的东西则会变得稀缺和有价值。"
-  },
-  {
-    "id": 36,
-    "title": "What I Worked On",
-    "title_zh": "我做过的东西",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/worked.html",
-    "tags": [
-      "guide",
-      "education",
-      "startup-strategy",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "指导",
-      "教育学习",
-      "创业策略",
-      "数据驱动"
-    ],
-    "date": "2026-07-20",
-    "summary_en": "This reflective essay traces the author’s early fascination with programming, from punch‑card Fortran on an IBM 1401 to the DIY microcomputers of the late 1970s, and his subsequent pivot from AI research to art. It captures the excitement of discovering Lisp, the disillusionment with shallow natural‑language AI, and the eventual decision to write \"On Lisp\" while pursuing a Ph.D. in computer science. The narrative reveals how personal curiosity, rather than formal curricula, shaped his trajectory, highlighting the tension between building fleeting systems and creating lasting works. It also offers a rare insider view of the birth of Y Combinator and the evolution of startup culture, underscoring the importance of independent thinking in rapidly changing fields. The piece is both an inspiring origin story and a thoughtful commentary on the nature of technological progress.",
-    "summary_zh": "作者从IBM 1401的穿孔卡编程，到DIY微型电脑，再到AI研究的迷茫与艺术的觉醒，讲述了个人好奇心如何塑造了从编程到艺术的旅程。文章揭示了Lisp的魅力、早期AI的局限，以及对持久创作的追求，反映了独立思考在快速变革领域的价值。",
-    "best_quote_en": "AI, as practiced at the time, was a hoax.",
-    "best_quote_zh": "当时的 AI 实践本质上是一个骗局."
-  },
-  {
-    "id": 37,
-    "title": "What is Current AI-Risks and the Points？",
-    "title_zh": "当前AI风险有哪些要点？",
-    "source": "LessWrong",
-    "link": "https://www.lesswrong.com/posts/MbHQQLBbchWPKoyHB/what-is-current-ai-risks-and-the-points",
-    "tags": [
-      "learn",
-      "ai-research",
-      "science",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "学习",
-      "AI研究",
-      "科学研究",
-      "数据驱动"
-    ],
-    "date": "2026-07-20",
-    "summary_en": "The article offers a thoughtful examination of contemporary AI‑related risks, distinguishing between enterprise‑level and personal‑use challenges. It highlights security vulnerabilities, illustrated by real‑world incidents such as the exploitation of Claude in a geopolitical context, and stresses the growing difficulty of maintaining control over information workflows as AI processes ever‑larger, often unverifiable data sets. The author also warns of physical and psychological health impacts, including ergonomic strain and the erosion of personal autonomy through AI‑mediated emotional optimization. By categorizing these issues and proposing new frameworks for observation and mitigation, the piece serves as both an educational overview and a call to action for developers, managers, and users. Its interdisciplinary perspective bridges technical safety, organizational responsibility, and human‑centered concerns, making it a valuable resource for anyone seeking to understand the multifaceted dangers of today’s AI landscape and to navigate the ethical and practical dilemmas they present.",
-    "summary_zh": "本文从企业与个人双重视角剖析了当前AI风险，包括安全漏洞、责任模糊、信息过载导致的认知退化，以及AI可能“优化”用户主观状态引发的心理自主流失。通过梳理这些挑战，作者呼吁建立系统性观察机制，以应对AI日益普及对人类心理的潜在影响。",
-    "best_quote_en": "AI might oddly 'optimize' people's subjective states themselves.",
-    "best_quote_zh": "AI 可能会奇异地‘优化’人们的主体状态本身。"
-  },
-  {
     "id": 38,
     "title": "Florentina Holzinger’s Naked Ambition",
     "title_zh": "Florentina Holzinger 的赤裸野心",
@@ -2342,5 +2270,73 @@
     "summary_zh": "这期《蒂姆·弗里斯秀》transcript 汇集了埃斯特·佩尔、布雷尼·布朗等关系专家，分享了从日常赞赏、写情书到沟通技巧、避免四骑士等实用工具，强调通过习惯、共情和认可两极化来修复冲突、维系爱情，提供了一个将心理学研究转化为可操作的夫妻成长方案。",
     "best_quote_en": "The opposite of the argument is coming in and saying, \"I want to listen to what you have to say. I want to apologize. What can I do to make this better?\"",
     "best_quote_zh": "争吵的反面是，带着倾听和道歉的态度走近对方，问自己：‘我能做些什么让事情变得更好？’"
+  },
+  {
+    "id": 135,
+    "title": "Novelty and Heresy",
+    "title_zh": "新奇与异端",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/nov.html",
+    "tags": [
+      "inspire",
+      "startup-strategy"
+    ],
+    "tags_zh": [
+      "启发",
+      "创业策略"
+    ],
+    "date": "2026-08-23",
+    "summary_en": "The essay reflects on how genuine discovery inevitably brushes against established beliefs, branding innovators as heretics. It argues that breakthrough ideas are often concealed beneath widely accepted but mistaken assumptions, and challenging these assumptions provokes fierce resistance from those invested in them. Historical luminaries like Galileo and Darwin exemplify this clash, illustrating that suppression of dissenting views not only blocks correction of errors but also stifles the indirect insights that would expose them. The author highlights a paradox: the very \"dead zones\" of unexamined thought surrounding flawed assumptions become fertile ground for fresh perspectives when deliberately explored. By reframing heresy as a compass for innovation, the piece encourages individuals and organizations to cultivate tolerance for uncomfortable challenges, recognizing that the most transformative ideas often emerge from the shadows of cherished misconceptions. This mindset shift turns societal resistance into a strategic resource for progress.",
+    "summary_zh": "新知往往被视为异端，因为它触动了深藏的错误假设。压制异见不仅阻碍纠正谬误，也埋没了潜在的突破。这篇文章指出，每一个被珍视的错误假设周围都有一片未被探索的思想死区，而这片死区正是孕育新思维的宝藏。历史上的伽利略、达尔文等人物正是这一现象的写照。通过将异端视为创新指南，作者呼吁建立包容文化，让挑战成为推动进步的动力。",
+    "best_quote_en": "Every cherished mistaken assumption has a dead zone of unexplored ideas around it.",
+    "best_quote_zh": "每个被珍视的错误假设周围都有一片未被探索的思想死区。"
+  },
+  {
+    "id": 136,
+    "title": "Why People Want to Believe the Lindsay Clancy Conspiracy Theories",
+    "title_zh": "为什么人们愿意相信林赛·克兰西的阴谋论",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/the-lede/why-people-want-to-believe-the-lindsay-clancy-conspiracy-theories",
+    "tags": [
+      "analyze",
+      "psychology",
+      "design",
+      "controversial"
+    ],
+    "tags_zh": [
+      "分析",
+      "心理学",
+      "设计创意",
+      "争议观点"
+    ],
+    "date": "2026-08-22",
+    "summary_en": "The article dissects the surge of conspiracy theories surrounding Lindsay Clancy’s tragic case, revealing how societal mistrust, media sensationalism, and the profound grief of unheard women converge to fuel speculation. It highlights the clash between legal proceedings, mental‑health advocacy, and public obsession with true‑crime narratives, showing how algorithmic platforms amplify fringe interpretations. The piece interrogates the role of medical misdiagnosis, gender bias, and the erosion of institutional credibility, suggesting that the real story is less about Clancy’s guilt and more about who gets listened to in a polarized culture. By weaving together forensic details, courtroom drama, and the lived experience of postpartum psychosis, the author invites readers to reflect on the ethical responsibilities of journalism, the justice system, and society at large. The analysis underscores the urgent need for systemic reform in mental‑health care and a collective reckoning with how we process trauma, especially when it involves vulnerable mothers.",
+    "summary_zh": "这篇文章深入剖析了围绕林赛·克兰西案件兴起的阴谋论现象，揭示了社会不信任、媒体煽动和女性在极端情况下被忽视的悲伤如何共同推动了猜测的蔓延。它探讨了法律程序、心理健康倡导和公众对真实犯罪故事的痴迷之间的冲突，指出算法驱动的平台如何放大边缘化的解读。通过 forensic 细节、法庭戏剧和产后精神病患者的真实经历，作者引导读者反思新闻业、司法系统和整个社会的道德责任。文章强调，真正的问题不在于克兰西是否有罪，而在于在两极分化的文化中，谁的声音被倾听、谁被信任。作者呼吁改革精神卫生保健系统，并正视我们如何处理涉及脆弱母亲的创伤。",
+    "best_quote_en": "Women are being dismissed, neglected, and ignored when we speak up.",
+    "best_quote_zh": "当我们发声时，女性常常被忽视和不被听闻。"
+  },
+  {
+    "id": 137,
+    "title": "GitHub Copilot app for Beginners: Managing your work",
+    "title_zh": "GitHub Copilot 应用新手入门：管理工作",
+    "source": "GitHub Blog",
+    "link": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-managing-your-work/",
+    "tags": [
+      "guide",
+      "design",
+      "ai-research",
+      "beginner-friendly"
+    ],
+    "tags_zh": [
+      "指导",
+      "设计创意",
+      "AI研究",
+      "新手友好"
+    ],
+    "date": "2026-08-19",
+    "summary_en": "GitHub Copilot’s ‘My work’ pane emerges as a pragmatic solution to the fragmented workflow that developers often face when juggling multiple AI‑assisted sessions. This guide walks beginners through organizing pull requests and issues in a unified dashboard, highlighting built‑in views, custom filters, and flexible layout options. By showing how to create personalized views, switch between list and table formats, and launch agent sessions directly from tickets, the article demonstrates a tangible productivity boost that bridges the gap between raw AI assistance and structured project management. The emphasis on centralization and customization invites readers to rethink how AI tools can be integrated into existing version‑control practices, turning chaotic multitasking into a streamlined, traceable process. For newcomers, the step‑by‑step approach demystifies the Copilot app’s organizational features, encouraging confident adoption and more systematic collaboration.",
+    "summary_zh": "GitHub Copilot 的“我的工作”面板为开发者提供了一个集中管理 PR 和问题的统一入口，通过自定义视图和 AI 会话集成，让新手轻松将零散的工作转变为有序的项目管理。这是 AI 工具与日常开发流程衔接的优秀范例。",
+    "best_quote_en": "Being able to manage everything from one centralized location is key, and that's exactly why the My work pane exists.",
+    "best_quote_zh": "能够集中管理所有内容是关键，这正是 My work 面板存在的原因。"
   }
 ]
