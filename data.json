@@ -1,49 +1,5 @@
 [
   {
-    "id": 41,
-    "title": "Accelerate Learning & Increase Cognitive Capacity | Dr. Tommy Wood",
-    "title_zh": "加速学习与提升认知能力 | 汤米·伍德博士",
-    "source": "Huberman Lab",
-    "link": "https://www.hubermanlab.com/episode/accelerate-learning-and-increase-cognitive-capacity-tommy-wood",
-    "tags": [
-      "learn",
-      "education",
-      "psychology"
-    ],
-    "tags_zh": [
-      "学习",
-      "教育学习",
-      "心理学"
-    ],
-    "date": "2026-07-20",
-    "summary_en": "This episode with Dr. Tommy Wood offers a comprehensive guide to enhancing cognitive capacity through science-based approaches. As a neuroscience professor at the University of Washington, Dr. Wood reveals how specific exercise protocols, nutritional strategies, and targeted compounds can accelerate learning and stabilize mental skill development. The content bridges theoretical neuroscience with practical applications, providing actionable tools for both performance optimization and brain health preservation. Key insights include the role of novel tasks in stimulating neuroplasticity, the importance of nutrient timing for cognitive function, and evidence-based approaches to reducing dementia risk. The episode particularly stands out for its balanced perspective on cognitive enhancement—addressing both high-performance goals and recovery from brain injuries. Dr. Wood's expertise lends credibility to recommendations ranging from HIIT workouts and resistance training to omega-3 supplementation and GLP-1 compounds, making this valuable for anyone interested in optimizing their learning capacity and long-term brain health.",
-    "summary_zh": "汤米·伍德博士与我们分享了神经科学的最新发现，揭示了如何通过科学方法提升认知能力。他不仅介绍了促进神经可塑性的运动策略，还详细阐述了营养和补充剂在学习中的作用。这期内容非常实用，既关注高性能训练，也关心脑损伤后的恢复。听完后，我对大脑的适应能力有了新的认识，并学到了许多可以立即应用的方法来改善学习效果和保护脑健康。",
-    "best_quote_en": "We have tools now to preserve cognitive function, reduce dementia risk, and offset loss of memory after a concussion or other brain injury—tools that are science-based and practical.",
-    "best_quote_zh": "我们现在拥有科学实用的工具，可以保护认知功能，降低痴呆风险，并帮助从脑震荡或其他脑损伤中恢复记忆力。"
-  },
-  {
-    "id": 42,
-    "title": "The New Yorker Festival Offers a First Look at Its 2026 Lineup",
-    "title_zh": "纽约客2026年节目录销预览",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/news/press-room/2026-festival-lineup",
-    "tags": [
-      "update",
-      "lifestyle",
-      "politics"
-    ],
-    "tags_zh": [
-      "动态",
-      "生活方式",
-      "政治时事"
-    ],
-    "date": "2026-07-22",
-    "summary_en": "The New Yorker Festival offers a tantalizing glimpse into its 2026 lineup, signaling the magazine’s enduring role as a cultural hub. Early tickets for subscribers sold out quickly, with general availability slated for July 23, underscoring the event’s prestige. The program features a stellar roster— Gloria Steinem discussing activism with Jia Tolentino, comedian Cole Escola sharing humor with Julian Lucas, Parker Posey reflecting on performance with Michael Schulman, and musicians like King Princess and Wynton Marsalis offering artistic insights. Intellectual depth continues with panels on America’s meaning, AI and democracy, and freedom’s politics, moderated by leading writers. These conversations blend literature, entertainment, psychology, economics, and social critique, suggesting the festival’s mission to weave together diverse voices. For readers, the festival is not just a ticketed series but a curated immersion into contemporary thought, promising inspiration and a sense of belonging to an ongoing dialogue. The limited‑edition tote and exclusive perks further cement its status as a must‑attend cultural event.",
-    "summary_zh": "纽约客2026年节庆首曝阵容，汇聚文学、娱乐、思想大咖。订阅者优先购票，7月23日对外开售。活动涵盖对话、表演、论坛，展现文化交融与思想碰撞，令人期待。",
-    "best_quote_en": "The New Yorker Festival, the magazine’s annual celebration of culture and ideas, will return October 23rd to 25th, in New York City.",
-    "best_quote_zh": "《纽约客》节庆是杂志年度文化与思想的盛会，将于10月23日至25日重返纽约市。"
-  },
-  {
     "id": 43,
     "title": "Mary Wept Over the Feet of Jesus / Rad American Women A-Z",
     "title_zh": "玛丽跪在耶稣脚下 / 激进美国女性 A-Z",
@@ -2338,5 +2294,47 @@
     "summary_zh": "这篇对话揭示了多巴胺如何权衡努力与奖励，并提供了实用的“能量最小化”技巧——从分解任务到建立目的感——既能对抗拖延，也为预防神经退行性疾病提供了新视角。",
     "best_quote_en": "By reducing the activation energy of a task—breaking it into smaller steps and framing it with clear incentives—we can hijack the brain’s dopamine system to make starting feel rewarding, which dramatically boosts motivation and reduces procrastination.",
     "best_quote_zh": "通过降低任务的激活能量——将任务分解为小步骤并配以明确的激励——我们可以劫持大脑的多巴胺系统，让开始时感到有回报，从而显著提升动机并减少拖延。"
+  },
+  {
+    "id": 141,
+    "title": "General and Surprising",
+    "title_zh": "一般与惊奇",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/sun.html",
+    "tags": [
+      "guide",
+      "startup-strategy"
+    ],
+    "tags_zh": [
+      "指导",
+      "创业策略"
+    ],
+    "date": "2026-08-25",
+    "summary_en": "The essay reflects on the elusive intersection of generality and surprise in generating truly valuable insights. It argues that the most prized observations are both broad enough to be universally applicable and unexpected enough to capture attention, yet this sweet spot is rarely occupied because it is fiercely contested. Most attempts settle for either novelty without breadth—gossip—or breadth without novelty—platitudes. The author suggests that modestly valuable ideas emerge from adding a tiny increment of either generality or novelty to existing concepts, noting that even a minimal delta can produce useful understanding. He also reassures creators that repetition is inevitable, especially when dealing with highly general ideas, and that each iteration can introduce subtle variations that compound into breakthrough insights. By framing the creative process as a multiplicative cascade, the piece encourages perseverance against critics who claim there is \"nothing new\" under the sun, reminding us that the difference between \"nothing\" and \"almost nothing\" can be astronomically significant when scaled across all human thought.",
+    "summary_zh": "一般与惊奇的洞见最宝贵，却难觅踪迹。作者指出，多数人只能在‘八卦’与‘老生常谈’间摇摆，唯有微小的创新方能诞生实用洞见。重复并非耻辱，微小的变奏可触发连锁创新。我想我们都曾在平凡中寻找不平凡，正如作者所言，‘阳光下几乎无新事’，但从无到近无，乘以无限空间，便生希望。",
+    "best_quote_en": "The more general the ideas you're talking about, the less you should worry about repeating yourself.",
+    "best_quote_zh": "谈论的观点越一般化，你就越不必担心重复自己。"
+  },
+  {
+    "id": 142,
+    "title": "Relationship Tools That Work — Esther Perel, Brené Brown, Dr. Sue Johnson, Terry Real, and More on Conflict, Repair, and Lasting Love (#880)",
+    "title_zh": "关系工具：埃丝特·佩尔、Brené Brown、Sue Johnson博士、Terry Real等关于冲突、修复与持久爱情的讨论 (#880)",
+    "source": "Tim Ferriss",
+    "link": "https://tim.blog/2026/08/19/relationship-tools/",
+    "tags": [
+      "learn",
+      "psychology",
+      "leadership"
+    ],
+    "tags_zh": [
+      "学习",
+      "心理学",
+      "领导管理"
+    ],
+    "date": "2026-08-19",
+    "summary_en": "Tim Ferriss convenes a constellation of relationship luminaries—Esther Perel, Brené Brown, Dr. Sue Johnson, Terry Real, and others—to unpack the deceptively simple question of how couples stay close amid inevitable exhaustion, misunderstanding, and change. The episode distills decades of clinical insight into actionable tools, from naming emotional patterns to practicing vulnerable listening, and reveals a common rhythm: harmony, disruption, and repair. Listeners gain both a conceptual map of attachment science and practical scripts for navigating conflict, making the content valuable for anyone seeking to deepen intimacy. The experts balance scholarly rigor with lived experience, offering a rare blend of evidence‑based strategies and human storytelling. By foregrounding repair over perfection, the conversation reframes relationship longevity as a dynamic practice rather than a static ideal, encouraging continuous growth and compassionate curiosity.",
+    "summary_zh": "顶级关系专家齐聚，揭示夫妻维持亲密关系的秘密工具：如何面对冲突、修复破裂，实现持久爱情。这集提供了实用的心理学策略与专家见解，激发持续成长与 compassionate 好奇心。",
+    "best_quote_en": "The essential rhythm of all relationships is harmony, disharmony, and repair. Closeness, disruption, and a return to closeness.",
+    "best_quote_zh": "所有关系的基本节奏是和谐、冲突与修复：亲密、干扰，然后回归亲密。"
   }
 ]
