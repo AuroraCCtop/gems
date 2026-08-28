@@ -1,53 +1,5 @@
 [
   {
-    "id": 49,
-    "title": "Jakub and Szymon",
-    "title_zh": "雅库布与希蒙",
-    "source": "Sam Altman",
-    "link": "https://blog.samaltman.com/jakub-and-szymon",
-    "tags": [
-      "analyze",
-      "ai-research",
-      "science",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "AI研究",
-      "科学研究",
-      "数据驱动"
-    ],
-    "date": "2025-09-09",
-    "summary_en": "The piece celebrates the unsung heroes behind OpenAI’s rapid advances, spotlighting Jakub Pachocki and Szymon Sidor as pivotal figures whose blend of research and engineering has turned seemingly impossible challenges into breakthrough successes. It outlines how their work on scaling reinforcement learning laid the groundwork for landmark achievements like the Dota victory, the infrastructure enabling GPT‑4 pretraining, and the reasoning breakthroughs that are reshaping AI capabilities. By humanizing the technical progress, the article reminds us that behind every polished AI product lies relentless curiosity, collaboration, and a willingness to question conventional wisdom. It also underscores the broader narrative of scientific ingenuity, emphasizing that transformative technology is often the result of dedicated individuals pushing the boundaries of what is deemed feasible. This perspective invites both practitioners and enthusiasts to appreciate the people driving the field forward, rather than merely the products they create.",
-    "summary_zh": "本文向我们展示了OpenAI进步背后的真正推动者——雅库布和希蒙。他们将研究与工程完美结合，解决了诸多被视为不可能的难题，从强化学习扩展到Dota胜利、GPT‑4预训练以及推理突破等里程碑事件。文章提醒我们，每一款看似成熟的AI产品背后，都有着无数默默无闻的极客在不断探索与突破。这不仅是技术的进步，更是人类智慧与毅力的体现，值得我们深思与致敬。",
-    "best_quote_en": "Time and again, they combine research and engineering to solve impossible problems.",
-    "best_quote_zh": "他们不断将研究与工程相结合，解决不可能的问题。"
-  },
-  {
-    "id": 50,
-    "title": "LeBron James: An Odyssey",
-    "title_zh": "勒布朗·詹姆斯：奥德赛",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/sports/sporting-scene/lebron-james-an-odyssey",
-    "tags": [
-      "guide",
-      "society",
-      "leadership",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "指导",
-      "社会议题",
-      "领导管理",
-      "数据驱动"
-    ],
-    "date": "2026-07-24",
-    "summary_en": "Louisa Thomas reframes LeBron James’s epic career as a modern Odyssey, charting his journey from a hyped teenager to a multifaceted leader who transforms expectation into destiny. The piece dissects how James’s intelligence, adaptability, and strategic mind allowed him to navigate injuries, team politics, and public scrutiny, while also exploring his evolution beyond basketball into activism and community building. Thomas highlights the paradox of his greatness—admired universally yet not universally loved—illustrating how his power and benevolence echo the mythic hero’s complexity. By juxtaposing classical literature with contemporary sports culture, the article offers a nuanced lens on identity, sacrifice, and the ever‑shifting role of athletes in society, prompting readers to reconsider what it means to be a hero in the 21st century.",
-    "summary_zh": "Louisa Thomas 以现代奥德赛视角书写勒布朗·詹姆斯的职业生涯，描绘他从备受期待的少年到智勇双全的领袖，如何将压力转化为预言般的成就。文章剖析了他的多面性—从球场上的策略大师到社会行动者—展现他如何在逆境中 reinvent 自己，并投身社区建设。通过经典与当代的对话，她揭示了运动员在当今社会的复杂角色，引发读者对英雄定义的深刻反思。",
-    "best_quote_en": "He turned the expectations into prophecy. He made them his fate.",
-    "best_quote_zh": "他将期待转化为预言，他让这成为自己的命运。"
-  },
-  {
     "id": 51,
     "title": "The Gentle Singularity",
     "title_zh": "温和的奇点",
@@ -2332,5 +2284,51 @@
     "summary_zh": "Techaro 推出了 Anubis，这是一个基于工作量证明的反爬虫系统，旨在抵御 AI 公司的大规模抓取。通过增加微小的计算负担，它保护了网站资源，未来有望通过浏览器指纹识别实现更精准的验证。尽管目前需要启用 JavaScript，但作者认为这只是过渡方案，反映了技术治理与用户体验之间的权衡。",
     "best_quote_en": "Anubis uses a Proof‑of‑Work scheme in the vein of Hashcash…The idea is that at individual scales the additional load is ignorable, but at mass scraper levels it adds up and makes scraping much more expensive.",
     "best_quote_zh": "Anubis 采用与 Hashcash 类似的工作量证明机制……其理念是单个请求时的额外负担可以忽略不计，但面对大规模抓取时负担累积，使爬取成本大幅提升。"
+  },
+  {
+    "id": 149,
+    "title": "Book Freak #224: Exactly",
+    "title_zh": "《Exactly》",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/book-freak-224-exactly/",
+    "tags": [
+      "update",
+      "ai-research",
+      "tech-trends",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "动态",
+      "AI研究",
+      "技术趋势",
+      "未来预测"
+    ],
+    "date": "2026-08-28",
+    "summary_en": "Simon Winchester's 'Exactly' offers a fascinating exploration of precision engineering's transformative impact on human civilization, tracing its evolution from 18th-century cannon boring to modern microchip fabrication. The book reveals how John Wilkinson's precision cannon manufacturing enabled James Watt's steam engine, establishing the foundation for interchangeable parts that revolutionized mass production. Winchester's unique approach organizes content by orders of magnitude, from macroscopic to atomic scales, demonstrating precision's expanding reach across technological domains. Critically, the work balances technical admiration with cultural awareness, noting how Japan's aesthetic philosophy values imperfection alongside precision. This intellectual journey invites readers to contemplate their own relationship with perfection versus 'good enough' in an increasingly precise world. Winchester's narrative bridges historical scholarship with contemporary relevance, making complex engineering concepts accessible while highlighting precision's dual capacity to enhance and complicate human experience. The book serves as both technical history and philosophical meditation on modernity's obsession with exactness.",
+    "summary_zh": "Simon Winchester的《Exactly》以其对精密工程历史的深刻洞察，揭示了精确度如何从18世纪的英国炮管锻造演变为现代微芯片制造的基石。书中通过订单量级组织内容，从英寸级精度到原子级尺度，展现了精密工程如何推动从蒸汽机到微处理器的技术飞跃。作者不仅记录了约翰·威金森等先驱的技术突破，还批判性地指出了过度精确可能对艺术与 imperfection的压制，引用日本美学中不对称与粗糙的价值观念。整部作品既是技术史的记述，也是对现代社会精确化倾向的哲学反思，引导读者重新审视“完美”与“足够好”之间的平衡，以及如何在精密时代重估曾经被忽视的 imperfection 之美。",
+    "best_quote_en": "\"There are now more transistors at work on this planet (some 15 quintillion, or 15,000,000,000,000,000,000) than there are leaves on all the trees in the world.\"",
+    "best_quote_zh": "“如今地球上工作的晶体管数量（约15千亿亿个，或15,000,000,000,000,000,000个）比世界上所有的树叶还要多。”"
+  },
+  {
+    "id": 150,
+    "title": "How to Start When You’re Stuck, Finish What You Begin, and Stop Waiting for Inspiration — Creative Advice from Elizabeth Gilbert, Seth Godin, Joyce Carol Oates, Anne Lamott, and More (#878)",
+    "title_zh": "如何开始当你卡住时，如何完成你所开始的，以及如何停止等待灵感——来自伊丽莎白·吉尔伯特、西斯·戈丁、乔伊斯·卡罗尔·奥茨、安妮·拉莫特等人的创意建议 (#878)",
+    "source": "Tim Ferriss",
+    "link": "https://tim.blog/2026/08/07/writing-inspiration/",
+    "tags": [
+      "solve",
+      "design",
+      "ai-research"
+    ],
+    "tags_zh": [
+      "解决",
+      "设计创意",
+      "AI研究"
+    ],
+    "date": "2026-08-07",
+    "summary_en": "This episode of The Tim Ferriss Show gathers wisdom from celebrated authors—Elizabeth Gilbert, Seth Godin, Joyce Carol Oates, Anne Lamott, and others—on conquering creative blocks and building sustainable writing practices. Listeners learn that inspiration is unreliable and that consistent action, disciplined routines, and embracing \"resistance\" are the true engines of productivity. The experts share concrete tactics: setting micro‑goals, using \"fear‑setting\" to neutralize anxiety, maintaining a \"daily page\" habit, and reframing failure as data for iteration. By focusing on process over perfection, writers can start projects, see them through to completion, and develop a reliable output regardless of mood or external validation. The discussion also touches on adapting methods to individual psychology, leveraging shadow careers, and the importance of small wins in sustaining motivation. Overall, the compilation serves as a pragmatic guide for anyone seeking to transform creative aspirations into tangible results, offering both psychological insight and actionable steps.",
+    "summary_zh": "这期播客汇集了吉尔伯特、戈丁、奥茨等文学大家的实战经验，揭示了克服创作阻碍、持续产出与建立习惯的秘密。它提醒我们，灵感并非开始的前提，纪律与行动才是关键，对于希望成为作家或任何创意工作者的人都极具指导意义。",
+    "best_quote_en": "You don't wait for inspiration; you show up and work anyway.",
+    "best_quote_zh": "不要等待灵感，出现并工作就是了。"
   }
 ]
