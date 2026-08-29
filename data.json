@@ -1,75 +1,5 @@
 [
   {
-    "id": 51,
-    "title": "The Gentle Singularity",
-    "title_zh": "温和的奇点",
-    "source": "Sam Altman",
-    "link": "https://blog.samaltman.com/the-gentle-singularity",
-    "tags": [
-      "solve",
-      "ai-research",
-      "science",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "解决",
-      "AI研究",
-      "科学研究",
-      "未来预测"
-    ],
-    "date": "2025-06-10",
-    "summary_en": "The Gentle Singularity article argues that humanity has already crossed the threshold into a period of rapid AI advancement, often called the singularity, but the transition feels smoother than expected. The author highlights that current AI systems already surpass humans in many tasks, amplifying productivity and accelerating scientific discovery. While robots and ubiquitous AI assistants are not yet commonplace, the underlying technology is advancing exponentially, promising transformative changes by the 2030s. Key themes include the impending abundance of intelligence and energy, the potential for recursive self‑improvement, and the societal challenges of alignment and equitable access. The piece balances optimism about unprecedented progress with a call for careful governance, emphasizing that safety, distribution, and collective alignment are crucial. It also reflects on historical analogies, suggesting that humans will adapt, create new roles, and likely embrace “plug‑in” lifestyles. Overall, the article offers a thoughtful, forward‑looking perspective on how superintelligence could reshape work, creativity, and everyday life.",
-    "summary_zh": "《温柔的奇点》指出，人类已踏上人工智能加速之路，进展比预期更平缓。作者强调AI已超越人类多项能力，驱动生产力跃升和科学突破，预示2030年代将迎来智能与能源的丰沛时代，同时呼吁解决安全与公平分配问题。",
-    "best_quote_en": "Intelligence too cheap to meter is well within grasp.",
-    "best_quote_zh": "智能将变得极其廉价，触手可及。"
-  },
-  {
-    "id": 52,
-    "title": "Exfoliate, use ice and conceal eyebags wisely – makeup artists on how to look fabulous, at every age",
-    "title_zh": "聪明去角质、用冰敷、巧妙遮盖眼袋——化妆师教你如何在每个年龄段都闪耀",
-    "source": "Women | The Guardian",
-    "link": "https://www.theguardian.com/fashion/2026/jul/26/exfoliate-use-ice-and-conceal-eyebags-wisely-makeup-artists-on-how-to-look-fabulous-at-every-age",
-    "tags": [
-      "solve",
-      "lifestyle",
-      "design",
-      "beginner-friendly"
-    ],
-    "tags_zh": [
-      "解决",
-      "生活方式",
-      "设计创意",
-      "新手友好"
-    ],
-    "date": "2026-07-26",
-    "summary_en": "This article offers age‑positive makeup guidance, stressing that skincare is the foundation for all looks. Experts reveal why younger users should keep makeup minimal, how to conceal blemishes sparingly, and why heavy coverage can accentuate ageing lines. Practical tips include using a ‘makeup sandwich’ with primer and setting spray for heat‑proof longevity, applying green‑tea ice cubes to reduce puffiness, and choosing lightweight, hydrating formulas for mature skin. The piece also normalises makeup for men, encourages consistent eye‑cream routines, and suggests updating techniques through education and online inspiration. By shifting focus from covering flaws to enhancing natural features, the advice promotes confidence across genders and ages, challenging traditional beauty norms and encouraging a sustainable, inclusive approach to personal styling.",
-    "summary_zh": "每个年龄段都能闪耀的化妆秘诀：从基础护肤开始，年轻人保持简约，中年注重保湿和轻薄，热天用‘化妆三明治’防融化，巧用冰块和绿茶冰敷淡眼袋，刷子打造自然底妆，少遮盖皱纹，用心选粉底，男生也能自信化妆。这些建议打破了年龄与性别的刻板印象，提醒我们美是维持而非掩盖。",
-    "best_quote_en": "The more skincare you do, the less makeup you will need.",
-    "best_quote_zh": "护肤做得越多，化妆就越少。"
-  },
-  {
-    "id": 53,
-    "title": "The Airbnbs",
-    "title_zh": "Airbnb 的創始人們",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/airbnbs.html",
-    "tags": [
-      "learn",
-      "startup-strategy",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "学习",
-      "创业策略",
-      "数据驱动"
-    ],
-    "date": "2026-07-27",
-    "summary_en": "This reflective piece illuminates why Airbnb’s founding team stood out during Y Combinator, emphasizing their relentless work ethic, genuine passion, and ability to turn adversity into opportunity. The author recounts how the founders—Brian, Joe, and Nate—maintained an extraordinary attitude even when the startup was on the brink of failure, using personal experience as hosts to fuel their vision. Their focus on ramen profitability, targeted market penetration in New York, and hands‑on improvements to listings illustrate a pragmatic yet inspired growth strategy. The narrative also underscores the broader lesson that authentic user experiences can reveal untapped markets, and that perseverance rooted in personal insight often drives breakthrough innovation. By chronicling the early struggles and the pivotal moment of achieving ramen profitability, the article offers a timeless case study in startup resilience and the power of listening to real‑world feedback.",
-    "summary_zh": "這篇文章深入剖析了 Airbnb 創始人為何在 YC 脫穎而出：他們的勤奮、誠摯與將逆境轉為動力的能力。作者描述了三位創始人如何在公司瀕臨崩潰時仍堅持不懈，並從當初的房東體驗中找到靈感。他們以「廁所鏡子上的 4000 美金」為目標，聚焦紐約熱門市場，親自改善房源照片，最終實現了「麵條盈利」。這不僅是一個成功的創業案例，更揭示了真實用戶體驗如何開啟新市場，以及恆心與對用戶需求的深刻理解如何成為創新的核心動力。",
-    "best_quote_en": "We are not going to slow down.",
-    "best_quote_zh": "我們不會放慢腳步。"
-  },
-  {
     "id": 54,
     "title": "Your Top Health Questions Answered",
     "title_zh": "你的顶级健康问题解答",
@@ -2330,5 +2260,75 @@
     "summary_zh": "这期播客汇集了吉尔伯特、戈丁、奥茨等文学大家的实战经验，揭示了克服创作阻碍、持续产出与建立习惯的秘密。它提醒我们，灵感并非开始的前提，纪律与行动才是关键，对于希望成为作家或任何创意工作者的人都极具指导意义。",
     "best_quote_en": "You don't wait for inspiration; you show up and work anyway.",
     "best_quote_zh": "不要等待灵感，出现并工作就是了。"
+  },
+  {
+    "id": 151,
+    "title": "‘We’re at a crisis point’: Chappell Roan, Shirley Manson and Eli on playing Olivia Rodrigo’s women-led festival",
+    "title_zh": "我们正处于危机时刻：Chappell Roan、Shirley Manson 和 Eli 谈 Olivia Rodrigo 的女性主导音乐节",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/music/2026/aug/27/olivia-rodrigo-daisy-chain-fields-preview-chappell-roan-interview-eli-shirley-manson",
+    "tags": [
+      "update",
+      "society",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "动态",
+      "社会议题",
+      "未来预测"
+    ],
+    "date": "2026-08-27",
+    "summary_en": "Article explores Olivia Rodrigo’s debut women‑led festival, Daisy Chain Fields, as a bold response to the persistent gender imbalance in live music. Featuring veteran acts like Shirley Manson (Garbage) and emerging voices such as Chappell Roan and Eli, the event foregrounds community over competition, with all proceeds supporting reproductive‑rights organizations. Interviews reveal a sense of urgency: Manson reflects on past missed opportunities, noting that women’s rights are now regressing globally, while Roan frames the festival as a safe, inclusive space and a platform for giving back. Eli’s hopeful perspective ties the festival to broader aspirations for a harmonious future. The piece situates Daisy Chain Fields within a historic lineage of feminist festivals, from the 1976 Michigan Womyn’s Music Festival to Lilith Fair, yet emphasizes its contemporary relevance amid ongoing crises. By blending artistic celebration with concrete activism, the festival illustrates how artists can leverage scale for social impact, offering a model for future cultural initiatives.",
+    "summary_zh": "Olivia Rodrigo 的 Daisy Chain Fields 音乐节汇集女艺术家，以社区为本，将全部收益用于生殖权利组织。文章通过访谈揭示女性权益的危机，展现艺术家如何以规模换取社会影响，为未来文化活动提供灵感。该节庆延续了从 1976 年密歇根女歌手音乐节到 Lilith Fair 的传统，但在 2026 年女性权利倒退的背景下更显紧迫。艺术家们认为这是构建包容空间、支持女性权利的重要举措。",
+    "best_quote_en": "We're at a crisis point.",
+    "best_quote_zh": "我们正处于危机时刻。"
+  },
+  {
+    "id": 152,
+    "title": "Researchers and Founders",
+    "title_zh": "研究者与创业者",
+    "source": "Sam Altman",
+    "link": "https://blog.samaltman.com/researchers-and-founders",
+    "tags": [
+      "analyze",
+      "ai-research",
+      "startup-strategy",
+      "controversial"
+    ],
+    "tags_zh": [
+      "分析",
+      "AI研究",
+      "创业策略",
+      "争议观点"
+    ],
+    "date": "2020-06-19",
+    "summary_en": "The author reflects on a career spanning founders and researchers, noting surprising differences in the traits of top performers across these groups. While exceptions exist, the best individuals in both camps share a disciplined habit of confronting the Hamming question—what are the most important problems in our field, and why aren’t we solving them? This habit cultivates a keen ‘problem taste’ that blends independent thinking, future reasoning, and strategic attack vectors. They combine laser‑focus on immediate next steps with long‑term vision, exhibit relentless persistence, and act with a bias toward experimentation while honestly assessing what works. Creativity flows abundantly, even if many ideas prove flawed, and they cherish autonomy over arbitrary rules. Underlying motivations often stem from genuine curiosity rather than pure ambition. The piece invites readers to examine their own problem‑selection criteria, encouraging a more reflective, action‑oriented approach to both research and entrepreneurship.",
+    "summary_zh": "作者从创业者与研究者中提炼出有效人士的共同特质：不断反思海明问题，培养问题敏感性；兼具短期专注与长期愿景；坚持不懈，勇于行动并诚实评估成败；创意不断，即使许多想法不成熟；珍视自主性而非盲从规则。这些观察不仅揭示卓越者的心理图景，也启发我们重新审视自身的问题选择与行动方式。",
+    "best_quote_en": "The best people in both groups spend a lot of time reflecting on some version of the Hamming question—what are the most important problems in your field, and why aren’t you working on them?",
+    "best_quote_zh": "最优秀的人，无论是研究者还是创业者，都花大量时间思考海明问题——‘你所在领域最重要的问题是什么，为什么你没有去解决它？’"
+  },
+  {
+    "id": 153,
+    "title": "OpenClaw went viral. Meet the maintainers building and securing it.",
+    "title_zh": "OpenClaw 走红：Meet the maintainers building and securing it.",
+    "source": "GitHub Blog",
+    "link": "https://github.blog/open-source/maintainers/openclaw-went-viral-meet-the-maintainers-building-and-securing-it/",
+    "tags": [
+      "analyze",
+      "science",
+      "ai-research",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "科学研究",
+      "AI研究",
+      "数据驱动"
+    ],
+    "date": "2026-08-27",
+    "summary_en": "The explosive growth of OpenClaw, an AI assistant that runs locally and integrates with existing messaging platforms, offers a compelling case study in open‑source community dynamics. Within just six months, the project amassed nearly 388,000 GitHub stars, prompting maintainers to confront unprecedented challenges: a flood of AI‑generated pull requests, shifting trust signals, and emerging security risks tied to reputation and automated contributions. The video interview reveals how the team adapted by welcoming newcomers, using AI tools for code review, and redefining contribution quality through transparent work evidence. These insights highlight a broader trend where AI accelerates participation but also complicates governance, urging projects to balance openness with robust security practices. OpenClaw’s experience serves as both a cautionary tale and a blueprint for managing rapid growth in the AI era.",
+    "summary_zh": "OpenClaw 从一个个人实验迅速演变为全球性开源项目，引发了前所未有的社区治理挑战。面对 AI 生成的海量贡献，维护者重新定义了信任与安全，从欢迎新贡献者到利用 AI 工具进行代码审查，并强调通过透明的工作证据来评估质量。这反映出 AI 既推动了参与度，也加剧了治理复杂性，为快速增长的开源项目提供了宝贵的经验教训。",
+    "best_quote_en": "I don't even call them pull requests. I call them prompt requests.",
+    "best_quote_zh": "我甚至不叫它们是拉取请求，我叫它们是提示请求。"
   }
 ]
