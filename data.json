@@ -1,77 +1,5 @@
 [
   {
-    "id": 54,
-    "title": "Your Top Health Questions Answered",
-    "title_zh": "你的顶级健康问题解答",
-    "source": "Huberman Lab",
-    "link": "https://www.hubermanlab.com/episode/your-top-health-questions-answered",
-    "tags": [
-      "solve",
-      "psychology",
-      "science",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "解决",
-      "心理学",
-      "科学研究",
-      "数据驱动"
-    ],
-    "date": "2026-07-27",
-    "summary_en": "This episode of Huberman Lab delivers a comprehensive Q&A addressing listeners' most pressing health inquiries. Dr. Andrew Huberman explores evidence‑based strategies for optimizing sleep after late‑day training, caffeine‑free pre‑workout options that support rest, and neuroscience‑backed tools for memory and olfactory enhancement. Nutritional protocols for male and female fertility, the interplay between menopause and mental health, and accelerated surgical recovery are examined with practical guidance. The discussion also touches on finding career passion, balancing work‑life structure, and leveraging simple habits like the \"chop wood, carry water\" mindset. Each segment blends cutting‑edge research with actionable advice, making the content both educational and immediately applicable. The episode underscores the importance of integrating scientific insight with daily lifestyle adjustments for holistic health improvement.",
-    "summary_zh": "本期节目深入解答听众的健康疑问，涵盖夜间运动后睡眠优化、无咖啡因运动补充剂、记忆力与嗅觉神经科学工具、生育营养、绝经期心理健康、手术恢复加速及职业Passion探索等主题。内容融合最新研究与实用建议，既具有教育意义，又便于直接应用，强调将科学洞见融入日常生活以实现全面健康提升。",
-    "best_quote_en": "neuroscience‑supported tools for improving your memory and sense of smell",
-    "best_quote_zh": "神经科学支持的改善记忆力和嗅觉的工具"
-  },
-  {
-    "id": 55,
-    "title": "What makes a woman a witch? Financial independence",
-    "title_zh": "是什么让一个女人成为女巫？经济独立",
-    "source": "Women | The Guardian",
-    "link": "https://www.theguardian.com/lifeandstyle/2026/jul/26/women-witchcraft-financial-independence",
-    "tags": [
-      "analyze",
-      "science",
-      "medicine",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "科学研究",
-      "医学健康",
-      "数据驱动"
-    ],
-    "date": "2026-07-25",
-    "summary_en": "Lucianne Tonti’s investigation into the European witch trials reveals a chilling pattern: women who attained financial independence—whether through inheritance, skilled trades, or property management—were disproportionately targeted as witches. By tracing the 17th‑century case of Katherine Harrison in Connecticut, alongside broader research across Scotland, England, and Scandinavia, Tonti shows how accusations of witchcraft served as a social mechanism to police female autonomy. The book juxtaposes historical legal records with medical casebooks, demonstrating that women’s work in dairying, healing, and textile crafts was reinterpreted as malevolent magic. While modern witchcraft has been reclaimed as a symbol of intuition and empowerment, the article warns that the ‘witch’ label still carries implicit danger, as seen in recent political imagery. Tonti’s interdisciplinary approach blends history, gender studies, and sociology, offering a nuanced critique of how patriarchal structures weaponize superstition to suppress women’s economic and social agency.",
-    "summary_zh": "文章通过凯瑟琳·哈里森等历史案件揭示，女性的经济独立曾是女巫迫害的核心诱因。作者考察了欧洲和美洲的法庭记录，指出职业技能、医疗劳动和财产继承使女性易遭指控。尽管现代女巫象征着直觉与女权，但‘女巫’标签仍隐含暴力与风险。文章呼吁重新审视性别权力结构，警示社会不应以类似方式边缘化女性。",
-    "best_quote_en": "Historically it's been dangerous for women to reach for financial independence and status.",
-    "best_quote_zh": "历史上，女性追求经济独立和地位一直是危险的。"
-  },
-  {
-    "id": 56,
-    "title": "How to Think for Yourself",
-    "title_zh": "如何独立思考",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/think.html",
-    "tags": [
-      "solve",
-      "startup-strategy",
-      "education",
-      "case-study"
-    ],
-    "tags_zh": [
-      "解决",
-      "创业策略",
-      "教育学习",
-      "案例研究"
-    ],
-    "date": "2026-07-28",
-    "summary_en": "The essay argues that truly valuable work—whether in science, investing, startups, or writing—requires independent thinking that diverges from the mainstream. It distinguishes between professions where being merely correct suffices and those where novelty is essential for success. The author reflects on how independent‑minded individuals often feel out of place in conventional environments like high school or growing companies, yet they can nurture their mindset by seeking diverse peers, studying history, and cultivating skepticism. Practical techniques include questioning the truth of received ideas, labeling beliefs with precise confidence levels, and surrounding oneself with people who think differently. The piece also warns against mistaking strong convictions for independence and highlights the role of intellectual fashions that can stifle original thought. By treating curiosity as a disciplined pursuit and recognizing the innate versus cultivated aspects of independent thinking, readers are encouraged to assess their own work choices and develop habits that protect originality in an increasingly conformist world.",
-    "summary_zh": "这篇文章指出，真正的卓越工作——科学、投资、创业或写作——需要超越同侪的独立思考。它区分了只需正确与需创新的职业类型。作者反思独立思维者如何在高中有压力，在公司成长中被稀释，并提出通过结交不同思维者、研习历史、培养怀疑态度等方法来保护原创性。文章警示强信念非独立标志，并强调知识时尚如何淹没新观点。透过将好奇心视为纪律性追求，读者可审视自身选择，培养抵御从众的习惯。",
-    "best_quote_en": "The only valuable insights are the ones most other investors don't share.",
-    "best_quote_zh": "只有大多数投资者都不分享的见解才是宝贵的。"
-  },
-  {
     "id": 57,
     "title": "LaughBench",
     "title_zh": "笑基准",
@@ -2330,5 +2258,77 @@
     "summary_zh": "OpenClaw 从一个个人实验迅速演变为全球性开源项目，引发了前所未有的社区治理挑战。面对 AI 生成的海量贡献，维护者重新定义了信任与安全，从欢迎新贡献者到利用 AI 工具进行代码审查，并强调通过透明的工作证据来评估质量。这反映出 AI 既推动了参与度，也加剧了治理复杂性，为快速增长的开源项目提供了宝贵的经验教训。",
     "best_quote_en": "I don't even call them pull requests. I call them prompt requests.",
     "best_quote_zh": "我甚至不叫它们是拉取请求，我叫它们是提示请求。"
+  },
+  {
+    "id": 154,
+    "title": "Feminism for a World on Fire by Natasha Walter review – hope amid the hopelessness",
+    "title_zh": "娜塔莎·沃尔特的《世界在燃烧中的女性主义》评论——绝望中的希望",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/books/2026/aug/25/feminism-for-a-world-on-fire-by-natasha-walter-review-hope-amid-the-hopelessness",
+    "tags": [
+      "analyze",
+      "politics",
+      "society",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "政治时事",
+      "社会议题",
+      "数据驱动"
+    ],
+    "date": "2026-08-25",
+    "summary_en": "Samantha Ellis reviews Natasha Walter’s new book, which reframes feminism through an ecofeminist lens, arguing that climate collapse and gender injustice are inseparable. Walter critiques the commodification of “aspiration feminism” and its focus on individual empowerment, instead championing collective solidarity and sisterhood. Through vivid global stories—from Bangladeshi women fetching water to Rojava’s radical feminists—her work shows how women bear the brunt of environmental degradation yet also build resilient communities. Ellis highlights Walter’s personal journey, from celebrating Thatcher as a trailblazer to condemning pink‑hat consumerism, and underscores the book’s hopeful message that feminist joy lies in mutual aid, not market‑driven symbols. The review emphasizes the urgency of linking climate action with gender justice, offering both a sobering analysis of current feminist shortcomings and an inspiring vision of collaborative resistance.",
+    "summary_zh": "娜塔莎·沃尔特的《世界在燃烧中的女性主义》将生态feminism与全球正义紧密结合，批判了个体主义的“女性主义消费”，倡导集体团结与姐妹情谊。书中通过孟加拉国、罗贾瓦等地的女性故事，展现了环境崩溃对女性的首要影响，以及她们如何在绝望中构建新的社区。评论者埃利斯既指出了女性主义被商品化的弊端，也赞颂了Walter从个人英雄主义到共同行动的转变，认为真正的女性主义 joy 在于帮助他人，而非购买昂贵的粉色帽子。这本书提供了一条将气候行动与性别正义相结合的必经之路，充满希望与行动力。",
+    "best_quote_en": "Feminist joy is not about buying a £140 pink pussy hat, but about helping other women – and, maybe one day, celebrating with them when the seemingly impossible has been achieved.",
+    "best_quote_zh": "真正的女性主义 joy 不是买一个 140 英镑的粉色 pussy 帽子，而是帮助其他女性——或许有一天，当看似不可能的事情实现时，与她们一起庆祝。"
+  },
+  {
+    "id": 155,
+    "title": "Essentials: The Science of Eating for Health, Fat Loss & Lean Muscle | Dr. Layne Norton",
+    "title_zh": "健康饮食科学：脂肪减少与肌肉增长的基础 | 莱恩·诺顿博士",
+    "source": "Huberman Lab",
+    "link": "https://www.hubermanlab.com/episode/essentials-the-science-of-eating-for-health-fat-loss-and-lean-muscle-layne-norton",
+    "tags": [
+      "analyze",
+      "science",
+      "ai-research",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "科学研究",
+      "AI研究",
+      "数据驱动"
+    ],
+    "date": "2026-06-25",
+    "summary_en": "This Huberman Lab Essentials episode explores the science of nutrition and energy balance with Dr. Layne Norton, a leading expert in fat loss and metabolism. The discussion covers practical strategies for building lean muscle, optimal protein and fiber intake, and the science behind calories in versus calories out. Norton examines controversial topics like artificial sweeteners, seed oils, and animal versus plant-based proteins, offering evidence-based insights for sustainable weight management. The episode provides actionable protocols for determining daily energy expenditure, using tools like average weight tracking, and implementing effective dietary approaches. By addressing common nutritional myths and providing practical recommendations, this content serves as a comprehensive guide for anyone seeking to optimize body composition through science-backed nutrition strategies.",
+    "summary_zh": "本期哈勃曼实验室精要节目邀请了营养学专家莱恩·诺顿博士，探讨了能量平衡与利用的科学原理。两人讨论了构建瘦肌肉和减少脂肪的实用策略，涵盖了蛋白质和纤维的最佳摄入量、人工甜味剂、种子油以及动物蛋白与植物蛋白的对比。这期内容提供了实用的工具和协议，如平均体重追踪、卡路里控制以及可持续饮食的选择。通过揭示加工食品与卡路里过剩之间的关系，以及深入探讨人工甜味剂对减肥的影响，节目为听众提供了基于科学的营养建议，帮助他们实现健康的目标。",
+    "best_quote_en": "The science of energy balance is not about counting calories, it's about understanding how your body utilizes energy and building sustainable habits that support your goals.",
+    "best_quote_zh": "能量平衡的科学不仅仅是计算卡路里，而是理解身体如何利用能量，并建立支持目标的可持续习惯。"
+  },
+  {
+    "id": 156,
+    "title": "GitHub Copilot app for Beginners: Automate Dependabot pull request triage",
+    "title_zh": "GitHub Copilot 初学者应用：自动化 Dependabot 拉取请求分流",
+    "source": "GitHub Blog",
+    "link": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-automate-dependabot-pull-request-triage/",
+    "tags": [
+      "guide",
+      "ai-product",
+      "design",
+      "beginner-friendly"
+    ],
+    "tags_zh": [
+      "指导",
+      "AI产品",
+      "设计创意",
+      "新手友好"
+    ],
+    "date": "2026-08-26",
+    "summary_en": "This article demonstrates how GitHub Copilot's automation feature can transform repetitive Dependabot pull request triage into a streamlined background process. By creating a simple automation that reviews, categorizes, and summarizes dependency updates, developers can reclaim valuable time and focus on meaningful work. The tutorial shows how natural language prompts enable customization for team workflows, making AI assistance accessible even to beginners. This approach represents a practical application of generative AI in software development, moving beyond code generation to workflow automation.",
+    "summary_zh": "本文展示了如何利用 GitHub Copilot 的自动化功能将重复的 Dependabot 拉取请求分流工作转化为后台处理流程。通过创建简单的自动化脚本，开发者可以自动审查、分类和总结依赖项更新，从而节省宝贵时间专注于更有价值的工作。教程展示了如何使用自然语言提示定制团队工作流程，让 AI 协助变得触手可及。这代表了生成式 AI 在软件开发领域的实际应用，从代码生成扩展到工作流自动化。",
+    "best_quote_en": "It's the perfect task to offload to Copilot! With GitHub Copilot app automations, you can hand off that first round of review. Instead of manually inspecting every Dependabot pull request, you can create an automation that reviews open pull requests, groups them by risk, verifies CI status, and delivers a summary before your day begins.",
+    "best_quote_zh": "这是完美的任务，可以交给 Copilot 来完成！通过 GitHub Copilot 应用自动化，您可以将第一轮审查工作交给它。无需手动检查每个 Dependabot 拉取请求，您可以创建一个自动化脚本，审查开放的拉取请求，按风险分组，验证 CI 状态，并在您开始工作日之前提供摘要。"
   }
 ]
