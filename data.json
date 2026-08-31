@@ -1,51 +1,5 @@
 [
   {
-    "id": 57,
-    "title": "LaughBench",
-    "title_zh": "笑基准",
-    "source": "LessWrong",
-    "link": "https://www.lesswrong.com/posts/dduji8Hkwz2ASqzHi/laughbench",
-    "tags": [
-      "solve",
-      "ai-research",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "解决",
-      "AI研究",
-      "未来预测"
-    ],
-    "date": "2026-07-28",
-    "summary_en": "Taylor G. Lunt introduces LaughBench as a provocative metric for assessing whether AI truly possesses general intelligence. He argues that generating novel jokes that reliably make people laugh is an \"IQ‑hard\" task because it demands modeling others’ minds, spotting false inferences, and avoiding self‑reference—capabilities far beyond mere pattern recall. The current frontier models (GPT‑5.6 Sol and Fable) only occasionally elicit a smile, suggesting a nascent spark of understanding. Lunt contrasts comedy with math or coding benchmarks, which can be gamed with strong memory, and highlights other ambitious but hard‑to‑scale measures like FrontierMath, ARC‑AGI, and novel board games. He calls for objective, laughter‑based benchmarks as a proxy for the kind of deep reasoning needed for both dangerous applications (e.g., bioweapons, manipulation) and beneficial ones (curing disease, reshaping society). LaughBench thus reframes humor as a litmus test for the emergence of genuine AI intelligence, urging the community to prioritize benchmarks that truly challenge predictive models of the world.",
-    "summary_zh": "笑基准提出，真正智能的AI必须能讲出新笑话，这考验其理解人类思维、捕捉假推理的能力。当前模型仅能偶作一笑，显示智商仅有曙光。作者呼吁建立更客观的IQ-hard基准，因为真正的智能关乎安全与福祉。",
-    "best_quote_en": "You laugh or you don't. You can't squint and say, 'yeah, I think this is a good poem'.",
-    "best_quote_zh": "你要么笑，要么不笑。你不能眯着眼睛说，‘嗯，我觉得这首诗写得不错’。"
-  },
-  {
-    "id": 58,
-    "title": "Geology",
-    "title_zh": "地质学",
-    "source": "Kevin Kelly",
-    "link": "https://kk.org/cooltools/geology/",
-    "tags": [
-      "guide",
-      "science",
-      "ai-research",
-      "beginner-friendly"
-    ],
-    "tags_zh": [
-      "指导",
-      "科学研究",
-      "AI研究",
-      "新手友好"
-    ],
-    "date": "2026-07-27",
-    "summary_en": "This guide reimagines travel by revealing the hidden power points of American geology, turning ordinary road trips into immersive scientific adventures. By mapping over a hundred sites—from iconic meteor craters to fossilized forest casts—the author invites readers to explore the Earth’s dynamic processes directly, blending practical directions with vivid storytelling. The piece celebrates the educational value of accessible field observation, suggesting that vacation can be both restorative and intellectually enriching. It also highlights a growing appreciation for experiential learning, where personal curiosity meets rigorous documentation. Ultimately, the guide demonstrates how a simple love of rocks can transform our perception of landscape, encouraging a deeper connection to planetary history and the scientific narratives embedded in the ground beneath our feet.",
-    "summary_zh": "这本指南将旅行转变为科学探索，让你发现美国各地的地质奇观。从陨石坑到化石森林，每个地点都讲述着地球的故事。它将实用指南与生动的讲述相结合，让度假变得既轻松又富有知识意义，激发人们对地质科学的兴趣，并鼓励通过实地观察来理解地球的历史。",
-    "best_quote_en": "Geology is a force so huge we don’t see it. Yet evenly spread across the US (at least one in each state) are spots where our planetary behavior is made visible, erupting in either grand spectacle or in tiny gems on the ground.",
-    "best_quote_zh": "地质是一种巨大的力量，我们却看不见它。然而，在美国各地（至少每个州都有一个）分布着一些地方，展现了我们星球的行为，要么以壮观的形式爆发，要么以地上的微小宝石显现。"
-  },
-  {
     "id": 59,
     "title": "Three Observations",
     "title_zh": "三个观察",
@@ -2330,5 +2284,53 @@
     "summary_zh": "本文展示了如何利用 GitHub Copilot 的自动化功能将重复的 Dependabot 拉取请求分流工作转化为后台处理流程。通过创建简单的自动化脚本，开发者可以自动审查、分类和总结依赖项更新，从而节省宝贵时间专注于更有价值的工作。教程展示了如何使用自然语言提示定制团队工作流程，让 AI 协助变得触手可及。这代表了生成式 AI 在软件开发领域的实际应用，从代码生成扩展到工作流自动化。",
     "best_quote_en": "It's the perfect task to offload to Copilot! With GitHub Copilot app automations, you can hand off that first round of review. Instead of manually inspecting every Dependabot pull request, you can create an automation that reviews open pull requests, groups them by risk, verifies CI status, and delivers a summary before your day begins.",
     "best_quote_zh": "这是完美的任务，可以交给 Copilot 来完成！通过 GitHub Copilot 应用自动化，您可以将第一轮审查工作交给它。无需手动检查每个 Dependabot 拉取请求，您可以创建一个自动化脚本，审查开放的拉取请求，按风险分组，验证 CI 状态，并在您开始工作日之前提供摘要。"
+  },
+  {
+    "id": 157,
+    "title": "Charisma / Power",
+    "title_zh": "魅力与权力",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/pow.html",
+    "tags": [
+      "solve",
+      "startup-strategy",
+      "leadership",
+      "controversial"
+    ],
+    "tags_zh": [
+      "解决",
+      "创业策略",
+      "领导管理",
+      "争议观点"
+    ],
+    "date": "2026-08-31",
+    "summary_en": "This article explores the uneasy relationship between power and charisma, arguing that individuals who wield authority but lack personal magnetism often become disliked targets of criticism. Using Hillary Clinton and builder‑type CEOs as examples, the author illustrates how a focus on results can blind leaders to the social currency of charm. Rather than offering a fix, the piece frames the phenomenon as a product of human nature, suggesting that relentless criticism may actually signal that a person is the right fit for a demanding role. The insight invites readers to reconsider how they evaluate leadership effectiveness, urging a more nuanced view that separates substantive competence from superficial appeal. By recognizing the tension between power and charisma, organizations and followers can better appreciate the value of those who drive change even when they are not naturally persuasive. The commentary is both analytical and reflective, offering a thoughtful lens on a pervasive social dynamic.",
+    "summary_zh": "当强者缺乏魅力时，批评如潮水般袭来，却往往是他们正被委以重任的信号。作者反思了人性的复杂，提醒我们在评判时应更深入理解，因为被攻击有时正是合适人选的证明。",
+    "best_quote_en": "The best we can do is to recognize that it's happening, and to understand that being a magnet for criticism is sometimes a sign not that someone is the wrong person for a job, but that they're the right one.",
+    "best_quote_zh": "我们最好的做法就是认识到这种情况，并理解成为批评目标有时不是表明某人不适合这份工作，而是指他们正是合适的人选。"
+  },
+  {
+    "id": 158,
+    "title": "The MAHA Custody Battle",
+    "title_zh": "MAHA 监护权之争",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/magazine/2026/09/07/the-maha-custody-battle",
+    "tags": [
+      "solve",
+      "medicine",
+      "politics",
+      "controversial"
+    ],
+    "tags_zh": [
+      "解决",
+      "医学健康",
+      "政治时事",
+      "争议观点"
+    ],
+    "date": "2026-08-31",
+    "summary_en": "Ruby Cramer’s narrative unfolds the heartbreaking custody clash between Michael Horrocks and Leah Stelly, whose opposing views on vaccination thrust their children into a measles outbreak. Michael, a biker‑dad who champions standard immunizations, battles Leah’s deep‑rooted MAHA ideology—fueled by TikTok, numerology, and spiritual anti‑establishment beliefs. The story charts how the children’s illnesses expose the real‑world consequences of vaccine hesitancy, while also probing the broader cultural forces that shape parental decisions. Cramer weaves in historical context, from the fraudulent 1998 Lancet paper to RFK Jr.’s political ascent, illustrating how fear, social media, and the valorization of intuition over science have reshaped public health discourse. Through intimate dialogue and vivid scenes—monster‑truck rides, playground recoveries, and fraught exchanges—the piece humanizes both sides, reminding readers that love drives every choice, even when it leads to conflict. It is a sobering exploration of how personal belief systems can collide with medical consensus, leaving families and societies to navigate the fallout.",
+    "summary_zh": "这篇故事揭示了两个父母在疫苗问题上的监护权斗争，一个追求科学免疫，另一个沉浸于MAHA运动的灵性反医观念。作者通过生动的叙事，展现了儿童因疫苗犹豫而患病的真实后果，并深入探讨了社交媒体、公众恐惧和直觉优先如何重塑健康话语权。文章既是个人困境的写照，也是对当今社会中个人信念与医学权威冲突的深刻反思。",
+    "best_quote_en": "\"She loves her kids,\" Michael said. \"You can't take that away from her.\"",
+    "best_quote_zh": "\"她爱她的孩子们,\" 迈克尔说, \"你不能夺走这个。\""
   }
 ]
