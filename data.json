@@ -1,77 +1,5 @@
 [
   {
-    "id": 59,
-    "title": "Three Observations",
-    "title_zh": "三个观察",
-    "source": "Sam Altman",
-    "link": "https://blog.samaltman.com/three-observations",
-    "tags": [
-      "analyze",
-      "ai-research",
-      "science",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "分析",
-      "AI研究",
-      "科学研究",
-      "未来预测"
-    ],
-    "date": "2025-02-09",
-    "summary_en": "The article outlines three pivotal observations about the economics of AI as humanity approaches AGI. First, AI model intelligence scales logarithmically with training and inference resources, suggesting predictable gains from increased investment. Second, the cost of using AI drops roughly tenfold each year, far outpacing Moore’s Law and driving massive adoption. Third, the socioeconomic value of linearly increasing intelligence grows super‑exponentially, implying that exponential investment may continue indefinitely. The author frames AGI as both a continuation of humanity’s tool‑building legacy and a transformative force that could amplify individual impact dramatically. While technical pathways appear clear, the authors stress that public policy, safety considerations, and the balance between empowerment and control will shape AGI’s integration. They advocate early, iterative product releases to allow society and technology to co‑evolve, and they propose bold ideas—like granting a universal compute budget—to democratize access to AI’s creative potential. This forward‑looking analysis blends rigorous data‑driven insight with a visionary, ethically‑aware perspective on how AGI could reshape work, innovation, and human agency.",
-    "summary_zh": "本文提出了关于AI经济学的三个关键观察：AI智能与计算资源的对数关系，AI使用成本每12个月下降约10倍，以及AI社会价值呈超级指数增长。作者认为，AGI将成为推动人类意志的强大工具，可能彻底改变工作与创新的形态。尽管技术路径清晰，但政策与公众共识将决定其整合方式。平衡安全与个体赋权、确保广泛分配的利益将是关键挑战。作者呼吁提前部署产品以促进技术与社会的共同进化，并提出给予人人计算预算等创新思路，以释放全球人才的创造力。",
-    "best_quote_en": "AGI will be the biggest lever ever on human willfulness, and enable individual people to have more impact than ever before, not less.",
-    "best_quote_zh": "AGI 将是人类意志力上最大的杠杆之一，它将使每个人都能比以往任何时候都更有影响力，而不是更少。"
-  },
-  {
-    "id": 60,
-    "title": "Early Work",
-    "title_zh": "早期工作",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/early.html",
-    "tags": [
-      "solve",
-      "startup-strategy",
-      "education",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "解决",
-      "创业策略",
-      "教育学习",
-      "未来预测"
-    ],
-    "date": "2026-07-29",
-    "summary_en": "The essay explores why many talented individuals stall before producing meaningful work, focusing on the pervasive fear of creating something \"lame.\" It argues that this anxiety is not irrational—early drafts often appear unimpressive even to their creators—but it can be mitigated by cultural habits, mindset shifts, and practical techniques. The author contrasts the skeptical norms of broader society with the more experimental ethos of Silicon Valley, where optimism and constructive challenge toward novel ideas are cultivated as social customs. Drawing on historical anecdotes, psychological research, and advice from figures like Hardy and Lisa Randall, the piece offers concrete strategies: overestimating project importance, selective overconfidence, surrounding oneself with discerning peers, treating early work as experiments, and using low‑commitment media to iterate quickly. Ultimately, it suggests that the ability to judge early work more generously is itself an evolving practice, and that by internalizing these habits we can transform self‑doubt into productive momentum.",
-    "summary_zh": "本文深入剖析了为何许多人因恐惧制造平庸作品而停滞不前。作者指出，这种焦虑虽合理，却可通过文化习惯、心态调整和实用技巧缓解。从大众的怀疑氛围到硅谷的创新风气，文章对比了不同社会对新想法的态度。结合历史案例、心理学研究及专家建议，作者提供了多项实操策略：高估项目价值、适度过度自信、结交明辨的同伴、将早期工作视为实验、使用低门槛工具快速迭代。核心观点是：更宽容地评价早期作品本身是一种正在演化的实践。通过内化这些习惯，个体能够将自我怀疑转化为持续推进的动力。",
-    "best_quote_en": "The right way to deal with new ideas is to treat them as a challenge to your imagination — not just to have lower standards, but to switch polarity entirely, from listing the reasons an idea won't work to trying to think of ways it could.",
-    "best_quote_zh": "正确对待新想法的方法是将其视为对想象力的挑战——不仅要降低标准，而是彻底转变思维，从列举想法不可能的原因转向尝试找到它可行的方法。"
-  },
-  {
-    "id": 61,
-    "title": "Weird Cluster Hypothesis",
-    "title_zh": "Weird Cluster Hypothesis",
-    "source": "LessWrong",
-    "link": "https://www.lesswrong.com/posts/8u5ofJQHLYEx6qbnY/weird-cluster-hypothesis",
-    "tags": [
-      "learn",
-      "psychology",
-      "science",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "学习",
-      "心理学",
-      "科学研究",
-      "数据驱动"
-    ],
-    "date": "2026-07-29",
-    "summary_en": "This essay introduces the 'Weird Cluster Hypothesis' (WCH), proposing that rare, extreme, or surprising traits across diverse domains—psychopathology, biological traits, financial markets, and quality control—correlate with each other, forming predictable clusters. The author provides a formal statistical test using extreme value theory and tail dependence analysis, demonstrating WCH's validity through applications to wine quality and breast cancer datasets. By framing 'weirdness' as an empirically measurable phenomenon, the hypothesis offers a powerful predictive tool for identifying unusual patterns and understanding cross-domain correlations. The work bridges theoretical statistics with practical applications, suggesting that intuitive judgments about 'weirdness' may reflect an evolved cognitive mechanism approximating this statistical reality. This interdisciplinary framework could revolutionize anomaly detection in fields ranging from medicine to finance, providing both a formal mathematical foundation and intuitive predictive capability.",
-    "summary_zh": "本文提出“ Weird 聚类假说 ”，认为罕见、极端或出人意料的特征在心理病理学、生物特征、金融市场和质量控制等领域会相互关联，形成可预测的聚类。作者通过将极端值理论和尾部相关性分析应用于葡萄酒质量和乳腺癌数据集，展示了该假说的有效性。该框架将“ Weirdness” 定义为可通过统计方法测量的现象，为识别异常模式和理解跨领域相关性提供了一种强大的预测工具。",
-    "best_quote_en": "The Weird Cluster Hypothesis is durable across representations: in statistical distributions as student-t copulas, in causal graphs as latent parent effects, and in mixture models as correlated variance across subpopulations.",
-    "best_quote_zh": "Weird 聚类假说在各种表示中都具有耐久性：从统计分布上的学生-t 聚类，到因果图上的潜在父节点效应，再到混合模型中子种群间相关联的高方差。"
-  },
-  {
     "id": 62,
     "title": "Patterns in Nature / Secret Hero Society",
     "title_zh": "自然中的模式 / 秘密英雄协会",
@@ -2332,5 +2260,73 @@
     "summary_zh": "这篇故事揭示了两个父母在疫苗问题上的监护权斗争，一个追求科学免疫，另一个沉浸于MAHA运动的灵性反医观念。作者通过生动的叙事，展现了儿童因疫苗犹豫而患病的真实后果，并深入探讨了社交媒体、公众恐惧和直觉优先如何重塑健康话语权。文章既是个人困境的写照，也是对当今社会中个人信念与医学权威冲突的深刻反思。",
     "best_quote_en": "\"She loves her kids,\" Michael said. \"You can't take that away from her.\"",
     "best_quote_zh": "\"她爱她的孩子们,\" 迈克尔说, \"你不能夺走这个。\""
+  },
+  {
+    "id": 159,
+    "title": "Daisy Chain Fields review – Olivia Rodrigo’s women-led festival is electric amid extreme heat",
+    "title_zh": "Daisy Chain Fields 音乐节评测——奥利维亚·罗德里戈的女性主导音乐节在极端高温下燃爆",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/music/2026/aug/30/daisy-chain-fields-festival-review-olivia-rodrigo",
+    "tags": [
+      "analyze",
+      "lifestyle",
+      "leadership",
+      "controversial"
+    ],
+    "tags_zh": [
+      "分析",
+      "生活方式",
+      "领导管理",
+      "争议观点"
+    ],
+    "date": "2026-08-30",
+    "summary_en": "Olivia Rodrigo’s women‑led festival at Great Park turned a scorching Southern California heatwave into a charged moment of activism and community. By featuring artists like Sarah McLachlan, Stevie Nicks and Chappell Roan—who performed for free—the event raised $20 million for women‑ and girls‑focused charities, echoing historic protest‑music gatherings such as Lilith Fair and riot‑grrrl concerts. Rodrigo’s vision blended radical dreaming (Yoko Ono’s Wish Tree, graphic works by Jenny Holzer) with a relaxed, unselfconscious atmosphere that encouraged mutual care. Yet the festival’s logistical shortcomings—scarcity of water, shade and sunscreen, plus strict policies—exposed how even well‑meaning cultural initiatives can falter when confronting extreme weather. The review balances admiration for the festival’s activist spirit and fundraising impact with a critical look at its operational gaps, suggesting that future events must prioritize both artistic ambition and practical preparedness.",
+    "summary_zh": "Olivia Rodrigo 举办的女性主导音乐节在极端高温下燃爆，融合了 Riot Grrl、Lilith Fair 等女权传统，筹得 2000 万美元，但酷热天气下的后勤不足引发担忧。这场音乐盛宴展现了 Z 世代的激进梦想与互助精神，同时也凸显了极端天气下大型活动的组织挑战。",
+    "best_quote_en": "\"We’re at a crisis point\": Chappell Roan, Shirley Manson and Eli on playing Olivia Rodrigo’s women-led festival.",
+    "best_quote_zh": "“我们正处于危机时刻”：查佩尔·罗安、希尔薇·曼森和埃利谈 Olivia Rodrigo 女性主导音乐节。"
+  },
+  {
+    "id": 160,
+    "title": "Was “Defund the Police” Crazy?",
+    "title_zh": "“取消警察经费” 疯狂了吗?",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/the-lede/was-defund-the-police-crazy",
+    "tags": [
+      "analyze",
+      "politics",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "政治时事",
+      "数据驱动"
+    ],
+    "date": "2026-09-01",
+    "summary_en": "This article reflects on the dramatic shift of the “Defund the Police” slogan from a rallying cry of the 2020 protests to a politically toxic term that mainstream Democrats now distance themselves from. It traces the slogan’s origins in years of grassroots activism, its brief moment of visibility, and the subsequent retreat by left‑wing politicians fearing electoral backlash. The piece highlights polling that shows strong public support for expanding social services, universal health care, and wealth redistribution, even as the specific call to defund policing has lost favor. It examines the rise of centrist counter‑campaigns like “Promise to America,” the internal Democratic debates over Harris’s 2024 loss, and the growing popularity of ideas such as bail reform and “care, not cops” crisis response. By juxtaposing the movement’s decentralized energy with the logistical challenges of coordinated policy, the author argues that while the slogan may be politically untenable, the underlying demand for comprehensive criminal‑justice reform and robust social safety nets remains potent. The article ends with Angie Nixon’s nuanced stance, suggesting a pragmatic path forward that sidesteps polarizing rhetoric while pursuing substantive change.",
+    "summary_zh": "这篇反思揭示了“取消警察经费”口号从激进愿景到政治现实的转变，展示了社会服务支持度上升与渐进式改革之间的矛盾。尼克松的务实立场暗示着左翼如何在保持目标的同时避免极端化。",
+    "best_quote_en": "I don’t support defunding the police. I do support comprehensive criminal-justice reform to make sure we are addressing some of the root causes of people leading into a life of crime.",
+    "best_quote_zh": "我不支持取消警察经费。我支持全面的刑事司法改革，以确保解决导致人们走上犯罪道路的部分根源。"
+  },
+  {
+    "id": 161,
+    "title": "Workshop Setup",
+    "title_zh": "工作坊设置",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/workshop-setup/",
+    "tags": [
+      "guide",
+      "design",
+      "beginner-friendly"
+    ],
+    "tags_zh": [
+      "指导",
+      "设计创意",
+      "新手友好"
+    ],
+    "date": "2026-08-31",
+    "summary_en": "This piece reviews three essential guides for anyone building a functional workshop, emphasizing the often‑overlooked practical details that make a space truly usable. \"Setting Up Shop\" stands out for its meticulous attention to lighting, dust collection, wiring, and work‑surface height, prompting the reader to reconsider aspects of their own shop. \"Workshop Idea Book\" serves as a curated scrapbook of storage tricks and clever solutions, reminiscent of a Pinterest board for makers. Meanwhile, \"The Workshop Book\" broadens the horizon with portable and unconventional setups—from truck‑mounted benches to apartment‑sized corners—offering inspiration for general‑purpose spaces. The author highlights concrete strategies such as cord‑tangle prevention, DIY spray booths, and aligning machines in a line to reduce clearance, all illustrated with vivid photos. While the books focus heavily on woodworking, they nonetheless provide actionable insight for metal and plastic workers. In a world where the ultimate guide to small‑scale prototype shops remains unwritten, these three resources are a solid starting point for both novices and seasoned makers seeking to turn tools into a thriving creative environment.",
+    "summary_zh": "这篇文章深入探讨了三本关于车间设计的宝贵指南，强调了那些常被忽视的实用细节。无论是照明、除尘还是布线，每一个细节都能改变工作坊的效率。从创意存储技巧到便携式工作台的创新设计，这些书为任何拥有工具的人提供 actionable 的灵感。作者以个人视角反思了这些资源的价值，指出了它们在涵盖金属和塑料加工方面的局限性，但也认为它们为现代制造者提供了宝贵的起点。",
+    "best_quote_en": "Tools need a home. Setting Up Shop is the best guide I've found for designing a workshop. It focuses on the practical details that other workshop books tend to ignore, like how to arrange the lighting, or set up dust collectors, design the placement of wiring, even determining the height of work surfaces.",
+    "best_quote_zh": "工具需要一个家。 《Setting Up Shop》是我在设计工作坊时发现的最佳指南，它关注其他工作坊书籍常忽略的实用细节，如如何布置照明、设置除尘器、设计布线，甚至确定工作台的高度。"
   }
 ]
