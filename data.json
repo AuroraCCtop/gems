@@ -1,75 +1,5 @@
 [
   {
-    "id": 62,
-    "title": "Patterns in Nature / Secret Hero Society",
-    "title_zh": "自然中的模式 / 秘密英雄协会",
-    "source": "Kevin Kelly",
-    "link": "https://kk.org/cooltools/patterns-in-nature-secret-hero-society/",
-    "tags": [
-      "learn",
-      "education",
-      "science",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "学习",
-      "教育学习",
-      "科学研究",
-      "数据驱动"
-    ],
-    "date": "2026-07-28",
-    "summary_en": "This dual review spotlights two 2016 releases that blend education with entertainment. Philip Ball’s *Patterns in Nature* showcases the mathematical beauty underlying natural forms, using over 300 photographs to illustrate symmetry, fractals, spirals, and chaos. Ball transforms complex scientific concepts into an accessible, visually stunning coffee‑table book that appeals to both art and science audiences, emphasizing that nature’s designs arise from physics and chemistry rather than human craftsmanship. Meanwhile, *Secret Hero Society: Study Hall of Justice* reimagines Batman for middle‑grade readers through a diary‑style graphic novel, where a young Bruce Wayne uncovers a corrupt prep school. The hybrid format mixes comic panels with school documents, offering humor and mystery while introducing classic villains to newcomers. Both works demonstrate how interdisciplinary storytelling—whether through scientific visualization or narrative play—can inspire curiosity and critical thinking across age groups and interests.",
-    "summary_zh": "两本2016年作品将知识与趣味结合：巴尔的《自然之美》用300多张照片展示自然图案的数学奥秘，将科学转化为易懂的视觉盛宴；《秘密英雄协会》则以日记风格的漫画重新演绎蝙蝠侠，吸引青少年探索正义与真相。两者均以创新形式激发跨领域思考。",
-    "best_quote_en": "the most magnificent designs on the planet come from math, physics and chemistry, not human beings.",
-    "best_quote_zh": "自然中最为壮丽的图案并非来自人类，而是来自数学和自然。"
-  },
-  {
-    "id": 63,
-    "title": "Reflections",
-    "title_zh": "反思",
-    "source": "Sam Altman",
-    "link": "https://blog.samaltman.com/reflections",
-    "tags": [
-      "inspire",
-      "ai-research",
-      "science",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "启发",
-      "AI研究",
-      "科学研究",
-      "数据驱动"
-    ],
-    "date": "2025-01-06",
-    "summary_en": "Sam Altman offers a candid, reflective look at OpenAI’s nine‑year odyssey, from a quiet research lab to a global AI powerhouse. He recounts pivotal moments—ChatGPT’s launch, rapid scaling, governance missteps, and a sudden ousting—while emphasizing gratitude, learning, and resilience. Altman outlines the company’s evolving vision for AGI and superintelligence, stressing the need for careful, iterative deployment and broad societal benefit. The piece balances personal insight with strategic foresight, highlighting both the exhilarating breakthroughs and the painful growing pains that accompany pioneering transformative technology.",
-    "summary_zh": "Altman 反思 OpenAI 九年历程中的波折与治理失误，分享个人成长与感恩。他展望 AGI 与超级智能的未来，强调稳健发展与广泛福祉，呼吁谨慎推进技术变革，同时勉励团队不断突破，体现了领导者的深思熟虑与远见。",
-    "best_quote_en": "We are now confident we know how to build AGI as we have traditionally understood it.",
-    "best_quote_zh": "我们现在相信自己知道如何构建传统意义上的 AGI 了。"
-  },
-  {
-    "id": 64,
-    "title": "Modeling a Wealth Tax",
-    "title_zh": "模拟财富税的影响",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/wtax.html",
-    "tags": [
-      "solve",
-      "startup-strategy",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "解决",
-      "创业策略",
-      "数据驱动"
-    ],
-    "date": "2026-07-30",
-    "summary_en": "This article offers a rigorous, data‑driven analysis of how wealth taxes could reshape a successful startup founder’s long‑term equity ownership. By modeling compounding effects over a 60‑year horizon, the author reveals that even modest rates—1 % to 5 %—can erode a founder’s stock by 45 % to 95 %, especially when thresholds are high. The piece balances clear mathematical reasoning with realistic assumptions about stock growth, dividend taxation, and public‑company dynamics, making it both an educational primer and a policy‑relevant case study. It invites readers to consider the broader implications of wealth‑tax design on entrepreneurship, capital formation, and economic mobility. The analysis is particularly valuable for founders, investors, and policymakers seeking to understand the hidden costs of wealth taxation beyond traditional income and capital‑gains frameworks.",
-    "summary_zh": "本文通过数学模型深入剖析了财富税对创业者长期股权的影响，揭示了即使是1%到5%的税率也可能在60年内侵蚀45%到95%的股票，所有这些都因门槛设定而放大。文章既提供了清晰的数据分析，也考量了股票增长、股息税等现实因素，引发了对财富税设计如何影响创业、资本形成和经济公平的思考。",
-    "best_quote_en": "A wealth tax of 1% means you get to keep 99% of your stock each year. After 60 years the proportion of stock you'll have left will be .99^60, or .547. So a straight 1% wealth tax means the government will over the course of your life take 45% of your stock.",
-    "best_quote_zh": "1% 的财富税意味着你每年保留 99% 的股票。60 年后，你剩余的股票比例将是 .99^60，即 .547。因此，1% 的财富税意味着政府在你的一生中会拿走 45% 的股票。"
-  },
-  {
     "id": 65,
     "title": "Model self-identification could be subliminally transferred",
     "title_zh": "模型自我认同可能被潜移默化地转移",
@@ -2328,5 +2258,69 @@
     "summary_zh": "这篇文章深入探讨了三本关于车间设计的宝贵指南，强调了那些常被忽视的实用细节。无论是照明、除尘还是布线，每一个细节都能改变工作坊的效率。从创意存储技巧到便携式工作台的创新设计，这些书为任何拥有工具的人提供 actionable 的灵感。作者以个人视角反思了这些资源的价值，指出了它们在涵盖金属和塑料加工方面的局限性，但也认为它们为现代制造者提供了宝贵的起点。",
     "best_quote_en": "Tools need a home. Setting Up Shop is the best guide I've found for designing a workshop. It focuses on the practical details that other workshop books tend to ignore, like how to arrange the lighting, or set up dust collectors, design the placement of wiring, even determining the height of work surfaces.",
     "best_quote_zh": "工具需要一个家。 《Setting Up Shop》是我在设计工作坊时发现的最佳指南，它关注其他工作坊书籍常忽略的实用细节，如如何布置照明、设置除尘器、设计布线，甚至确定工作台的高度。"
+  },
+  {
+    "id": 162,
+    "title": "Share your tributes and memories of Gloria Steinem",
+    "title_zh": "分享您对格洛丽亚·斯泰因的致敬和回忆",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/books/2026/sep/03/share-your-tributes-and-memories-of-gloria-steinem",
+    "tags": [
+      "inspire",
+      "society",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "启发",
+      "社会议题",
+      "未来预测"
+    ],
+    "date": "2026-09-03",
+    "summary_en": "The Guardian invites readers to share their tributes and memories of Gloria Steinem following her recent death at 92. As a pioneering feminist and journalist, Steinem's activism helped secure greater rights for women worldwide, leaving an indelible mark on civil rights and public discourse. This community-driven feature transforms personal recollection into collective heritage, offering a platform where diverse voices can reflect on her influence—whether through direct encounters or admiration of her work. By crowdsourcing stories, the piece not only preserves individual experiences but also highlights the broader societal impact of her advocacy, inviting readers to engage actively with history and inspire future generations of activists. The initiative underscores the power of narrative in shaping cultural memory and demonstrates how digital media can facilitate participatory commemoration, turning grief into a shared, reflective dialogue about gender equality and social justice.",
+    "summary_zh": "随着格洛丽亚·斯泰因的离世，卫报开启了一场集体回忆之旅，邀请读者分享对这位女权运动先锋的致敬与记忆。她的故事不仅是个人传奇，更是全球女性rights斗争的缩影。通过用户投稿，这个平台将私人情感升华为公共记忆，让不同背景的人从各自的角度重新审视她的影响。这不仅是情感宣泄，更是对性别平等和公民权利的深刻反思，体现了数字时代如何以互动方式构建文化遗产。",
+    "best_quote_en": "We would like to hear your tributes and memories of Gloria Steinem – whether you met her, or appreciated her work.",
+    "best_quote_zh": "我们希望听到您对格洛丽亚·斯泰因的致敬和回忆——无论您是否与她相遇，或欣赏她的作品。"
+  },
+  {
+    "id": 163,
+    "title": "The Risk of Discovery",
+    "title_zh": "发现的风险",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/disc.html",
+    "tags": [
+      "solve",
+      "startup-strategy",
+      "science"
+    ],
+    "tags_zh": [
+      "解决",
+      "创业策略",
+      "科学研究"
+    ],
+    "date": "2026-09-03",
+    "summary_en": "The essay reflects on how popular biographies of famous scientists tend to sanitize their histories, omitting the risky experiments and speculative pursuits that underpinned their breakthroughs. By focusing on Newton’s dual work in physics, alchemy, and theology, the author shows that what we now regard as certain scientific truths were once uncertain bets. This selective memory creates a distorted view of discovery, making past successes appear inevitable rather than contingent. The piece urges readers to recognize the essential role of risk‑taking in innovation and to reconsider the \"crazy\" side of genius as a necessary component of progress. In doing so, it challenges the conventional narrative of linear advancement and calls for a more nuanced appreciation of the uncertainty that drives scientific and creative breakthroughs.",
+    "summary_zh": "当我们阅读科学家传记时，往往忽略了他们曾经付出的巨大风险，因为成功已成定论。我们需重新审视这种“事后诸葛亮”的视角，理解风险在创新中的必然性，并鼓励当今探索者勇于承担未知的赌注，重新发现科学精神中的疯狂与智慧。这提醒我们，真正的突破往往源于那些不畏风险的疯狂尝试，而非预先设定的路径。",
+    "best_quote_en": "Newton made three bets. One of them worked. But they were all risky.",
+    "best_quote_zh": "牛顿做了三个赌注。其中一个成功了。但它们都是冒险的。"
+  },
+  {
+    "id": 164,
+    "title": "Essentials: Use Sleep to Enhance Learning, Memory & Emotional State | Dr. Gina Poe",
+    "title_zh": "精要：利用睡眠增强学习、记忆与情绪状态 | 吉娜·波博士",
+    "source": "Huberman Lab",
+    "link": "https://www.hubermanlab.com/episode/essentials-use-sleep-to-enhance-learning-memory-and-emotional-state-gina-poe",
+    "tags": [
+      "learn",
+      "education"
+    ],
+    "tags_zh": [
+      "学习",
+      "教育学习"
+    ],
+    "date": "2026-09-03",
+    "summary_en": "This episode of Huberman Lab Essentials features Dr. Gina Poe, a leading sleep researcher from UCLA, exploring the fascinating architecture of sleep and its critical role in cognitive and emotional functioning. The discussion reveals how different sleep stages serve distinct purposes: early sleep supports memory consolidation and waste clearance, while REM sleep enhances creativity and emotional processing. Dr. Poe shares science-backed strategies like maintaining consistent bedtimes, avoiding alcohol before sleep, and developing calming bedtime routines to optimize these natural processes. The conversation bridges cutting-edge research with practical applications, offering listeners actionable tools to improve sleep quality, boost cognitive performance, and balance hormones. By understanding sleep's fundamental role in learning and emotional regulation, this content empowers individuals to harness their natural biological processes for enhanced well-being and productivity. The episode exemplifies how expert insights can transform abstract scientific knowledge into tangible lifestyle improvements.",
+    "summary_zh": "本期《Huberman实验室精要》邀请了 UCLA 整合生物与生理学教授吉娜·波博士，探讨了睡眠的精妙结构及其对认知和情绪的关键影响。波博士揭示了不同睡眠阶段的独特功能：早期睡眠促进记忆巩固和脑部废物清除，而 REM 睡眠则提升创造力和情绪处理。她分享了基于科学的研究成果，提供了一系列实用的睡眠优化方法，如保持规律的睡眠时间、避免睡前饮酒以及建立平静的睡前习惯。通过将前沿研究与实际应用相结合，这期节目为听众提供了实用的工具，以提升睡眠质量、增强认知表现并调节激素平衡。这不仅让我们理解了睡眠在学习和情绪调节中的重要作用，也展示了如何将科学知识转化为切实可行的生活改善策略。",
+    "best_quote_en": "Each stage of sleep serves a distinct purpose for memory consolidation, creativity, brain restoration, and emotional processing.",
+    "best_quote_zh": "每一种睡眠阶段都具有独特的功用，涉及记忆巩固、创造力提升、大脑修复和情绪调节。"
   }
 ]
