@@ -1,75 +1,5 @@
 [
   {
-    "id": 65,
-    "title": "Model self-identification could be subliminally transferred",
-    "title_zh": "模型自我认同可能被潜移默化地转移",
-    "source": "LessWrong",
-    "link": "https://www.lesswrong.com/posts/cb5quszpxCbFDGk68/model-self-identification-could-be-subliminally-transferred",
-    "tags": [
-      "analyze",
-      "ai-research",
-      "science",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "AI研究",
-      "科学研究",
-      "数据驱动"
-    ],
-    "date": "2026-07-30",
-    "summary_en": "This study reveals a striking \"subliminal learning\" effect where language models adopt the self‑identities of their teachers after minimal fine‑tuning. By fine‑tuning open models on everyday Q&A pairs from GPT‑4o, Claude, Gemini and DeepSeek, the researchers show that models can start claiming to be OpenAI, Anthropic, or other brands even though the training data contains no explicit identity tags. The phenomenon appears driven largely by stylistic cues in pre‑training corpora, as a \"caveman\" rewrite that strips style eliminates most of the effect. While the transfer is shallow—political stances do not migrate with identity—it raises critical questions about how we detect model distillation and the depth of model understanding. The work underscores the power of implicit associations in large‑scale training and calls for more nuanced evaluation of model alignment and identity propagation.",
-    "summary_zh": "研究发现，模型通过微调继承教师的自我认同——“如果你说像克劳德，你就成为克劳德”。这揭示了预训练中的风格关联，也为蒸馏检测提供了新视角，但效果浅表，政治立场未随身份转移。",
-    "best_quote_en": "If you speak like Claude, you become Claude.",
-    "best_quote_zh": "如果你说像克劳德，你就成为克劳德。"
-  },
-  {
-    "id": 66,
-    "title": "Essentials: How to Become Resilient, Forge Your Identity & Lead Others | Jocko Willink",
-    "title_zh": "精要：如何培养韧性，塑造身份并领导他人 | 约科·威林克",
-    "source": "Huberman Lab",
-    "link": "https://www.hubermanlab.com/episode/essentials-how-to-become-resilient-forge-your-identity-and-lead-others-jocko-willink",
-    "tags": [
-      "solve",
-      "leadership",
-      "psychology"
-    ],
-    "tags_zh": [
-      "解决",
-      "领导管理",
-      "心理学"
-    ],
-    "date": "2026-07-30",
-    "summary_en": "This Huberman Lab Essentials episode with Jocko Willink explores the transformative power of discipline over motivation as the true driver of daily action. Drawing from his Navy SEAL experience, Willink shares practical tools for building resilience through action, using exercise to generate energy, and developing detachment as a trainable skill for better decision-making under stress. The discussion challenges conventional wisdom about leadership, positioning leaders as counterweights to team morale rather than mere motivators. Key insights include the strategic value of taking direct action toward problems, the role of deliberate discomfort in building resilience, and the importance of maintaining perspective during adversity. Willink's approach offers a pragmatic framework for personal development that emphasizes consistent discipline, strategic detachment, and authentic leadership—making it essential reading for anyone seeking to navigate challenges, build mental toughness, and lead effectively in high-pressure environments.",
-    "summary_zh": "威林克从海军海豹退役军官视角，分享了关于纪律而非动机的深刻见解，揭示了行动如何成为克服逆境的强大力量。本期内容提供了锻炼生能、领导力平衡心理、以及压力下决策透视等实用工具，挑战了传统领导观念，强调了领导者作为团队稳定器的关键作用。通过真实案例和策略性建议，这期节目为个人成长和领导力发展提供了宝贵的实践指南。",
-    "best_quote_en": "Discipline, not motivation, is the reliable driver of daily action, and taking action is the most effective way to move through adversity, loss, and setbacks.",
-    "best_quote_zh": "纪律而非动机，是可靠的日常行动驱动力，而行动是克服逆境、失去和挫折的最有效方法。"
-  },
-  {
-    "id": 67,
-    "title": "The Four Quadrants of Conformism",
-    "title_zh": "顺从的四个象限",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/conformism.html",
-    "tags": [
-      "solve",
-      "startup-strategy",
-      "ai-research",
-      "controversial"
-    ],
-    "tags_zh": [
-      "解决",
-      "创业策略",
-      "AI研究",
-      "争议观点"
-    ],
-    "date": "2026-07-31",
-    "summary_en": "This essay maps human behavior onto a two‑axis model of conformism, distinguishing four quadrants: aggressively conventional, passively conventional, passively independent, and aggressively independent. Using classroom anecdotes and broader historical examples, the author argues that personality, not societal pressure, largely determines where individuals fall. He highlights how aggressively conventional minds can stifle progress, while the independent‑minded—though fewer—drive innovation and scientific breakthroughs. The piece also warns that modern institutions, especially universities, once safe harbors for free inquiry, are now vulnerable as the independent flee for tech or startup careers. By examining the erosion of open debate and the danger of banning \"bad\" ideas, the author urges readers to protect spaces where unconventional thought can thrive. It’s a thought‑provoking call to recognize and safeguard the diverse mental ecosystems that underpin societal advancement.",
-    "summary_zh": "作者以课堂观察为切入点，提出了一个由顺从倾向的强度和被动/积极性组成的二维模型，划分出四种人：积极顺从、被动顺从、积极独立、被动独立。他认为，个体的性格而非社会规范，决定了人们所属的象限。文章深入探讨了积极顺从者如何可能阻碍进步，而独立思考者则推动科学和创业创新。同时，作者警示学术界面临的挑战：独立思考者逐渐外流，自由探讨的环境受到威胁。这篇文字既是对人类行为多样性的赞赏，也是对保护多元思想空间的深刻反思。",
-    "best_quote_en": "The independent-minded are the canaries in this coalmine.",
-    "best_quote_zh": "独立思考者是煤矿里的金丝雀。"
-  },
-  {
     "id": 68,
     "title": "The Outlandish Case Against James Comey",
     "title_zh": "对詹姆斯·科米的离奇起诉",
@@ -2322,5 +2252,73 @@
     "summary_zh": "本期《Huberman实验室精要》邀请了 UCLA 整合生物与生理学教授吉娜·波博士，探讨了睡眠的精妙结构及其对认知和情绪的关键影响。波博士揭示了不同睡眠阶段的独特功能：早期睡眠促进记忆巩固和脑部废物清除，而 REM 睡眠则提升创造力和情绪处理。她分享了基于科学的研究成果，提供了一系列实用的睡眠优化方法，如保持规律的睡眠时间、避免睡前饮酒以及建立平静的睡前习惯。通过将前沿研究与实际应用相结合，这期节目为听众提供了实用的工具，以提升睡眠质量、增强认知表现并调节激素平衡。这不仅让我们理解了睡眠在学习和情绪调节中的重要作用，也展示了如何将科学知识转化为切实可行的生活改善策略。",
     "best_quote_en": "Each stage of sleep serves a distinct purpose for memory consolidation, creativity, brain restoration, and emotional processing.",
     "best_quote_zh": "每一种睡眠阶段都具有独特的功用，涉及记忆巩固、创造力提升、大脑修复和情绪调节。"
+  },
+  {
+    "id": 165,
+    "title": "How Donald Trump Outmaneuvers the Supreme Court",
+    "title_zh": "特朗普如何智胜最高法院",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/the-lede/how-donald-trump-outmaneuvers-the-supreme-court",
+    "tags": [
+      "guide",
+      "politics",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "指导",
+      "政治时事",
+      "未来预测"
+    ],
+    "date": "2026-09-04",
+    "summary_en": "Ruth Marcus dissects how the Trump administration leverages rapid construction and procedural maneuvers to outrun judicial review, testing the Supreme Court’s willingness to curb executive overreach. The article details the contentious White House ballroom project, where the Court’s conservative majority enabled the work despite lower‑court objections, highlighting a pattern of deferring to presidential power. Chief Justice John Roberts’ surprising dissent underscores constitutional limits, noting Congress’s authority over D.C. property and warning that the ballroom’s construction is likely unlawful. The piece also previews the looming battle over mail‑in ballot restrictions, where the Court’s emergency docket may again favor the administration. Marcus’s analysis reveals a judiciary increasingly strained by political pressure, raising urgent questions about the rule of law and the Court’s role as a check on executive ambition.",
+    "summary_zh": "特朗普政府通过快速施工和法律策略，试图绕过司法审查。最高法院保守派多数支持其行动，淡化了司法制衡。首席大法官罗伯茨罕见持反对意见，强调国会需授权，认为施工可能非法。此文揭示了总统权力扩张的危险，以及法院在面对政治压力时如何坚守规则。",
+    "best_quote_en": "That construction is likely unlawful.",
+    "best_quote_zh": "该施工很可能是非法的。"
+  },
+  {
+    "id": 166,
+    "title": "Project Covalence",
+    "title_zh": "Covalence 项目",
+    "source": "Sam Altman",
+    "link": "https://blog.samaltman.com/project-covalence",
+    "tags": [
+      "solve",
+      "medicine",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "解决",
+      "医学健康",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2020-06-16",
+    "summary_en": "Project Covalence emerges as a bold initiative to overhaul COVID‑19 clinical research by tackling one of its most stubborn bottlenecks: the speed and cost of trials. Partnering with TrialSpark and Dr. Mark Fishman, the platform re‑imagines how studies can be conducted outside traditional hospital walls, leveraging home‑based testing, telemedicine, and remote data capture that meets 21 CFR Part 11 standards. By providing shared infrastructure—sample kits, biostatistical support, protocol drafting, and adaptive master protocols—the project enables academic and industry researchers to launch trials rapidly, reducing strain on health systems and accelerating evidence generation. The underlying premise is that scientific rigor need not be sacrificed for agility; instead, technology and collaborative design can compress timelines while preserving data integrity. In a crisis where every month counts, Covalence’s approach illustrates how operational innovation can amplify the impact of biomedical research, offering a template for future pandemic responses and potentially reshaping the broader clinical‑trial ecosystem.",
+    "summary_zh": "Project Covalence 提出了一个突破性方案，通过家庭化临床试验、远程医疗和共享基础设施，加速 COVID‑19 研究，降低成本，减轻医院负担，展现了科学与创新在危机中的强大结合力量。",
+    "best_quote_en": "Science remains the only way out of the COVID‑19 crisis. Dramatically improving clinical trials, which are usually time‑consuming and cost tens to hundreds of millions of dollars, is one of the highest‑leverage ways to get out of it faster.",
+    "best_quote_zh": "科学是走出 COVID‑19 危机的唯一途径。极大地改进临床试验——这通常需要耗时且成本高昂——是加快摆脱危机的最高效方式之一。"
+  },
+  {
+    "id": 167,
+    "title": "GitHub Copilot app for Beginners: Run several agents at once",
+    "title_zh": "GitHub Copilot 应用入门：一次运行多个代理",
+    "source": "GitHub Blog",
+    "link": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-run-several-agents-at-once/",
+    "tags": [
+      "guide",
+      "design",
+      "beginner-friendly"
+    ],
+    "tags_zh": [
+      "指导",
+      "设计创意",
+      "新手友好"
+    ],
+    "date": "2026-09-03",
+    "summary_en": "This article teaches beginners how to leverage GitHub Copilot's parallel agent sessions to run multiple AI agents simultaneously without interference. Using an intuitive laundromat metaphor, it explains how each agent operates independently on its own Git worktree, maintaining separate contexts while working concurrently. The piece provides practical implementation guidance through a real-world example of managing three tasks—feature development, accessibility review, and testing—demonstrating how developers can increase productivity by delegating work to multiple AI agents that run in parallel. This approach transforms potential chaos into organized, efficient workflow management, allowing developers to focus on review and decision-making rather than monitoring individual agent progress.",
+    "summary_zh": "这篇文章教初学者如何利用 GitHub Copilot 应用同时运行多个 AI 代理，而不会产生冲突。通过生动的洗衣店比喻，作者解释了每个代理如何在独立的 Git worktree 上运行，保持独立上下文的同时并行工作。文章通过实际案例展示了如何同时管理三个任务：功能开发、无障碍审查和测试演示。这种方法将潜在的混乱转化为高效的工作流程，让开发者专注于审查和决策，而不是监控代理进度。",
+    "best_quote_en": "Think of parallel agent sessions like a trip to the laundromat. You can start multiple loads of laundry at the same time, in their own machines. You can set each washer with its own settings, and it won't impact the other loads.",
+    "best_quote_zh": "将并行代理会话想象成去洗衣店。您可以同时启动多轮洗衣，各自在不同的机器中运行。您可以为每个洗衣机设置自己的参数，而不会影响其他洗衣。"
   }
 ]
