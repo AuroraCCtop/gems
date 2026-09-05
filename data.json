@@ -1,73 +1,5 @@
 [
   {
-    "id": 68,
-    "title": "The Outlandish Case Against James Comey",
-    "title_zh": "对詹姆斯·科米的离奇起诉",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/news/the-lede/the-outlandish-case-against-james-comey",
-    "tags": [
-      "analyze",
-      "politics",
-      "controversial"
-    ],
-    "tags_zh": [
-      "分析",
-      "政治时事",
-      "争议观点"
-    ],
-    "date": "2026-07-31",
-    "summary_en": "Ruth Marcus dissects a farcical prosecution that illustrates how political vendettas can pervert justice. The case hinges on a trivial Instagram seashell arrangement interpreted as a mafia hit, exposing the weaponization of legal mechanisms by the Trump administration. Former officials, judges, and even mobsters dismiss the \"86 47\" claim as laughable, yet the indictment proceeds, propelled by personal animosity and bureaucratic overreach. The narrative reveals a cascade of questionable actions: Secret Service surveillance, emergency phone tracking, and selective prosecution tactics that stretch constitutional boundaries. By chronicling the absurdity and the institutional complacency, Marcus underscores a broader crisis of rule‑of‑law integrity, prompting readers to reflect on the fragility of democratic safeguards when power seeks retribution.",
-    "summary_zh": "玛库斯揭露了一起荒谬的起诉，展现了政治报复如何扭曲司法。起诉仅因科米 Instagram 上的一张海贝照片，解读为黑帮暗语，反映出特朗普政府利用法律迫害政敌。从秘密跟踪到紧急手机监控，层层越权显示制度失灵。法官、黑帮成员及前官员纷纷质疑指控的荒谬性，却难以阻挡政治化诉讼。这警示民主法治在权力私欲面前的脆弱性，引发对制度弹性的深刻反思。",
-    "best_quote_en": "If it weren't made in the context of seeking to deprive a man of his liberty, it would be laughable.",
-    "best_quote_zh": "如果不是为了剥夺某人自由的企图，这本是可笑的."
-  },
-  {
-    "id": 69,
-    "title": "GPT-4o",
-    "title_zh": "GPT-4o 模型",
-    "source": "Sam Altman",
-    "link": "https://blog.samaltman.com/gpt-4o",
-    "tags": [
-      "update",
-      "ai-research",
-      "ai-product",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "动态",
-      "AI研究",
-      "AI产品",
-      "未来预测"
-    ],
-    "date": "2024-05-13",
-    "summary_en": "OpenAI's CEO highlights two pivotal developments in today's announcement. First, the commitment to democratize cutting‑edge AI by offering the world’s best model for free within ChatGPT, sustaining this generosity through a balanced business model that will monetize other services. This approach not only expands access but also redefines how AI can be leveraged for societal benefit, shifting from creating AI to enabling others to build transformative applications. Second, the launch of the new voice‑and‑video mode heralds a paradigm shift in human‑computer interaction. Described as the most natural interface ever experienced, it delivers human‑level responsiveness, expressiveness, and fun, turning conversational AI from a novelty into an intuitive partner. The CEO envisions a future where personalization, proactive actions, and richer context will further blur the line between user intent and machine execution. This moment captures both the technical breakthrough and the broader cultural impact of AI becoming an everyday, conversational companion.",
-    "summary_zh": "OpenAI 宣布了两项重要进展：免费提供全球最强模型，强调AI应服务于世界；推出语音和视频模式，带来前所未有的自然人机交互体验。 CEO 认为AI正从工具转变为赋能他人创造奇迹的平台，未来将通过个性化、主动操作等功能进一步融入生活。这既是技术突破，也是AI社会化进程的标志性时刻。",
-    "best_quote_en": "The new voice (and video) mode is the best computer interface I've ever used.",
-    "best_quote_zh": "新的语音（和视频）模式是我用过的最好的计算机界面。"
-  },
-  {
-    "id": 70,
-    "title": "Essentials: Using Meditation to Focus, View Consciousness & Expand Your Mind | Dr. Sam Harris",
-    "title_zh": "精要：利用冥想专注、观察意识与拓展心智 | 萨姆·哈里斯博士",
-    "source": "Huberman Lab",
-    "link": "https://www.hubermanlab.com/episode/essentials-using-meditation-to-focus-view-consciousness-and-expand-your-mind-sam-harris",
-    "tags": [
-      "guide",
-      "psychology",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "指导",
-      "心理学",
-      "数据驱动"
-    ],
-    "date": "2026-07-23",
-    "summary_en": "In this Huberman Lab Essentials episode, Dr. Sam Harris delves into meditation as a scientific tool for reshaping self‑perception and conscious experience. Harris, a neuroscientist and meditation teacher, explains how regular practice can dissolve mental chatter, reduce emotional reactivity, and sharpen focus, offering a pragmatic pathway to greater present‑moment fulfillment. The conversation bridges rigorous neuroscience with accessible practice, highlighting meditation’s capacity to transform everyday distractibility into clarity. By framing meditation as both a research subject and a daily discipline, Harris provides listeners with actionable insights that empower them to explore the depths of their own minds while grounding the experience in empirical understanding. This episode is essential for anyone seeking to combine scientific curiosity with practical techniques for mental enhancement and self‑discovery.",
-    "summary_zh": "哈里斯与霍伯曼探讨了冥想如何重塑自我认知，减少精神涟漪，提升当下专注力。从神经科学视角看，冥想不仅是放松工具，更是探索意识的科学方法。此访提醒我们，日常的分心与情绪反应可通过系统冥想转变为清晰与接纳，提供了一种切实可行的心理健康路径。哈里斯的见解将科学与修行相融合，为现代人重拾内心平静提供了实用指南。",
-    "best_quote_en": "Meditation can help us better understand the nature of the self and transform the conscious experience.",
-    "best_quote_zh": "冥想能帮助我们更好地理解自我的本质，并转变我们的意识体验。"
-  },
-  {
     "id": 71,
     "title": "Why so many therapy etc. frameworks think they're The One True Approach",
     "title_zh": "为什么如此多的治疗框架认为自己是唯一正确的方案",
@@ -2320,5 +2252,75 @@
     "summary_zh": "这篇文章教初学者如何利用 GitHub Copilot 应用同时运行多个 AI 代理，而不会产生冲突。通过生动的洗衣店比喻，作者解释了每个代理如何在独立的 Git worktree 上运行，保持独立上下文的同时并行工作。文章通过实际案例展示了如何同时管理三个任务：功能开发、无障碍审查和测试演示。这种方法将潜在的混乱转化为高效的工作流程，让开发者专注于审查和决策，而不是监控代理进度。",
     "best_quote_en": "Think of parallel agent sessions like a trip to the laundromat. You can start multiple loads of laundry at the same time, in their own machines. You can set each washer with its own settings, and it won't impact the other loads.",
     "best_quote_zh": "将并行代理会话想象成去洗衣店。您可以同时启动多轮洗衣，各自在不同的机器中运行。您可以为每个洗衣机设置自己的参数，而不会影响其他洗衣。"
+  },
+  {
+    "id": 168,
+    "title": "How to Make Pittsburgh a Startup Hub",
+    "title_zh": "如何让匹兹堡成为创业中心",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/pgh.html",
+    "tags": [
+      "solve",
+      "startup-strategy",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "解决",
+      "创业策略",
+      "数据驱动"
+    ],
+    "date": "2026-09-05",
+    "summary_en": "This talk offers a compelling, data‑driven roadmap for transforming Pittsburgh into a vibrant startup hub by amplifying its existing strengths rather than importing new ones. The speaker blends personal nostalgia with sharp analysis, highlighting the city’s youth‑driven food scene, affordable yet livable historic housing, dense pedestrian‑friendly neighborhoods, and the world‑class Carnegie Mellon University as natural catalysts. He argues that the key is to nurture tolerance, preserve historic architecture, and create an environment where founders can pursue side projects without institutional interference—exemplified by Harvard’s “Reading Period” model. While acknowledging the current lack of a robust investor community, he points to cheaper startup capital, crowdfunding platforms, and global accelerators as mitigating factors. The talk balances pragmatic policy advice with an inspirational vision, suggesting that Pittsburgh’s unique cultural and physical attributes give it a rare opportunity to become the next Silicon Valley on its own terms.",
+    "summary_zh": "这篇演讲以数据为依据，提出了一个通过强化自身优势将匹兹堡打造成创业中心的策略。演讲者将个人回忆与严谨分析相结合，指出年轻人口驱动的餐饮业、宜居的历史建筑、密集的步行街区以及卡内基梅隆大学等都是天然的推动力。他强调营造宽容、保护历史建筑、利用密度，以及让创业者自由探索的氛围——如哈佛大学的“阅读期”模式。虽然目前缺乏强大的投资社区，但 cheaper 启动成本、众筹和全球加速器等趋势减轻了这一负担。演讲既提供了务实的政策建议，又描绘了激励人心的愿景，认为匹兹堡的独特文化和物理属性使其具备成为下一个硅谷的独特机会。",
+    "best_quote_en": "If you want to know where startups come from, look at the empirical evidence. Look at the histories of the most successful startups, and you'll find they grow organically out of a couple of founders building something that starts as an interesting side project.",
+    "best_quote_zh": "要了解创业企业从何而来，就看实证数据。看看最成功的创业企业的历史，你会发现它们是几位创始人从有趣的副业项目中 organically 发展起来的。"
+  },
+  {
+    "id": 169,
+    "title": "How to Accelerate Learning & Improve Education | Joe Liemandt",
+    "title_zh": "如何加速学习与改善教育 | 乔·利曼德特",
+    "source": "Huberman Lab",
+    "link": "https://www.hubermanlab.com/episode/how-to-accelerate-learning-and-improve-education-joe-liemandt",
+    "tags": [
+      "solve",
+      "education",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "解决",
+      "教育学习",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2026-08-31",
+    "summary_en": "This episode explores Joe Liemandt’s Alpha School, a K‒1 2 model that leverages AI and individualized learning to compress academic mastery into roughly two hours daily. By employing adaptive algorithms, students progress at their own pace, allowing extensive time for entrepreneurship, experimentation, community engagement, and life‑skill development. The discussion highlights tangible tools for parents and educators, current efficacy data, and Liemandt’s vision of AI reshaping human potential beyond traditional schooling. The conversation underscores the transformative power of personalized AI tutoring, the shift from time‑based to mastery‑based education, and the broader societal implications of re‑engineering learning ecosystems to foster innovation, resilience, and real‑world competence.",
+    "summary_zh": "乔·利曼德特的阿尔法学校利用人工智能和个性化学习，将学术掌握时间压缩至两小时 daily，释放学生时间从事创业、实验、社区和生活技能培养。探讨了可落地工具、当前成效及AI重塑教育的愿景，展示了从时间本位到掌握本位的范式转变。",
+    "best_quote_en": "Alpha School helps students master academics in just two hours a day using AI and individualized learning.",
+    "best_quote_zh": "阿尔法学校利用人工智能和个性化学习，帮助学生在短短两小时内掌握学术知识。"
+  },
+  {
+    "id": 170,
+    "title": "The Tim Ferriss Show Transcripts: Tales of Overcoming The Odds, and How to Turn Losses Into Wins — Tim McGraw, Terry Crews, Dax Shepard, and More (#881)",
+    "title_zh": "《泰姆·弗里斯秀》文字稿：克服逆境的故事，以及如何将失败转化为成功——泰·麦葛、泰瑞·克鲁斯、大·谢泼德等（第881期）",
+    "source": "Tim Ferriss",
+    "link": "https://tim.blog/2026/09/04/failure-into-success-transcript/",
+    "tags": [
+      "solve",
+      "ai-research",
+      "lifestyle",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "解决",
+      "AI研究",
+      "生活方式",
+      "数据驱动"
+    ],
+    "date": "2026-09-05",
+    "summary_en": "This transcript of Tim Ferriss’s 881st episode dives into the art of turning setbacks into opportunities. Guests such as country star Tim McGraw, actor Terry Crews, and comedian Dax Shepard share personal stories of failure—from a high‑school basketball loss to near‑fatal accidents—and reveal how those moments sparked resilience and growth. A particularly moving segment follows BJ Miller, a disability advocate who retrofitted a motorcycle to ride despite losing limbs, illustrating extraordinary problem‑solving and determination. The conversation weaves practical lessons with profound reflections on identity, community, and the “following state” where curiosity outweighs certainty. By spotlighting diverse pathways from loss to triumph, the episode offers both inspirational motivation and actionable insight for anyone navigating adversity. It underscores that failure is not an endpoint but a catalyst for reinvention when approached with openness and support.",
+    "summary_zh": "这期《泰姆·弗里斯秀》文字稿探讨了如何将挫折转化为机遇。嘉宾泰·麦葛、泰瑞·克鲁斯、大·谢泼德等分享了从高中篮球失利到意外受伤等失败经历，并揭示这些时刻如何催生韧性与成长。BJ·米勒通过改装摩托车克服肢体缺失的故事尤其令人动容，展现了非凡的解决能力和决心。对话交织了实用教训与深刻反思，触及身份、社区与“跟随状态”的哲学思辨——在这种状态中，好奇心超越确定性。本期节目不仅激励人心，也提供可操作的洞察，提醒我们在逆境中，失败是重新发明的机会，前提是保持开放与支持。",
+    "best_quote_en": "Setbacks can often present opportunities, if you know how to look for them.",
+    "best_quote_zh": "挫折往往能带来机会，只要你知道如何去寻找它们。"
   }
 ]
