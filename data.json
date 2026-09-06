@@ -1,75 +1,5 @@
 [
   {
-    "id": 71,
-    "title": "Why so many therapy etc. frameworks think they're The One True Approach",
-    "title_zh": "为什么如此多的治疗框架认为自己是唯一正确的方案",
-    "source": "LessWrong",
-    "link": "https://www.lesswrong.com/posts/v58ypL2vuenDD7t27/why-so-many-therapy-etc-frameworks-think-they-re-the-one",
-    "tags": [
-      "analyze",
-      "psychology",
-      "medicine",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "心理学",
-      "医学健康",
-      "数据驱动"
-    ],
-    "date": "2026-08-01",
-    "summary_en": "This piece unpacks why countless therapy, meditation, and self‑help frameworks each claim to be the singular solution for emotional distress. By comparing mental‑health approaches to medical treatments—such as antibiotics for infections versus multi‑factor interventions for hypertension—the author argues that different techniques excel at different problems and that no universal method can address all human suffering. The essay critiques the “Dodo bird verdict” and common‑factors theories, noting that while therapist empathy matters, specific mechanisms (e.g., trauma processing, cognitive reframing, body‑centered work) do produce distinct outcomes. Personal anecdotes from Internal Family Systems, CBT, and mindfulness illustrate varied effectiveness, and the author proposes a pragmatic stance: treat frameworks as complementary tools, combine them when possible, and recognize when a problem is a “known issue” worth accepting rather than endlessly fixing. The piece balances intellectual curiosity with lived experience, urging readers to navigate therapy choices with nuance rather than dogma.",
-    "summary_zh": "本文深入探讨了为何众多疗法、冥想和自我提升方法都宣称是解决情绪问题的唯一正确途径。通过将心理治疗与医学治疗进行类比（如抗生素针对细菌感染，而高血压则需多方面干预），作者指出不同技巧擅长处理不同问题，没有一种方法能解决所有人类困扰。文章批判了“多伦多判决”和共同因素理论，认为尽管治疗师的共情很重要，但特定机制（如创伤处理、认知重构、身体中心工作）确实产生不同效果。作者分享了从家庭系统疗法、认知行为疗法到正念冥想的个人经历，说明了它们的差异化效果。建议将各种方法视为互补工具，在可能时结合使用，并认识到有些问题是“已知问题”，值得接受而非无休止地解决。文章兼具思辨与实践，鼓励读者以开放、细致的态度选择疗法。",
-    "best_quote_en": "Minds are complicated and so are people's issues; some issues need a specific approach while others can be affected by several.",
-    "best_quote_zh": "心智是复杂的，人的问题也是复杂的；有些问题需要特定的方法，而另一些问题则可以被多种方法影响。"
-  },
-  {
-    "id": 72,
-    "title": "Glen Hansard’s Street-Corner Stories",
-    "title_zh": "Glen Hansard 的街头故事",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/news/postscript/glen-hansards-street-corner-stories",
-    "tags": [
-      "analyze",
-      "science",
-      "ai-research",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "科学研究",
-      "AI研究",
-      "数据驱动"
-    ],
-    "date": "2026-07-31",
-    "summary_en": "Glen Hansard’s Street‑Corner Stories captures the essence of an artist who transformed ordinary urban moments into profound communal experiences. The piece interweaves vivid recollections of Hansard’s busking days, his raw guitar performances on rainy Dublin streets, and his later stage presence that never lost that intimate, urgent connection. By juxtaposing his early career with the emotional resonance of songs like “Astral Weeks” and “The Parting Glass,” the author reveals how Hansard used music as a portal, inviting listeners to revisit lost loves, youthful longing, and collective endings. The narrative also reflects on the solitary nature of performance, contrasting the stage’s hierarchical distance with Hansard’s deliberate choice to make it a shared space. Through personal anecdotes and thoughtful analysis, the article underscores the rare ability of an artist to turn vulnerability into universal truth, leaving readers to contemplate the lasting impact of his voice and the mythic quality of his craft.",
-    "summary_zh": "Glen Hansard 的街头故事展现了这位艺术家如何将平凡的街头瞬间升华为深刻的集体体验。从他年轻时在都柏林雨中摆街头，到舞台上的深情演绎，Hansard 始终以一种纯粹的紧迫感吸引着路人。这种将故事融入歌曲、即使琴弦断裂也坚持演奏的精神，打破了舞台的隔离，将观众融入一个共享的空间。文章通过回忆他的音乐哲学，揭示了艺术如何成为连接过去与当下的桥梁，也让我们在告别的歌声中，感受到直到最后一息，我们依然相伴。",
-    "best_quote_en": "He was a folk‑music hero, singing songs of triumph and heroics and loss, and the heart.",
-    "best_quote_zh": "他是一位民谣音乐英雄，唱着关于胜利、英雄主义、悲伤与心灵之歌。"
-  },
-  {
-    "id": 73,
-    "title": "Jess Cartner-Morley on fashion: the secret to summer layering? Sheer bravery",
-    "title_zh": "Jess Cartner-Morley 谈时尚：夏日 layering 的秘密？ sheer 勇气",
-    "source": "Women | The Guardian",
-    "link": "https://www.theguardian.com/fashion/2026/jul/29/jess-cartner-morley-on-fashion-summer-layering-crochet",
-    "tags": [
-      "solve",
-      "lifestyle",
-      "case-study"
-    ],
-    "tags_zh": [
-      "解决",
-      "生活方式",
-      "案例研究"
-    ],
-    "date": "2026-07-29",
-    "summary_en": "Jess Cartner-Morley explores a nuanced approach to summer dressing that balances exuberance and restraint. She argues that layering, traditionally associated with colder weather, can become a sophisticated tool for adding texture, color, and subtle allure without overheating. By pairing sheer shirts—silk or fine linen—with bold, visible underlayers such as neon pink bralettes or sturdy vests, wearers create a dialogue between garments that feels intentional rather than chaotic. The article also re‑examines crochet, suggesting it works best as a translucent top layer rather than a standalone boho piece, allowing its open weave to soften vibrant hues. Cartner-Morley emphasizes that this method encourages rethinking existing wardrobes, merging maximalist flair with minimalist simplicity. The piece serves as both a practical guide and a philosophical reminder that style can inhabit the sunny space between extremes, inviting readers to embrace a little “sheer bravery” in their summer look.",
-    "summary_zh": "Jess Cartner‑Morley 倡导夏日 layering 不仅是时尚策略，更是平衡极简与浮夸的思维方式。通过半透明上衣搭配亮色内搭，她教你如何在炎热中营造层次感与魅力。她建议将编织单品当做外层而非主角，用开放针织软化亮色底妆。文章鼓励读者重新利用旧衣，在阳光下找到风格的幸福中间地带。",
-    "best_quote_en": "Summer layering isn’t about keeping warm. It’s about adding interest and hinting at skin without necessarily baring it.",
-    "best_quote_zh": "夏日 layering 不是为了保暖，而是为了增加趣味，在不完全裸露皮肤的情况下暗示肌肤的存在。"
-  },
-  {
     "id": 74,
     "title": "Chill Buddhism",
     "title_zh": "轻松佛教",
@@ -2322,5 +2252,77 @@
     "summary_zh": "这期《泰姆·弗里斯秀》文字稿探讨了如何将挫折转化为机遇。嘉宾泰·麦葛、泰瑞·克鲁斯、大·谢泼德等分享了从高中篮球失利到意外受伤等失败经历，并揭示这些时刻如何催生韧性与成长。BJ·米勒通过改装摩托车克服肢体缺失的故事尤其令人动容，展现了非凡的解决能力和决心。对话交织了实用教训与深刻反思，触及身份、社区与“跟随状态”的哲学思辨——在这种状态中，好奇心超越确定性。本期节目不仅激励人心，也提供可操作的洞察，提醒我们在逆境中，失败是重新发明的机会，前提是保持开放与支持。",
     "best_quote_en": "Setbacks can often present opportunities, if you know how to look for them.",
     "best_quote_zh": "挫折往往能带来机会，只要你知道如何去寻找它们。"
+  },
+  {
+    "id": 171,
+    "title": "For Gloria Steinem, fashion was about much more than aesthetics",
+    "title_zh": "对格洛丽亚·斯坦因来说，时尚不仅仅是审美",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/world/2026/sep/04/gloria-steinem-fashion-feminism-aesthetics",
+    "tags": [
+      "inspire",
+      "politics",
+      "design",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "启发",
+      "政治时事",
+      "设计创意",
+      "未来预测"
+    ],
+    "date": "2026-09-04",
+    "summary_en": "Gloria Steinem turned fashion into a strategic tool, using glasses, bold outfits, and iconic accessories as a Trojan horse to capture public attention and advance feminist discourse. By embracing the era’s bohemian style—oversized aviators, high‑waisted jeans, and activist pins—she subverted stereotypes that feminists were unattractive, proving that personal presentation could be both empowering and politically potent. The article reveals how Steinem’s self‑branding was less about aesthetics and more about agency, allowing her to pivot seamlessly from eye‑catching visuals to uncompromising messages on reproductive rights and systemic sexism. Her evolution from flamboyant 1960s‑70s looks to a minimalist black palette later in life underscores a lifelong commitment to authenticity over conformity. Steinem’s legacy demonstrates that style, when wielded deliberately, can disarm critics, reshape cultural narratives, and inspire future generations to claim their own voices through both clothing and activism.",
+    "summary_zh": "格洛丽亚·斯坦因以时尚为武器，通过眼镜和服装吸引眼球，将个人风格转化为推动女权运动的策略。她打破了女性运动者不美的刻板印象，证明着装可以成为权利的延伸。从充满活力的 bohemian 风格到后期的简约黑装，她不断探索自我表达的方式，展现了时尚如何成为对抗性别偏见的强大工具。",
+    "best_quote_en": "Fashion in the past meant conforming and losing oneself; fashion in the present means being unique and finding oneself.",
+    "best_quote_zh": "过去的时尚意味着 conformity 和迷失自己；现在的时尚意味着独一无二地找到自己."
+  },
+  {
+    "id": 172,
+    "title": "Idea Generation",
+    "title_zh": "创意生成",
+    "source": "Sam Altman",
+    "link": "https://blog.samaltman.com/idea-generation",
+    "tags": [
+      "guide",
+      "science",
+      "startup-strategy",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "指导",
+      "科学研究",
+      "创业策略",
+      "数据驱动"
+    ],
+    "date": "2020-05-28",
+    "summary_en": "The article unpacks why idea generation is the cornerstone of successful startups, arguing that founders must cultivate a relentless flow of concepts rather than rely on external prompts. It emphasizes the environmental prerequisites for fertile ideation: surrounding oneself with optimistic, creatively intelligent people who tolerate absurd notions and encourage bold, unconstrained thinking. The piece advocates projecting 20 years into the future and working backwards, spotting tectonic shifts, and distinguishing genuine trends from hype. It also stresses the importance of founder‑company fit, the ability to articulate why an idea seems foolish to others yet holds promise, and the need for actionable testing. By blending personal reflection with practical frameworks, the text offers a roadmap for turning abstract curiosity into scalable startup opportunities, reminding readers that the most groundbreaking ideas often begin as fragile, unpopular thoughts.",
+    "summary_zh": "这篇文章深入探讨了创意生成为何是创业成败的关键，指出创始人必须不断产生新概念，而非依赖外部催生。它强调营造孕育创意的环境：与乐观、富有创造力的人共事，容忍荒谬想法，鼓励无拘无束的思考。作者建议未来导向的逆向思维法则，识别重大技术变革，并区分真实趋势与虚假热潮。此外，文章还强调创始人与公司的契合度，以及如何识别那些看似愚蠢却蕴含潜力的创意。通过个人反思与实用框架相结合，文章为将抽象灵感转化为可扩展创业机会提供了清晰路径，提醒我们最伟大的创意往往始于那些脆弱、不被理解的思想。",
+    "best_quote_en": "The best ideas are fragile; most people don’t even start talking about them at all because they sound silly.",
+    "best_quote_zh": "最好的想法是脆弱的；大多数人甚至不敢说出来，因为它们听起来很傻。"
+  },
+  {
+    "id": 173,
+    "title": "Tales of Overcoming the Odds, and How to Turn Losses Into Wins — Tim McGraw, Terry Crews, Dax Shepard, and More (#881)",
+    "title_zh": "克服逆境的故事，以及如何将失败转化为胜利——蒂姆·麦格raw、泰瑞·克鲁、达克斯·谢泼德等 (#881)",
+    "source": "Tim Ferriss",
+    "link": "https://tim.blog/2026/09/04/failure-into-success/",
+    "tags": [
+      "solve",
+      "design",
+      "leadership",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "解决",
+      "设计创意",
+      "领导管理",
+      "数据驱动"
+    ],
+    "date": "2026-09-04",
+    "summary_en": "This episode of The Tim Ferriss Show gathers extraordinary voices—country legend Tim McGraw, actor Terry Crews, comedian Dax Shepard, and others—to explore how setbacks can become stepping stones. Listeners gain actionable strategies for reframing failure, from Olympic boxer Deontay Wilder’s resilience to hospice physician BJ Miller’s perspective on loss. The conversation blends personal anecdotes with expert insights, illustrating that rejection and big bets gone wrong are not dead ends but fertile ground for growth. By examining real‑world examples and offering concrete mindset shifts, the episode serves as both an inspirational rallying cry and a practical guide for turning losses into wins. It’s a masterclass in human adaptability that will leave you re‑evaluating your own challenges.",
+    "summary_zh": "本期节目汇集了蒂姆·麦格raw、泰瑞·克鲁、达克斯·谢泼德等明星，探讨如何将失败转化为成功。从拳击手到医生，每位嘉宾分享了将逆境转化为机遇的实用策略，揭示了挫折并非终点，而是成长的契机。节目既激励人心，又提供实用的心态转变方法，带领听众重新审视自身挑战，激发无限潜能。",
+    "best_quote_en": "Setbacks can often present opportunities if you know how to look for them.",
+    "best_quote_zh": "逆境往往是机会，只要你知道如何去寻找它。"
   }
 ]
