@@ -1,29 +1,5 @@
 [
   {
-    "id": 74,
-    "title": "Chill Buddhism",
-    "title_zh": "轻松佛教",
-    "source": "LessWrong",
-    "link": "https://www.lesswrong.com/posts/coHoAojCiqucLL4rL/chill-buddhism",
-    "tags": [
-      "guide",
-      "psychology",
-      "medicine",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "指导",
-      "心理学",
-      "医学健康",
-      "未来预测"
-    ],
-    "date": "2026-08-02",
-    "summary_en": "Jonas Hallgren’s “Chill Buddhism” offers a relaxed, pragmatic reinterpretation of Buddhist practice, arguing that the path should prioritize peace, happiness, and verifiable benefits over intense asceticism. He introduces two core tenets—cultivating calm and ensuring that practices are directly testable in daily life—and champions guided naps (yoga nidra) as a scientifically backed method to boost productivity and reduce stress. The piece also outlines an “open awareness” practice that encourages gentle presence without forcing outcomes, linking the skill of chilling to neurophysiological mechanisms like parasympathetic activation and predictive processing. Hallgren critiques more demanding Buddhist traditions for fostering rigidity and proposes that chilling can coexist with purposeful action, even influencing fields from sports to AI safety. By framing meditation as a restorative, accessible skill rather than a hardcore discipline, he invites both skeptics and practitioners to reconsider what it means to pursue insight in a fast‑paced world.",
-    "summary_zh": "这篇文章提出“轻松佛教”，主张以平和、幸福、实证为导向的修行方式，取代严肃的苦行。通过引导性小睡（瑜伽尼德拉）和开放觉知练习，作者将冥想视为提升效率、减轻压力的实用技能，并探讨了神经生理学机制，认为冷静既是生活态度，也是行动基础。",
-    "best_quote_en": "Chilling is always possible but you can be differently good at chilling.",
-    "best_quote_zh": "冷静总是可能的，但你可能在冷静方面有高低水平。"
-  },
-  {
     "id": 75,
     "title": "A moment that changed me: I’d lost my libido – then I saw Richard Ashcroft on stage and it came bursting back",
     "title_zh": "那刻改变了我：我失去了性欲，后来看到理查德·阿什克罗夫特的舞台表演后，性欲重新迸发",
@@ -2324,5 +2300,29 @@
     "summary_zh": "本期节目汇集了蒂姆·麦格raw、泰瑞·克鲁、达克斯·谢泼德等明星，探讨如何将失败转化为成功。从拳击手到医生，每位嘉宾分享了将逆境转化为机遇的实用策略，揭示了挫折并非终点，而是成长的契机。节目既激励人心，又提供实用的心态转变方法，带领听众重新审视自身挑战，激发无限潜能。",
     "best_quote_en": "Setbacks can often present opportunities if you know how to look for them.",
     "best_quote_zh": "逆境往往是机会，只要你知道如何去寻找它。"
+  },
+  {
+    "id": 174,
+    "title": "Life is Short",
+    "title_zh": "生命短暂",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/vb.html",
+    "tags": [
+      "solve",
+      "startup-strategy",
+      "lifestyle",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "解决",
+      "创业策略",
+      "生活方式",
+      "未来预测"
+    ],
+    "date": "2026-09-07",
+    "summary_en": "This essay reflects on the perception of life’s brevity, using parenthood as a lens to transform abstract time into concrete moments—weeks, holidays, and childhood experiences become countable, revealing life’s inherent shortness. The author argues that recognizing this scarcity reframes common expressions like “life is too short” from mere complaints into actionable warnings against “bullshit,” defined as time‑wasting activities forced or self‑chosen. By distinguishing between unavoidable duties and self‑induced distractions, the piece offers practical strategies: choose employers and clients that minimize nonsense, avoid reactive online arguments, and cultivate impatience for meaningful pursuits. The narrative also highlights the importance of savoring present experiences, learning what truly matters, and resisting the addictive pull of modern distractions. Ultimately, the work blends philosophical insight with tangible life‑hacks, encouraging readers to prune waste, act on priorities, and appreciate fleeting moments before they vanish.",
+    "summary_zh": "作者以育儿视角将抽象的时间转化为具体片段，揭示生命的短暂性。他主张将“生命短暂”从修辞转为行动指南，警惕“垃圾信息”——那些浪费时间的事物。文章提供实用策略：选择低浪费的工作/客户、避免网络争斗、培养对有意义事务的迫切感，并强调珍惜当下、辨别真正重要的事物，平衡生活中的义务与自我选择。",
+    "best_quote_en": "Bullshit is the junk food of experience.",
+    "best_quote_zh": "那些浪费时间的东西，就是经验的垃圾食品。"
   }
 ]
