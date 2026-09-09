@@ -1,93 +1,5 @@
 [
   {
-    "id": 78,
-    "title": "What I Wish Someone Had Told Me",
-    "title_zh": "如果有人早告诉我",
-    "source": "Sam Altman",
-    "link": "https://blog.samaltman.com/what-i-wish-someone-had-told-me",
-    "tags": [
-      "solve",
-      "startup-strategy",
-      "leadership"
-    ],
-    "tags_zh": [
-      "解决",
-      "创业策略",
-      "领导管理"
-    ],
-    "date": "2023-12-21",
-    "summary_en": "This reflective piece distills a lifetime of entrepreneurial wisdom into seventeen concise precepts, ranging from the primal fuels of optimism and raw talent to the nuanced art of building cohesive, high‑performing teams. The author emphasizes that audacious ideas attract commitment, that incentives function as true superpowers, and that rapid iteration can offset early missteps. By juxtaposing the scarcity of long‑term orientation with the urgency of decisive action, the text challenges conventional risk aversion and urges leaders to recruit boldly, eliminate ruthlessly, and let outcomes trump process. Its blend of pragmatic tactics and philosophical insight makes it a valuable guide for anyone navigating the complexities of scaling a venture, while also offering broader lessons on human motivation, organizational design, and the compounding power of sustained effort.",
-    "summary_zh": "这篇文章如实地揭示了创业者从理想到执行的艰难历程，强调了乐观、团队协作、激励机制与快速迭代的魔力，提醒我们在匆忙中别忘初心，唯有坚持与行动才能将大胆想法转化为现实。",
-    "best_quote_en": "Incentives are superpowers; set them carefully.",
-    "best_quote_zh": "激励是超级力量；请谨慎设定。"
-  },
-  {
-    "id": 79,
-    "title": "Subaru Socialists and the Great Disappointed",
-    "title_zh": "斯巴鲁社会主义者与大失落者",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/news/fault-lines/subaru-socialists-and-the-great-disappointed",
-    "tags": [
-      "analyze",
-      "politics",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "政治时事",
-      "数据驱动"
-    ],
-    "date": "2026-08-04",
-    "summary_en": "Jay Caspian Kang’s essay maps the rise of a new Democratic voting bloc shaped by educational disappointment and generational trauma. He introduces Noam Scheiber’s “Mutiny” to frame how degree‑holding workers, once promised stable careers, now confront gig‑economy reality and stagnant wages. Kang distinguishes “Subaru Socialists” – thirtysomething millennials scarred by the Great Recession, Occupy, and soaring urban housing – from the younger “Great Disappointed,” who came of age during pandemic failures and anchor their politics to moral issues like Gaza. The piece dissects the contradictions of privileged yet alienated voters, critiques establishment attempts to court them, and highlights how anti‑establishment sentiment, amplified by figures such as Mamdani and Kiros, is redefining the party’s platform. Kang’s nuanced reporting blends data from the Cooperative Election Study with on‑the‑ground anecdotes, offering a compelling analysis of how economic disillusionment, cultural identity, and geopolitical outrage converge to reshape American politics. The essay reads as both a diagnostic of current electoral shifts and a provocative speculation about the Democratic Party’s future trajectory.",
-    "summary_zh": "这篇文章深刻剖析了受教育青年因预期落差而转向左翼政治，从“斯巴鲁社会主义者”到“大失落者”，他们的不满超越经济，成为对体制的反叛。这一政治新势力正重塑民主党未来，并影响更广泛的政治格局。",
-    "best_quote_en": "Their discontent, Scheiber concludes, isn’t explicitly economic or cultural or political but, rather, is what happens when people with degrees realize that what they thought was a temporary postgraduate job will almost certainly become their career.",
-    "best_quote_zh": "Scheiber 得出结论，他们的不满并不是明确的经济、文化或政治问题，而是在拥有学位的人们意识到，他们以为只是暂时的研究生工作实际上很可能成为他们的职业时所发生的事情。"
-  },
-  {
-    "id": 80,
-    "title": "How Your Immune System Works & How to Improve It | Dr. Max Krummel",
-    "title_zh": "如何运作及改善你的免疫系统 | Max Krummel博士",
-    "source": "Huberman Lab",
-    "link": "https://www.hubermanlab.com/episode/how-your-immune-system-works-and-how-to-improve-it-max-krummel",
-    "tags": [
-      "solve",
-      "science",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "解决",
-      "科学研究",
-      "数据驱动"
-    ],
-    "date": "2026-08-03",
-    "summary_en": "This podcast episode features Dr. Matthew (Max) Krummel, a leading immunologist from UCSF, who provides comprehensive insights into how the human immune system functions and can be optimized. The discussion covers fundamental immunological concepts including self vs non-self recognition, immune surveillance against cancer, and the crucial role of the thymus in immune function. Dr. Krummel explains how lifestyle factors such as sleep, emotions, and even memories significantly impact immune health, offering an actionable framework for listeners to understand and improve their immune function. The episode explores cutting-edge topics like immunotherapy, the relationship between aging and immune decline, and how timing and type of immunization affect overall health. With expertise spanning from basic immunology to cancer treatment applications, Dr. Krummel's insights bridge theoretical knowledge with practical health optimization strategies. This episode serves as an invaluable resource for understanding the complex interplay between our immune system and daily lifestyle choices, making sophisticated immunological concepts accessible to a general audience while maintaining scientific rigor.",
-    "summary_zh": "UCSF免疫学家Max Krummel博士深入解析免疫系统运作机制，揭示睡眠、情绪、记忆如何影响免疫功能，提供优化免疫力的实用框架，探讨癌症治疗与免疫接种的科学前沿。",
-    "best_quote_en": "Sleep, emotions, and even memories shape immune function - Dr. Max Krummel",
-    "best_quote_zh": "睡眠、情绪，甚至记忆都会影响免疫功能 - Max Krummel博士"
-  },
-  {
-    "id": 81,
-    "title": "The Tim Ferriss Show Transcripts: Q&A with Tim — The Art of Male Friendship, Mini-Retirements, Higher-Resolution Living, Reinvention in The Age of AI, and More (#877)",
-    "title_zh": "《蒂姆·费里斯秀》文字稿：蒂姆访谈——男性友谊的艺术、小型退休、高分辨率生活、AI时代的重塑与更多 (#877)",
-    "source": "Tim Ferriss",
-    "link": "https://tim.blog/2026/07/29/qa-with-tim-male-friendship-transcript/",
-    "tags": [
-      "solve",
-      "psychology",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "解决",
-      "心理学",
-      "未来预测"
-    ],
-    "date": "2026-07-30",
-    "summary_en": "This transcript of Tim Ferriss’s wide‑ranging Q&A explores personal reinvention, mental‑health resilience, and practical strategies for thriving in an AI‑driven world. Ferriss shares his own evolution from hyper‑optimized business investor to a relationship‑focused individual, emphasizing the importance of confronting unresolved trauma and using tools like *Awareness* and Internal Family Systems to foster introspection over external validation. He challenges the binary mindset of “A versus B” by citing Derek Sivers’s framework of generating multiple options, illustrating how expanding choices can reveal hidden opportunities and prevent impulsive escapes from current life circumstances. The discussion also touches on reversible experiments, mini‑retirements, higher‑resolution living, and cognitive‑longevity practices such as exercise and emerging Klotho‑based therapies. Throughout, Ferriss balances philosophical insight with concrete, actionable advice, encouraging listeners to experiment, reflect, and cultivate deeper friendships while navigating career transitions and health optimization. The episode serves as both an inspirational narrative of personal growth and a pragmatic guide for anyone seeking to redesign their life in the age of rapid technological change.",
-    "summary_zh": "这期文字稿涵盖了个人重塑、心理韧性与实用策略，以应对AI时代的生活。蒂姆·费里斯分享了从高效投资者到注重关系的转变历程，强调直面创伤与运用《觉察》与内部家庭系统等工具进行内在反思的重要性。他通过引用德里克·西弗斯的观点，指出人们常陷入“要么A要么B”的思维定式，建议通过列出更多可能性（如兼职创业、秘密副业、与老板合作等）来突破僵局。节目还探讨了可逆实验、小型退休、高分辨率生活与认知长寿策略（如运动与克洛泰注射疗法），兼具激励人心的叙事与落地 actionable 的建议，激励听众在职业转型与健康优化中寻找平衡与成长。",
-    "best_quote_en": "When people say they only have two options, it means they got stuck.",
-    "best_quote_zh": "当人们说他们只有两个选择时，这意味着他们陷入了僵局。"
-  },
-  {
     "id": 82,
     "title": "I spent years trying to get smaller. Until I decided to get bigger",
     "title_zh": "我花了数年试图变瘦，直到我决定变胖",
@@ -2320,5 +2232,101 @@
     "summary_zh": "贾里德·拉特博士深入揭示线粒体不仅是能量工厂，更是调控细胞生长和疾病的核心关键。讲座探讨了线粒体与衰老、癌症等病理状态的联系，解析了线粒体的遗传机制、空间分布及营养能量如何影响细胞决策。同时介绍了可视化代谢的技术突破及其在疾病治疗中的应用前景，并提出改善健康的新策略。",
     "best_quote_en": "Mitochondria are not just the powerhouses of the cell; they are also central regulators of cell growth and disease.",
     "best_quote_zh": "线粒体不仅仅是细胞的能量工厂，它们也是调控细胞生长和疾病的核心关键。"
+  },
+  {
+    "id": 178,
+    "title": "‘Courage and contradictions’: what Gloria Steinem meant to feminist writers from around the world",
+    "title_zh": "勇气与矛盾：格洛丽亚·斯坦尼姆对全球女作家的意义",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/commentisfree/2026/sep/09/gloria-steinem-feminist-writers-global-panel-american-civil-rights-activist",
+    "tags": [
+      "analyze",
+      "society",
+      "ai-research",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "社会议题",
+      "AI研究",
+      "数据驱动"
+    ],
+    "date": "2026-09-09",
+    "summary_en": "A mosaic of global feminist voices reflects on Gloria Steinem’s indelible impact, portraying her as both catalyst and contradiction. From co‑founding Ms. magazine, which nationalised the US women’s movement, to pioneering intersectional analysis that linked race, gender, and class, Steinem reshaped feminist discourse. Contributors recall her media savvy, her willingness to confront uncomfortable truths, and her personal generosity—epitomised by acts of kindness that felt like political ammunition. Yet the essays also confront her blind spots: partisan entanglements, the limits of representation‑centric feminism, and the tension between her public image and private complexities. In an era of resurgent misogyny and “femonationalism,” Steinem’s legacy becomes a double‑edged sword—source of inspiration and cautionary tale. The collection underscores how her activism, writing, and mentorship continue to fuel contemporary struggles, urging readers to inherit both her courage and her contradictions as they push feminism forward.",
+    "summary_zh": "全球女作家回忆格洛丽亚·斯坦尼姆的复杂遗产：她将女权主义从海岸城市带入全国，推动媒体行动主义，并强调种族与性别交织。她既是先锋，也是矛盾人物，其影响至今仍在塑造女权斗争与个人赋权。",
+    "best_quote_en": "Her kindness and empathy were like steroids that strengthened us.",
+    "best_quote_zh": "她的善良与同情心就像类固醇一样让我们变得更强大。"
+  },
+  {
+    "id": 179,
+    "title": "Remembrance of September 11th",
+    "title_zh": "9月11日纪念日",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/the-lede/remembrance-of-september-11th",
+    "tags": [
+      "solve",
+      "politics",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "解决",
+      "政治时事",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2026-09-09",
+    "summary_en": "Adam Gopnik’s meditation on the twentieth‑century’s end and the unimagined terror of September 11, 2001, offers a layered reckoning of grief, resilience, and unintended consequences. He juxtaposes the millennium’s hopeful spectacle with the city’s golden September dawn, then chronicles the shock of hijacked planes, the spontaneous memorials, and the ensuing wars that reshaped global politics. Gopnik critiques the militant response that turned trauma into a license for calamitous action, noting how fear of perfect safety spurred disastrous policies. Yet he also highlights New York’s stubborn vitality, the heroism of responders, and the paradoxical persistence of everyday life amid crisis. The essay argues that terrorism seeks an autoimmune reaction, urging societies to choose life over fear, and reflects on how later events—like the pandemic—have altered urban futures more than 9/11 itself. Gopnik’s nuanced narrative balances historical horror with hopeful contingency, reminding readers that even the darkest chains of events can be redirected toward a better world.",
+    "summary_zh": "戈普尼克反思了20世纪的终结与9·11恐怖事件，探讨了悲伤、韧性与 unintended 后果。他将千禧年的欢庆与纽约9月金色的早晨并置，描绘了劫机震惊、 spontaneous 纪念以及后续战争如何重塑全球政治。文章批判了将创伤转化为灾难性行动的激进反应，指出对绝对安全的追求如何催生了毁灭性政策。同时，他也歌颂了城市的活力、救援者的英勇，以及日常生活的奇迹般延续。戈普尼克认为恐怖主义试图引发自我免疫反应，警告我们必须选择生命而非恐惧。他以历史的眼光指出，即使最黑暗的事件链也可以被重新引导，创造更美好的未来。文章以深刻的洞察，提醒我们自由社会与城市——这座城市的伟大成就——可能比自己更强大，只要我们选择去认识它。",
+    "best_quote_en": "The truly and newly unimaginable part was the sheer cruelty and madness of the terrorists, setting out to murder so many and engulfing themselves in the act.",
+    "best_quote_zh": "真正新颖的不可想象之处在于恐怖分子的残忍与疯狂，他们决心谋杀如此多人，并将自己吞噬在这一行为中。"
+  },
+  {
+    "id": 180,
+    "title": "Weird Love / The Marvels",
+    "title_zh": "奇怪的爱 / 奇迹",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/weird-love-the-marvels/",
+    "tags": [
+      "solve",
+      "design",
+      "psychology",
+      "controversial"
+    ],
+    "tags_zh": [
+      "解决",
+      "设计创意",
+      "心理学",
+      "争议观点"
+    ],
+    "date": "2026-09-08",
+    "summary_en": "The collection Weird Love and The Marvels offers contrasting windows into how narrative forms capture cultural moments. Weird Love, a 2015 anthology of 1950s‑70s romance comics, revels in its own absurdity, exposing the era’s entrenched sexism through a lens that is both unintentionally hilarious and historically revealing. Garrett Gottschalk’s commentary invites readers to appreciate the period’s limited gender dynamics while recognizing how far modern romance has progressed. In parallel, Brian Selznick’s The Marvels blends graphic storytelling with meta‑fiction, using a theatrical framing device to explore family, identity, and the power of stories themselves. Damien McLaughlin highlights its layered illustrations and progressive themes, noting how the novel’s structure—black‑and‑white sketches followed by a contemporary narrative—creates a dialogue between past and present. Together, these works demonstrate that comics and illustrated novels can serve as both entertainment and cultural critique, encouraging readers to reflect on how storytelling shapes our understanding of love, history, and self.",
+    "summary_zh": "这套书分别呈现了奇幻爱情漫画与插图小说，它们以不同的方式反映了文化时刻。奇异之爱揭露了过时的性别观念，而奇迹则通过故事套故事的结构探讨家庭与身份。两者都提醒我们，叙事艺术既是娱乐，也是文化反思的载体。",
+    "best_quote_en": "Stories within stories, books inside plays, real life lived out on a theatre stage.",
+    "best_quote_zh": "故事套故事，书套戏剧，真实生活上演在舞台上。"
+  },
+  {
+    "id": 181,
+    "title": "Please Fund More Science",
+    "title_zh": "请资助更多科学",
+    "source": "Sam Altman",
+    "link": "https://blog.samaltman.com/please-fund-more-science",
+    "tags": [
+      "solve",
+      "science",
+      "ai-research",
+      "controversial"
+    ],
+    "tags_zh": [
+      "解决",
+      "科学研究",
+      "AI研究",
+      "争议观点"
+    ],
+    "date": "2020-03-30",
+    "summary_en": "The piece argues that the COVID‑19 crisis reveals three possible pathways to a return to normalcy: an effective global vaccine, a reliable treatment, or a robust testing and isolation culture. While acknowledging the unprecedented speed and dedication of biotech firms and research labs, the author laments that governmental funding for R&D remains insufficient. He urges private investors and philanthropists to redirect capital toward scientific efforts, emphasizing that the pandemic will be a turning point for how society prepares for future health threats. The narrative blends optimism about the surge in scientific innovation with a pragmatic call to action, highlighting that money and connections are the key ingredients scientists need to deliver solutions. By framing funding as both a moral imperative and a strategic investment, the article invites readers to consider their role in shaping a more resilient, research‑driven future.",
+    "summary_zh": "文章指出，疫情让我们看到了三种可能的复苏路径：有效的全球疫苗、可靠的治疗手段，或严密的检测与隔离文化。尽管生物技术公司和研究实验室以惊人的速度奋战，但政府对R&D的资金支持仍显不足。作者呼吁投资者和慈善家将资源投入科学研究，认为这不仅是应对当前疫情的需要，更是为未来病毒做好准备的战略性举措。文章既赞叹了科学创新的蓬勃发展，也清醒地指出科学家真正需要的只是资金和合作。这篇文字既充满希望，又不乏现实主义，激励读者思考如何为科学事业贡献力量。",
+    "best_quote_en": "Scientists can get us out of this. What they need are money and connections.",
+    "best_quote_zh": "科学家能带领我们走出困境。他们需要的是资金和联系。"
   }
 ]
