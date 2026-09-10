@@ -1,101 +1,5 @@
 [
   {
-    "id": 82,
-    "title": "I spent years trying to get smaller. Until I decided to get bigger",
-    "title_zh": "我花了数年试图变瘦，直到我决定变胖",
-    "source": "Women | The Guardian",
-    "link": "https://www.theguardian.com/lifeandstyle/2026/jul/24/bulking-body-image-weight",
-    "tags": [
-      "solve",
-      "lifestyle",
-      "psychology",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "解决",
-      "生活方式",
-      "心理学",
-      "未来预测"
-    ],
-    "date": "2026-07-24",
-    "summary_en": "The author recounts a personal journey from years of restrictive dieting and body dissatisfaction to embracing intentional weight gain (bulking) for strength and health. Triggered by wedding planning and a supportive gym environment, she discovered that traditional diet culture conflicted with her well‑being. By learning to eat in a caloric surplus, prioritize protein, and train with progressive overload, she built muscle, boosted energy, and reshaped her self‑image. The piece critiques the narrow beauty standards imposed on women, highlighting how strength training improves cardiovascular health, cognition, and mental health while fostering independence in aging. It also explores the psychological shift from fear of weight gain to viewing it as a tool for empowerment, offering a nuanced, actionable narrative that challenges prevailing diet‑industry narratives and advocates for a balanced, informed approach to body transformation.",
-    "summary_zh": "作者讲述了从长期节食与身体焦虑到接受有意识增重以增强力量与健康的个人历程。她通过婚礼压力与新健身房的契机，意识到传统瘦身观念对健康的损害。通过学习热量盈余饮食、充足蛋白质与渐进式力量训练，她成功增肌、提升活力，并重建自信。文章批判了女性外貌标准，指出举重对心血管、认知与心理健康的益处，倡导将体重增长视为赋权工具，而非恐惧。文章提供切实可行的指南，鼓励读者挑战外部期待，采取平衡、科学的身体改造方式。",
-    "best_quote_en": "Why would anyone go through all this trouble if they’re not a professional bodybuilder? Building and maintaining muscle is essential for health, especially as we age.",
-    "best_quote_zh": "为什么不是职业健美运动员还要经历这些麻烦？因为增肌和保持肌肉对健康至关重要，尤其是随着年龄的增长。"
-  },
-  {
-    "id": 83,
-    "title": "Orthodox Privilege",
-    "title_zh": "正统特权",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/orth.html",
-    "tags": [
-      "update",
-      "startup-strategy",
-      "society",
-      "controversial"
-    ],
-    "tags_zh": [
-      "动态",
-      "创业策略",
-      "社会议题",
-      "争议观点"
-    ],
-    "date": "2026-08-05",
-    "summary_en": "This essay explores the subtle blindness of 'orthodox privilege'—the assumption that conventional thinking guarantees safety for all voices. Drawing on Einstein’s observation about social prejudice, the author argues that many people cannot even imagine truths that would be dangerous to utter in their era. Historically, there have always been forbidden statements; the piece questions whether our time is uniquely free of such constraints. The analysis reveals how those enjoying orthodox privilege often deny the existence of unseen taboos and even label dissenters as heretics. Because this privilege is invisible to its holders, typical 'check your privilege' tactics fail. The author proposes a courteous approach: treat claims of unseen truths with the same respect we afford sensory differences. By doing so, we might foster a more open discourse and gradually erode this tenacious form of intellectual complacency.",
-    "summary_zh": "本文剖析了“正统特权”这一隐性盲点：那些惯于传统思维的人以为，主流观点下的表达对每个人都是安全的。作者以爱因斯坦的名言开篇，指出多数人甚至无法想象那些在特定时代危险的真实主张。历史告诉我们，永远存在不可言说之 truth，但许多人仍坚信我们这时代是例外。这种特权者不但否认禁忌的存在，还将质疑者贴上异端标签。由于这种特权完全隐形，传统的“审视你的特权”方法难以奏效。作者建议以礼相待：如同对待他人感受不可见的噪音一样，接纳他们关于不可言说真理的描述，或许才能逐步打破这种根深蒂固的思想封闭。",
-    "best_quote_en": "\"Few people are capable of expressing with equanimity opinions which differ from the prejudices of their social environment. Most people are even incapable of forming such opinions.\"",
-    "best_quote_zh": "\"很少有人能够冷静地表达与社会偏见相左的观点，大多数人甚至无法形成这样的观点。\""
-  },
-  {
-    "id": 84,
-    "title": "How to Improve Your Memory & Cognitive Function at Any Age | Dr. Alan Castel",
-    "title_zh": "如何在任何年龄提升记忆力和认知功能 | 卡斯特博士",
-    "source": "Huberman Lab",
-    "link": "https://www.hubermanlab.com/episode/how-to-improve-your-memory-and-cognitive-function-at-any-age-alan-castel",
-    "tags": [
-      "solve",
-      "psychology",
-      "science",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "解决",
-      "心理学",
-      "科学研究",
-      "未来预测"
-    ],
-    "date": "2026-07-13",
-    "summary_en": "Dr. Alan Castel’s discussion offers a science‑grounded roadmap for enhancing memory and cognition across the lifespan. By unpacking how memory reconstruction, metacognition, and emotional salience shape learning, Castel reveals practical techniques—such as mnemonics, curiosity‑driven exploration, and deliberate retrieval—that anyone can adopt. The episode highlights striking findings on neuroplasticity, the impact of exercise on hippocampal volume, and the paradoxical phenomenon of “superagers” who actually gain cognitive capacity with age. Castel also warns against age‑related stereotypes and highlights the role of mindset, novelty, and social connection in sustaining mental sharpness. For readers interested in evidence‑based strategies, the conversation bridges cutting‑edge research with actionable steps, making it both an educational resource and a source of inspiration for lifelong brain health.",
-    "summary_zh": "卡斯特博士分享了提升记忆力的科学方法：利用好奇心、情绪和检索练习等技巧，打破年龄限制。超龄者如何通过神经可塑性和积极心态保持认知增长，启发我们重新定义老龄化。",
-    "best_quote_en": "The secret to successful aging is cultivating state curiosity and using deliberate retrieval practice.",
-    "best_quote_zh": "成功老龄化的秘诀在于培养状态好奇心，并使用有意识的检索练习。"
-  },
-  {
-    "id": 85,
-    "title": "How the GitHub legal team used Copilot CLI to streamline their workflows",
-    "title_zh": "GitHub 法律团队如何使用 Copilot CLI 简化工作流程",
-    "source": "GitHub Blog",
-    "link": "https://github.blog/ai-and-ml/github-copilot/how-the-github-legal-team-used-copilot-cli-to-streamline-their-workflows/",
-    "tags": [
-      "analyze",
-      "programming",
-      "science",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "编程开发",
-      "科学研究",
-      "数据驱动"
-    ],
-    "date": "2026-08-04",
-    "summary_en": "This GitHub blog post demonstrates how non-technical legal professionals successfully leveraged GitHub Copilot CLI to build sophisticated AI-powered tools without traditional coding skills. The article showcases two compelling case studies: Ngandu Kasuku's 'terms-ai' contract drafting system and Jesse Geraci's legal workflow automation platform. Both examples highlight how lawyers and business professionals can transform repetitive tasks like contract review, DMCA analysis, and compliance checks using plain-language AI instructions. The key insight is that AI tools can be customized around individual workflows and expertise, keeping human judgment central while dramatically improving efficiency and consistency. This represents a paradigm shift in how legal teams can adopt AI technology, moving beyond waiting for perfect software solutions to actively building customized tools that reflect their unique methodologies and standards.",
-    "summary_zh": "这篇 GitHub 博客展示了非技术法律专业人员如何利用 Copilot CLI 构建 AI 工具，无需编写传统代码。文章通过两个案例研究：Ngandu Kasuku 的“terms-ai”合同起草系统和 Jesse Geraci 的法律工作流程自动化平台，展示了律师和业务专业人员如何使用自然语言 AI 指令来自动化合同审查、DMCA 分析和合规检查等重复性任务。核心洞察是，AI 工具可以围绕个人的判断、经验和工作方式进行定制，同时保持人类审查的核心地位。这代表了法律团队采用 AI 技术的范式转变——从等待完美软件解决方案转向积极构建符合自身方法论和标准的需求工具。",
-    "best_quote_en": "The biggest lesson wasn't that AI could help me draft faster. It was that I could use AI to build a tool around my own judgment, experience, and way of working.",
-    "best_quote_zh": "最大的教训不是 AI 能帮我更快地起草文件，而是我能利用 AI 根据自己的判断、经验和工作方式来构建工具。"
-  },
-  {
     "id": 86,
     "title": "Coronavirus and Credibility",
     "title_zh": "新冠病毒与可信度",
@@ -2328,5 +2232,99 @@
     "summary_zh": "文章指出，疫情让我们看到了三种可能的复苏路径：有效的全球疫苗、可靠的治疗手段，或严密的检测与隔离文化。尽管生物技术公司和研究实验室以惊人的速度奋战，但政府对R&D的资金支持仍显不足。作者呼吁投资者和慈善家将资源投入科学研究，认为这不仅是应对当前疫情的需要，更是为未来病毒做好准备的战略性举措。文章既赞叹了科学创新的蓬勃发展，也清醒地指出科学家真正需要的只是资金和合作。这篇文字既充满希望，又不乏现实主义，激励读者思考如何为科学事业贡献力量。",
     "best_quote_en": "Scientists can get us out of this. What they need are money and connections.",
     "best_quote_zh": "科学家能带领我们走出困境。他们需要的是资金和联系。"
+  },
+  {
+    "id": 182,
+    "title": "Jess Cartner-Morley on fashion: this sweltering summer, I finally stopped giving a tuck",
+    "title_zh": "Jess Cartner-Morley 谈时尚：这个炎炎夏日，我终于不再收腰了",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/fashion/2026/sep/09/jess-cartner-morley-on-fashion-this-sweltering-summer-i-finally-stopped-giving-a-tuck",
+    "tags": [
+      "solve",
+      "lifestyle",
+      "society",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "解决",
+      "生活方式",
+      "社会议题",
+      "未来预测"
+    ],
+    "date": "2026-09-09",
+    "summary_en": "Jess Cartner-Morley’s summer column charts a surprisingly practical shift from the classic tucked‑in shirt to a looser, heat‑friendly silhouette. What began as a survival tactic against a record‑breaking heatwave quickly revealed deeper cultural currents: the \"Great Untuck\" is not just about comfort, but about redefining how women’s bodies are presented in public space. By observing couture shows in Paris and Rome, the author notes a paradox—wealthy patrons still cling to elaborate, heat‑defying ensembles, while the broader crowd opts for flowing shirts over filmy skirts. The piece also dissects the psychological habit of cinching—its roots in a desire to appear smaller—and cites Alexa Chung’s candid podcast confession as a cultural mirror. With actionable tips like the \"Reverse French\" tuck and a nod to TikTok’s influence, the article frames climate as a catalyst for fashion evolution, suggesting that comfort may be rewriting style rules across demographics. In doing so, it invites readers to reconsider ingrained grooming rituals and to see the summer’s heat as both a literal and metaphorical opportunity for sartorial liberation.",
+    "summary_zh": "Jess Cartner-Morley 分享了她如何因极端高温而放弃收腰习惯，揭示了「大松身」趋势背后的文化逻辑。从高级定制秀到日常穿着，她观察到舒适与审美的冲突，并探讨了女性对「显瘦」习惯的心理依赖。文章引用 Alexa Chung 的吐槽，指出这种变化已成风潮，并提供了「反法式收腰」等实用技巧，表明气候正在重塑时尚规范，鼓励人们摆脱旧有束缚。",
+    "best_quote_en": "I realised that tucking my shirt into my trousers was making me hot and flustered, and – this is the really bad part – also making me look old-fashioned and out of touch.",
+    "best_quote_zh": "我意识到把衬衫塞进裤子里让我又热又烦躁，而且——最糟糕的是——让我显得过时、不合时宜。"
+  },
+  {
+    "id": 183,
+    "title": "Economic Inequality",
+    "title_zh": "经济不平等",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/ineq.html",
+    "tags": [
+      "solve",
+      "startup-strategy",
+      "economics",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "解决",
+      "创业策略",
+      "经济金融",
+      "数据驱动"
+    ],
+    "date": "2026-09-10",
+    "summary_en": "This incisive essay challenges conventional wisdom about economic inequality by arguing it's a multifaceted phenomenon with both positive and negative causes. The author, a Y Combinator co-founder, reflects on his role in potentially exacerbating inequality through startup success while making a nuanced case for wealth creation versus extraction. The piece dismantles the 'pie fallacy' - the zero-sum assumption that the rich take from the poor - highlighting how genuine wealth creation through innovation (like Google's founders) differs fundamentally from predatory practices. Drawing on historical examples and technological acceleration, the author contends that attempts to eliminate inequality would inadvertently stifle startups and progress. The essay advocates for targeted solutions addressing specific harmful causes rather than broad inequality reduction, emphasizing that exponential technological advancement is an immutable force driving wealth disparities. This thought-provoking analysis reframes economic inequality as an inevitable byproduct of human progress that requires sophisticated understanding rather than simplistic remedies.",
+    "summary_zh": "这篇深刻的文章挑战了关于经济不平等的传统观念，指出这是一个多因素综合问题，既有积极的推动因素（如创新）也有消极的因素（如税收漏洞）。作者作为Y Combinator的创始人，反思了自己通过帮助创业者致富可能对不平等的贡献，同时提出了一个细致入微的观点：真正的财富创造与财富掠夺是完全不同的概念。文章打破了“饼图谬误”——认为财富是固定的，富人是通过剥削穷人获得财富的这一零和假设。作者通过谷歌创始人的例子说明， genuine 财富创造与掠夺在道德和实践上存在本质区别。文章认为，技术加速是推动不平等的不可阻挡的力量，试图消除不平等将同时扼杀创业精神和进步。作者主张应该针对具体的不当行为而不是不平等本身进行改革，而不是一刀切地解决这个问题。",
+    "best_quote_en": "The most common mistake people make about economic inequality is to treat it as a single phenomenon.",
+    "best_quote_zh": "关于经济不平等，最常见的错误是将其视为单一现象。"
+  },
+  {
+    "id": 184,
+    "title": "Is the Democratic Party Still Too Woke?",
+    "title_zh": "民主党是否仍然过于激进？",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/the-lede/is-the-democratic-party-still-too-woke",
+    "tags": [
+      "guide",
+      "politics",
+      "controversial"
+    ],
+    "tags_zh": [
+      "指导",
+      "政治时事",
+      "争议观点"
+    ],
+    "date": "2026-09-10",
+    "summary_en": "Adam Jentleson, once a self‑described “woke warrior,” now argues that the Democratic Party’s leftward drift is a strategic dead‑end. His new book, *Supermajority*, chronicles how progressive orthodoxy alienated centrist voters and contributed to electoral defeats, especially Trump’s second term. Jentleson critiques the party’s embrace of polarizing issues like transgender rights and Medicare for All, urging a return to pragmatic, mainstream policies that can secure super‑majorities. He highlights historical Democrats—FDR, LBJ, Clinton—who blended liberal goals with conservative themes to win broad support. While acknowledging the moral costs of past compromises, Jentleson contends that electoral viability outweighs ideological purity. The piece offers a timely, data‑driven examination of intra‑party conflict and proposes a centrist roadmap for rebuilding Democratic power in a polarized America.",
+    "summary_zh": "前“觉醒战士”亚当·詹特尔森认为民主党左倾策略导致选举失败，主张回归务实政策以赢得超多数席。他在新书中反思进步主义，如何通过融合保守主题实现长期执政。",
+    "best_quote_en": "“They sell this idea that if you just fight harder or yell louder you can unlock this secret socialism in the American electorate that’s just latent and waiting to be tapped into, and I think that’s basically a misleading case to make to people.”",
+    "best_quote_zh": "“他们兜售这样的观念，认为只要更激烈地斗争或更大声地呼喊，就能激发美国选民中 latent 的社会主义潜力，但我认为这基本上是一个误导性的说法。”"
+  },
+  {
+    "id": 185,
+    "title": "Q&A with Tim — The Art of Male Friendship, Mini-Retirements, Higher-Resolution Living, Reinvention in The Age of AI, and More (#877)",
+    "title_zh": "蒂姆问答：男性友谊、小型退休、高分辨率生活、AI时代的重塑与更多 (#877)",
+    "source": "Tim Ferriss",
+    "link": "https://tim.blog/2026/07/29/qa-with-tim-male-friendship/",
+    "tags": [
+      "solve",
+      "startup-funding",
+      "medicine",
+      "beginner-friendly"
+    ],
+    "tags_zh": [
+      "解决",
+      "创业融资",
+      "医学健康",
+      "新手友好"
+    ],
+    "date": "2026-07-29",
+    "summary_en": "The episode is a comprehensive Q&A exploring personal transformation strategies for thriving in the age of AI. Tim Ferriss shares insights on reinventing oneself through practical approaches to friendship, mental health optimization, and experimental lifestyle design. He emphasizes the importance of developing enduring skills that complement technological advancement, including cognitive longevity techniques through bilingualism, exercise-induced hippocampal growth, and intermittent fasting protocols. The discussion integrates cutting-edge research from neuroscience and health studies, offering actionable frameworks for higher-resolution living and mini-retirement experiments. Ferriss's expertise provides listeners with evidence-based guidance on language acquisition, privacy protection, and fitness optimization, making this episode particularly valuable for those seeking to adapt to rapid technological change while enhancing personal well-being and professional relevance. The wide-ranging conversation covers everything from the art of male friendship to experimental approaches to retirement, providing listeners with a toolbox of strategies for personal and professional reinvention in an increasingly complex world.",
+    "summary_zh": "这期访谈涵盖了AI时代的个人重塑、友谊技巧、小型退休实验和高品质生活策略。通过神经科学、间歇性禁食和语言学习等领域的最新研究，蒂姆提供了实用的技能和方法，帮助听众适应快速变化的世界，实现认知长寿和个人成长。",
+    "best_quote_en": "The Limits of My Language Mean the Limits of My World — Ludwig Wittgenstein",
+    "best_quote_zh": "我的语言局限了我的世界 — 路德维希·维特根斯坦"
   }
 ]
