@@ -1,75 +1,5 @@
 [
   {
-    "id": 89,
-    "title": "A guide to slash commands in the GitHub Copilot app",
-    "title_zh": "GitHub Copilot 应用中斜杠命令的使用指南",
-    "source": "GitHub Blog",
-    "link": "https://github.blog/ai-and-ml/github-copilot/a-guide-to-slash-commands-in-the-github-copilot-app/",
-    "tags": [
-      "guide",
-      "design",
-      "programming",
-      "controversial"
-    ],
-    "tags_zh": [
-      "指导",
-      "设计创意",
-      "编程开发",
-      "争议观点"
-    ],
-    "date": "2026-08-06",
-    "summary_en": "This comprehensive guide explores the enhanced slash command functionality in the GitHub Copilot app, building upon the familiar CLI experience to offer richer workflow management capabilities. The article positions slash commands as essential productivity tools that transform how developers interact with AI assistance, moving beyond simple code generation to comprehensive project management. By examining specific commands like /plan for strategic thinking, /spar for critical validation, and /autopilot for implementation automation, the guide demonstrates how these features enable developers to structure their AI-assisted workflows more effectively. The content emphasizes the shift from terminal-focused interactions to visual, multi-session approaches that better align with modern development practices. Through practical examples and actionable use cases, the article serves as both an introduction and advanced reference for maximizing the GitHub Copilot app's potential, making it valuable for developers at all experience levels seeking to optimize their AI-assisted development processes.",
-    "summary_zh": "这篇指南深入探讨了GitHub Copilot应用中增强的斜杠命令功能，从CLI体验升级为更丰富的项目管理工具。通过/plan、/spar等命令展示了如何构建结构化的AI辅助工作流程，帮助开发者提高生产力。",
-    "best_quote_en": "Slash commands may look like simple shortcuts, but they can change how you interact with Copilot. They help you move faster, stay focused, and quickly access the workflows you need.",
-    "best_quote_zh": "斜杠命令可能看起来只是简单的快捷方式，但它们可以改变你与Copilot的互动方式。它们能帮助你更快地工作，保持专注，并快速访问所需的流程。"
-  },
-  {
-    "id": 90,
-    "title": "How to Write Usefully",
-    "title_zh": "如何写出有用的文章",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/useful.html",
-    "tags": [
-      "solve",
-      "startup-strategy",
-      "education",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "解决",
-      "创业策略",
-      "教育学习",
-      "未来预测"
-    ],
-    "date": "2026-08-08",
-    "summary_en": "This essay dissects what makes writing truly useful, proposing four core components: correctness, novelty, importance, and strength. The author argues that useful writing must be precise, bold yet true, and convey ideas that are both significant and previously unknown to the reader. Drawing on a personal \"Morris technique\" of only publishing ideas one is certain about, the piece outlines a workflow of rapid drafting followed by meticulous revision, emphasizing the value of publication bias in essay writing. Simplicity, humility, and the skillful use of qualification are presented as essential practices, while the essay also reflects on the social friction that arises when novel insights challenge entrenched beliefs. Ultimately, the author offers a pragmatic formula for crafting impactful essays and encourages aspiring writers to start small, iterate relentlessly, and embrace the boundless potential of the form in the digital age.",
-    "summary_zh": "本文从准确性、新颖性、重要性和力度四个维度剖析了“有用”写作的定义，分享了作者通过快速草稿到精心打磨的写作方法，以及对知识传播的反思。它提醒我们，实用写作需摒弃空话，追求精准，同时平衡自信与谦逊，并通过反复打磨排除粗糙与错误。这不仅是写作者的指南，也是对当今信息过载环境的深刻反思。",
-    "best_quote_en": "Useful writing is bold, but true.",
-    "best_quote_zh": "有用的写作是大胆的，但真实的."
-  },
-  {
-    "id": 91,
-    "title": "The Senate’s Shameful Acquiescence to Todd Blanche as Attorney General",
-    "title_zh": "参议院对托德·布兰奇出任司法部长的可耻默许",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/news/the-lede/the-senates-shameful-acquiescence-to-todd-blanche-as-attorney-general",
-    "tags": [
-      "analyze",
-      "politics",
-      "controversial"
-    ],
-    "tags_zh": [
-      "分析",
-      "政治时事",
-      "争议观点"
-    ],
-    "date": "2026-08-07",
-    "summary_en": "Ruth Marcus’s incisive piece dissects the Senate’s troubling acquiescence to Todd Blanche’s confirmation as Attorney General, framing it as a symbolic surrender of constitutional ‘advice and consent.’ While Blanche’s technical qualifications are moot—having already served as acting AG—Marcus emphasizes the moral and institutional stakes: his tenure has overseen a Justice Department subverted to presidential vendettas, flawed prosecutions, and the erosion of legal norms. The article traces the agonizing calculus of Republican senators, from Cornyn and Tillis’s futile attempts to extract guarantees, to Cassidy’s reluctant endorsement rooted in fear of an even worse nominee. Murkowski’s eventual opposition underscores a broader disillusionment with the administration’s excesses and the slush‑fund controversies surrounding Blanche’s past legal work. Marcus’s analysis reveals a Senate paralyzed by partisan loyalty, raising urgent questions about the durability of checks and balances in contemporary American governance.",
-    "summary_zh": "玛尔克斯的文章深刻揭露了参议院在特朗普政府提名托德·布兰奇出任司法部长时的道德妥协， senators 权衡现实与原则，暴露出制度失灵与政治算计。这不仅关乎一位司法部长的任命，更反映出美国政治生态的深层危机：当党派利益凌驾于法治时，制度的‘制衡’难免沦为‘默认同意’。我感到忧虑的同时，也反思作为公民的责任——如何在这样的环境中坚守良知，推动真正的问责。",
-    "best_quote_en": "\"Mr. Blanche is not perfect, and he will tell you this,\" Cassidy said. \"But the choice is not between perfection and Mr. Blanche. It is between Mr. Blanche and another acting Attorney General who may not run the department effectively under President Trump and who indeed may not be as good as Mr. Blanche.\"",
-    "best_quote_zh": "\"布兰奇先生并不完美，他自己也会告诉你这一点，\" 卡西迪说，\"但选择不是在完美和布兰奇先生之间，而是在布兰奇先生和另一位可能无法有效管理司法部、在特朗普总统手下表现不佳、甚至可能不如布兰奇先生的代理司法部长之间。\""
-  },
-  {
     "id": 92,
     "title": "The Tim Ferriss Show Transcripts: How to Start When You’re Stuck, Finish What You Begin, and Stop Waiting for Inspiration — Creative Advice from Elizabeth Gilbert, Seth Godin, Joyce Carol Oates, Anne Lamott, and More (#878)",
     "title_zh": "《泰姆·弗里斯秀》录音整理：如何在迷茫时开始，如何完成你所开始的，以及如何停止等待灵感——来自伊丽莎白·吉尔伯特、塞斯·吉登、乔伊斯·卡罗尔·奥茨、安·拉莫特等作家的创意建议 (#878)",
@@ -2324,5 +2254,75 @@
     "summary_zh": "本期哈勃实验室精要节目探讨了转基因遗传的迷人前沿，邀请了特拉维夫大学的奥德·雷查维博士分享他的突破性研究。他们揭示了表观遗传机制如何使信息跨代传递，挑战了关于后天性状遗传的传统观念。通过秀丽线虫的研究，他们展示了小RNA如何传递抗病毒抵抗力和行为改变。这不仅连接了基础分子生物学，也为人类生殖健康和诊断带来了希望，让听众了解到科学范式如何改变我们对遗传本身的理解。",
     "best_quote_en": "The Weismann Barrier has been challenged by our discovery that small RNAs can be inherited and influence traits across generations.",
     "best_quote_zh": "我们已经通过发现小RNA可以遗传并影响跨代的性状，挑战了魏斯曼屏障的概念。"
+  },
+  {
+    "id": 189,
+    "title": "The hill I will die on: Comedians should not be hot | Amy Annette",
+    "title_zh": "我会死在这一仗上：喜剧演员不应该长得漂亮 | 艾米·安妮特",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/commentisfree/2026/sep/12/the-hill-i-will-die-on-comedians-not-hot",
+    "tags": [
+      "solve",
+      "society",
+      "design",
+      "controversial"
+    ],
+    "tags_zh": [
+      "解决",
+      "社会议题",
+      "设计创意",
+      "争议观点"
+    ],
+    "date": "2026-09-12",
+    "summary_en": "Amy Annette’s provocative essay argues that comedians should be exempt from society’s beauty standards, coining the bold claim that “comedians being hot is a crime against nature.” She traces a cultural shift from earlier generations of comedians like Wanda Sykes and Dawn French, who embraced their non‑conformist looks, to today’s celebrity‑level hot performers who, she suggests, trade authenticity for perceived safety. Annette highlights the gendered pressures on women, notes emerging expectations for male comedians, and critiques the illusion that attractiveness shields artists from judgment. Her piece invites readers to reconsider the value placed on appearance in entertainment and to champion a more inclusive definition of comedic talent. By framing the debate as both personal and societal, she encourages a broader conversation about how we define expertise, legitimacy, and worth beyond superficial metrics.",
+    "summary_zh": "一位喜剧演员的尖锐声明挑战了外表即能力的文化迷思。她认为真正的幽默不应受制于社会对‘性感’的痴迷，并呼吁为喜剧演员建立免于颜值评判的领域。这一观点引发了对性别、娱乐业压力以及真实价值定义的深刻反思, 提醒我们 humor 的力量不应被外表所掩盖.",
+    "best_quote_en": "Comedians being hot is a crime against nature.",
+    "best_quote_zh": "喜剧演员长得漂亮就是对自然的犯罪."
+  },
+  {
+    "id": 190,
+    "title": "On Not Being a Homeowner",
+    "title_zh": "关于不成为房主的人",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/the-weekend-essay/on-not-being-a-homeowner",
+    "tags": [
+      "learn",
+      "education",
+      "society",
+      "controversial"
+    ],
+    "tags_zh": [
+      "学习",
+      "教育学习",
+      "社会议题",
+      "争议观点"
+    ],
+    "date": "2026-09-12",
+    "summary_en": "Anna Holmes reflects on how generational wealth silently dictates life trajectories, using her mother’s fraught journey through homeownership as a case study. The essay traces a family’s struggle against systemic barriers—racial discrimination in lending, precarious financial footing, and the fleeting promise of the American Dream. Holmes juxtaposes the glossy narratives of real‑estate columns with the stark reality that many, like her, are excluded from property ownership despite hard work. Her personal story reveals the emotional toll of watching wealth accumulate for peers while she remains renters, and she questions whether imagining ownership could reshape one’s future. By interweaving intimate family history with broader socioeconomic analysis, the piece challenges readers to reconsider the myths of meritocracy and the true cost of a society that equates home with security.",
+    "summary_zh": " Holmes 揭示了代际财富如何悄然塑造命运，母亲的购房历程成为制度性障碍的缩影：种族贷款歧视、经济不稳定与梦想的虚幻。她对比媒体中光鲜的房产叙事与自身被排斥的现实，质问“拥有”是否真的意味着安全，也呼唤我们重新审视成功神话。",
+    "best_quote_en": "Generational wealth? The idea of paying it forward means nothing when there wasn't much there in the first place.",
+    "best_quote_zh": "代际财富？当起初本就贫瘠时，‘回馈后代’的理念毫无意义。"
+  },
+  {
+    "id": 191,
+    "title": "The Tim Ferriss Show Transcripts: Why Kids Can Learn 10x Faster Than We Think — Niels Hoven of Mentava (Tim Coaching Session) (#882)",
+    "title_zh": "《蒂姆·费里斯秀》 transcript：为什么孩子可以学习 10 倍更快 — 尼尔斯·霍文谈 Mentava（蒂姆教练课程）(#882)",
+    "source": "Tim Ferriss",
+    "link": "https://tim.blog/2026/09/10/niels-hoven-mentava-transcript/",
+    "tags": [
+      "guide",
+      "education",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "指导",
+      "教育学习",
+      "数据驱动"
+    ],
+    "date": "2026-09-11",
+    "summary_en": "The Tim Ferriss Show transcript reveals how Niels Hoven’s startup Mentava is redefining early literacy by letting children learn at their innate speed rather than age‑based expectations. Through vivid anecdotes—two‑year‑old twins reading Green Eggs and Ham, a three‑year‑old mastering reading in three months, and a kindergartner dramatically catching up—combined with performance data from the app, Hoven demonstrates that young minds are remarkably receptive when given the right tools. The conversation also tackles the broader cultural shift needed for parents to advocate fiercely for their children’s education without guilt. Ferriss reflects on the surprising contrast between traditional pacing and the untapped potential of rapid learning, prompting listeners to reconsider assumptions about how, when, and why we teach. This episode serves as both a practical guide for educators and an inspiring call to embrace children’s natural curiosity, urging a move from one‑size‑fits‑all curricula to personalized, technology‑enhanced pathways that honor each child’s unique learning trajectory.",
+    "summary_zh": "孩子天生是学习海绵，但教育体系往往按年龄分组。尼尔斯·霍文通过 Mentava 软件让孩子以自身速度学习，打破了这一固有观念。故事与数据并用，引发我们对教育公平性的反思，也提醒家长要勇敢为孩子争取最佳学习环境。",
+    "best_quote_en": "Kids are these little sponges. They want to learn everything.",
+    "best_quote_zh": "孩子们就像小海绵，他们渴望学习一切。"
   }
 ]
