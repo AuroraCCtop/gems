@@ -1,73 +1,5 @@
 [
   {
-    "id": 92,
-    "title": "The Tim Ferriss Show Transcripts: How to Start When You’re Stuck, Finish What You Begin, and Stop Waiting for Inspiration — Creative Advice from Elizabeth Gilbert, Seth Godin, Joyce Carol Oates, Anne Lamott, and More (#878)",
-    "title_zh": "《泰姆·弗里斯秀》录音整理：如何在迷茫时开始，如何完成你所开始的，以及如何停止等待灵感——来自伊丽莎白·吉尔伯特、塞斯·吉登、乔伊斯·卡罗尔·奥茨、安·拉莫特等作家的创意建议 (#878)",
-    "source": "Tim Ferriss",
-    "link": "https://tim.blog/2026/08/07/writing-inspiration-transcript/",
-    "tags": [
-      "solve",
-      "marketing",
-      "psychology",
-      "beginner-friendly"
-    ],
-    "tags_zh": [
-      "解决",
-      "市场营销",
-      "心理学",
-      "新手友好"
-    ],
-    "date": "2026-08-08",
-    "summary_en": "Tim Ferriss’s latest compilation episode gathers insights from celebrated authors on conquering creative stagnation and completing projects. Elizabeth Gilbert, Seth Godin, Joyce Carol Oates, Anne Lamott and others share strategies for choosing worthwhile ideas, resisting the allure of ever‑new inspiration, and maintaining momentum when doubts arise. The conversation blends practical discipline—treating inspiration as a fleeting guest rather than a permanent resident—with profound reflections on generosity, purpose, and the emotional labor of creation. Listeners gain actionable frameworks for turning fleeting ideas into finished works, learning to evaluate projects rigorously, and shifting focus from ego‑driven validation to service‑oriented craft. This episode serves as both a motivational guide and a rigorous analytical look at the psychology of artistic productivity, offering timeless lessons for writers, entrepreneurs, and anyone facing the paradox of choice in creative endeavors.",
-    "summary_zh": "《泰姆·弗里斯秀》汇集作家经验，教你如何克服创作瓶颈、完成项目。吉尔伯特、吉登等分享选择主题、抵制灵感诱惑、保持创作动力的方法，强调专注力、奉献精神和利他创作——提供实用框架，帮助你在创意浪潮中稳住步伐，完成作品。",
-    "best_quote_en": "Stick with the one you came to the dance with.",
-    "best_quote_zh": "坚持与你一起来跳舞的那个人."
-  },
-  {
-    "id": 93,
-    "title": "How we took malware advisories beyond npm",
-    "title_zh": "我们如何将恶意软件警告扩展到npm之外",
-    "source": "GitHub Blog",
-    "link": "https://github.blog/security/supply-chain-security/how-we-took-malware-advisories-beyond-npm/",
-    "tags": [
-      "update",
-      "cybersecurity"
-    ],
-    "tags_zh": [
-      "动态",
-      "网络安全"
-    ],
-    "date": "2026-08-06",
-    "summary_en": "GitHub's Dependabot team has expanded malware detection from npm to eight major package ecosystems, leveraging OpenSSF's malicious-packages repository. The article reveals how a single importer handles cross-ecosystem security by normalizing diverse data formats, preventing duplicate imports, and implementing robust safeguards against bad data. Key innovations include batch caps, provenance tracking, and rollback capabilities for automated advisories. This advancement transforms GitHub's supply chain security, enabling real-time malware alerts across npm, PyPI, Maven, RubyGems, NuGet, Go, crates.io, and PHP Composer. The implementation demonstrates how open-source collaboration and careful engineering can scale security protections dramatically, benefiting millions of developers worldwide.",
-    "summary_zh": "GitHub的Dependabot团队将恶意软件检测从npm扩展到了八个主要包生态系统，利用OpenSSF的恶意软件包存储库。这篇文章揭示了如何通过一个单一导入程序来处理跨生态系统的安全问题，该程序可以规范化各种数据格式，防止重复导入，并实施强大的安全保障措施，以防止坏数据。主要创新包括批次限制、源代码跟踪和回滚功能，用于自动发布的通知。这一进步改变了GitHub的供应链安全，使其能够在大多数包生态系统中检测恶意依赖。这一实施展示了开源协作和精心工程如何能够显著扩大安全保护范围，使全球数百万开发者受益。",
-    "best_quote_en": "Expanding the existing detection from one to eight supported ecosystems would have taken us years. Meanwhile, OpenSSF has already solved the aggregation problem for everybody.",
-    "best_quote_zh": "将现有的检测从一个生态系统扩展到八个支持的生态系统本可能需要我们数年时间。与此同时，OpenSSF已经为每个人解决了聚合问题。"
-  },
-  {
-    "id": 94,
-    "title": "Let’s all get on board with travel etiquette | Letters",
-    "title_zh": "让我们一起遵守旅行礼仪 | 书信",
-    "source": "Women | The Guardian",
-    "link": "https://www.theguardian.com/lifeandstyle/2026/aug/07/lets-all-get-on-board-with-travel-etiquette",
-    "tags": [
-      "solve",
-      "lifestyle",
-      "society",
-      "controversial"
-    ],
-    "tags_zh": [
-      "解决",
-      "生活方式",
-      "社会议题",
-      "争议观点"
-    ],
-    "date": "2026-08-07",
-    "summary_en": "The letters section offers a vivid, crowdsourced refinement of travel etiquette, highlighting how well‑intentioned rules can overlook real health and accessibility concerns. Readers challenge the blanket advice on seat‑giving, pointing out that women may face menstruation, pregnancy, perimenopause, or endometriosis—conditions that merit nuanced consideration. The discussion expands to everyday irritants like nose‑picking, backpack placement, and the balance between politeness and personal space. Contributors also reflect on the broader social fabric of public transport, noting regional variations in courtesy and the growing need for safety guidance amid rising harassment. This collective commentary underscores that etiquette is not static; it evolves with societal awareness of health, disability, and interpersonal dynamics. The piece invites readers to move beyond rigid prescriptions toward empathetic, context‑sensitive behavior, suggesting that the true art of travel etiquette lies in listening to lived experiences and adapting norms accordingly.",
-    "summary_zh": "这封信件汇集了公众对旅行礼仪的反思，揭示了某些看似合理的规则如何忽视了真实的健康与无障碍需求。作者们指出，女性可能面临经期、怀孕初期、更年期或子宫内膜异位症等状况，呼吁在让座问题上更细致入微。讨论还涉及鼻子擤鼻涕、背包占用空间等日常烦扰，以及如何在保证安全的前提下应对公共交通上的骚扰。此外，信件展现了不同地区在礼仪方面的差异，从伦敦人的“礼仪之富”到本地人的实用建议，提醒我们礼仪应随社会对健康、残疾和人际关系的认识不断演进，而非一成不变。",
-    "best_quote_en": "Women could be menstruating, in the first trimester of pregnancy (the most exhausting time) or have endometriosis.",
-    "best_quote_zh": "女性可能正在经期、怀孕初期（最疲惫的阶段）或患有子宫内膜异位症。"
-  },
-  {
     "id": 95,
     "title": "DALL•E 2",
     "title_zh": "DALL·E 2",
@@ -2324,5 +2256,75 @@
     "summary_zh": "孩子天生是学习海绵，但教育体系往往按年龄分组。尼尔斯·霍文通过 Mentava 软件让孩子以自身速度学习，打破了这一固有观念。故事与数据并用，引发我们对教育公平性的反思，也提醒家长要勇敢为孩子争取最佳学习环境。",
     "best_quote_en": "Kids are these little sponges. They want to learn everything.",
     "best_quote_zh": "孩子们就像小海绵，他们渴望学习一切。"
+  },
+  {
+    "id": 192,
+    "title": "The Refragmentation",
+    "title_zh": "再碎片化",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/re.html",
+    "tags": [
+      "solve",
+      "startup-strategy",
+      "leadership",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "解决",
+      "创业策略",
+      "领导管理",
+      "数据驱动"
+    ],
+    "date": "2026-09-13",
+    "summary_en": "Jordan Peterson’s essay ‘The Refragmentation’ argues that modern polarization—political, cultural, economic—is not caused by new divisive forces but by the erosion of mid‑20th‑century unifying institutions. He identifies World War II and the rise of large national corporations as the twin forces that flattened income variation, standardized consumer culture, and created a shared social model. These institutions, however, were historically anomalous and unsustainable. Their decline has unleashed a return to fragmentation, evident in widening inequality, niche media, and divergent lifestyles. Peterson’s historical analysis offers a sobering perspective on why today’s societal splits feel inevitable, urging readers to consider whether new integrative mechanisms can emerge. The piece blends economic data, sociological observation, and personal anecdote, making it a compelling guide for anyone seeking to understand the roots of contemporary disunity.",
+    "summary_zh": "本文指出，二战与大企业崛起曾推动融合，如今这些力量消退导致分化加剧。战时集中的工资标准和社会动员，以及20世纪中期大企业的统一管理模式，曾创造前所未有的社会凝聚力。如今这些整合力量消退，碎片化趋势愈演愈烈。作者通过历史分析，揭示了当代社会分裂的根源，呼吁思考新的整合机制。",
+    "best_quote_en": "I'd like to propose a hypothesis: that all these trends are instances of the same phenomenon.",
+    "best_quote_zh": "我想要提出一个假设：所有这些趋势都是同一个现象的体现。"
+  },
+  {
+    "id": 193,
+    "title": "How to Protect Democracy",
+    "title_zh": "如何保护民主",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/magazine/2026/09/21/how-to-protect-democracy",
+    "tags": [
+      "solve",
+      "politics",
+      "controversial"
+    ],
+    "tags_zh": [
+      "解决",
+      "政治时事",
+      "争议观点"
+    ],
+    "date": "2026-09-13",
+    "summary_en": "Joshua Yaffa’s incisive report dissects Germany’s long‑standing “Brandmauer”—the informal firewall meant to shield German democracy from the far‑right Alternative für Deutschland (AfD). The piece traces the post‑World War II consensus of militant democracy, showing how the firewall has become a defensive crutch that lets establishment parties avoid crafting a compelling vision for voters. Yaffa highlights the AfD’s alarming rise, its rejection of liberal norms, and the tragic historical parallel to Weimar’s missteps. Crucially, he reveals the human dimension: deindustrialization, demographic decline, and alienation in former East Germany fuel support for the party, while mainstream parties dither between co‑optation and legal bans. The article argues that protecting democracy requires more than institutional barricades; it demands addressing the socioeconomic grievances that make anti‑democratic narratives attractive. Yaffa’s analysis serves as both a warning and a call to action for democracies worldwide confronting similar challenges.",
+    "summary_zh": "德国民主的“防火墙”如今摇摇欲坠，传统政党忙于防御却忽视选民真实困境。亚法深入剖析了反移民、当选政治的复杂性，揭示了现行体制的危机——这不仅是德国的警示，也是所有民主国家需直面反民主运动的共同挑战。",
+    "best_quote_en": "Even if the AfD won’t fix the problems of its supporters, it will destroy the system under which they think they have suffered.",
+    "best_quote_zh": "即使AfD不会解决其支持者的问题，它也会摧毁他们认为自己受苦的制度。"
+  },
+  {
+    "id": 194,
+    "title": "Funding for COVID-19 Projects",
+    "title_zh": "COVID-19 项目融资",
+    "source": "Sam Altman",
+    "link": "https://blog.samaltman.com/funding-for-covid-19-projects",
+    "tags": [
+      "solve",
+      "ai-research",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "解决",
+      "AI研究",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2020-03-15",
+    "summary_en": "The post reveals a pragmatic, citizen‑led funding initiative aimed at accelerating COVID‑19 solutions. The author, leveraging personal resources, seeks to back startups tackling urgent needs: rapid production of ventilators and PPE, repurposing existing drugs, and exploring unconventional vaccines and therapeutics. By moving beyond traditional public spreadsheets to direct email outreach, the effort underscores the limitations of open‑source collaboration and highlights the power of targeted, relational networking. The call for a contract research organization capable of viral challenge studies further illustrates the gap between scientific ambition and operational capacity. This grassroots funding model not only addresses immediate pandemic challenges but also prompts reflection on how private capital can complement public health responses, potentially reshaping innovation ecosystems in crisis situations.",
+    "summary_zh": "一位热心人士发起了一项公民领导的融资计划，旨在为COVID-19相关初创企业提供支持。他们聚焦于关键领域：快速生产呼吸机和防护装备、筛选现有药物、探索非传统疫苗和疗法。通过放弃公共电子表格转而直接邮件沟通，展现了关系网络在危机中的重要性。同时，他们也亟需能够进行SARS-CoV-2病毒挑战研究的合同研究机构。这一草根融资模式不仅填补了公共卫生应对的空白，也引发了关于私人资本如何补充公共资源的深刻思考。",
+    "best_quote_en": "I'm trying to fund startups/projects helping with COVID-19, because it's basically the one thing I know how to do that can help.",
+    "best_quote_zh": "我正在试图为帮助 COVID-19 的初创项目提供资金，因为这是我唯一知道如何做到的事情，可以提供帮助。"
   }
 ]
