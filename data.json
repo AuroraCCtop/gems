@@ -1,121 +1,5 @@
 [
   {
-    "id": 95,
-    "title": "DALL•E 2",
-    "title_zh": "DALL·E 2",
-    "source": "Sam Altman",
-    "link": "https://blog.samaltman.com/dall-star-e-2",
-    "tags": [
-      "guide",
-      "ai-research",
-      "design",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "指导",
-      "AI研究",
-      "设计创意",
-      "未来预测"
-    ],
-    "date": "2022-04-06",
-    "summary_en": "The launch of DALL·E 2 marks a bold step toward a natural‑language interface for creative work, where users can command image generation and editing simply by describing what they envision. The tool showcases sophisticated conceptual understanding and the capacity to produce complete artistic pieces, hinting at a future where AI assistants could handle complex tasks across domains. Sam Altman frames this not only as a productivity boost for artists but also as a catalyst for rethinking labor markets, as AI begins to automate creative roles earlier than predicted. The announcement balances excitement with caution, highlighting potential downsides and advocating incremental deployment to give society time to adapt. By emphasizing collaboration with researchers and artists, the project underscores a responsible approach to AI advancement, suggesting that the real bottleneck will shift from technical skill to the quality of ideas themselves.",
-    "summary_zh": "DALL·E 2 展现了自然语言界面的新可能，它不仅提升创作效率，也挑战了我们对 AI 影响顺序的预测。作者既兴奋其潜力，也警惕其风险，倡导渐进式部署，期待与更广泛社区协作，共同塑造 AI 辅助未来的形态。",
-    "best_quote_en": "It’s an example of a world in which good ideas are the limit for what we can do, not specific skills.",
-    "best_quote_zh": "这是一个好点子才是我们所能做的事情的限制，而不仅仅是特定的技能的世界中的例子."
-  },
-  {
-    "id": 96,
-    "title": "‘So destructive’: women are paying for face scans that tell them what cosmetic procedures to get",
-    "title_zh": "付费进行面部扫描，告诉你该做哪些整形手术",
-    "source": "Women | The Guardian",
-    "link": "https://www.theguardian.com/fashion/ng-interactive/2026/aug/05/facial-analysis-scans-qoves-epica-looksmaxxing",
-    "tags": [
-      "analyze",
-      "science",
-      "ai-research",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "科学研究",
-      "AI研究",
-      "数据驱动"
-    ],
-    "date": "2026-08-05",
-    "summary_en": "The rise of AI‑driven facial analysis services like Qoves and Epica reflects a lucrative intersection of technology, beauty culture, and deep‑seated insecurities. Marketed as \"science‑backed\" glow‑up tools, these platforms promise quantifiable beauty metrics and tailored cosmetic recommendations, yet the underlying research is thin and often misapplied. Experts such as Dr. Mitch Brown and Dr. Tracy Vaillancourt warn that the algorithms lack transparency, risk reinforcing harmful beauty standards, and can exacerbate body dysmorphia and mental‑health issues. Users like Danielle and Océane report both false hope and financial strain, while the industry’s business model—selling procedures, products, and subscriptions—capitalizes on the very insecurities it purports to solve. The article interrogates the ethical implications of turning appearance into a data‑driven commodity, questioning whether the promise of enhanced confidence can ever outweigh the psychological cost of perpetual self‑scrutiny. It also highlights the broader cultural shift toward \"looksmaxxing,\" where social media amplifies pressure to conform to an increasingly commercialized ideal of beauty.",
-    "summary_zh": "AI 美容扫描服务打着科学的旗号，承诺量化美丽并提供定制化整形建议，却缺乏可靠研究支撑。专家警告这些算法不透明，可能加剧容貌焦虑和心理问题。用户在经济上承受压力，行业却通过销售手术、产品和订阅来获利。本文揭示了将外貌数据化的伦理困境，以及“颜值提升”文化如何将个人 insecurities 转化为商业机会，引发对美丽标准和心理健康的深刻反思。",
-    "best_quote_en": "\"I don’t think the science is anywhere clear enough to [measure attractiveness and sell recommendations].\"",
-    "best_quote_zh": "\"我认为科学还不够明确，无法以此来衡量吸引力并提供建议。\""
-  },
-  {
-    "id": 97,
-    "title": "Being a Noob",
-    "title_zh": "做新手",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/noob.html",
-    "tags": [
-      "learn",
-      "startup-strategy",
-      "case-study"
-    ],
-    "tags_zh": [
-      "学习",
-      "创业策略",
-      "案例研究"
-    ],
-    "date": "2026-08-11",
-    "summary_en": "In this reflective essay, the author explores the paradoxical comfort of feeling like a novice in an increasingly complex world. Once believing that elders possessed all answers, he now embraces the perpetual sense of being a \"noob\" when confronting unfamiliar startups, technical books, or foreign cultures. He argues that this feeling is not a sign of ignorance but an indicator of genuine learning, noting that local familiarity masks global ignorance while venturing into the unknown expands knowledge. Drawing on evolutionary psychology, he suggests that our aversion to novice feelings once served survival by prioritizing competence over novelty, but in today’s rapidly changing landscape, that bias misguides us. The piece encourages readers to reframe discomfort as a catalyst for growth, recognizing that the more we feel like beginners, the more we are truly advancing. It offers a thoughtful, almost counterintuitive perspective on personal development and the value of continuous curiosity.",
-    "summary_zh": "当我们感到像个新手时，实际上是在不断学习。作者发现，越是局限于熟悉环境，越不会感到无知；走出舒适区才能真正成长。这种不适是进步的信号，尽管进化赋予了我们回避的倾向，但如今却成了我们探索未知的动力。即使别人嘲笑，我们也不应放弃。承认无知，才是智慧的起点。在快速变化的世界中，持续的初学者心态是成功的关键。让我们拥抱这种不安，转化为行动力。",
-    "best_quote_en": "the more of a noob you are locally, the less of a noob you are globally.",
-    "best_quote_zh": "本地越是像个新手，全球看来就越不像新手。"
-  },
-  {
-    "id": 98,
-    "title": "Haters",
-    "title_zh": "喷子",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/fh.html",
-    "tags": [
-      "solve",
-      "startup-strategy",
-      "controversial"
-    ],
-    "tags_zh": [
-      "解决",
-      "创业策略",
-      "争议观点"
-    ],
-    "date": "2026-08-12",
-    "summary_en": "This essay explores the paradoxical psychology of public figures who attract both fervent admirers and vehement detractors. The author argues that haters are not merely critics but obsessive, identity‑driven individuals whose dislike mirrors the fanboy’s uncritical adoration—only flipped. By dissecting how fame fuels both phenomena, the piece reveals that haters exaggerate talent and notoriety to paint their target as a fraud, a narrative that satisfies a deep‑seated sense of personal failure or frustrated ambition. The core insight is that haters, like obsessive fans, are beyond rational debate; they are driven by personal insecurities rather than genuine grievances. Consequently, the most effective strategy is simple: ignore them. The author advises against the instinctive urge to understand or confront haters, emphasizing that such energy is a waste and that focusing on constructive work is far more rewarding. This perspective offers a pragmatic roadmap for founders, creators, and anyone navigating the spotlight, encouraging resilience through detachment and self‑focus.",
-    "summary_zh": "作者认为喷子与迷弟迷妹本质相同，只是负面情绪翻转。名人会同时招致这两类人，喷子通过将目标夸大为欺诈来满足自己的失落感。最佳应对之道是直接忽视他们，不必耗费精力与他们辩论。此文为那些处于聚光灯下的人提供了一条冷静的生存之道。",
-    "best_quote_en": "Haters are just fanboys with the sign switched.",
-    "best_quote_zh": "喷子不过是反向的迷弟迷妹."
-  },
-  {
-    "id": 99,
-    "title": "Using AI to Increase Your Intelligence & Enrich Humanity | Dr. Fei-Fei Li",
-    "title_zh": "利用人工智能提升人类智慧与丰富生活 | 费飞飞博士",
-    "source": "Huberman Lab",
-    "link": "https://www.hubermanlab.com/episode/using-ai-to-increase-your-intelligence-and-enrich-humanity-fei-fei-li",
-    "tags": [
-      "analyze",
-      "ai-research",
-      "science",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "AI研究",
-      "科学研究",
-      "数据驱动"
-    ],
-    "date": "2026-08-10",
-    "summary_en": "In this insightful episode, Dr. Fei‑Fei Li explores how artificial intelligence can be harnessed safely and effectively to amplify human capabilities. She moves beyond the conventional view of AI as a mere search tool, arguing that it can directly boost intelligence, creativity, and even health when humans collaborate with intelligent machines. Li highlights the fundamental differences between AI and human cognition, emphasizing that intuition and personal experience remain uniquely human traits that machines cannot replicate. The discussion also covers current AI gaps, emotional and creative limitations, and the ethical considerations that arise as AI becomes more embedded in daily life. Listeners gain actionable perspectives on using AI as a personal agency tool, fostering scientific discovery, and shaping a future where technology complements rather than replaces human agency. Whether you’re an AI enthusiast or a skeptic, the episode offers concrete insights and tools to navigate the evolving landscape of human‑AI partnership.",
-    "summary_zh": "费飞飞博士深入探讨了如何安全地利用人工智能扩展人类能力，不仅用于信息搜索，更能提升智慧与创造力。她强调直觉与个人经历是AI无法复制的独特人类资产，并展望了AI与机器人协作如何重塑健康与生活。这场对话启发我们重新思考科技与人性的关系，激发了对未来人机共存的深刻反思。",
-    "best_quote_en": "AI can be used safely and effectively to extend human capabilities – not just to search for information but specifically to increase human intelligence and creativity.",
-    "best_quote_zh": "人工智能可以安全有效地扩展人类能力，不仅用于信息搜索，更能提升人类的智慧与创造力。"
-  },
-  {
     "id": 100,
     "title": "The Two Kinds of Moderate",
     "title_zh": "两种类型的中间派",
@@ -2326,5 +2210,121 @@
     "summary_zh": "一位热心人士发起了一项公民领导的融资计划，旨在为COVID-19相关初创企业提供支持。他们聚焦于关键领域：快速生产呼吸机和防护装备、筛选现有药物、探索非传统疫苗和疗法。通过放弃公共电子表格转而直接邮件沟通，展现了关系网络在危机中的重要性。同时，他们也亟需能够进行SARS-CoV-2病毒挑战研究的合同研究机构。这一草根融资模式不仅填补了公共卫生应对的空白，也引发了关于私人资本如何补充公共资源的深刻思考。",
     "best_quote_en": "I'm trying to fund startups/projects helping with COVID-19, because it's basically the one thing I know how to do that can help.",
     "best_quote_zh": "我正在试图为帮助 COVID-19 的初创项目提供资金，因为这是我唯一知道如何做到的事情，可以提供帮助。"
+  },
+  {
+    "id": 195,
+    "title": "Hard truths about solo homeownership – and the tools that made these women DIY pros",
+    "title_zh": "关于单身房屋所有权的残酷真相——以及让这些女性成为 DIY 高手的工具",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/thefilter-us/2026/sep/14/best-diy-home-ownership-lessons-tips-women",
+    "tags": [
+      "solve",
+      "society",
+      "lifestyle",
+      "beginner-friendly"
+    ],
+    "tags_zh": [
+      "解决",
+      "社会议题",
+      "生活方式",
+      "新手友好"
+    ],
+    "date": "2026-09-14",
+    "summary_en": "This article reveals how a new generation of women are mastering home ownership through self‑taught DIY skills, challenging long‑standing gender norms in trades. From online tutorials and Reddit threads to community‑sourced tools, they turn daunting renovations into achievable projects, sharing practical tips on drywall repair, flooring, and even heavy furniture moving. The narrative highlights the empowerment that comes from learning hands‑on construction abilities, the importance of selecting the right tools, and the supportive networks that make progress feel less solitary. By documenting personal journeys—from initial fear to confident mastery—the piece underscores a broader cultural shift: home improvement is no longer a male‑only domain, and the freedom to choose one’s living space is increasingly accessible to women. The stories also reveal how these skills can be passed down, as seen when parents teach children, fostering a new generation of competent homeowners.",
+    "summary_zh": "这些女性打破传统，学会了从维修到装修的各项本领，她们用在线教程和社区支持将恐惧转化为能力。她们不仅改造房屋，也挑战性别偏见，证明自我成长的力量。这种自我教育的精神让房屋维修不再是男性的专属领域，而是成为一种更广泛的社会转变的象征。",
+    "best_quote_en": "I'm going to figure this out.",
+    "best_quote_zh": "我会搞定的。"
+  },
+  {
+    "id": 196,
+    "title": "The American Religion of Self-Storage Facilities",
+    "title_zh": "美国自存储设施的宗教",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/magazine/2026/09/21/the-american-religion-of-self-storage-facilities",
+    "tags": [
+      "solve",
+      "business-model",
+      "society",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "解决",
+      "商业模式",
+      "社会议题",
+      "数据驱动"
+    ],
+    "date": "2026-09-14",
+    "summary_en": "David Owen’s sprawling narrative unpacks America’s peculiar devotion to self‑storage, revealing how the nation has turned excess possessions into a cultural rite. By weaving personal road‑trip anecdotes, industry statistics, and interviews with operators, Owen shows that the sector’s explosive growth—now worth over $40 billion and occupying 90 % of global capacity—mirrors deeper social patterns: death, divorce, downsizing, and even the delusion that children will inherit “brown” furniture. The piece juxtaposes the mundane reality of metal lockers with the grand American tendency to commodify space, suggesting that storage facilities have become modern temples of material identity. Owen’s observations raise questions about consumption, memory, and the economics of “stuff” in a society that increasingly outsources its clutter. The article functions as both a sociological case study and a practical guide for readers curious about an overlooked American institution, offering insight into why we keep more than we need and how that habit fuels a lucrative industry.",
+    "summary_zh": "作者以美国自存储设施为镜，揭示了这个国家对物质的痴迷——从死亡、离婚到子女继承的幻觉。文章通过数据和故事展现了这一行业如何成为750亿美元的市场，同时反思了消费与身份的关联。",
+    "best_quote_en": "We're a stuff society.",
+    "best_quote_zh": "我们是一个物质社会."
+  },
+  {
+    "id": 197,
+    "title": "Paper2Audio / Infinite Slop / Identify Feather Tool",
+    "title_zh": "Paper2Audio / 无限垃圾 / 识别羽毛工具",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/paper2audio-infinite-slop-identify-feather-tool/",
+    "tags": [
+      "learn",
+      "design",
+      "tech-trends",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "学习",
+      "设计创意",
+      "技术趋势",
+      "未来预测"
+    ],
+    "date": "2026-09-13",
+    "summary_en": "The newsletter delivers a quick scan of emerging tools and cultural moments that caught the writers’ eyes. First, Paper2Audio shows how AI can turn any text document into listen‑ready audio, offering a free tier that already covers most personal needs while a modest subscription unlocks export flexibility. Second, Infinite Slop illustrates a new form of real‑time AI video generation where a crowd‑curated, meme‑driven stream runs 24/7, raising questions about content creation, attention economics, and the aesthetics of algorithmic art. Third, the U.S. Fish & Wildlife Service’s Identify Feather Tool provides a non‑AI, methodical way to pinpoint bird species from plumage, reminding us that sometimes human‑crafted databases still outperform machine learning for niche tasks. Finally, a redesigned box cutter and small‑space design tips showcase incremental hardware and lifestyle hacks that improve daily efficiency and spatial perception. Together these snippets highlight a pattern: AI is opening rapid prototyping possibilities, yet thoughtful design—whether in tools, interfaces, or creative processes—remains essential for meaningful adoption.",
+    "summary_zh": "本周资讯涵盖文本转音频的便捷工具、实时AI视频的无尽垃圾流、美国野生动物服务识别羽毛工具、改良裁纸刀以及小空间设计妙招。这些创新展示了AI的潜力，也提醒我们精心设计与实用性同等重要。",
+    "best_quote_en": "The new ability to generate video as fast as you can watch it will be used in other ways, such as in games, but this infinite slop is the first crude step as performance art.",
+    "best_quote_zh": "新的能力可以以你观看的速度生成视频，它将用于其他方式，如游戏，但这种无限垃圾是表演艺术的初步尝试。"
+  },
+  {
+    "id": 198,
+    "title": "The Art of True Happiness | Dr. Arthur Brooks",
+    "title_zh": "The Art of True Happiness | Dr. Arthur Brooks",
+    "source": "Huberman Lab",
+    "link": "https://www.hubermanlab.com/episode/the-art-of-true-happiness-arthur-brooks",
+    "tags": [
+      "learn",
+      "education"
+    ],
+    "tags_zh": [
+      "学习",
+      "教育学习"
+    ],
+    "date": "2026-09-14",
+    "summary_en": "This content presents Dr. Arthur Brooks' groundbreaking framework for understanding true happiness through three scientifically-based \"macronutrients\": enjoyment/pleasure, satisfaction/purpose, and meaning/regrets. Brooks moves beyond superficial happiness advice by offering concrete self-discovery tools that help individuals identify their core values and obstacles to fulfillment. The analysis reveals how modern society's focus on achievement often conflicts with deeper moral aspirations and authentic purpose. By integrating scientific research with practical exercises like the \"Three Questions of Meaning\" and \"Identifying Your Idol\" framework, Brooks provides a roadmap for cultivating lasting joy through intentional value clarification and behavioral change. This approach represents a significant shift from passive consumption of happiness tips to active self-transformation, offering actionable pathways for those seeking deeper purpose and sustainable well-being.",
+    "summary_zh": "布鲁克斯教授通过三个科学上的\"宏量营养素\"分享了真正幸福的奥秘：享受、满足和意义。他提供实用的自我发现工具，帮助人们识别真正重要的事情并围绕这些事情塑造生活。这种方法从根本上改变了我们对幸福的理解——从追求瞬间的快乐转向培养持久的充实感。通过识别\"偶像\"和提出三个意义问题， Brooks 提供了一条通往更深层目的和真正快乐的明确路径。",
+    "best_quote_en": "The three macronutrients of happiness are enjoyment, satisfaction, and meaning – and understanding what specifically blocks each of these is the key to accessing more happiness and purpose.",
+    "best_quote_zh": "幸福的三个宏量营养素是享受、满足和意义——理解是什么具体阻碍了这些因素是获得更多幸福和目的的关键。"
+  },
+  {
+    "id": 199,
+    "title": "Marketing ops as code: Automating events from planning to follow-up on GitHub",
+    "title_zh": "营销运营即代码：从规划到跟进自动化的 GitHub 事件",
+    "source": "GitHub Blog",
+    "link": "https://github.blog/ai-and-ml/github-copilot/marketing-ops-as-code-automating-events-from-planning-to-follow-up-on-github/",
+    "tags": [
+      "analyze",
+      "programming",
+      "marketing",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "编程开发",
+      "市场营销",
+      "数据驱动"
+    ],
+    "date": "2026-09-11",
+    "summary_en": "This article reveals how a marketing ops leader transformed repetitive event‑management tasks into a self‑service pipeline using GitHub’s native tools. By treating each event as a GitHub Issue, leveraging issue forms, labels, and Actions, the author automates landing‑page creation, UTM link generation, email drafting, and post‑event reporting—all orchestrated through GitHub Copilot. The narrative emphasizes a balanced approach: AI drafts routine steps while humans retain decision‑making, ensuring flexibility and accountability. A key insight is the \"DRY_RUN\" switch, enabling safe experimentation without touching production systems. The piece also highlights security considerations, data‑policy compliance, and the power of documenting workflows as SKILL.md files for reproducible automation. For anyone juggling multiple tools and regional variations, this story offers a pragmatic roadmap to turn manual, error‑prone processes into a developer‑friendly, version‑controlled workflow that scales with the team’s needs.",
+    "summary_zh": "本文展示了一位营销运营负责人如何利用 GitHub 原生工具将繁琐的活动管理流程转化为自动化管道。通过将每个活动视为 GitHub Issue，利用问题表单、标签和 Actions，作者实现了从落地页创建、UTM 链接生成到邮件草拟和活动后报告等全流程自动化。文章强调了 AI 与人工决策的协作平衡：AI 负责日常起草， humans 保留最终审批。DRY_RUN 开关的设计尤其巧妙，让团队能够安全地进行实验而不影响生产环境。安全合规、数据政策以及将工作流程文档化为 SKILL.md 文件以实现可重复自动化也是文章的重要亮点。对于那些在多工具、多区域之间奔波的团队，这提供了一条将手工、易出错流程转变为版本控制、开发者友好工作流的实用路径。",
+    "best_quote_en": "I didn’t write the code. I wrote down my runbooks, handed them to GitHub Copilot, and grew the automation in conversation.",
+    "best_quote_zh": "我没有写代码，而是把我的运行手册写下来交给 GitHub Copilot，然后在对话中逐步构建自动化流程。"
   }
 ]
