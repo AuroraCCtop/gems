@@ -1,75 +1,5 @@
 [
   {
-    "id": 100,
-    "title": "The Two Kinds of Moderate",
-    "title_zh": "两种类型的中间派",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/mod.html",
-    "tags": [
-      "inspire",
-      "startup-strategy",
-      "politics",
-      "controversial"
-    ],
-    "tags_zh": [
-      "启发",
-      "创业策略",
-      "政治时事",
-      "争议观点"
-    ],
-    "date": "2026-08-13",
-    "summary_en": "The essay dissects political moderation into two distinct camps: intentional moderates who deliberately position themselves midway between left and right, and accidental moderates who arrive at the centre by independently forming opinions on each issue. The author argues that intentional moderates, despite appearing balanced, are still ideological—absorbing beliefs in bulk and shifting with the median opinion—while accidental moderates cultivate their own questions and answers, embodying genuine independence. This distinction reveals that true intellectual courage lies not in centrist conformity but in the willingness to stray from both orthodox camps, a trait especially vital for those who work with ideas. By highlighting how ideological rigidity can stifle creativity, the piece invites readers to reflect on their own thinking habits and to value the heterodox perspective that drives innovation across disciplines.",
-    "summary_zh": "文章将政治中间派分为两种：故意选择的中间派和无意识的中间派。前者机械地跟隨主流观点，后者则自主提出问题和答案，体现独立思考。作者认为真正的勇气在于不随大流，这对从事思想工作的人尤为重要，提醒我们警惕意识形态的束缚。",
-    "best_quote_en": "It is not merely a manipulative rhetorical trick to say 'if you're not with us, you're against us,' but often simply false.",
-    "best_quote_zh": "说‘如果你不和我们站在一起，你就是反对我们’并不只是操纵性的修辞技巧，而是常常是错误的."
-  },
-  {
-    "id": 101,
-    "title": "Helion",
-    "title_zh": "Helion",
-    "source": "Sam Altman",
-    "link": "https://blog.samaltman.com/helion",
-    "tags": [
-      "inspire",
-      "leadership",
-      "design",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "启发",
-      "领导管理",
-      "设计创意",
-      "未来预测"
-    ],
-    "date": "2021-11-05",
-    "summary_en": "I’m delighted to see deeper investment in Helion, a fusion startup that stands out as the most promising approach to clean energy I’ve encountered. Founders David and Chris impress not only as brilliant scientists but also as adept builders who have turned ambitious plans into a working electricity generator. Their disciplined focus on scientific methodology, system design, cost optimization, and fuel cycles has yielded a machine that produces power with a fraction of the resources typical of larger fusion projects. Helion now claims a clear trajectory to net‑positive electricity by 2024 and aims to deliver power at just one cent per kilowatt‑hour—a price point that could revolutionize the global economy. If realized, this breakthrough would provide abundant, cheap energy to combat climate change, enable carbon capture at scale, and unlock unforeseen technological and societal benefits. The article captures the excitement of a startup culture tackling one of humanity’s grandest challenges, offering a rare blend of technical rigor, visionary ambition, and real‑world impact.",
-    "summary_zh": "Helion 的聚变技术令人振奋，创始人不仅是顶尖科学家，更是实干家。他们以精细的科学规划和初创文化，打造出能发电的机器，计划在2024年实现净发电，并瞄准每千瓦时一美分的革命性低价。若成真，这将为气候危机提供解决路径，带来廉价能源，推动社会质变。",
-    "best_quote_en": "Helion has a clear path to net electricity by 2024, and has a long-term goal of delivering electricity for 1 cent per kilowatt-hour.",
-    "best_quote_zh": "Helion 拥有在2024年前实现净发电的明确路径，并长期目标是将电价降至每千瓦时一美分。"
-  },
-  {
-    "id": 102,
-    "title": "Essentials: How to Optimize Female Hormone Health for Vitality & Longevity | Dr. Sara Gottfried",
-    "title_zh": "精髓：如何优化女性激素健康以提升活力与长寿 | 萨拉·戈特弗里德博士",
-    "source": "Huberman Lab",
-    "link": "https://www.hubermanlab.com/episode/essentials-how-to-optimize-female-hormone-health-for-vitality-and-longevity-sara-gottfried",
-    "tags": [
-      "solve",
-      "medicine",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "解决",
-      "医学健康",
-      "数据驱动"
-    ],
-    "date": "2026-08-13",
-    "summary_en": "In this Huberman Lab Essentials episode, Dr. Sara Gottfried, a Harvard‑trained gynecologist, delves into the biomarkers that women should monitor across each life stage. She explains how cortisol, thyroid hormone, estrogen, progesterone, and testosterone influence energy, mood, metabolism, and long‑term disease risk, covering conditions such as PCOS, the nuanced effects of oral contraceptives, and the perimenopausal shift in brain metabolism. The conversation is rich with actionable tools: hormone and micronutrient testing, targeted nutrition, stress‑reduction practices, and cardiometabolic screening that can be implemented at any age. By democratizing health data and linking scientific insight to practical lifestyle interventions, Gottfried offers a roadmap for women seeking vitality and longevity. The episode exemplifies how expert‑driven, data‑focused guidance can empower individuals to take proactive control of their hormonal health, bridging cutting‑edge research with everyday applicability.",
-    "summary_zh": "看到女性如何通过追踪激素 Biomarkers 优化健康，感到兴奋。戈特弗里德博士提供的实用测试和生活方式工具，或许将重塑我们对更年期的认知，也体现了医学与日常实践的紧密结合。这不仅是科学的突破，也启发我们重新思考女性健康管理的自主权。",
-    "best_quote_en": "Dr. Gottfried explains actionable tools for hormone and micronutrient testing, nutrition, stress management, and cardiometabolic screening that women can use at any age.",
-    "best_quote_zh": "戈特弗里德博士解释了实用的工具，包括激素和微量营养素检测、营养、压力管理和心血管代谢筛查，女性可以随时使用这些工具。"
-  },
-  {
     "id": 103,
     "title": "GitHub availability report: July 2026",
     "title_zh": "GitHub 7月可用性报告",
@@ -2326,5 +2256,73 @@
     "summary_zh": "本文展示了一位营销运营负责人如何利用 GitHub 原生工具将繁琐的活动管理流程转化为自动化管道。通过将每个活动视为 GitHub Issue，利用问题表单、标签和 Actions，作者实现了从落地页创建、UTM 链接生成到邮件草拟和活动后报告等全流程自动化。文章强调了 AI 与人工决策的协作平衡：AI 负责日常起草， humans 保留最终审批。DRY_RUN 开关的设计尤其巧妙，让团队能够安全地进行实验而不影响生产环境。安全合规、数据政策以及将工作流程文档化为 SKILL.md 文件以实现可重复自动化也是文章的重要亮点。对于那些在多工具、多区域之间奔波的团队，这提供了一条将手工、易出错流程转变为版本控制、开发者友好工作流的实用路径。",
     "best_quote_en": "I didn’t write the code. I wrote down my runbooks, handed them to GitHub Copilot, and grew the automation in conversation.",
     "best_quote_zh": "我没有写代码，而是把我的运行手册写下来交给 GitHub Copilot，然后在对话中逐步构建自动化流程。"
+  },
+  {
+    "id": 200,
+    "title": "Jessica Livingston",
+    "title_zh": "杰西卡·利文斯顿",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/jessica.html",
+    "tags": [
+      "analyze",
+      "startup-strategy",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "创业策略",
+      "数据驱动"
+    ],
+    "date": "2026-09-15",
+    "summary_en": "This essay reveals Jessica Livingston’s pivotal yet under‑recognized role in shaping Y Combinator’s culture and founder‑selection process. By describing her as the “Social Radar,” the author shows how her uncanny ability to assess character became the core of YC’s investment thesis, privileging authenticity over hype. The piece critiques the myth of the lone male founder, arguing that YC’s success stems from a collaborative family‑like environment where Jessica’s judgment, humility, and aversion to attention created a trusted alumni network. It also highlights the tension between genuine expertise and media sensationalism, illustrating how a powerful female founder’s voice can be silenced by public scrutiny. The narrative invites readers to reconsider the hidden architects of Silicon Valley’s most influential institutions and to value subtle, data‑rich insights over loud self‑promotion.",
+    "summary_zh": "本文揭示了杰西卡·利文斯顿在Y Combinator中的关键作用，尽管她鲜为人知。她被誉为“社会雷达”，她的性格洞察力成为YC投资的核心标准，强调真实性胜过虚假。文章批判了“单飞创始人”的神话，指出YC的成功源于一个家庭式的合作环境，而杰西卡的判断力、谦逊和对关注的厌恶构建了一个信任的校友网络。文章还探讨了真才实学与媒体炒作之间的冲突，展现了强大女性创始人在公众视野中的困境。读者被邀请重新审视硅谷背后那些默默无闻的建筑师，反思价值在于细腻而丰富的数据洞察而非浮夸的自我宣传。",
+    "best_quote_en": "Authenticity is one of the most important things YC looks for in founders, not just because fakers and opportunists are annoying, but because authenticity is one of the main things that separates the most successful startups from the rest.",
+    "best_quote_zh": "真实性是Y Combinator最看重创始人品质的原因之一，因为虚假和机会主义者不仅令人厌烦，而且真正的成功者往往更看重真实性。"
+  },
+  {
+    "id": 201,
+    "title": "Hive Mind",
+    "title_zh": "蜂群智慧",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/hive-mind/",
+    "tags": [
+      "learn",
+      "design",
+      "beginner-friendly"
+    ],
+    "tags_zh": [
+      "学习",
+      "设计创意",
+      "新手友好"
+    ],
+    "date": "2026-09-14",
+    "summary_en": "James K. Miller’s ‘Hive Mind’ celebrates three tools that turn the internet’s collective intelligence into a personal dashboard. PopUrls condenses headlines from dozens of sites into a single, scrollable page, letting users scan what the crowd deems interesting with minimal friction. StumbleUpon’s community‑driven recommendation engine now includes search, surfacing high‑quality images, videos, and products far better than generic Google results, thanks to its anti‑spam voting system. Meanwhile, the Wikipedia Missing Manual demystifies collaborative editing, offering clear guidance on participation, formatting, and community norms. Together, these tools illustrate how curated aggregation, social filtering, and open‑source collaboration can simplify information overload, empower everyday users, and reshape how we discover and contribute knowledge online. The piece is both a practical guide and a thoughtful meditation on the power of networked crowds.",
+    "summary_zh": "这篇文章介绍了三种将集体智慧转化为个人仪表板的工具：PopUrls 聚合热门头条，StumbleUpon 提供优质推荐，Wikipedia 缺失手册指导协作编辑。这些工具展示了如何利用网络过滤和开放协作简化信息过载。",
+    "best_quote_en": "There's no better way to watch the hive mind.",
+    "best_quote_zh": "没有比这更好的方式来观察蜂群智慧了。"
+  },
+  {
+    "id": 202,
+    "title": "GitHub Copilot app for Beginners: Using the diff, terminal, and browser",
+    "title_zh": "GitHub Copilot 应用初学者指南：使用 diff、终端和浏览器面板",
+    "source": "GitHub Blog",
+    "link": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-using-the-diff-terminal-and-browser/",
+    "tags": [
+      "guide",
+      "programming",
+      "education",
+      "beginner-friendly"
+    ],
+    "tags_zh": [
+      "指导",
+      "编程开发",
+      "教育学习",
+      "新手友好"
+    ],
+    "date": "2026-09-10",
+    "summary_en": "The GitHub Copilot app represents a significant advancement in AI-assisted development by unifying the coding workflow into a single, integrated interface. This article provides beginners with a comprehensive walkthrough of the app's three core panels: the diff panel for reviewing AI-generated code changes, the terminal panel for executing commands and testing code, and the browser panel for previewing UI changes. The tutorial emphasizes how this integration eliminates the cognitive overhead of switching between multiple applications, allowing developers to maintain context and focus on the quality of AI-generated code. By highlighting practical use cases like running development servers and using the Pick & Polish tool for UI adjustments, the article demonstrates how the Copilot app empowers developers with greater control over AI outputs while reducing friction in the development process. The approach represents a maturation of AI coding tools from mere suggestion generators to integrated development companions.",
+    "summary_zh": "GitHub Copilot 应用为初学者提供一体化开发环境，整合代码审查、终端执行和浏览器预览功能。通过一次性界面完成AI代码的测试验证，帮助开发者消除应用切换疲劳，获得对AI生成代码的完全控制权。",
+    "best_quote_en": "Having review, run, and preview side by side is what makes agent-made changes feel safe instead of scary, because you can prove that what you're merging works.",
+    "best_quote_zh": "将审查、运行和预览并排显示，让代理生成的代码不再可怕，因为你可以证明要合并的内容是有效的。"
   }
 ]
