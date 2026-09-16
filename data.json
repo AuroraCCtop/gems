@@ -1,53 +1,5 @@
 [
   {
-    "id": 103,
-    "title": "GitHub availability report: July 2026",
-    "title_zh": "GitHub 7月可用性报告",
-    "source": "GitHub Blog",
-    "link": "https://github.blog/news-insights/company-news/github-availability-report-july-2026/",
-    "tags": [
-      "analyze",
-      "leadership",
-      "science",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "分析",
-      "领导管理",
-      "科学研究",
-      "未来预测"
-    ],
-    "date": "2026-08-12",
-    "summary_en": "This GitHub availability report reveals a critical infrastructure vulnerability despite ongoing cloud migration efforts. The July 8 incident exposed systemic fragility in service discovery mechanisms, causing 96% error rates across core platforms. While Azure migration shows progress (52.75% monolith traffic now in Central US), cascading failures highlight the risks of complex distributed architectures. The incident underscores the tension between rapid scaling and reliability, with GitHub acknowledging that availability must precede features. The detailed post-incident analysis demonstrates a commitment to transparency and continuous improvement, though the recurring nature of infrastructure issues suggests fundamental architectural challenges remain in achieving true cloud resilience.",
-    "summary_zh": "这份GitHub 7月可用性报告揭示了云端服务在加速迁移过程中的关键脆弱性。7月8日的重大故障显示，尽管向Azure迁移取得进展（monolith读流量已达52.75%），但服务发现机制仍存在系统性风险，导致核心服务错误率高达96%。这反映了云原生架构在规模扩展与稳定性之间的固有矛盾。GitHub承诺将\"可用性第一，容量第二，功能第三\"，但频繁的故障表明，单纯的云迁移并不足以解决深层次的架构可靠性问题。此报告体现了公司对透明和持续改进的追求，但也暴露了当前云基础设施建设的现实挑战。",
-    "best_quote_en": "availability, then capacity, then features.",
-    "best_quote_zh": "可用性第一，容量第二，功能第三。"
-  },
-  {
-    "id": 104,
-    "title": "Sali Hughes on beauty: a shortcut to glass skin? Try these one-step moisturisers",
-    "title_zh": "Sali Hughes 谈美妆：玻璃肌的捷径？试试这些一步到位保湿霜",
-    "source": "Women | The Guardian",
-    "link": "https://www.theguardian.com/fashion/2026/aug/12/sali-hughes-on-beauty-glass-skin-one-step-moisturisers",
-    "tags": [
-      "analyze",
-      "lifestyle",
-      "science",
-      "case-study"
-    ],
-    "tags_zh": [
-      "分析",
-      "生活方式",
-      "科学研究",
-      "案例研究"
-    ],
-    "date": "2026-08-12",
-    "summary_en": "Sali Hughes explores the emerging trend of \"glass\" skin, traditionally achieved through multi‑step Korean routines, by testing four one‑application moisturisers that promise a glazed sheen. She dissects each product’s texture, hydration power, and versatility, revealing how modern formulations can streamline beauty rituals without sacrificing efficacy. The reviews highlight a shift toward convenience‑focused beauty solutions that still deliver professional‑grade results, suggesting a broader cultural move toward efficient self‑care. Hughes balances enthusiasm with critical observation, noting both the transformative potential and the subtle trade‑offs—such as mild pearlescence or scent intensity—that users must consider. Her analysis not only informs purchasing decisions but also reflects larger industry trends: brands are compressing complex skincare science into single‑step products, reshaping consumer expectations and challenging traditional routine structures. This piece serves as both a practical guide and a commentary on the evolving relationship between beauty rituals and modern lifestyles.",
-    "summary_zh": "Sali Hughes 探讨了\"玻璃肌\"新趋势，从多步韩式护肤转向一款式保湿霜，评测四款产品，揭示便捷美妆如何兼顾专业效果。她指出行业正向效率化自-care 转变，同时提醒消费者注意细微差异，如珠光效果或香气。这篇文章既是购买指南，也反映了美妆行业简化科学、改变消费者习惯的趋势。",
-    "best_quote_en": "I’ve rarely changed my mind about a product so quickly. It went on sticky and stiff – but then transformed.",
-    "best_quote_zh": "我很少对产品有如此快速的看法改变。它上脸时粘腻僵硬，但随后却转变了。"
-  },
-  {
     "id": 105,
     "title": "The Strength of Being Misunderstood",
     "title_zh": "被误解的力量",
@@ -2324,5 +2276,51 @@
     "summary_zh": "GitHub Copilot 应用为初学者提供一体化开发环境，整合代码审查、终端执行和浏览器预览功能。通过一次性界面完成AI代码的测试验证，帮助开发者消除应用切换疲劳，获得对AI生成代码的完全控制权。",
     "best_quote_en": "Having review, run, and preview side by side is what makes agent-made changes feel safe instead of scary, because you can prove that what you're merging works.",
     "best_quote_zh": "将审查、运行和预览并排显示，让代理生成的代码不再可怕，因为你可以证明要合并的内容是有效的。"
+  },
+  {
+    "id": 203,
+    "title": "A Way to Detect Bias",
+    "title_zh": "一种检测偏见的方法",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/bias.html",
+    "tags": [
+      "analyze",
+      "startup-strategy",
+      "startup-funding",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "创业策略",
+      "创业融资",
+      "数据驱动"
+    ],
+    "date": "2026-09-16",
+    "summary_en": "The article reveals a surprising technique for detecting bias in selection processes without any insider knowledge of the applicant pool. By comparing the performance of successful candidates across groups with similar ability distributions, one can infer whether bias existed—a method that turns the very definition of bias into a measurable outcome. The author illustrates this with venture capital data, showing how First Round Capital’s own study inadvertently exposed a gender bias favoring female founders. This approach could empower third‑party auditors and promote transparency, especially as public data on selection outcomes becomes more accessible. However, the validity of the performance metric is crucial; it must not itself be contaminated by the bias under investigation. The piece challenges conventional assumptions about hidden biases, urging organizations to anticipate external scrutiny and to design fairer processes. It also raises ethical questions about data aggregation and the potential misuse of bias‑detection tools, prompting readers to consider both the promise and the pitfalls of applying rigorous analytical lenses to human decision‑making.",
+    "summary_zh": "本文揭示了一个惊人的方法：无需了解申请者信息，就能通过比较成功者的表现来检测偏见。当女性创始人团队的表现显著高于男性团队时，偏见便暴露无遗。此法不仅适用于风险投资领域，也为第三方监督提供了可能。随着公开数据日益丰富，透明度有望提高，但有效的绩效衡量至关重要。作者呼吁组织正视潜在的外部审查，并反思公平性。文章引发了关于数据聚合伦理和偏见检测工具使用的深刻思考，促使我们重新审视隐藏在数据背后的决策偏见。",
+    "best_quote_en": "This is not just a heuristic for detecting bias. It's what bias means.",
+    "best_quote_zh": "这不仅仅是检测偏见的工具，它就是偏见的定义。"
+  },
+  {
+    "id": 204,
+    "title": "Mail-In Voting Survives",
+    "title_zh": "邮寄投票幸存",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/the-lede/mail-in-voting-survives",
+    "tags": [
+      "guide",
+      "politics",
+      "controversial"
+    ],
+    "tags_zh": [
+      "指导",
+      "政治时事",
+      "争议观点"
+    ],
+    "date": "2026-09-15",
+    "summary_en": "The Supreme Court’s unsigned order in September 2026 effectively blocked the Trump administration’s attempt to impose new restrictions on mail‑in voting, marking a decisive judicial check on executive overreach. By rejecting the administration’s claim that it needed emergency relief to enforce barcode‑enabled ballot envelopes, the Court underscored that election conduct remains primarily a state and congressional responsibility, not an executive prerogative. The decision highlights a growing judicial willingness to draw red lines—even if those lines differ from personal preferences—amid a series of recent rulings that have curbed other Trump initiatives, from the White House ballroom project to partisan gerrymandering. While the ruling does not definitively end the assault on mail‑in voting, it signals that the current legal challenges to this electoral norm are unlikely to succeed beyond this year’s midterms. The piece offers a nuanced look at how the Court balances institutional restraint with the need to protect democratic processes, inviting readers to reflect on the evolving role of the judiciary in safeguarding electoral integrity.",
+    "summary_zh": "最高法院无署名裁决阻止了特朗普政府对邮寄投票的新限制，凸显了司法对行政权力的制约。法院认为选举权属州及国会，而非行政部门，标志着对特朗普多项政策的司法制衡。尽管此裁决未彻底终结对邮寄投票的攻击，但表明相关法律挑战今年后难获成功。此文深入剖析了法院在维护民主进程中的微妙角色，引发对司法平衡与选举制度保护的思考。",
+    "best_quote_en": "The Administration had failed to show it was entitled to 'emergency relief' from the Court.",
+    "best_quote_zh": "政府未能证明它有权获得法院的紧急救济。"
   }
 ]
