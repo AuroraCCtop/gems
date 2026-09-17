@@ -1,29 +1,5 @@
 [
   {
-    "id": 105,
-    "title": "The Strength of Being Misunderstood",
-    "title_zh": "被误解的力量",
-    "source": "Sam Altman",
-    "link": "https://blog.samaltman.com/the-strength-of-being-misunderstood",
-    "tags": [
-      "solve",
-      "leadership",
-      "ai-research",
-      "controversial"
-    ],
-    "tags_zh": [
-      "解决",
-      "领导管理",
-      "AI研究",
-      "争议观点"
-    ],
-    "date": "2020-12-01",
-    "summary_en": "The article challenges the common advice to stop caring about others' opinions, arguing that the real choice lies in selecting both the audience and the timeframe for their feedback. While caring about everyone is a mistake, completely ignoring others makes one a follower; a balanced approach is essential for creating value. The author observes that truly impressive individuals care deeply about long‑term reputation, tolerating short‑term criticism as long as history records them accurately. This mindset transforms being misunderstood into a strategic advantage, granting space to tackle important, non‑consensus problems. By trading short‑term low status for long‑term high status, these pioneers demonstrate that being right outweighs immediate approval, offering a nuanced framework for founders and leaders navigating social pressures and striving for lasting impact.",
-    "summary_zh": "文章指出，停止在意他人看法并非正解，而在于选择你关注的人和关注的时机。适度关注他人意见既非盲从，也非完全忽视。作者发现最出色的人往往重视长期历史评价，甘冒短期低名声之险，只要最终被历史铭记。这种将误解转化为力量的策略，为解决重要但非共识问题提供了空间，激励我们在短期低评中寻找长期高价值。",
-    "best_quote_en": "as long as you are right, being misunderstood by most people is a strength not a weakness.",
-    "best_quote_zh": "只要你是对的，被大多数人误解就是一种力量，而不是弱点。"
-  },
-  {
     "id": 106,
     "title": "Your guide to GitHub Universe 2026 is here: The schedule just launched!",
     "title_zh": "GitHub Universe 2026 会议指南：会议日程刚刚公布！",
@@ -2322,5 +2298,27 @@
     "summary_zh": "最高法院无署名裁决阻止了特朗普政府对邮寄投票的新限制，凸显了司法对行政权力的制约。法院认为选举权属州及国会，而非行政部门，标志着对特朗普多项政策的司法制衡。尽管此裁决未彻底终结对邮寄投票的攻击，但表明相关法律挑战今年后难获成功。此文深入剖析了法院在维护民主进程中的微妙角色，引发对司法平衡与选举制度保护的思考。",
     "best_quote_en": "The Administration had failed to show it was entitled to 'emergency relief' from the Court.",
     "best_quote_zh": "政府未能证明它有权获得法院的紧急救济。"
+  },
+  {
+    "id": 205,
+    "title": "Donald Trump Returns to the U.N. Amid the Collapse of the Old Order",
+    "title_zh": "特朗普重返联合国，旧秩序崩塌之际",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/global-notes/donald-trump-returns-to-the-un-amid-the-collapse-of-the-old-order",
+    "tags": [
+      "solve",
+      "politics",
+      "controversial"
+    ],
+    "tags_zh": [
+      "解决",
+      "政治时事",
+      "争议观点"
+    ],
+    "date": "2026-09-17",
+    "summary_en": "The article dissects Donald Trump’s return to the United Nations as a symbolic flashpoint in the unraveling of the post‑World War order. It frames Trumpism as both a catalyst and a symptom of an interregnum, where traditional alliances fray, protectionist policies proliferate, and multilateral institutions face existential threats. By weaving together diplomatic analysis, quotes from officials, and scholarly commentary, the piece illustrates how the U.S. retreat from global commitments—exemplified by treaty withdrawals, funding cuts, and hostile rhetoric—creates a vacuum that no rival power is eager or equipped to fill. The narrative underscores the United Nations’ diminishing authority under Secretary‑General Guterres, whose weakened leadership reflects broader geopolitical fragmentation. Ultimately, the author warns that the world risks sliding into a “gangster’s paradise” where raw power eclipses rules, urging readers to contemplate the dire alternatives to a functioning international system.",
+    "summary_zh": "本文剖析特朗普重返联合国背后的深层意义，将其视为后二战秩序崩塌的标志性事件。文章指出特朗普主义既是催化剂，也是症状，反映出联盟破裂、保护主义抬头及多边体制危机。美国退出多项条约、削减资助及粗暴外交，导致联合国在古特雷斯领导下权威尽失，全球治理陷入僵局。作者引用专家警告，世界可能沦为“黑帮乐园”，规则让位于强权，呼吁反思国际体系的生存意义。",
+    "best_quote_en": "Our world is at risk of becoming a gangster’s paradise, in which rules matter far less than they once did—and raw power matters more.",
+    "best_quote_zh": "我们的世界面临成为一个黑帮乐园的风险，规则的重要性远远低于从前，而原始的力量更重要."
   }
 ]
