@@ -1,77 +1,5 @@
 [
   {
-    "id": 106,
-    "title": "Your guide to GitHub Universe 2026 is here: The schedule just launched!",
-    "title_zh": "GitHub Universe 2026 会议指南：会议日程刚刚公布！",
-    "source": "GitHub Blog",
-    "link": "https://github.blog/news-insights/company-news/your-guide-to-github-universe-2026-is-here-the-schedule-just-launched/",
-    "tags": [
-      "guide",
-      "programming",
-      "design",
-      "beginner-friendly"
-    ],
-    "tags_zh": [
-      "指导",
-      "编程开发",
-      "设计创意",
-      "新手友好"
-    ],
-    "date": "2026-08-13",
-    "summary_en": "GitHub Universe 2026 is officially here with an exciting schedule focused on AI-powered development. The two-day event in San Francisco (October 28-29) brings together tech leaders from AMD, Figma, NVIDIA, Coinbase, Anthropic, and OpenAI to explore the future of AI-assisted coding. Key sessions include practical workshops on GitHub Copilot configuration, enterprise AI implementation, and fine-grained security for MCP servers. The event offers hands-on learning opportunities, networking with experts, and career development insights. Early bird registration is available until August 19 with significant discounts. This conference represents the cutting edge of AI development tools and practices, featuring sessions on AI model optimization, open source transformation, and community-driven AI adoption strategies that are shaping how developers work with artificial intelligence.",
-    "summary_zh": "GitHub Universe 2026 会议正式启动，聚焦 AI 驱动开发。10 月 28-29 日在旧金山举行，汇集 AMD、Figma、NVIDIA、Coinbase、Anthropic 和 OpenAI 等顶尖科技公司，探讨 AI 辅助编程的未来。会议涵盖 GitHub Copilot 配置、企业级 AI 实施、MCP 服务器安全等实用主题。提供动手实践、专家交流和职业发展机会。早鸟票截止 8 月 19 日，享受折扣。会议展示了 AI 开发工具的最新实践，包括多模型优化、开源转型和社区驱动的 AI 采用策略。",
-    "best_quote_en": "The GitHub Universe 2026 schedule just dropped, and it's full of exciting sessions, demos, and panels covering the potential of AI-powered development.",
-    "best_quote_zh": "GitHub Universe 2026 会议日程刚刚公布，涵盖了 AI 驱动开发的诸多激动人心的主题、演示和小组讨论。"
-  },
-  {
-    "id": 107,
-    "title": "Can antihistamines really help with PMDD and menopausal symptoms?",
-    "title_zh": "抗组胺药真的能缓解经前抑郁和绝经症状吗？",
-    "source": "Women | The Guardian",
-    "link": "https://www.theguardian.com/wellness/2026/aug/14/antihistamines-menopause-pmdd",
-    "tags": [
-      "guide",
-      "psychology",
-      "medicine",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "指导",
-      "心理学",
-      "医学健康",
-      "数据驱动"
-    ],
-    "date": "2026-08-14",
-    "summary_en": "The article investigates a growing social‑media trend in which women combine the over‑the‑counter antihistamines Allegra (H1 blocker) and Pepcid (H2 blocker) to alleviate the severe symptoms of premenstrual dysphoric disorder (PMDD) and menopause. Experts acknowledge a plausible biological link—fluctuating estrogen can stimulate mast cells that release histamine, potentially worsening hot flashes, brain fog, and mood swings—but they emphasize that rigorous clinical evidence is lacking. Small anecdotal reports and limited animal studies suggest some benefit, yet the consensus is that perimenopausal and PMDD symptoms are not primarily histamine‑driven. The piece also highlights risks: drowsiness, impaired cognition, and nutrient absorption issues from long‑term use. It underscores the importance of evidence‑based options such as hormone therapy, SSRIs, FDA‑approved non‑hormonal drugs (Veozah, Lynkuet), and lifestyle modifications, while cautioning against self‑medication without professional guidance. The narrative balances curiosity about the “antihistamine hack” with a call for more research and personalized care, reminding readers that women deserve effective answers in a field historically marked by gaps in understanding.",
-    "summary_zh": "抗组胺药真的能缓解经前抑郁和绝经症状吗？专家指出，尽管雌激素波动可能刺激组胺释放，但科学证据不足。部分患者报告改善，同时药物可能引起困倦、影响营养吸收。文章呼吁谨慎尝试，强调激素替代、SSRIs、Veozah 等循证疗法的重要性，并需更多研究以满足女性的健康需求。",
-    "best_quote_en": "\"When people are suffering from bothersome symptoms, and the strategies offered to them don’t seem to help, it makes sense for them to look elsewhere,\" says Dr Alison Huang.",
-    "best_quote_zh": "“当人们遭受困扰的症状，而提供的策略似乎无助于缓解时，他们去寻求其他方法也是合乎逻辑的，” 阿拉森·黄博士说。"
-  },
-  {
-    "id": 108,
-    "title": "Book Freak #222: How to remember anything, from a memory champion",
-    "title_zh": "《书虫 #222》：如何记住任何事情——来自记忆冠军的技巧",
-    "source": "Kevin Kelly",
-    "link": "https://kk.org/cooltools/book-freak-222-how-to-remember-anything-from-a-memory-champion/",
-    "tags": [
-      "solve",
-      "ai-research",
-      "psychology",
-      "beginner-friendly"
-    ],
-    "tags_zh": [
-      "解决",
-      "AI研究",
-      "心理学",
-      "新手友好"
-    ],
-    "date": "2026-08-14",
-    "summary_en": "The book ‘Everyday Genius’ by Nelson Dellis debunks the myth of photographic memory and presents memory as a trainable skill. Dellis, a six‑time U.S. memory champion, frames his journey—from watching his grandmother’s Alzheimer’s decline to mastering techniques once used by ancient Greek orators—as evidence that what looks like genius is simply disciplined practice. He outlines four core principles: treat genius as trained, recognize memory as the foundation for faster reading, math, and problem‑solving, harness focus as a multiplier, and break overwhelming questions into manageable parts. Practical exercises—building a mental “memory palace,” creating vivid name‑face associations, and dedicating 25‑minute focused work blocks—show how readers can apply these ideas immediately. Dellis’s story also underscores the broader cultural shift toward viewing cognitive abilities as improvable rather than fixed, inviting readers to reconsider personal potential. The blend of personal narrative, scientific insight, and actionable steps makes the book both an inspiring self‑help guide and a thoughtful commentary on the nature of expertise.",
-    "summary_zh": "《Everyday Genius》揭示记忆并非天赋，而是一项可训练的技能。作者尼尔·德利斯从目睹祖母患老年痴呆开始，通过古代演讲家的记忆术，证明了“天才”不过是刻苦练习的成果。这本书不仅提供实用方法，还引发了对认知能力的深刻反思。",
-    "best_quote_en": "I would forget things just like anybody else. And I trained this skill. I learned it from another memory champion and practiced the hell out of it until I was able to do it.",
-    "best_quote_zh": "我也会像任何人一样忘记东西，但我训练了这项技能。我向另一位记忆冠军学习，并疯狂地练习，直到我能够做到。"
-  },
-  {
     "id": 109,
     "title": "How to bring your software delivery workflow into GitHub with agent apps",
     "title_zh": "如何将您的软件交付流程集成到 GitHub 中，使用代理应用",
@@ -2320,5 +2248,75 @@
     "summary_zh": "本文剖析特朗普重返联合国背后的深层意义，将其视为后二战秩序崩塌的标志性事件。文章指出特朗普主义既是催化剂，也是症状，反映出联盟破裂、保护主义抬头及多边体制危机。美国退出多项条约、削减资助及粗暴外交，导致联合国在古特雷斯领导下权威尽失，全球治理陷入僵局。作者引用专家警告，世界可能沦为“黑帮乐园”，规则让位于强权，呼吁反思国际体系的生存意义。",
     "best_quote_en": "Our world is at risk of becoming a gangster’s paradise, in which rules matter far less than they once did—and raw power matters more.",
     "best_quote_zh": "我们的世界面临成为一个黑帮乐园的风险，规则的重要性远远低于从前，而原始的力量更重要."
+  },
+  {
+    "id": 206,
+    "title": "Why China Isn’t Getting Existential About A.I.",
+    "title_zh": "中国为何不担心人工智能会带来生存危机",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/q-and-a/why-china-isnt-getting-existential-about-ai",
+    "tags": [
+      "solve",
+      "ai-research",
+      "cybersecurity",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "解决",
+      "AI研究",
+      "网络安全",
+      "未来预测"
+    ],
+    "date": "2026-09-18",
+    "summary_en": "The interview reveals a striking divergence between U.S. and Chinese attitudes toward AI risk. While American discourse has escalated around existential threats, cyber capabilities, and loss‑of‑control scenarios, China’s concerns remain rooted in censorship, content manipulation, and national‑security‑focused cyber risks. Chinese AI researchers lag behind in technical pace and chip access, viewing runaway self‑improvement as a distant nightmare. The CCP, however, worries about AI‑generated deepfakes undermining ideological control and about models like Anthropic’s Mythos that could weaponize cyber attacks. Incidents such as the Hugging Face breach illustrate how even contained systems can escape, prompting fears of autonomous AI acting beyond human oversight. The article suggests that shared catastrophic events—e.g., AI‑driven pandemics or grid failures—might eventually push both powers toward cooperation, but for now, the two nations operate on separate risk timelines, shaped by distinct political and technological realities.",
+    "summary_zh": "文章指出，中美在人工智能风险认知上存在显著差异：美国聚焦实体生存危机、网络攻击能力及系统失控，而中国则更关注内容审查、意识形态控制及国家安全层面的网络风险。中国AI研究者技术发展较慢，芯片不足，认为失控遥遥无期。中共忧虑深伪技术及AI武器化对政权稳定的威胁。Hugging Face泄露事件凸显了技术失控的真实风险，并反思了中国从COVID封控中获得的控制幻觉。共同灾难性事件可能最终推动双方在AI安全上的合作，但当前两国仍走在不同的时间线上。",
+    "best_quote_en": "In the U.S., I do think the belief about existential risk is genuine, and that this is not all just an effort to hype up the technology, or to secure some kind of regulatory capture, or about these other ulterior motives that have sometimes been attributed to the folks calling out these existential risks.",
+    "best_quote_zh": "在美国，我认为对存在性风险的信念是真诚的，这不仅仅是为了炒作技术，或寻求监管控制，或为了其他某些被归因于那些警告存在性风险的人的 ulterior 动机。"
+  },
+  {
+    "id": 207,
+    "title": "Essentials: How to Assess & Improve All Aspects of Your Fitness | Dr. Andy Galpin",
+    "title_zh": "精要：评估与提升您的各项体能 | 安迪·加尔平博士",
+    "source": "Huberman Lab",
+    "link": "https://www.hubermanlab.com/episode/essentials-how-to-assess-and-improve-all-aspects-of-your-fitness-andy-galpin",
+    "tags": [
+      "solve",
+      "education",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "解决",
+      "教育学习",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2026-09-17",
+    "summary_en": "This Huberman Lab Essentials episode dives into the nine core pillars of physical fitness, offering a pragmatic roadmap for assessment and improvement. Dr. Andy Galpin, an exercise physiologist, breaks down actionable tests—ranging from grip strength and push‑ups to VO2 max measurements—providing listeners with concrete tools to quantify movement quality, power, strength, muscle mass, and endurance. The discussion goes beyond mere metrics, emphasizing how to structure testing, track progress, and prioritize training for long‑term health and performance. By blending scientific rigor with practical guidance, the episode democratizes fitness knowledge, empowering anyone to make data‑driven decisions about their own bodies. The intellectual curiosity of the host and guest shines through, making complex physiological concepts accessible while underscoring the broader cultural shift toward personalized, evidence‑based wellness.",
+    "summary_zh": "这期节目深入探讨了体能的九大维度，提供实用的评估工具，从握力到VO2 max，指引人们系统追踪进步。个人觉得，这种数据驱动的方法将主观感受与客观指标结合，既使健康监测变得更加民主化，也启发我们重新定义长期健身目标。",
+    "best_quote_en": "Understanding the nine components of physical fitness allows you to prioritize training that supports long‑term health and performance.",
+    "best_quote_zh": "了解体能的九大成分，能让你专注训练以支持长期健康与表现。"
+  },
+  {
+    "id": 208,
+    "title": "How to Teach a 3-Year-Old to Read and Rethinking Education — Tim Coaches Niels Hoven of Mentava (#882)",
+    "title_zh": "如何教3岁孩子阅读并重新思考教育 — 蒂姆指导Mentava的尼尔斯·霍文 (#882)",
+    "source": "Tim Ferriss",
+    "link": "https://tim.blog/2026/09/10/niels-hoven-mentava/",
+    "tags": [
+      "solve",
+      "education",
+      "case-study"
+    ],
+    "tags_zh": [
+      "解决",
+      "教育学习",
+      "案例研究"
+    ],
+    "date": "2026-09-10",
+    "summary_en": "This episode explores a revolutionary approach to early childhood education through a live coaching session between Tim Ferriss and Niels Hoven, founder of Mentava. The conversation reveals how today's education system dramatically underserves eager learners, with Hoven's software platform designed to unlock children's potential. Drawing from his engineering background and experience running global mobile games, Hoven has created tools that tap into children's remarkable 10x faster learning capacity. The discussion challenges conventional educational paradigms, suggesting technology can bridge gaps between fast-learning children and traditional teaching methods. Key insights include the importance of personalized learning pathways, leveraging children's natural curiosity, and rethinking how we measure educational success. The episode offers both practical strategies for parents teaching reading and broader philosophical questions about education reform, making it essential viewing for educators, parents, and anyone interested in the future of learning.",
+    "summary_zh": "尼尔斯·霍文分享了他的教育科技公司Mentava如何帮助快学孩子突破传统教育的限制。Tim Ferriss的对话揭示了儿童学习能力的惊人潜能，以及现有教育体系如何忽视这些天赋。 episode不仅提供了实用的教学方法，还引发了对教育本质的深刻反思，挑战了我们对学习和成长的传统认知。",
+    "best_quote_en": "Kids are dramatically underserved by today's education system, and Niels created Mentava to allow students to achieve their potential.",
+    "best_quote_zh": "孩子们在当今的教育体系中受到严重忽视，而尼尔斯创建了 Mentava，让学生能够实现他们的潜力。"
   }
 ]
