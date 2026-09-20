@@ -1,75 +1,5 @@
 [
   {
-    "id": 114,
-    "title": "Raising a Dog & Mastering Calm Assertive Energy | Cesar Millan",
-    "title_zh": "養狗與掌握冷靜自信的能量 | 賽斯·米蘭",
-    "source": "Huberman Lab",
-    "link": "https://www.hubermanlab.com/episode/raising-a-dog-and-mastering-calm-assertive-energy-cesar-millan",
-    "tags": [
-      "guide",
-      "psychology",
-      "lifestyle"
-    ],
-    "tags_zh": [
-      "指导",
-      "心理学",
-      "生活方式"
-    ],
-    "date": "2026-07-06",
-    "summary_en": "In this episode of Huberman Lab, world‑renowned dog‑behavior expert Cesar Millan teaches listeners how to master calm, assertive energy to become the pack leader their dogs need. The discussion blends practical tools—like silence, confident posture, structured walks, weighted backpacks, and the \"no look, no touch, no speak\" technique—with deeper insights into pack order, human‑energy dynamics, and the psychological roots of aggression and anxiety. Millan explains how daily routines, such as greeting rituals and exercise, can be re‑engineered to foster obedience and emotional balance. He also ties canine training to broader life principles, emphasizing self‑awareness, discipline, and even spiritual reflection. Whether you own a dog, are considering adoption, or simply want to understand the subtle energy exchanges that shape relationships, the episode offers actionable strategies and expert insight that extend far beyond pet care, making it valuable for anyone interested in behavior modification and personal leadership.",
-    "summary_zh": "賽斯·米蘭在節目中分享如何調整能量與行為，成為狗的領袖。他提供實用工具，如靜默、結構化散步、背負重量及「不看不碰不說」技巧，幫助狗保持冷靜與服從。內容深入探討狗的群體秩序、人類能量交流及其對攻擊性與焦慮的影響，並延伸到自我覺察、紀律與生活價值觀。無論你是寵物主人、準主人，還是對人與動物間能量互動感興趣的讀者，都能從中獲得極具價值的洞見與實踐方法。",
-    "best_quote_en": "Adjust your energy and behavior to ensure your dog is calm and happy and always follows your lead.",
-    "best_quote_zh": "調整你的能量和行為，以確保你的狗保持冷靜和快樂，並始終聽從你的領導。"
-  },
-  {
-    "id": 115,
-    "title": "Nothing less than radical whole-system change is required to fix the NHS's maternity services | Julia Sanders",
-    "title_zh": "要彻底改变整个系统，才能修复国民卫生服务体系的孕产服务",
-    "source": "Women | The Guardian",
-    "link": "https://www.theguardian.com/commentisfree/2026/aug/17/nhs-maternity-care-crisis-reports-yvette-cooper-women",
-    "tags": [
-      "solve",
-      "medicine",
-      "society",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "解决",
-      "医学健康",
-      "社会议题",
-      "数据驱动"
-    ],
-    "date": "2026-08-17",
-    "summary_en": "Julia Sanders’ commentary exposes the deep‑rooted failures within NHS maternity services, arguing that incremental tweaks cannot remedy a system where compassionate care has repeatedly broken down. Drawing on the Amos and Ockenden inquiries, she highlights the tragic human cost—preventable loss, injury and maternal death—while also defending midwives who are often scapegoated despite overwhelming workload pressures. The piece dissects contradictory data: rising intervention rates, soaring caesarean sections, and stagnant satisfaction scores, juxtaposed with improvements in neonatal outcomes. Sanders insists that true safety requires a fundamental reset of the relationship between services, women and families, and that policy must be anchored in robust evidence, sustainable implementation, and genuine partnership. Her call for a bold, system‑wide overhaul, led by Yvette Cooper’s new taskforce, challenges readers to consider how health systems can move from reactive fixes to transformative, equity‑driven care. The article is both a damning indictment and a roadmap for change, urging clinicians, policymakers and the public to confront uncomfortable truths and re‑imagine maternity care as a cornerstone of the NHS.",
-    "summary_zh": "莎兰德斯揭露NHS孕产服务体系的深层问题，指出仅靠渐进改革无法解决系统性失能。她呼吁彻底重构服务与妇女家庭的关系，以证据、可持续性与平等为导向，为NHS孕产护理提供变革蓝图。",
-    "best_quote_en": "I want to make it a personal crusade to put the cradle back at the heart of the NHS,",
-    "best_quote_zh": "我希望把摇篮重新放在国民卫生服务体系的核心，这将是我个人的战斗。"
-  },
-  {
-    "id": 116,
-    "title": "Having Kids",
-    "title_zh": "养育孩子",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/kids.html",
-    "tags": [
-      "guide",
-      "startup-strategy",
-      "lifestyle",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "指导",
-      "创业策略",
-      "生活方式",
-      "数据驱动"
-    ],
-    "date": "2026-08-17",
-    "summary_en": "The essay chronicles the author’s dramatic shift from fearing parenthood to embracing it, exposing the cognitive biases that shaped his expectations. He recounts how selective observation—only seeing parents in stressful moments like airplane tantrums—distorted his view, and how a sudden hormonal surge after his first child’s birth rewired his emotions, prompting protectiveness toward all children. The narrative balances the undeniable challenges—reduced productivity, rigid schedules, and the zero‑sum nature of attention—with profound rewards: daily moments of peace, unexpected joy in simple routines, and a new friendship with his kids. By juxtaposing his pre‑child assumptions with lived reality, the piece offers a nuanced portrait of modern parenting, suggesting that many anxieties are universal and that the happiness children bring often exceeds earlier expectations.",
-    "summary_zh": "作者从恐惧到接纳养育孩子的过程，揭示了观察偏差、激素变化与生活重心的转变。既有工作效率下降的现实，也有日常的宁静与亲子友谊，挑战了传统观念，展现了父母共同的情感历程。",
-    "best_quote_en": "You don't just love them. They become your friends too. They're really interesting.",
-    "best_quote_zh": "你不仅爱他们，他们也成了你的朋友。他们真的很有趣。"
-  },
-  {
     "id": 117,
     "title": "What 50 open source projects taught us about security in the AI era",
     "title_zh": "50 个开源项目教给我们的关于 AI 时代安全的故事",
@@ -2322,5 +2252,77 @@
     "summary_zh": "病毒文章警告，新冠可能只是未来更严重疫情的开端。作者引用专家观点，预测数百万人死亡，呼吁社会将此视为危机演习，强调年轻人应延缓感染，指出经济系统脆弱性，并预言新的常态将改变卫生与商务行为。",
     "best_quote_en": "Covid‑19 is bad, but only a warm‑up.",
     "best_quote_zh": "新冠病毒很糟糕，但只是开始。"
+  },
+  {
+    "id": 214,
+    "title": "Default Alive or Default Dead?",
+    "title_zh": "默认存活还是默认死亡？",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/aord.html",
+    "tags": [
+      "solve",
+      "startup-strategy",
+      "startup-funding",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "解决",
+      "创业策略",
+      "创业融资",
+      "数据驱动"
+    ],
+    "date": "2026-09-20",
+    "summary_en": "Trevor Blackwell’s 2015 essay forces founders to confront a brutal reality: after several months, does a startup have enough runway to become profitable, or is it already doomed? He introduces the \"default alive or default dead\" calculus, warning that many founders ignore it until it’s too late, leading to the \"fatal pinch\"—a combination of unprofitability, slow growth, and insufficient time to pivot. The piece critiques common misconceptions, especially the belief that aggressive hiring or fundraising will rescue a struggling venture. Instead, it advocates early, honest assessment, planning for a \"plan B\" if fundraising fails, and focusing on product‑market fit before scaling. By urging founders to ask the uncomfortable question early, the essay offers a pragmatic roadmap for survival and sustainable growth, making it essential reading for anyone navigating early‑stage startups.",
+    "summary_zh": "这篇文章迫使初创企业创始人直面一个残酷的事实：几个月后，公司是否还有盈利可能，还是已经步入绝境？作者提出了“默认存活还是默认死亡”的计算方法，警告许多创始人忽视这一点，直到陷入“致命困境”——无盈利、增长慢、时间不足。通过批判过度招聘和盲目融资的误区，文章倡导早期 Honest 评估，制定备用生存计划，并强调产品‑市场匹配的重要性。它为初创企业提供了一条务实的生存与稳健增长路径，是所有早期创业者的必读之作。",
+    "best_quote_en": "Hiring too fast is by far the biggest killer of startups that raise money.",
+    "best_quote_zh": "快速雇人是初创企业筹资后最大的杀手。"
+  },
+  {
+    "id": 215,
+    "title": "Labs could soon start automated research into architectures driven by no-CoT perfomance",
+    "title_zh": "实验室可能很快开始进行由无思维链性能驱动的自动架构研究",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/7WA6odujzhr8WkgDx/labs-could-soon-start-automated-research-into-architectures",
+    "tags": [
+      "analyze",
+      "ai-research",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "AI研究",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2026-09-20",
+    "summary_en": "The article argues that no‑CoT (no Chain‑of‑Thought) performance can serve as a practical proxy for gauging the g‑factor intelligence of foundational AI models, citing prior work on latent multi‑hop reasoning. It envisions labs deploying automated research interns that propose architectural tweaks—such as carrying latent information across filler tokens—to boost both no‑CoT n‑hop performance and sequential reasoning, thereby improving token efficiency and tackling long‑horizon tasks. While this trajectory promises faster, more capable models, it also points toward reduced monitorability and raises urgent questions about mechanistic interpretability, activation oracles, and the potential emergence of hidden, parallel reasoning processes that elude human understanding. The piece balances enthusiasm for rapid progress with a sober warning that the unknowns demand careful exploration, echoing concerns seen in systems like DeepSeek‑R1 and OpenAI o1 that previously relied on exponential scaling. In sum, the shift toward no‑CoT‑driven automation could accelerate AI capabilities but also deepens the challenge of maintaining transparency and control.",
+    "summary_zh": "无思维链性能成为衡量基础模型g因子的新指标，促使实验室探索自动架构研究，以期提升长任务推理的令牌效率和智能水平。然而，低可监控性和解释难题隐现，引发对模型可解释性的深刻担忧，未来需平衡进步与安全。",
+    "best_quote_en": "No‑CoT performance has been a decent proxy for tracking the g‑factor intelligence of base models.",
+    "best_quote_zh": "无思维链性能是衡量基础模型g因子的有效指标。"
+  },
+  {
+    "id": 216,
+    "title": "Hard Startups",
+    "title_zh": "艰难创业",
+    "source": "Sam Altman",
+    "link": "https://blog.samaltman.com/hard-startups",
+    "tags": [
+      "solve",
+      "startup-strategy",
+      "startup-funding",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "解决",
+      "创业策略",
+      "创业融资",
+      "未来预测"
+    ],
+    "date": "2020-02-26",
+    "summary_en": "The article challenges the conventional belief that easy startups are the easiest path to success. It argues that hard startups—those demanding substantial capital, time, and advanced technology—are paradoxically more attractive to top talent because they embody a compelling mission and long‑term vision. By framing a difficult challenge as a \"tailwind,\" founders can harness collective ambition, making recruitment, funding, and partnerships smoother. The piece also highlights Silicon Valley’s cultural bias toward seriousness, illustrating how ambitious, high‑risk projects (e.g., nuclear fusion, AGI) still attract investment despite the odds. The author urges entrepreneurs to set audacious goals, commit to a multi‑year horizon, and break progress into manageable steps. This perspective reframes difficulty as a strategic advantage, offering a fresh lens on startup ecosystems and the psychology of talent attraction. It invites readers to reconsider risk, ambition, and the true cost of simplicity in venture building.",
+    "summary_zh": "艰难创业看似艰巨，实则更易吸引人才，因为它承载使命与长期愿景。本文揭示‘逆风困’与‘顺风效’，提醒创业者选择有意义的目标，持之以恒，方能脱颖而出。",
+    "best_quote_en": "An easy startup is a headwind; a hard startup is a tailwind.",
+    "best_quote_zh": "简单的创业是逆风，艰难的创业是顺风。"
   }
 ]
