@@ -1,123 +1,5 @@
 [
   {
-    "id": 117,
-    "title": "What 50 open source projects taught us about security in the AI era",
-    "title_zh": "50 个开源项目教给我们的关于 AI 时代安全的故事",
-    "source": "GitHub Blog",
-    "link": "https://github.blog/open-source/maintainers/what-50-open-source-projects-taught-us-about-security-in-the-ai-era/",
-    "tags": [
-      "solve",
-      "ai-research",
-      "education",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "解决",
-      "AI研究",
-      "教育学习",
-      "数据驱动"
-    ],
-    "date": "2026-08-13",
-    "summary_en": "This analysis reveals how 50 open source projects navigated security challenges in the AI era, discovering that AI tools can accelerate investigation, prioritization, and response while human judgment remains essential. The GitHub Secure Open Source Fund provided $500K in non-dilutive funding, pairing maintainers with security experts and AI-assisted workflows. Key insights show AI helping with vulnerability triage, threat modeling, and code review, but maintainers still provide crucial context and accountability. Projects like OpenClaw developed incident response plans and expanded security tooling usage. The program demonstrates a practical model for securing AI-related open source software through community support, expert guidance, and measurable outcomes—highlighting the evolving nature of security as AI transforms development practices.",
-    "summary_zh": "这篇分析揭示了50个开源项目如何在AI时代应对安全挑战，发现AI工具可以加速调查、优先处理和响应，但人类判断仍然不可或缺。GitHub安全开源基金提供了50万美元的非稀释资金，将维护者与安全专家、GitHub安全工具和AI辅助工作流程配对。关键见解表明，AI有助于漏洞分类、威胁建模和代码审查，但维护者仍需提供关键的上下文和责任感。像OpenClaw这样的项目制定了事件响应计划，扩展了安全工具的使用。这一项目展示了一种实用的模型，通过社区支持、专家指导和可衡量的成果来保护AI相关开源软件，突显了安全随着AI改变开发实践而不断演变。",
-    "best_quote_en": "AI can help maintainers investigate, prioritize, and respond faster. Maintainers still provide the context, judgement, and accountability required to decide what ships.",
-    "best_quote_zh": "AI 可以帮助维护者更快地调查、优先处理和响应。维护者仍然需要提供上下文、判断力和责任感，以决定什么可以发布。"
-  },
-  {
-    "id": 118,
-    "title": "The Lesson to Unlearn",
-    "title_zh": "要丢弃的教训",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/lesson.html",
-    "tags": [
-      "inspire",
-      "education",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "启发",
-      "教育学习",
-      "数据驱动"
-    ],
-    "date": "2026-08-18",
-    "summary_en": "The essay argues that the most damaging lesson learned in school is not any specific subject but the habit of chasing grades over genuine learning. The author recounts how college tests, designed to measure understanding, have become hackable because students quickly learn to study for the test format rather than the material itself. This misalignment leads to a system where students compete to maximize the gap between learning and grades, a skill that later manifests in startup culture and venture capital fundraising. The piece draws parallels between college admissions and startup selection, both of which reward performative competence over authentic quality. By highlighting how bad tests train people to \"hack\" rather than excel, the author calls for a societal unlearning of these flawed metrics. The essay suggests that reforming assessment—making it truly reflective of learning—could liberate enormous creative energy, echoing successful models like Lambda School. Ultimately, it urges readers to reconsider what we value in education and entrepreneurship, advocating for authentic growth over strategic gaming of broken systems.",
-    "summary_zh": "这篇文章揭示了最致命的教育弊端：学生学会了追求分数而非真正的学习。作者讲述了大学考试如何被“破解”，导致学习与成绩严重脱节。这种扭曲不仅影响学子，也渗透到创业和投资领域。我们应当摒弃这种通过操纵 flawed 机制获胜的思维，转而追求真正的学习和产品质量。只有改革评估方式，让它真正反映学习成果，社会才能释放被束缚的能量。",
-    "best_quote_en": "The worst thing it does is to train you that the way to win is by hacking bad tests.",
-    "best_quote_zh": "最糟糕的是，它训练你认为通过破解坏测试来获胜才是获胜之道。"
-  },
-  {
-    "id": 119,
-    "title": "Essentials: Tools for Hormone Optimization in Males | Dr. Kyle Gillett",
-    "title_zh": "男性激素优化 essentials：工具 | 凯尔·吉莱特医生",
-    "source": "Huberman Lab",
-    "link": "https://www.hubermanlab.com/episode/essentials-tools-for-hormone-optimization-in-males-kyle-gillett",
-    "tags": [
-      "solve",
-      "medicine",
-      "science",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "解决",
-      "医学健康",
-      "科学研究",
-      "数据驱动"
-    ],
-    "date": "2026-07-02",
-    "summary_en": "Dr. Kyle Gillett’s Essentials episode provides a comprehensive, science‑backed roadmap for male hormone optimization that spans diet, exercise, blood testing, and targeted supplementation. The discussion moves from foundational concepts—how testosterone fluctuates with age and lifestyle—to actionable protocols such as caloric moderation, resistance training, and precise nutrient timing. Gillett emphasizes the diagnostic power of regular bloodwork, framing it as the first step in any personalization strategy, and warns against one‑size‑fits‑all supplement regimens by highlighting the nuanced roles of creatine, L‑carnitine, Tongkat Ali, and Fadogia agrestis. The episode also tackles controversial topics like testosterone replacement therapy for younger men and the interplay between alcohol, aromatase activity, and prostate health, offering balanced perspectives backed by current research. By weaving clinical expertise with practical lifestyle pillars—stress management, purpose, and sleep—the conversation serves as both an educational resource and a guide for men seeking evidence‑based enhancements. Its interdisciplinary approach bridges medicine, nutrition, and performance science, making it a valuable reference for anyone interested in optimizing hormonal health through informed, data‑driven choices.",
-    "summary_zh": "凯尔·吉莱特医生提供了一套科学化的男性激素优化工具，涵盖血液检测、营养、运动及补充剂等领域。这集既是教育资源，也是实践指南，通过数据驱动的方法帮助男性了解并改善激素健康。",
-    "best_quote_en": "We discuss science‑based tools for optimizing male hormones across the lifespan, including the role of bloodwork, nutrition, and exercise in supporting healthy hormone levels.",
-    "best_quote_zh": "我们讨论了基于科学的男性激素优化工具，涵盖了整个生命周期，包括血液检测、营养和运动在维持健康激素水平中的作用。"
-  },
-  {
-    "id": 120,
-    "title": "How canvases make agentic workflows visible, steerable, and cost-efficient",
-    "title_zh": "画布如何让代理式工作流可视化、可控和高效",
-    "source": "GitHub Blog",
-    "link": "https://github.blog/ai-and-ml/github-copilot/how-canvases-make-agentic-workflows-visible-steerable-and-cost-efficient/",
-    "tags": [
-      "analyze",
-      "programming",
-      "design",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "编程开发",
-      "设计创意",
-      "数据驱动"
-    ],
-    "date": "2026-08-17",
-    "summary_en": "This article reveals how GitHub Copilot's canvas feature transforms agentic workflows from fragmented chat interactions into durable, collaborative systems. The author shares practical insights from building Java Modernization Studio and Site Studio canvases, demonstrating how persistent surfaces solve critical challenges in human-AI collaboration. Key innovations include explicit workflow states, visible decision points, and built-in approval mechanisms that reduce context loss and rework. The analysis balances technical implementation details with cost-benefit considerations, showing how initial AI credit investments (2,000-3,000 credits) yield long-term efficiency gains through reduced prompting, better trust, and improved governance. This represents a significant evolution beyond prompt-based interactions toward structured, memory-driven collaborative workflows.",
-    "summary_zh": "本文揭示了GitHub Copilot的画布功能如何将代理式工作流从零散的聊天交互转变为持久的协作系统。作者分享了构建Java现代化工作室和站点工作室画布的实践经验，展示了如何通过持久表面解决人机协作中的关键挑战。核心创新包括明确的工作流状态、可视化的决策点和内置的审批机制，这些设计减少了上下文丢失和返工。文章在技术实现细节与成本效益分析之间取得了平衡，展示了初始AI积分投资（2000-3000积分）如何通过减少重复提示、建立信任和改善治理带来长期效率收益。这标志着从基于提示的交互向具有记忆、结构和控制的协作工作流的重大转变。",
-    "best_quote_en": "Agents can produce changes faster than any human can review them",
-    "best_quote_zh": "代理可以产生的变化比人类可以审查的要快"
-  },
-  {
-    "id": 121,
-    "title": "Bernie Sanders Takes on Data Centers",
-    "title_zh": "伯尼·桑德斯针对数据中心",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/culture/the-new-yorker-interview/bernie-sanders-takes-on-data-centers",
-    "tags": [
-      "update",
-      "politics",
-      "ai-research",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "动态",
-      "政治时事",
-      "AI研究",
-      "数据驱动"
-    ],
-    "date": "2026-08-18",
-    "summary_en": "In a revealing New Yorker interview, Senator Bernie Sanders articulates a growing bipartisan backlash against the unchecked expansion of data centers that power today’s AI boom. He co‑sponsored a bill calling for a nationwide moratorium, arguing that the environmental toll—massive electricity and water consumption—and the socioeconomic risks, from job displacement to privacy erosion, demand immediate public scrutiny. Sanders frames the issue as a moral stand against corporate oligarchy, emphasizing that ordinary citizens, regardless of political stripe, are questioning the trade‑offs of unchecked tech growth. The piece not only chronicles legislative action in states like New York but also situates the debate within broader concerns about democratic oversight of emerging technologies. By juxtaposing Sanders’ policy proposals with expert commentary and historical context, the interview invites readers to consider how societies can balance innovation with sustainability and equity. It underscores the urgency of inclusive dialogue, suggesting that the future of AI infrastructure will be shaped as much by public will as by engineering prowess.",
-    "summary_zh": "桑德斯参议员在《纽约客》访谈中，揭示了针对数据中心激增的跨党派反对声浪。他提出全国性停建法案，指出数据中心耗费巨大能源与水资源，并可能导致就业流失与隐私侵犯，视为与全球顶尖富豪企业对抗的道德立场。这篇文章不仅报道了纽约等州的立法行动，还深入探讨了技术发展与公共利益之间的冲突，呼吁在技术进步的同时确保民主监督与社会公平。",
-    "best_quote_en": "\"What the hell are we doing? What is this gonna contribute to? Is this gonna result in my kid not being able to have a job? Is this gonna result in my not having any privacy? Why am I aiding these large corporations owned by the wealthiest people in the world who couldn’t care less about me? Let’s stand up.\"",
-    "best_quote_zh": "\"我们到底在做什么？这会对什么有贡献？这会不会导致我的孩子无法找到工作？这会不会导致我失去隐私？为什么我要帮助那些由世界上最富有的人所拥有、对我漠不关心的大公司？让我们站起来。\""
-  },
-  {
     "id": 122,
     "title": "The Tim Ferriss Show Transcripts: How to Reinvent Yourself and Make Bold Moves — Decisive Stories from Matthew McConaughey, Steve Young, Samin Nosrat, and More (#879)",
     "title_zh": "《蒂姆·费里斯秀》 transcript：如何重塑自我、做出大胆抉择——马修·麦康纳、史蒂夫·杨、萨明·诺斯拉特等分享的决定性故事 (#879)",
@@ -2324,5 +2206,119 @@
     "summary_zh": "艰难创业看似艰巨，实则更易吸引人才，因为它承载使命与长期愿景。本文揭示‘逆风困’与‘顺风效’，提醒创业者选择有意义的目标，持之以恒，方能脱颖而出。",
     "best_quote_en": "An easy startup is a headwind; a hard startup is a tailwind.",
     "best_quote_zh": "简单的创业是逆风，艰难的创业是顺风。"
+  },
+  {
+    "id": 217,
+    "title": "Jess Cartner-Morley on fashion: pair a little skirt with a chunky jumper for the perfect balancing act",
+    "title_zh": "Jess Cartner-Morley 谈时尚：将短裙与粗棒毛衣搭配，打造完美的平衡",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/fashion/2026/sep/16/jess-cartner-morley-on-fashion-pair-skirt-with-chunky-jumper",
+    "tags": [
+      "update",
+      "lifestyle",
+      "ai-research",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "动态",
+      "生活方式",
+      "AI研究",
+      "未来预测"
+    ],
+    "date": "2026-09-16",
+    "summary_en": "Jess Cartner-Morley celebrates the fleeting elegance of early autumn, urging readers to savor a moment when clothing can be purely expressive rather than purely functional. She observes how summer’s carefree attitude—shorts, halter tops, even swimwear—has loosened our dress code, allowing a graceful blend of lightness and warmth. The columnist introduces a signature formula: a flimsy, holiday‑inspired skirt paired with a substantial, outer‑wear‑like jumper, creating intentional tension between lightness and solidity. By championing this juxtaposition, she challenges outdated leg‑centric judgments and reframes the outfit as a deliberate aesthetic statement rather than a compromise. Cartner‑Morley also advises on color cohesion, shoe choice, and resisting premature autumn clichés, encouraging readers to keep \"one foot in summer\" as long as possible. The piece is both a practical style guide and a broader meditation on how seasonal transitions can inspire creative self‑expression.",
+    "summary_zh": "卡特纳-莫雷利笔下早秋的衣着成为纯粹的表达，而非功能。夏日的随意风格悄然渗透，让轻薄与厚重和谐共存。她提出标志性的搭配：薄裙与粗棒毛衣的张力，既是视觉平衡，也是对传统审美的突破。透过这种风格，她呼吁摆脱对腿型的顾虑，以色调统一、鞋履得体为关键，延展夏日的活力，延迟秋天的沉重。这篇文章既是实用的穿搭指南，也是对季节更替中创意自我表达的深刻反思。",
+    "best_quote_en": "The skirt is still daydreaming about holidays, but the top has read the forecast. Boudoir down below, bus stop up top.",
+    "best_quote_zh": "裙子还在幻想假期，而上半身却已经听到了天气预报。情调在下，现实在上。"
+  },
+  {
+    "id": 218,
+    "title": "Why It's Safe for Founders to Be Nice",
+    "title_zh": "为什么创始人对他人善良是安全的",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/safe.html",
+    "tags": [
+      "learn",
+      "startup-strategy",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "学习",
+      "创业策略",
+      "数据驱动"
+    ],
+    "date": "2026-09-21",
+    "summary_en": "This article challenges the stereotypical image of the ruthless, profit‑driven startup founder by showing why being nice is actually a safe, even advantageous, strategy. Drawing on personal anecdotes and simple mathematical models, the author demonstrates that superlinear growth driven by word‑of‑mouth and product excellence outweighs the benefits of extracting maximum revenue from users. Even if a founder extracts only half the possible money, a modest increase in growth rate can quickly offset the loss, often leading to higher long‑term revenue. The piece also acknowledges edge cases where cash extraction matters early on, but argues that slow growth and excessive spending are more common failure points. By reframing generosity as a catalyst for compounding success, the article offers a refreshing, data‑driven perspective that encourages founders to focus on building great products and fostering community rather than on aggressive monetization. It serves as both a practical guide and an inspirational rebuttal to conventional startup wisdom.",
+    "summary_zh": "文章以增长曲线为依据，指出创业者不必贪婪，专注于产品质量和口碑传播，即使少收钱，也能通过更高的增长率迅速赶超，善良成为成功的不二法门，挑战了传统创业者形象。",
+    "best_quote_en": "The reason startup founders can safely be nice is that making great things is compounded, and rapacity isn't.",
+    "best_quote_zh": "创业者可以安全地善良，因为创造伟大事物是复利的，而贪婪不是。"
+  },
+  {
+    "id": 219,
+    "title": "The Lost Descendants of Thomas Jefferson",
+    "title_zh": "托马斯·杰斐逊失踪的后代",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/the-lede/the-lost-descendants-of-thomas-jefferson",
+    "tags": [
+      "analyze",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2026-09-21",
+    "summary_en": "Julian Lucas’s expansive report reveals how a secret Smithsonian DNA study has finally settled America’s longest paternity dispute: Thomas Jefferson fathered children with his enslaved chambermaid Sally Hemings, and their bloodline persists across the nation. The narrative follows Richard Kurin’s decade‑long, high‑stakes effort—from hair samples in the Jefferson Bible to exhumed remains and breakthroughs in ancient DNA extraction—to sequence Jefferson’s genome and confirm genetic links with living descendants like Margot Kossmann Williams. Lucas weaves scientific rigor, historical controversy, and personal stories, showing how the findings reshape national identity and force a reckoning with the contradictions of liberty and slavery. The article balances meticulous research, the emotional impact on descendants, and the broader cultural implications of finally acknowledging a foundational, hidden lineage.",
+    "summary_zh": "研究用DNA证据证实了杰斐逊与黑人女仆的私生子女血脉延续，揭示了美国历史中难以忽视的种族矛盾与身份重构。",
+    "best_quote_en": "Now you can’t think about the founding without thinking about Black people.",
+    "best_quote_zh": "现在你无法在思考建国历史时忽略黑人的存在。"
+  },
+  {
+    "id": 220,
+    "title": "DesignPatentDaily / Origin Myth Map / Magnifying Desk Lamp",
+    "title_zh": "设计专利日报 / 起源神话地图 / 放大桌灯",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/designpatentdaily-origin-myth-map-magnifying-desk-lamp/",
+    "tags": [
+      "solve",
+      "design",
+      "psychology",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "解决",
+      "设计创意",
+      "心理学",
+      "数据驱动"
+    ],
+    "date": "2026-09-20",
+    "summary_en": "This daily digest curates a fascinating mix of design, culture, tools, and personal growth. The first feature highlights DesignPatentDaily, an Instagram account that shares one elegant patent drawing each day, turning technical schematics into stunning, minimalist art. Next, the Origin Myth Map offers an immersive, interactive exploration of creation stories worldwide, allowing users to navigate time, themes, and mythic lineages with intuitive curiosity. Practical segments introduce a high‑quality magnifying desk lamp and a ratcheting bar clamp, both praised for their functionality and user‑friendly design. A compelling story about Fiskars honoring a 16‑year‑old broken lopper without a receipt underscores the value of brand loyalty and durable products, echoed by other brands like Calphalon and Philips. Finally, Peter McEwen’s guide on meeting difficult emotions without trying to fix them offers a gentle, contemplative practice for emotional resilience. Together, these pieces reveal how thoughtful design, cultural narratives, reliable tools, and mindful introspection can enrich everyday life.",
+    "summary_zh": "这份日间精选涵盖了专利艺术的简约之美、全球神话的互动地图、实用的放大灯具、快速夹具的创新，以及品牌工具的终身支持，最后是一份温柔接纳困难情绪的指引。这些看似无关的内容实则映照了设计、文化、实用与心理成长的交织，提醒我们在快节奏的生活中停下来欣赏细节，聆听古老叙事，并温柔地面对内心的冲突。",
+    "best_quote_en": "When a difficult emotion shows up, you don’t have to resolve it. You drop out of the story and into the actual sensation in your body, and you stay with it in small doses, even if it’s only a few seconds.",
+    "best_quote_zh": "当困难的情绪出现时，你不必去解决它。你跳脱出叙事，进入身体中的真实感觉，并小剂量地与它共处，即使只是一小会儿。"
+  },
+  {
+    "id": 221,
+    "title": "Best Tools for Gut Health & Weight Loss | Dr. Chris Thompson",
+    "title_zh": "最佳肠道健康与减重工具 | 克里斯·汤姆森博士",
+    "source": "Huberman Lab",
+    "link": "https://www.hubermanlab.com/episode/best-tools-for-gut-health-and-weight-loss-chris-thompson",
+    "tags": [
+      "solve",
+      "medicine",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "解决",
+      "医学健康",
+      "数据驱动"
+    ],
+    "date": "2026-09-21",
+    "summary_en": "Harvard Medical School Professor Dr. Chris Thompson provides cutting-edge insights into gut health and weight management, bridging advanced medical research with practical applications. The content explores how gastrointestinal health regulates hunger, metabolism, and overall wellness through mechanisms like gut hormones, microbiome balance, and innovative treatments including GLP-1 medications. Thompson's expertise reveals the critical connection between digestive health and systemic well-being, offering evidence-based strategies for both conventional and emerging weight loss approaches. The discussion demystifies complex medical concepts while providing actionable guidance for individuals struggling with gut health challenges, making sophisticated metabolic science accessible to general readers seeking to optimize their health through targeted nutritional and medical interventions.",
+    "summary_zh": "哈佛医学院汤姆森博士深入探讨了肠道健康与减重的科学奥秘，揭示了胃肠道如何调控饥饿、代谢和整体健康。从肠道激素到微生物群落，从GLP-1药物到生活方式干预，他为我们呈现了连接现代医学前沿与实用健康的桥梁。这篇内容不仅解析了复杂的生理机制，还提供了切实可行的解决方案，尤其对那些面临肠道健康或体重管理挑战的人来说，具有重要的指导意义。",
+    "best_quote_en": "Your gut health is vital to all the organs of the body, overall health, and longevity.",
+    "best_quote_zh": "肠道健康对身体所有器官、整体健康和长寿都至关重要。"
   }
 ]
