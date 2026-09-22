@@ -1,101 +1,5 @@
 [
   {
-    "id": 122,
-    "title": "The Tim Ferriss Show Transcripts: How to Reinvent Yourself and Make Bold Moves — Decisive Stories from Matthew McConaughey, Steve Young, Samin Nosrat, and More (#879)",
-    "title_zh": "《蒂姆·费里斯秀》 transcript：如何重塑自我、做出大胆抉择——马修·麦康纳、史蒂夫·杨、萨明·诺斯拉特等分享的决定性故事 (#879)",
-    "source": "Tim Ferriss",
-    "link": "https://tim.blog/2026/08/14/how-to-reinvent-yourself-transcript/",
-    "tags": [
-      "solve",
-      "lifestyle",
-      "medicine",
-      "case-study"
-    ],
-    "tags_zh": [
-      "解决",
-      "生活方式",
-      "医学健康",
-      "案例研究"
-    ],
-    "date": "2026-08-14",
-    "summary_en": "This transcript of Tim Ferriss’s special episode #879 explores the universal challenge of personal reinvention. Through vivid conversations with figures like NFL legend Steve Young, cancer survivor Suleika Jaouad, and designer Debbie Millman, the episode dissects how to shed outdated identities, navigate uncertainty, and commit to new directions. Steve Young frames transition as a mourning process, urging listeners to treat the end of one chapter as a death to be honored before moving forward. Jaouad challenges the myth of effortless \"moving on\" after trauma, emphasizing the necessity of integrating difficult experiences into one’s evolving self‑concept. Millman offers a concrete writing exercise that pushes readers to envision a future self with fearless ambition. The discussions blend practical guidance—such as Roger Staubach’s simple advice to \"run away\" from the old role—with deep psychological insight, making the content both actionable and profoundly reflective. By juxtaposing high‑profile success stories with raw, vulnerable reckonings, the episode serves as a roadmap for anyone seeking to reinvent themselves, offering tools, inspiration, and a compelling narrative that personal transformation is a deliberate, often messy, but ultimately rewarding journey.",
-    "summary_zh": "这期特别收录了体育传奇史蒂夫·杨、癌症幸存者苏莱卡·贾奥瓦德及设计师黛比·米尔曼等人的对话，探讨如何摆脱过时身份、面对不确定性并拥抱新篇章。杨将转变比作一场需哀悼和埋葬的“死亡”；贾奥瓦德则揭露“继续前行”的迷思，主张将创伤融入自我；米尔曼提供了一项大胆的未来愿景写作练习。这篇内容既提供实用的指导（如罗杰·斯塔博克的“远离旧身份”建议），又蕴含深刻的心理洞见，激发听众反思个人转型的复杂性与可能性。",
-    "best_quote_en": "Transition is like a death; you need to mourn it and bury it, otherwise you never truly move on.",
-    "best_quote_zh": "转变就像一场死亡；你需要哀悼并埋葬它，否则就永远无法真正过渡。"
-  },
-  {
-    "id": 123,
-    "title": "GitHub Copilot app for Beginners: Write your first prompt",
-    "title_zh": "GitHub Copilot 初学者应用：编写你的第一个提示",
-    "source": "GitHub Blog",
-    "link": "https://github.blog/ai-and-ml/github-copilot/write-your-first-prompt-with-the-github-copilot-app/",
-    "tags": [
-      "learn",
-      "ai-research",
-      "ai-product",
-      "beginner-friendly"
-    ],
-    "tags_zh": [
-      "学习",
-      "AI研究",
-      "AI产品",
-      "新手友好"
-    ],
-    "date": "2026-08-12",
-    "summary_en": "This article serves as an accessible entry point for beginners navigating AI-powered development tools, specifically GitHub Copilot. It demystifies the initial interaction with AI assistants by emphasizing that perfect prompts aren't necessary to start. The piece provides practical guidance on connecting projects, describing requests in plain language, and leveraging AI models flexibly. By highlighting iterative refinement and multiple input methods, it encourages a hands-on learning approach that reduces intimidation around AI technology. The content strategically positions GitHub Copilot as an approachable tool rather than an opaque black box, potentially expanding its user base beyond experienced developers. This approach could significantly impact how organizations adopt AI assistance tools, suggesting that user-friendly onboarding is crucial for widespread AI integration in development workflows.",
-    "summary_zh": "这篇文章为初学者打开了AI工具的大门，让GitHub Copilot不再遥远。它告诉我们，不需要完美的提示才能开始，简单地描述你的目标就是第一步。文章提供了从连接项目到尝试不同模型的实操方法，强调了试错和迭代的重要性。这种降低使用门槛的策略不仅能吸引更多开发者，也为企业推广AI辅助开发提供了宝贵的经验。",
-    "best_quote_en": "You don't need to write the perfect prompt to get started. A prompt is simply a description of what you want to accomplish.",
-    "best_quote_zh": "你不需要编写完美的提示来开始。提示只是描述你想要完成的事情。"
-  },
-  {
-    "id": 124,
-    "title": "Over/Under review – beautiful coming of age story of female best friends set across five summers",
-    "title_zh": "《Over/Under》影评 – 五个夏日的少女情谊与成人礼故事",
-    "source": "Women | The Guardian",
-    "link": "https://www.theguardian.com/film/2026/aug/19/over-under-review-beautiful-coming-of-age-story-set-across-five-summers",
-    "tags": [
-      "analyze",
-      "education",
-      "science",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "教育学习",
-      "科学研究",
-      "数据驱动"
-    ],
-    "date": "2026-08-19",
-    "summary_en": "Sophia Silver’s ‘Over/Under’ captures the fragile, often overlooked landscape of pre‑teen girlhood with a rare blend of naturalism and emotional precision. Spanning five summers, the film follows Stella and Violet as they navigate bodily changes, friendship, bullying, and family strain, all rendered through subtle gestures and unguarded performances. Unlike the grand, decade‑long observational style of ‘Boyhood,’ this compact chronicle relies on the actors’ authentic ease to turn ordinary moments—learning to use tampons, hiding in dunes, fixing hair—into powerful rites of passage. The narrative balances tenderness with stark reality, allowing viewers to feel both the wonder and the anxiety of growing up. By foregrounding under‑represented experiences (menstrual education, cancer‑ridden mothers, body image), the film expands the coming‑of‑age canon and invites a broader cultural conversation about how we portray female adolescence. Silver’s restrained direction ensures the story remains intimate yet resonant, making ‘Over/Under’ a timely, thoughtful addition to contemporary cinema.",
-    "summary_zh": "《Over/Under》以细腻的自然主义风格，展现了五个夏日里两位少女的成长历程。从身体变化、友谊到家庭困境，影片以真实而细腻的方式刻画了女孩们的内心世界。导演银雪（Sophia Silver）避免了说教和矫饰，通过演员的自然表现，将寻常瞬间升华为对女性成长的深刻探讨。影片填补了女性月经教育、癌症、家庭关系等主题在银幕上的空白，引发了关于女性青春期描绘的广泛讨论。",
-    "best_quote_en": "The actors’ astonishing naturalism and ease in front of the camera make this an exemplary coming‑of‑age story.",
-    "best_quote_zh": "两位演员的惊人自然表现和镜头前的轻松感，使这部电影成为一部典范的成长故事。"
-  },
-  {
-    "id": 125,
-    "title": "The Real Meaning of the Jason Arday Scandal",
-    "title_zh": "杰森·阿代丑闻的真正意义",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/news/the-lede/the-real-meaning-of-the-jason-arday-scandal",
-    "tags": [
-      "solve",
-      "society",
-      "education",
-      "controversial"
-    ],
-    "tags_zh": [
-      "解决",
-      "社会议题",
-      "教育学习",
-      "争议观点"
-    ],
-    "date": "2026-08-19",
-    "summary_en": "Lauren Michele Jackson’s deep‑dive exposes how the Jason Arday scandal became a cultural flashpoint, revealing intersecting biases in academia, media, and online discourse. The piece critiques the tokenistic celebration of diversity that set Arday up for a spectacular fall, while also interrogating the gleeful weaponization of his alleged misconduct by both race‑realist commentators and institutional actors. Jackson highlights the paradox of a society that both fetishizes and vilifies high‑profile minorities, showing how the rapid, sensationalized scrutiny of Arday’s credentials amplified harassment and obscured systemic issues like plagiarism across disciplines. By juxtaposing the disproportionate media frenzy with broader patterns of academic fraud and the uneven application of integrity standards, the article argues that the tragedy is less about one individual’s falsehoods than about the corrosive dynamics of identity politics, institutional self‑interest, and the digital echo chambers that profit from moral panic. The narrative urges readers to look beyond the headline and consider the structural forces that turn personal ambition into public spectacle.",
-    "summary_zh": "杰森·阿代丑闻揭示了学术界、媒体和网络舆论中的偏见交织：多元化政策的浮夸宣传使他成为牺牲品，而“种族现实主义者”则将其当作攻击平等主义的工具。文章批判了社会对高知名度少数族裔的双重标准，既盲目崇拜又肆意谴责，指出这种现象掩盖了更深层的系统性问题，如学术不端行为的普遍存在和标准执行的不平等。作者呼吁人们超越对单一事件的关注，反思推动这一事件的结构性力量。",
-    "best_quote_en": "Arday was fetishized in his ascendancy by white liberals, for whom he served as a mirror in which they could see their own goodness, and he was fetishized in his downfall by white conservatives who saw him as a test case for their own obsessions with an academic apparatus that they believe is not meritocratic enough—which is to say, not white enough.",
-    "best_quote_zh": "阿代在上升期被白人自由派 fetishized，他们把他当作一面镜子，看到自己的善良。而在他垮台时，又被白人保守派 fetishized，他们把他当作一个测试案例，用于验证他们对学术体制的不满，认为它不够 meritocratic，也就是不够白。"
-  },
-  {
     "id": 126,
     "title": "What’s in my NOW? — Keith Kahn-Harris",
     "title_zh": "我现在有什么？——基思·卡恩-哈里斯",
@@ -2320,5 +2224,97 @@
     "summary_zh": "哈佛医学院汤姆森博士深入探讨了肠道健康与减重的科学奥秘，揭示了胃肠道如何调控饥饿、代谢和整体健康。从肠道激素到微生物群落，从GLP-1药物到生活方式干预，他为我们呈现了连接现代医学前沿与实用健康的桥梁。这篇内容不仅解析了复杂的生理机制，还提供了切实可行的解决方案，尤其对那些面临肠道健康或体重管理挑战的人来说，具有重要的指导意义。",
     "best_quote_en": "Your gut health is vital to all the organs of the body, overall health, and longevity.",
     "best_quote_zh": "肠道健康对身体所有器官、整体健康和长寿都至关重要。"
+  },
+  {
+    "id": 222,
+    "title": "Change Your Name",
+    "title_zh": "更改你的公司名称",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/name.html",
+    "tags": [
+      "solve",
+      "startup-strategy",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "解决",
+      "创业策略",
+      "未来预测"
+    ],
+    "date": "2026-09-22",
+    "summary_en": "This essay argues that acquiring a matching .com domain is a critical, often overlooked signal of legitimacy for startups, especially those with mobile apps where discoverability has shifted. The author, drawing on years of advising founders at Y Combinator, explains how emotional attachment and limited imagination can blind entrepreneurs to the strategic importance of a clean, memorable name. By reframing the problem—imagining an alternative name and recognizing naming as a distinct skill—founders can break denial and take concrete action, such as generating a list of viable domains and purchasing them promptly. The piece highlights Stripe’s early success and provides data: 100% of top 20 YC companies by valuation have a .com, while only 66% of current batches do, suggesting a looming lesson for many. Ultimately, the article blends practical advice, psychological insight, and a call for disciplined branding, urging founders to treat domain acquisition as a quick, high‑impact fix rather than a negotiable detail.",
+    "summary_zh": "这篇文章揭示了拥有匹配 .com 域名对初创企业的重要性，它不仅仅是发现问题，更是实力的象征。作者通过分享在 Y Combinator 的经验，指出创始人因情感依恋和想象力局限而忽视这一关键点。文章建议 founders 通过想象替代名称并承认命名技能的独立性来克服这一障碍，进而采取购买域名的具体行动。Stripe 的案例和数据表明，顶级 YC 公司几乎无一例外拥有 .com 域名，而当前批次仅有三分之二具备此条件，预示着许多企业将面临相关教训。这篇文字融合了实用的建议、心理洞察和品牌建设的纪律呼吁，激励创始人将域名 acquisition 视为一个快速且高价值的举措。",
+    "best_quote_en": "Having x.com signals strength even if it has no relation to what you do.",
+    "best_quote_zh": "拥有 x.com 即使与你们的业务无关，也能传达出实力。"
+  },
+  {
+    "id": 223,
+    "title": "Projecting AI Automation at Anthropic",
+    "title_zh": "预测 Anthropic 的人工智能自动化",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/sFx2EgCmpJdyD3iAq/projecting-ai-automation-at-anthropic",
+    "tags": [
+      "update",
+      "ai-research",
+      "science",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "动态",
+      "AI研究",
+      "科学研究",
+      "未来预测"
+    ],
+    "date": "2026-09-22",
+    "summary_en": "The article dissects Anthropic’s newly released R&D Automation Index, mapping AI’s progression from AL0 (no AI involvement) to AL5 (full autonomy). By leveraging Epoch AI’s scale, the author extracts concrete data on how much of model‑development work is already automated, then projects future trajectories using logistic curves and lag assumptions. The analysis reveals plausible pathways for AL5 to reach 80 % automation between mid‑2027 and early 2028, contingent on factors like recursive self‑improvement and safety considerations. The piece underscores the importance of transparent benchmarking for external observers and highlights critical inflection points—AL4 hitting ~50 % by October 2026 and AL5 nudging to 1‑2 % in late 2026. It also cautions that projections ignore feedback loops from AI‑driven growth and potential human‑in‑the‑loop constraints. Overall, the work offers a rigorous, data‑driven lens on AI’s accelerating R&D automation, inviting readers to contemplate both the technical momentum and the societal implications of increasingly autonomous model development.",
+    "summary_zh": "本文深入剖析 Anthropic 发布的 R&D 自动化指数，从 AL0 到 AL5 展现 AI 在模型研发中的自动化演进。通过 Epoch AI 的评估尺度，作者提取了当前自动化数据，并利用逻辑曲线预测未来趋势。分析显示，若递归自我改进持续，AL5 可能在 2027 年中至 2028 年初实现 80 % 自动化，但需关注安全限制和人类参与因素。文章强调了公开透明度对外部观察者的价值，并指出 2026 年 10 月 AL4 达到约 50 % 及当年秋季 AL5 爬升至 1‑2 % 等关键节点。作者提醒，预测未纳入 AI 自身增长反馈环，可能导致曲线偏差。全文以数据为依据，引导读者思考 AI 自动化加速的深远技术与社会意义。",
+    "best_quote_en": "I expect the lag to be longer than 7.3 months, since the step change from AI “leads” to full automation seems quite large to me, and I expect the slope to be steeper for AL5 than AL4 due to recursive self‑improvement.",
+    "best_quote_zh": "我预计 lag 会比 7.3 个月更长，因为从 AI “领导”到完全自动化的跃进对我来说相当巨大，我还预期 AL5 的增长斜率会比 AL4 更陡峭，这是递归自我改进的效果。"
+  },
+  {
+    "id": 224,
+    "title": "How the Absence of Shame Weakens Democracy",
+    "title_zh": "羞耻的缺失如何削弱民主",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/fault-lines/how-the-absence-of-shame-weakens-democracy",
+    "tags": [
+      "guide",
+      "politics",
+      "society",
+      "controversial"
+    ],
+    "tags_zh": [
+      "指导",
+      "政治时事",
+      "社会议题",
+      "争议观点"
+    ],
+    "date": "2026-09-22",
+    "summary_en": "Jay Caspian Kang argues that shame, once a social glue that checked power, is eroding in the age of smartphones and social media. The shift toward data‑driven, \"smart\" rationalism—exemplified by Moneyball‑style optimization—has infiltrated everyday life, turning even children’s sports into profit centers. This loss of collective shame leaves citizens powerless to confront extractive practices, because the communal rituals that once fostered shared norms have collapsed. Kang warns that without institutions like churches or cohesive public discourse, democracy lacks the moral infrastructure to restrain the powerful. The essay blends cultural criticism, psychological insight, and a call to rebuild genuine community spaces where shame can still function as a social corrective.",
+    "summary_zh": "当手机与社交媒体取代传统社区，集体羞耻感消退，我们无法共同抵制那些以‘聪明’为名的掠夺——从儿童运动场收费到企业压榨员工。民主赖以维系的道德约束逐渐崩塌，权力只剩数据计算的冷酷逻辑。",
+    "best_quote_en": "Smart is how brutal rationality is justified to the public.",
+    "best_quote_zh": "‘聪明’就是这样掩饰残酷的理性，向公众证明其合理性."
+  },
+  {
+    "id": 225,
+    "title": "How To Invest In Startups",
+    "title_zh": "如何投资初创企业",
+    "source": "Sam Altman",
+    "link": "https://blog.samaltman.com/how-to-invest-in-startups",
+    "tags": [
+      "solve",
+      "startup-funding",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "解决",
+      "创业融资",
+      "未来预测"
+    ],
+    "date": "2020-01-13",
+    "summary_en": "The article cuts through the noise of founder‑focused advice to outline what makes a competent startup investor. It acknowledges the current market squeeze—more capital chasing deals than viable opportunities—and frames success around three pillars: gaining access, making sound decisions, and closing deals. The author stresses that access is simply a matter of hard work: networking that adds genuine value to founders and other investors, and building a distinctive personal brand through substantive long‑form content rather than fleeting tweets. Decision‑making hinges on spotting future founders by measuring rapid improvement, assessing cultural fit, and gauging ambition. The piece also highlights market dynamics, advocating a focus on growth rates and eventual scale rather than static size, and warns against over‑valuing ideas at the expense of founder quality. Finally, it details how to close investments—by acting decisively, treating founders as peers, and offering concrete tactical help that fuels ambition. While the guidance is pragmatic and well‑structured, it leans heavily on the author’s personal experience, leaving readers to consider how these tactics might translate across different ecosystems and risk appetites. The broader implication is that successful venture investing is less about sophisticated models and more about relational capital, disciplined selection, and the willingness to help portfolio companies scale.",
+    "summary_zh": "这篇文章从投资者角度切入，指出当今资本市场供需失衡，投资者需专注于获取机会、做出正确决策和促成交易。作者强调，通过有价值的人脉构建和深度的内容创作来建立品牌，以及通过观察创始人的成长轨迹和市场潜力来做出投资决策的重要性。文章既提供了实用的操作指南，也反映了作者对创业生态的深刻观察，引发读者对投资策略和创始人关系管理的反思。",
+    "best_quote_en": "Great founders are the key to great startups. One way to do really well as a startup investor is to get good at predicting who is going to be great before they are—the market rewards finding great but inexperienced people.",
+    "best_quote_zh": "伟大的创始人是伟大初创企业的关键。作为一名初创企业投资者，预测谁会在尚未成名之前就变得伟大是你做得好的方法——市场奖励发现优秀但缺乏经验的人。"
   }
 ]
