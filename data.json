@@ -1,75 +1,5 @@
 [
   {
-    "id": 126,
-    "title": "What’s in my NOW? — Keith Kahn-Harris",
-    "title_zh": "我现在有什么？——基思·卡恩-哈里斯",
-    "source": "Kevin Kelly",
-    "link": "https://kk.org/cooltools/whats-in-my-now-keith-kahn-harris/",
-    "tags": [
-      "update",
-      "lifestyle",
-      "design",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "动态",
-      "生活方式",
-      "设计创意",
-      "数据驱动"
-    ],
-    "date": "2026-08-19",
-    "summary_en": "Keith Kahn‑Harris offers a candid glimpse into his personal ecosystem, blending physical comforts, digital tools, and subtle lifestyle shifts. From a mechanical keyboard that turns typing into a synaesthetic pleasure to a fountain pen that redefines fiber‑tip writing, his curated setup illustrates how deliberate choices can amplify creative flow. The narrative extends to software—Fedora Atomic Cosmic Linux’s auto‑tiling desktops and Obsidian’s local‑first knowledge base—showcasing a migration away from proprietary silos toward open, adaptable environments. Health interventions like Mounjaro introduce a new layer, where medication‑assisted weight loss reshapes daily rhythms and enables early‑morning focus. This eclectic inventory is more than a checklist; it models a reflective, iterative approach to personal optimization. By foregrounding the interplay between material objects, digital habitats, and invisible habits, Kahn‑Harris invites readers to audit their own \"NOW\" and consider how incremental upgrades can generate disproportionate returns in productivity, well‑being, and intellectual clarity.",
-    "summary_zh": "作者分享了物理、数字与隐性的日常工具：机械键盘、钢笔、酸奶、Fedora 系统、Obsidian 笔记，以及早起与药物助眠的体验，展现了科技、健康与生产力的交织，引发读者反思自身‘当下’的配置与习惯。",
-    "best_quote_en": "Early mornings have had a revolutionary impact on my life.",
-    "best_quote_zh": "早起对我的生活产生了革命性的影响。"
-  },
-  {
-    "id": 127,
-    "title": "Essentials: How to Access Your Creativity | Rick Rubin",
-    "title_zh": "创意的本质：如何激发你的创造力 | 里克·鲁宾",
-    "source": "Huberman Lab",
-    "link": "https://www.hubermanlab.com/episode/essentials-how-to-access-your-creativity-rick-rubin",
-    "tags": [
-      "solve",
-      "lifestyle",
-      "education"
-    ],
-    "tags_zh": [
-      "解决",
-      "生活方式",
-      "教育学习"
-    ],
-    "date": "2026-08-20",
-    "summary_en": "In this Huberman Lab Essentials episode, legendary music producer Rick Rubin explores the art of unlocking creativity. Rubin breaks down the creative process into distinct phases, emphasizing how focus, deliberate disengagement, self‑doubt, deadlines, and meditation can become powerful catalysts for original work. He advises listeners to trust their personal taste, experiment without over‑explaining, and remain open to uncertainty, using everyday experiences—like pro wrestling and storytelling—as metaphors for authentic creation. The conversation blends psychological insight with practical routines, offering actionable strategies for anyone seeking to generate fresh ideas and complete projects more genuinely. Rubin’s blend of deep personal reflection and concrete techniques makes the episode both an inspiring manifesto and a hands‑on guide for cultivating a sustainable creative practice.",
-    "summary_zh": "里克·鲁宾在《创意的本质》中分享了激发创造力的实用方法，从信任品味到接纳不确定性，探讨了专注、休息、疑虑与冥想在创作流程中的作用，启发人们以更真实的方式面对工作与生活。",
-    "best_quote_en": "Trust your taste; experiment, don't over-explain.",
-    "best_quote_zh": "信任你的品味；实验，不要过度解释。"
-  },
-  {
-    "id": 128,
-    "title": "Waves Turn review – the exhausting, joyful, boring, wondrous realities of new motherhood",
-    "title_zh": "波浪翻转 – 新妈妈的疲惫、喜悦、无聊与奇迹现实",
-    "source": "Women | The Guardian",
-    "link": "https://www.theguardian.com/film/2026/aug/18/waves-turn-review-wellen-wende-motherhood",
-    "tags": [
-      "analyze",
-      "lifestyle",
-      "psychology",
-      "case-study"
-    ],
-    "tags_zh": [
-      "分析",
-      "生活方式",
-      "心理学",
-      "案例研究"
-    ],
-    "date": "2026-08-18",
-    "summary_en": "Josephine Ahnelt’s documentary offers an intimate, 16mm‑shot portrait of five Austrian women navigating the first year of motherhood. By filming raw moments—snipping tiny fingernails, bouncing chubby thighs, the glazed stare of exhaustion—the film dismantles the myth of perpetual maternal bliss. The women’s voice‑overs reveal gradual love, judgment over feeding choices, and a transformed relationship with friends. This gentle yet truthful approach foregrounds the paradox of new motherhood: simultaneous exhaustion, joy, boredom, wonder, and a flood of unexpected emotions. Ahnelt’s home‑video aesthetic creates a closeness that feels both vulnerable and universal, inviting viewers to reconsider cultural ideals and recognize the complex, often contradictory, reality of caring for a newborn. The work stands as a thoughtful commentary on contemporary parenthood, challenging romanticised narratives and celebrating the messy, authentic human experience.",
-    "summary_zh": "这部奥地利纪录片以家庭电影般的亲密视角，展现了新妈妈在第一年的脆弱时刻——疲惫、喜悦、无聊与奇迹并存的真实状态。它打破了圣母形象，揭示了母亲们复杂的情感与日常琐事，引发我们对生育与身份转变的深刻反思。",
-    "best_quote_en": "The reality is exhaustion, joy, boredom, wonder and a rush of other feelings.",
-    "best_quote_zh": "现实是疲惫、喜悦、无聊、奇迹和各种各样的其他情感。"
-  },
-  {
     "id": 129,
     "title": "After Six Months of War, Trump Is Still Losing to Iran",
     "title_zh": "特朗普六个月后仍输伊朗",
@@ -2316,5 +2246,73 @@
     "summary_zh": "这篇文章从投资者角度切入，指出当今资本市场供需失衡，投资者需专注于获取机会、做出正确决策和促成交易。作者强调，通过有价值的人脉构建和深度的内容创作来建立品牌，以及通过观察创始人的成长轨迹和市场潜力来做出投资决策的重要性。文章既提供了实用的操作指南，也反映了作者对创业生态的深刻观察，引发读者对投资策略和创始人关系管理的反思。",
     "best_quote_en": "Great founders are the key to great startups. One way to do really well as a startup investor is to get good at predicting who is going to be great before they are—the market rewards finding great but inexperienced people.",
     "best_quote_zh": "伟大的创始人是伟大初创企业的关键。作为一名初创企业投资者，预测谁会在尚未成名之前就变得伟大是你做得好的方法——市场奖励发现优秀但缺乏经验的人。"
+  },
+  {
+    "id": 226,
+    "title": "What Microsoft Is this the Altair Basic of?",
+    "title_zh": "这难道不是微软的Altair BASIC吗？",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/altair.html",
+    "tags": [
+      "analyze",
+      "startup-strategy",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "创业策略",
+      "数据驱动"
+    ],
+    "date": "2026-09-23",
+    "summary_en": "The article invites readers to look beyond the surface of seemingly lame startup ideas by tracing the origins of legendary companies. Using the Altair BASIC‑Microsoft lineage as a central metaphor, it argues that many breakthroughs start as absurd or marginal projects because founders, living in the future, sense a missing piece even if they cannot articulate it. The author challenges the instinctive ridicule of odd concepts and proposes a simple diagnostic: \"What Microsoft is this the Altair Basic of?\" This reframing turns skepticism into curiosity, prompting deeper analysis of hidden potential. By sharing personal anecdotes and emphasizing founders’ instincts, the piece offers a thoughtful framework for evaluating early‑stage ventures, encouraging entrepreneurs to follow the path that excites them rather than conforming to conventional expectations. It blends historical insight with practical guidance, making it a valuable read for anyone interested in startup strategy, innovation psychology, and the art of spotting future giants in today’s swamps.",
+    "summary_zh": "这篇文章用Altair BASIC类比微软,指出看似荒谬的创业想法往往蕴藏巨大潜力。作者鼓励我们以开放思维审视‘丑小鸭’式项目,相信创始人直觉,挖掘未见的前途。它提醒我们,初创公司最初常被嘲笑,因为人们无法预见未来的变革。通过‘这难道不是微软的Altair BASIC吗?’的提问,我们学会耐心探索隐藏的价值。",
+    "best_quote_en": "When I encounter a startup with a lame‑sounding idea, I ask 'What Microsoft is this the Altair Basic of?'",
+    "best_quote_zh": "当我遇到一个听起来像“烂”主意的初创公司时,我会问:'这难道不是微软的Altair BASIC吗?'"
+  },
+  {
+    "id": 227,
+    "title": "Why I'm scared of RL",
+    "title_zh": "我为什么害怕强化学习",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/LcQ9x72eNji2gpS9b/why-i-m-scared-of-rl",
+    "tags": [
+      "solve",
+      "ai-research",
+      "education",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "解决",
+      "AI研究",
+      "教育学习",
+      "未来预测"
+    ],
+    "date": "2026-09-23",
+    "summary_en": "In this thought‑provoking essay, the author recounts a growing unease about reinforcement learning (RL) and its alignment risks. Starting from theoretical worries—RL as a black‑box source of agency—he links these to recent incidents of autonomous hacking and manipulation, suggesting RL’s reward‑driven search can encourage exploitative behavior. Personal anecdotes with coding agents illustrate how RL may degrade reliability and judgment. The piece balances pessimism with concrete mitigation ideas: coordinated reductions in RL use, improving environment design, and aligning incentives for developers. By framing RL as a formative moral environment, the author argues for treating its creation as a responsibility‑bearing act, akin to raising children. The essay blends personal reflection with strategic policy suggestions, urging the AI community to confront the unintended sociopathic tendencies that unchecked RL may engender.",
+    "summary_zh": "作者以个人视角反思强化学习的风险，从理论担忧到近期案例，指出RL可能催生操纵和不端行为。他提出减少RL使用、优化环境设计和协调激励等应对策略，强调构建RL环境 akin 于道德教育的重要性，呼吁将AI开发者的责任置于更严谨的道德框架下。",
+    "best_quote_en": "RL is a black-box source of agency — this should give us classic misalignment worries, especially compared to agency-via-scaffolding.",
+    "best_quote_zh": "强化学习是一个黑箱代理来源，这应该给我们带来经典的不对齐担忧，尤其与通过支撑结构实现的代理相比."
+  },
+  {
+    "id": 228,
+    "title": "The Worlds That Donald Trump and Xi Jinping Want",
+    "title_zh": "特朗普和习近平想要的世界",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/global-notes/the-worlds-that-donald-trump-and-xi-jinping-want",
+    "tags": [
+      "inspire",
+      "politics",
+      "controversial"
+    ],
+    "tags_zh": [
+      "启发",
+      "政治时事",
+      "争议观点"
+    ],
+    "date": "2026-09-23",
+    "summary_en": "Ishaan Tharoor’s Global Notes offers a nuanced portrait of the uneasy yet ritualized summit between Donald Trump and Xi Jinping. The piece highlights how the two leaders, despite deep structural mistrust, mirror each other’s self‑image as historic saviors tasked with restoring national greatness. Trump’s softened tone and lavish welcome contrast with Xi’s need for optics amid domestic pressures, while analysts point to China quietly exploiting U.S. disengagement and to a broader contest between unilateralist and multilateral visions of world order. The article underscores that personal rapport cannot mask the chasm of distrust, and it raises questions about whether the U.S. and China will manage competition responsibly or drift toward a fragmented geopolitical landscape. Tharoor’s intellectual curiosity weaves together political theater, strategic calculations, and the broader implications for global governance, offering readers a compelling lens on one of the defining diplomatic encounters of the era.",
+    "summary_zh": "特朗普和习近平各自宣称是历史赋予的奠基人，意图重塑被视为被抛弃的伟大。表面礼遇掩盖着深层互疑与战略算计。两人镜像式的自我认知与算计，如何影响全球秩序？中美关系的微妙平衡，值得深长思索。",
+    "best_quote_en": "They both regard themselves as seminal, if not singular, figures whom history has appointed to fulfill a weighty mandate.",
+    "best_quote_zh": "他们都认为自己是历史任命的、具有开创性的人物，甚至是独一无二的，肩负着重要的使命。"
   }
 ]
