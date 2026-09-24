@@ -1,51 +1,5 @@
 [
   {
-    "id": 129,
-    "title": "After Six Months of War, Trump Is Still Losing to Iran",
-    "title_zh": "特朗普六个月后仍输伊朗",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/news/global-notes/after-six-months-of-war-trump-is-still-losing-to-iran",
-    "tags": [
-      "analyze",
-      "politics",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "政治时事",
-      "数据驱动"
-    ],
-    "date": "2026-08-20",
-    "summary_en": "After six months of conflict, the United States finds itself strategically stalemated against Iran, a defeat that underscores a precipitous collapse of American power and prestige. The war, launched by Trump alongside Israel to dismantle Iran’s nuclear and missile programs, has instead hardened Tehran’s resolve and leveraged its geographic advantage, notably the Strait of Hormuz, to cripple global oil flows and pressure Washington. U.S. forces face dwindling supplies, morale crises, and mounting casualties, while Iran’s asymmetric tactics and resilient leadership have turned the tide. Analysts note that the conflict has eroded America’s regional standing, prompting Gulf states to seek autonomy from both Washington and Tehran. Domestically, the war’s unpopularity threatens Republican electoral prospects, exposing Trump’s overconfidence and the sunk‑cost fallacy that now traps the administration. The failure to achieve any initial objectives signals a broader shift: the United States can no longer easily herd the world behind its policies, and the war’s legacy will likely reshape U.S. foreign‑policy calculus for years to come.",
-    "summary_zh": "特朗普对伊朗的六个月战争仍以失败告终，凸显了美国力量和声望的急剧衰落。伊朗利用霍尔木兹海峡等地理优势，顶住了美国的打击，令美国在战略上陷入僵局。这场战争暴露了美国的过度自信和国内政治压力，也加速了地区国家对美伊的自主寻求。",
-    "best_quote_en": "The glass for Iran is definitely half full, and, even if we don’t use definitive adjectives like 'winning' and 'losing,' it’s very clear that it’s half empty for the Americans.",
-    "best_quote_zh": "伊朗的玻璃杯里肯定有一半水，即使我们不使用‘胜利’和‘失败’这样的确定形容词，也很清楚美国这边的一半是空的。"
-  },
-  {
-    "id": 130,
-    "title": "The August 17 outage, and the work ahead",
-    "title_zh": "8月17日停摆与后续工作",
-    "source": "GitHub Blog",
-    "link": "https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/",
-    "tags": [
-      "analyze",
-      "programming",
-      "leadership",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "编程开发",
-      "领导管理",
-      "数据驱动"
-    ],
-    "date": "2026-08-20",
-    "summary_en": "GitHub’s August 17 outage exposed critical scaling vulnerabilities as traffic surged to historic levels, overwhelming a key Central US data‑center component and triggering cascading service failures. This incident, following a recent Actions outage, underscores how rapid growth—monthly commits doubled since April—demands proactive capacity planning and resilient architecture. The response reveals a multi‑pronged strategy: massive infrastructure expansion (3M+ CPU cores, 120PB storage), migration to Azure, and architectural redesign for linear read scaling. Moreover, GitHub is tightening operational rigor through better testing, safer rollouts, enhanced observability, and retry‑storm mitigation. The post offers a transparent, data‑driven case study of how a platform can turn failure into actionable learning, balancing technical fixes with cultural commitments to developer trust. It invites reflection on the broader challenge of maintaining reliability amid exponential growth and complex systems.",
-    "summary_zh": "GitHub 8 月 17 日 outage 暴露出关键的扩展漏洞，流量激增导致美国中部数据中心核心组件不堪重负，引发服务连锁故障。随 April 月提交量增长一倍，平台面临的压力凸显了主动容量规划和弹性架构的重要性。GitHub 的应对措施包括大规模基础设施扩展（3M+ CPU 核心，120PB 存储）、加速 Azure 迁移，以及重新设计架构以实现线性读扩展。同时，他们强化了运营实践：更严格的测试、更安全的发布、更优的观测性和重试风暴防护。这篇透明、基于数据的文章展示了如何将失败转化为可行动的洞察，平衡技术修复与对开发者信任的文化承诺，引发了对如何在指数级增长和复杂系统中保持可靠性的深刻思考。",
-    "best_quote_en": "If you were trying to ship software that day, we let you down.",
-    "best_quote_zh": "如果您当天试图交付软件，我们让您失望了。"
-  },
-  {
     "id": 131,
     "title": "‘We are impatient’: meet the women protesting for change in India",
     "title_zh": "我们很不耐烦：Meet the women protesting for change in India",
@@ -2314,5 +2268,49 @@
     "summary_zh": "特朗普和习近平各自宣称是历史赋予的奠基人，意图重塑被视为被抛弃的伟大。表面礼遇掩盖着深层互疑与战略算计。两人镜像式的自我认知与算计，如何影响全球秩序？中美关系的微妙平衡，值得深长思索。",
     "best_quote_en": "They both regard themselves as seminal, if not singular, figures whom history has appointed to fulfill a weighty mandate.",
     "best_quote_zh": "他们都认为自己是历史任命的、具有开创性的人物，甚至是独一无二的，肩负着重要的使命。"
+  },
+  {
+    "id": 229,
+    "title": "The Ronco Principle",
+    "title_zh": "罗恩科原则",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/ronco.html",
+    "tags": [
+      "solve",
+      "startup-strategy",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "解决",
+      "创业策略",
+      "数据驱动"
+    ],
+    "date": "2026-09-24",
+    "summary_en": "The Ronco Principle explores how Ron Conway, one of Silicon Valley’s most influential angel investors, built his legendary network not through aggression but through genuine benevolence. The essay argues that the startup ecosystem’s growing transparency and unpredictability have made authentic goodness a strategic advantage: investors who truly act with integrity attract more deals, earn trust, and ultimately achieve superior returns. Conway’s track record—funding Google, Facebook, Twitter, and countless other successes—illustrates a broader trend where the most successful investors are also the most upstanding. The piece traces this shift from a less transparent era to today’s data‑rich, fast‑moving environment, where being two‑faced is risky and maintaining consistent kindness becomes a competitive edge. By highlighting how Conway’s “old‑school” ethics have become a forward‑looking investment principle, the article offers a thought‑provoking lens on leadership, trust, and the evolving economics of startup funding, suggesting that the future of investing belongs to those who are genuinely good.",
+    "summary_zh": "罗恩科 principle 揭示了硅谷投资者的转变：透明与不确定性迫使真诚善良成为成功的不二法门。本文深入剖析了康威的投资哲学，指出道德品质已成为投资竞争力的核心，并展望了这一趋势如何影响更广泛领域。",
+    "best_quote_en": "In a sufficiently connected and unpredictable world, you can't seem good without being good.",
+    "best_quote_zh": "在一个足够互联和不可预测的世界里，你无法伪装善良，而必须真正善良。"
+  },
+  {
+    "id": 230,
+    "title": "There Is No A.I. “Race”",
+    "title_zh": "人工智能没有‘竞赛’",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/the-lede/there-is-no-ai-race",
+    "tags": [
+      "solve",
+      "ai-research",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "解决",
+      "AI研究",
+      "数据驱动"
+    ],
+    "date": "2026-09-24",
+    "summary_en": "This essay dismantles the popular narrative of an imminent AI “race” by drawing parallels with the historic electricity revolution. It highlights how early invention does not guarantee long‑term dominance, citing Jeffrey Ding’s diffusion theory and the U.S. experience with electric power. The piece critiques the “But China” fear‑mongering that drives unchecked tech growth, warns against speculative dystopian scenarios, and stresses that true advantage comes from widespread adoption, workforce training, and safety‑first policies. By juxtaposing past technological diffusion with today’s AI landscape, the author urges a pragmatic shift from frontier hype to broad‑based implementation, suggesting that America’s path to “winning” lies in nurturing an AI‑literate middle class and balancing innovation with responsible deployment.",
+    "summary_zh": "文章以电力革命为鉴，揭示“人工智能竞赛”的虚妄性。早期创新者并非必然赢家，扩散比发明更关键。作者批判“中国威胁”论，警示过度炒作与灾难性猜测，主张稳健、安全的普及策略。真正的优势在于培养AI素养的普通民众，而非单纯的尖端投资。文章呼唤从狂热转向务实，以共同繁荣为目标重新定义“赢”。",
+    "best_quote_en": "But the first to innovate is rarely the one who wins.",
+    "best_quote_zh": "但第一个创新者很少能赢得胜利。"
   }
 ]
