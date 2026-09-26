@@ -1,25 +1,5 @@
 [
   {
-    "id": 135,
-    "title": "Novelty and Heresy",
-    "title_zh": "新奇与异端",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/nov.html",
-    "tags": [
-      "inspire",
-      "startup-strategy"
-    ],
-    "tags_zh": [
-      "启发",
-      "创业策略"
-    ],
-    "date": "2026-08-23",
-    "summary_en": "The essay reflects on how genuine discovery inevitably brushes against established beliefs, branding innovators as heretics. It argues that breakthrough ideas are often concealed beneath widely accepted but mistaken assumptions, and challenging these assumptions provokes fierce resistance from those invested in them. Historical luminaries like Galileo and Darwin exemplify this clash, illustrating that suppression of dissenting views not only blocks correction of errors but also stifles the indirect insights that would expose them. The author highlights a paradox: the very \"dead zones\" of unexamined thought surrounding flawed assumptions become fertile ground for fresh perspectives when deliberately explored. By reframing heresy as a compass for innovation, the piece encourages individuals and organizations to cultivate tolerance for uncomfortable challenges, recognizing that the most transformative ideas often emerge from the shadows of cherished misconceptions. This mindset shift turns societal resistance into a strategic resource for progress.",
-    "summary_zh": "新知往往被视为异端，因为它触动了深藏的错误假设。压制异见不仅阻碍纠正谬误，也埋没了潜在的突破。这篇文章指出，每一个被珍视的错误假设周围都有一片未被探索的思想死区，而这片死区正是孕育新思维的宝藏。历史上的伽利略、达尔文等人物正是这一现象的写照。通过将异端视为创新指南，作者呼吁建立包容文化，让挑战成为推动进步的动力。",
-    "best_quote_en": "Every cherished mistaken assumption has a dead zone of unexplored ideas around it.",
-    "best_quote_zh": "每个被珍视的错误假设周围都有一片未被探索的思想死区。"
-  },
-  {
     "id": 136,
     "title": "Why People Want to Believe the Lindsay Clancy Conspiracy Theories",
     "title_zh": "为什么人们愿意相信林赛·克兰西的阴谋论",
@@ -2306,5 +2286,27 @@
     "summary_zh": "凯文·瑞安这位纽约科技界传奇人物，分享了他如何通过列出20个十年趋势并聚焦真正的新兴事物来打造百亿公司的策略。他强调真正的创业需要十年长周期，眼光不能只盯着当下的热潮。通过DoubleClick、MongoDB、psychedelics、核能、创作者经济等案例，他展示了如何识别并押注于能持续十年的趋势。同时，他也指出了价值医疗、生物科技和长寿等领域的机遇与挑战。访谈不仅提供了实用的方法论，也反映了纽约科技复兴和美国未来产业的全球领导地位，引发人们对长期创新与投资的深刻思考。",
     "best_quote_en": "First of all, 10 years is important because to build an important company, unfortunately you can't do it in two or three years. It does take 10 years. And so you've got to bet on a long-term trend.",
     "best_quote_zh": "首先，10年很重要，因为要建立一个重要的公司，遗憾的是，你无法在两三年内完成。这需要10年时间。因此，你必须押注于一个长期趋势。"
+  },
+  {
+    "id": 235,
+    "title": "Don't Talk to Corp Dev",
+    "title_zh": "别和企业发展部门谈话",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/corpdev.html",
+    "tags": [
+      "guide",
+      "startup-strategy",
+      "case-study"
+    ],
+    "tags_zh": [
+      "指导",
+      "创业策略",
+      "案例研究"
+    ],
+    "date": "2026-09-26",
+    "summary_en": "This incisive essay dissects the perilous allure of corporate development (corp dev) outreach for early‑stage startups. The author argues that unless a founder is actively preparing to sell—either because the company is thriving or on the brink—any conversation with corp dev is a costly distraction. Drawing vivid analogies to marathon fatigue and Rockefeller’s “first drink” principle, the piece exposes the psychological tactics used by professional acquirers: lowball offers, delayed feedback, and sudden deal vetoes that demoralize and manipulate. By framing the interaction as a slippery slope greased by powerful forces of denial and wishful thinking, the article offers a clear, actionable heuristic: ask yourself “Do we want to sell right now?” and, if the answer is no, decline the meeting politely. The piece also highlights how corp dev operates as the face of large, indecisive organizations, amplifying perceived dishonesty. Ultimately, it serves as a guide for founders to protect precious focus, avoid unnecessary negotiations, and preserve their strategic options, making it essential reading for anyone navigating the early‑stage funding landscape.",
+    "summary_zh": "本文尖锐地指出，除非创业者已准备好出售公司（无论是因为成功还是濒临失败），否则与企业发展部门的任何对话都是毁灭性的分心。作者通过马拉松疲劳和洛克菲勒的“第一杯酒”比喻，揭示了职业收购者如何运用心理战术：开出低价、拖延反馈、在价格达成后突然撤销等手段，旨在动摇创业者的意志。文章警告，这种互动是一个滑溜的斜坡，充满了权力和幻想的力量，并由经验丰富的专业人士推动。核心建议是：问自己“我们现在是否想出售公司？”如果答案是否定的，就直接拒绝约谈。这样不仅不会冒犯对方，还能保护公司免于经历一次最可怕的考验。文章还指出，企业发展部门作为大组织的代言人，其行为往往被夸大，而其不决性和不诚实在传递到创业者时已难以区分。这是一篇实用的指导，教创业者如何保护宝贵的专注力，避免不必要的并购谈判。",
+    "best_quote_en": "If you think investors can behave badly, it's nothing compared to what corp dev people can do.",
+    "best_quote_zh": "如果您认为投资者行为恶劣，那也比不上企业发展部门的人。"
   }
 ]
