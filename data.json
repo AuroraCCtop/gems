@@ -1,117 +1,5 @@
 [
   {
-    "id": 140,
-    "title": "How to Improve Motivation & Overcome Procrastination | Dr. Masud Husain",
-    "title_zh": "如何提升动力与克服拖延 | 马苏德·侯赛因博士",
-    "source": "Huberman Lab",
-    "link": "https://www.hubermanlab.com/episode/how-to-improve-motivation-and-overcome-procrastination-masud-husain",
-    "tags": [
-      "solve",
-      "psychology",
-      "medicine",
-      "controversial"
-    ],
-    "tags_zh": [
-      "解决",
-      "心理学",
-      "医学健康",
-      "争议观点"
-    ],
-    "date": "2026-08-24",
-    "summary_en": "In this episode, Oxford neurologist Dr. Masud Husain unravels the neuroscience of motivation, explaining how dopamine circuits evaluate effort versus reward and shape our goal‑pursuit decisions. He blends cutting‑edge research on apathy, Parkinson’s, Alzheimer’s, and cognitive resilience with actionable strategies: lowering activation energy, subdividing tasks, framing goals with incentives, and harnessing curiosity and purpose. The conversation not only demystifies the brain mechanisms behind procrastination but also offers concrete tools to boost drive, reduce distraction, and sustain progress. Listeners gain a deeper appreciation of how neurological health influences motivation and discover practical steps to protect cognitive function while enhancing daily productivity. Dr. Husain’s expertise transforms complex science into an empowering guide for anyone seeking to understand—and improve—their own motivational engine.",
-    "summary_zh": "这篇对话揭示了多巴胺如何权衡努力与奖励，并提供了实用的“能量最小化”技巧——从分解任务到建立目的感——既能对抗拖延，也为预防神经退行性疾病提供了新视角。",
-    "best_quote_en": "By reducing the activation energy of a task—breaking it into smaller steps and framing it with clear incentives—we can hijack the brain’s dopamine system to make starting feel rewarding, which dramatically boosts motivation and reduces procrastination.",
-    "best_quote_zh": "通过降低任务的激活能量——将任务分解为小步骤并配以明确的激励——我们可以劫持大脑的多巴胺系统，让开始时感到有回报，从而显著提升动机并减少拖延。"
-  },
-  {
-    "id": 141,
-    "title": "General and Surprising",
-    "title_zh": "一般与惊奇",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/sun.html",
-    "tags": [
-      "guide",
-      "startup-strategy"
-    ],
-    "tags_zh": [
-      "指导",
-      "创业策略"
-    ],
-    "date": "2026-08-25",
-    "summary_en": "The essay reflects on the elusive intersection of generality and surprise in generating truly valuable insights. It argues that the most prized observations are both broad enough to be universally applicable and unexpected enough to capture attention, yet this sweet spot is rarely occupied because it is fiercely contested. Most attempts settle for either novelty without breadth—gossip—or breadth without novelty—platitudes. The author suggests that modestly valuable ideas emerge from adding a tiny increment of either generality or novelty to existing concepts, noting that even a minimal delta can produce useful understanding. He also reassures creators that repetition is inevitable, especially when dealing with highly general ideas, and that each iteration can introduce subtle variations that compound into breakthrough insights. By framing the creative process as a multiplicative cascade, the piece encourages perseverance against critics who claim there is \"nothing new\" under the sun, reminding us that the difference between \"nothing\" and \"almost nothing\" can be astronomically significant when scaled across all human thought.",
-    "summary_zh": "一般与惊奇的洞见最宝贵，却难觅踪迹。作者指出，多数人只能在‘八卦’与‘老生常谈’间摇摆，唯有微小的创新方能诞生实用洞见。重复并非耻辱，微小的变奏可触发连锁创新。我想我们都曾在平凡中寻找不平凡，正如作者所言，‘阳光下几乎无新事’，但从无到近无，乘以无限空间，便生希望。",
-    "best_quote_en": "The more general the ideas you're talking about, the less you should worry about repeating yourself.",
-    "best_quote_zh": "谈论的观点越一般化，你就越不必担心重复自己。"
-  },
-  {
-    "id": 142,
-    "title": "Relationship Tools That Work — Esther Perel, Brené Brown, Dr. Sue Johnson, Terry Real, and More on Conflict, Repair, and Lasting Love (#880)",
-    "title_zh": "关系工具：埃丝特·佩尔、Brené Brown、Sue Johnson博士、Terry Real等关于冲突、修复与持久爱情的讨论 (#880)",
-    "source": "Tim Ferriss",
-    "link": "https://tim.blog/2026/08/19/relationship-tools/",
-    "tags": [
-      "learn",
-      "psychology",
-      "leadership"
-    ],
-    "tags_zh": [
-      "学习",
-      "心理学",
-      "领导管理"
-    ],
-    "date": "2026-08-19",
-    "summary_en": "Tim Ferriss convenes a constellation of relationship luminaries—Esther Perel, Brené Brown, Dr. Sue Johnson, Terry Real, and others—to unpack the deceptively simple question of how couples stay close amid inevitable exhaustion, misunderstanding, and change. The episode distills decades of clinical insight into actionable tools, from naming emotional patterns to practicing vulnerable listening, and reveals a common rhythm: harmony, disruption, and repair. Listeners gain both a conceptual map of attachment science and practical scripts for navigating conflict, making the content valuable for anyone seeking to deepen intimacy. The experts balance scholarly rigor with lived experience, offering a rare blend of evidence‑based strategies and human storytelling. By foregrounding repair over perfection, the conversation reframes relationship longevity as a dynamic practice rather than a static ideal, encouraging continuous growth and compassionate curiosity.",
-    "summary_zh": "顶级关系专家齐聚，揭示夫妻维持亲密关系的秘密工具：如何面对冲突、修复破裂，实现持久爱情。这集提供了实用的心理学策略与专家见解，激发持续成长与 compassionate 好奇心。",
-    "best_quote_en": "The essential rhythm of all relationships is harmony, disharmony, and repair. Closeness, disruption, and a return to closeness.",
-    "best_quote_zh": "所有关系的基本节奏是和谐、冲突与修复：亲密、干扰，然后回归亲密。"
-  },
-  {
-    "id": 143,
-    "title": "South Carolina Republican Senate-Primary-Runoff Map: Live Results",
-    "title_zh": "南卡罗来纳州共和党参议院初选决选地图：实时结果",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/news/election-2026/south-carolina-republican-senate-primary-runoff-map-live-results",
-    "tags": [
-      "update",
-      "politics",
-      "controversial"
-    ],
-    "tags_zh": [
-      "动态",
-      "政治时事",
-      "争议观点"
-    ],
-    "date": "2026-08-25",
-    "summary_en": "South Carolina’s Republican Party is holding a runoff between Darline Graham and Ralph Norman for the Senate seat left vacant by Senator Lindsey Graham’s death. Graham, an interim senator and disability advocate, carries Trump’s endorsement but faced criticism for admitting she is “not that informed on national security.” Norman, a five‑term congressman backed by Trump allies, is known for his election‑denial stance and 2021 call for martial law. The race highlights the GOP’s internal tensions, the influence of Trump, and broader questions about candidate qualifications and electoral integrity. The live map provides real‑time results, offering crucial intelligence for analysts, journalists, and voters tracking a key battleground that could shift Senate dynamics and legislative priorities.",
-    "summary_zh": "南卡罗来纳州共和党参议院决选实时地图显示，临时参议员达琳·格雷厄姆（Darline Graham）与国会议员拉尔夫·诺曼（Ralph Norman）竞争空缺席位。两人背景鲜明：格雷厄姆获特朗普支持，诺曼则因曾鼓吹军事接管引发争议。这场选举反映了共和党内部的权力博弈与选民态度。",
-    "best_quote_en": "I'm not that informed on national security.",
-    "best_quote_zh": "我对国家安全问题了解不多。"
-  },
-  {
-    "id": 144,
-    "title": "CCCP: True Stories of Soviet Cuisine / Paint by Sticker",
-    "title_zh": "CCCP：苏联美食真史 / 贴画绘画",
-    "source": "Kevin Kelly",
-    "link": "https://kk.org/cooltools/cccp-true-stories-of-soviet-cuisine-paint-by-sticker/",
-    "tags": [
-      "analyze",
-      "design",
-      "science",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "设计创意",
-      "科学研究",
-      "数据驱动"
-    ],
-    "date": "2026-08-25",
-    "summary_en": "The paired reviews of *CCCP Cook Book* and *Paint by Sticker* illuminate how niche publications preserve cultural memory and democratize creativity. The Soviet culinary volume reveals that food was a political instrument under centralized planning, turning everyday meals into artifacts of ideology and collective identity. Its meticulous photography and design celebrate the material history of a bygone era, offering readers both educational insight and aesthetic appreciation. Meanwhile, the sticker‑book trend reframes low‑effort craft as a meditative, accessible art form, reflecting contemporary desires for simple, satisfying hobbies amid digital overload. Together, these works demonstrate that seemingly mundane objects—whether recipes or adhesive designs—can embody profound social narratives, inviting us to reconsider the value of tactile experiences and the stories embedded in everyday objects. The reviews blend scholarly curiosity with personal engagement, highlighting the enduring appeal of curated, hands‑on cultural artifacts.",
-    "summary_zh": "这两本分别聚焦苏联美食史与贴纸画的书籍，展现了微观历史细节与现代休闲创意。通过食物与手工艺，揭示政治、集体记忆与个人情感的交织。作者以细腻观察与个人体验，提醒我们日常文化 artifact 承载深层社会意义。",
-    "best_quote_en": "When your country is wholly dependent on what the obshchina produces, what you eat is a political act.",
-    "best_quote_zh": "当一个国家完全依赖集体农场生产时，你吃什么就成了政治行为。"
-  },
-  {
     "id": 145,
     "title": "How to Reinvent Yourself and Make Bold Moves — Decisive Stories from Matthew McConaughey, Steve Young, Samin Nosrat, and More (#879)",
     "title_zh": "如何重新发明自己并做出大胆的举动——来自马修·麦康纳、史蒂夫·扬、萨明·诺斯拉特等人的决定性故事",
@@ -2306,5 +2194,119 @@
     "summary_zh": "这篇文章介绍了几款“思维游戏”，涵盖认知、社交和科技。Set 牌游戏考验模式识别能力，20Q 智能球展示了微型 AI 的猜物能力，Werewolf 体现人类心理与欺骗，Apples to Apples 突显主观联想，StarCraft II 则是实时策略体育。作者强调这些游戏简单廉价、不断扩展，既能娱乐又能提升思维能力。",
     "best_quote_en": "It can’t be explained; it has to be shown.",
     "best_quote_zh": "这无法解释，只能演示。"
+  },
+  {
+    "id": 240,
+    "title": "‘I can’t be the mum I want to be’: why does parenthood feel so impossible for millennial mothers?",
+    "title_zh": "我做不了我想做的妈妈：为什么千禧一代妈妈觉得育儿如此艰难？",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/lifeandstyle/2026/sep/28/parenthood-millennial-mothers-overwhelmed",
+    "tags": [
+      "analyze",
+      "ai-research",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "AI研究",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2026-09-27",
+    "summary_en": "This article captures the crushing reality of millennial mothers juggling careers, childcare, and self‑care in an economy that offers little flexibility. Through personal anecdotes and hard data, it reveals how women’s increased paid work hours have not been matched by a redistribution of domestic responsibilities, leaving them time‑stressed and financially strained. The piece critiques structural failures—school schedules, unaffordable childcare, and workplace expectations—while highlighting the emotional toll of feeling \"limited\" in both professional and parental roles. Interviews with experts and recent research underscore a widening gender gap in care work and a looming demographic crisis. The narrative balances raw frustration with a call for systemic change, urging policymakers and societies to rethink work‑life integration and redefine success beyond relentless busyness. It is a compelling, data‑rich exploration of why modern motherhood feels impossible for many, and why collective action is essential.",
+    "summary_zh": "这篇文章生动描绘了千禧代妈妈在职业、育儿和自我成长之间的艰难平衡。作者通过个人故事和统计数据，揭示了女性进入职场后，家庭责任却未相应减轻的现实。学校时间表、昂贵的托儿费用和职场的高度期望，成为压垮她们的“结构性灾难”。专家指出，尽管女性参与工作的时长增加，但男性分担家务的进度却远远落后，导致时间压力和财务压力双重困扰。文章既展现了妈妈们的无助与挣扎，也呼唤着政策层面和文化层面的变革，以重塑更公平的工作‑生活平衡。",
+    "best_quote_en": "ChatGPT was like, 'Oh, that's interesting, what you just said is you're not getting to parent the way that you always wanted to parent and … you're limited and I think that that's a really common experience.'",
+    "best_quote_zh": "ChatGPT说:'哦，你刚才说你做不了你想做的妈妈……你很有限制，我觉得这是一种很普遍的经历。'"
+  },
+  {
+    "id": 241,
+    "title": "How to Be an Expert in a Changing World",
+    "title_zh": "如何成为一个适应变化的世界专家",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/ecw.html",
+    "tags": [
+      "solve",
+      "startup-strategy",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "解决",
+      "创业策略",
+      "未来预测"
+    ],
+    "date": "2026-09-29",
+    "summary_en": "This essay challenges the assumption that expertise guarantees lasting correctness, arguing that a static worldview leads to overconfidence. Drawing from a decade of startup investing, the author illustrates how protecting against obsolete beliefs is essential for success in rapidly changing domains. The core strategy is to cultivate an explicit belief in change, remain aggressively open‑minded, and treat hypotheses as provisional tools rather than fixed doctrines. By focusing on the \"winds of change\" emerging from domain experts’ unconscious insights, betting on people over ideas, and surrounding oneself with independent‑minded innovators, readers learn practical techniques to detect when their beliefs become outdated. The piece blends personal reflection with broader implications for anyone who must act on ideas—be it investors, creators, or curious learners—offering a thoughtful roadmap for thriving amid accelerating change.",
+    "summary_zh": "这篇文章揭示了静态世界观如何导致专家过度自信，并通过作者十年的创业投资经验，提出保护自己免于过时信念的策略。核心在于明确承认变化、保持开放心态，并将假设视为临时工具。通过关注来自专家无意识的“变化之风”、赌注于人而非想法，并与有独立思维的创新者为伍，读者可以学会识别信念过时的方法。这不仅是针对投资者的建议，更是为所有需要行动于思想的人提供的实用指南，引发了对知识更新与适应能力在当今加速变化社会中重要性的深刻思考。",
+    "best_quote_en": "When experts are wrong, it's often because they're experts on an earlier version of the world.",
+    "best_quote_zh": "当专家出错时，通常是因为他们是过时的世界的专家。"
+  },
+  {
+    "id": 242,
+    "title": "Individual Choices Won’t Fix America’s Public Schools",
+    "title_zh": "个人的选择无法拯救美国的公立学校",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/fault-lines/individual-choices-wont-fix-americas-public-schools",
+    "tags": [
+      "solve",
+      "education",
+      "beginner-friendly"
+    ],
+    "tags_zh": [
+      "解决",
+      "教育学习",
+      "新手友好"
+    ],
+    "date": "2026-09-29",
+    "summary_en": "The article dissects Nikole Hannah‑Jones’s dramatic shift from championing a struggling public school for her daughter to confronting the limits of individual privilege in fixing systemic educational inequities. By tracing her personal journey—from P.S. 307 through a selective magnet school—the author reveals how parental choices, however well‑intentioned, cannot override deep‑seated segregation, resource disparities, and the broader sociopolitical forces shaping American schooling. The piece critiques the seductive narrative of “parental agency” and underscores the stubborn reality that decades of incremental reform have yielded scant progress. It also interrogates the role of teachers, standardized testing, and school size, arguing that large, regimented institutions with robust support systems may better serve both struggling and advanced learners. Ultimately, the essay calls for a collective, structural response rather than reliance on individual privilege, reminding readers that true educational equity demands systemic overhaul, not selective interventions.",
+    "summary_zh": "文章剖析了尼科尔·汉娜-琼斯从倡导将女儿送入一所贫困学校到最终承认个人选择无法解决美国公立学校系统性不平等问题的转变。通过讲述她的亲身经历，从P.S.307到一所精英高中，作者揭示了家长的选择无论多么高尚，都无法克服种族和阶级隔离、资源分配不均等深层次问题。文章批判了“个人能改变学校”的迷思，指出教育改革的进展缓慢，并探讨了教师、标准化考试和学校规模的作用。最终，作者呼吁我们需要集体性的结构性改革，而非依赖于个人的特权，才能真正实现教育公平。",
+    "best_quote_en": "Individual choices made by parents, however virtuous they may be, will not fix the problems with public schools in this country.",
+    "best_quote_zh": "个人的选择，无论多么高尚，都无法解决美国公立学校的问题。"
+  },
+  {
+    "id": 243,
+    "title": "Reinforcement Learning Progress",
+    "title_zh": "强化学习进展",
+    "source": "Sam Altman",
+    "link": "https://blog.samaltman.com/reinforcement-learning-progress",
+    "tags": [
+      "solve",
+      "ai-research",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "解决",
+      "AI研究",
+      "数据驱动"
+    ],
+    "date": "2018-06-25",
+    "summary_en": "OpenAI’s latest breakthrough demonstrates that deep reinforcement learning can master extremely complex, real‑world‑like environments using only self‑play and well‑designed reward functions. By training five agents with PPO on Dota 2, the team achieved a 90‑95% win rate against semi‑pros without any human gameplay data, showcasing the power of scaling computation and simulation. This achievement highlights a paradigm shift: instead of hand‑coding solutions, AI can discover strategies autonomously when given sufficient resources and a realistic training ground. The implications extend far beyond gaming, suggesting pathways to general intelligence and applications in domains where human expertise is currently indispensable. The work underscores the importance of investing in large‑scale simulations and robust reward engineering as core components of future AI research, while also raising questions about the ethical and safety considerations of increasingly autonomous systems.",
+    "summary_zh": "这篇博文展示了OpenAI利用强化学习在Dota 2上击败半职业玩家的突破性进展。作者强调了PPO算法在无需人类游戏数据的情况下通过自我对战实现的学习能力，认为这标志着深度强化学习在复杂真实世界问题上的巨大潜力。个人反思：当计算规模与精心设计的模拟环境结合时，AI 能够解决许多无法手动编码的问题，这为通用智能的实现提供了重要线索。",
+    "best_quote_en": "This is the game that to me feels closest to the real world and complex decision making (combining strategy, tactics, coordinating, and real-time action) of any game AI had made real progress against so far.",
+    "best_quote_zh": "对我来说，这款游戏最接近真实世界和复杂决策（结合策略、战术、协调和实时行动），是迄今为止任何游戏AI所取得的真正进展。"
+  },
+  {
+    "id": 244,
+    "title": "What Humans, Animals and Plants Tell Us About Consciousness | Michael Pollan",
+    "title_zh": "人类、动物和植物如何揭示意识之谜 | 迈克尔·波伦",
+    "source": "Huberman Lab",
+    "link": "https://www.hubermanlab.com/episode/what-humans-animals-and-plants-tell-us-about-consciousness-michael-pollan",
+    "tags": [
+      "inspire",
+      "science",
+      "society",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "启发",
+      "科学研究",
+      "社会议题",
+      "数据驱动"
+    ],
+    "date": "2026-09-28",
+    "summary_en": "This episode with Michael Pollan offers a groundbreaking interdisciplinary exploration of consciousness, bridging biology, psychology, and philosophy. Pollan challenges conventional boundaries by examining how plants, animals, and humans contribute to our understanding of awareness. Through discussions of psychedelics, microbiome interactions, and even caffeine, he reveals the intricate dialogue between body and brain that shapes our conscious experience. The conversation highlights the evolutionary advantages of self-recognition and social connection, while offering practical insights into enhancing mental well-being. Pollan's hopeful perspective suggests that cultivating relationships with other living beings—plants included—can lead to richer, more balanced consciousness. This content stands out for its unique synthesis of scientific rigor and accessible storytelling, making complex consciousness theories relevant to everyday life.",
+    "summary_zh": "迈克尔·波伦从跨学科角度探讨了意识的本质，揭示了植物、动物和人类如何共同塑造我们的意识。通过讨论迷幻药物、肠道微生物群和咖啡因等话题，他展示了身体与大脑之间的微妙对话如何影响我们的感知。这种将科学严谨性与生动讲故事相结合的方法，使复杂的意识理论变得易于理解，并提供了实用的方法来提升我们的心理健康和整体生活质量。",
+    "best_quote_en": "Our relationship with plants and animals—including other humans—can lead us to a healthier, and far richer experience of life.",
+    "best_quote_zh": "与植物和动物建立联系，包括与其他人类建立联系，可以引领我们走向更健康、更丰富的生活体验。"
   }
 ]
