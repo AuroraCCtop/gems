@@ -1,27 +1,5 @@
 [
   {
-    "id": 145,
-    "title": "How to Reinvent Yourself and Make Bold Moves — Decisive Stories from Matthew McConaughey, Steve Young, Samin Nosrat, and More (#879)",
-    "title_zh": "如何重新发明自己并做出大胆的举动——来自马修·麦康纳、史蒂夫·扬、萨明·诺斯拉特等人的决定性故事",
-    "source": "Tim Ferriss",
-    "link": "https://tim.blog/2026/08/12/how-to-reinvent-yourself/",
-    "tags": [
-      "solve",
-      "leadership",
-      "design"
-    ],
-    "tags_zh": [
-      "解决",
-      "领导管理",
-      "设计创意"
-    ],
-    "date": "2026-08-12",
-    "summary_en": "This episode explores the profound art of personal reinvention through the decisive stories of remarkable individuals. Matthew McConaughey shares his transformative journey from actor to director, revealing how shedding familiar identities can unlock new creative possibilities. Steve Young's financial wisdom as a quarterback turned entrepreneur demonstrates the power of transferring skills across domains. Samin Nosrat's culinary expertise illustrates how fundamental principles can guide both cooking and life decisions. Together, these stories offer a roadmap for navigating uncertainty, embracing change, and committing to one's next chapter. The episode serves as both inspiration and practical guidance for anyone seeking to reinvent themselves, whether in career, relationships, or personal growth. It challenges conventional notions of identity and success, suggesting that true fulfillment comes from authentic self-expression rather than external validation.",
-    "summary_zh": "这期节目通过杰出人物的决定性故事，探索了自我重塑的深刻艺术。马修·麦康纳分享了他从演员到导演的转变，如何抛弃不再适用的身份可以解锁新的创造力。史蒂夫·扬展示了从橄榄球运动员到企业家的成功，如何将技能跨领域应用。萨明·诺斯拉特的烹饪智慧则揭示了基本原则如何指导烹饪和生活决策。这些故事共同构成了一个导航不确定性、拥抱变革并致力于下一个篇章的指南。对于任何寻求自我重塑的人来说，它既是激励也是实用指导，挑战了关于身份和成功的传统观念， suggesting that true fulfillment comes from authentic self-expression rather than external validation.",
-    "best_quote_en": "The most decisive moments in our lives are often the ones where we choose to shed an identity that no longer fits and commit to what's next.",
-    "best_quote_zh": "生命中最决定性的时刻，往往是我们选择抛弃一个不再适用的身份，并致力于走向下一个阶段。"
-  },
-  {
     "id": 146,
     "title": "How to evaluate LLMs before production",
     "title_zh": "如何评估LLM以应用于生产环境",
@@ -2308,5 +2286,27 @@
     "summary_zh": "迈克尔·波伦从跨学科角度探讨了意识的本质，揭示了植物、动物和人类如何共同塑造我们的意识。通过讨论迷幻药物、肠道微生物群和咖啡因等话题，他展示了身体与大脑之间的微妙对话如何影响我们的感知。这种将科学严谨性与生动讲故事相结合的方法，使复杂的意识理论变得易于理解，并提供了实用的方法来提升我们的心理健康和整体生活质量。",
     "best_quote_en": "Our relationship with plants and animals—including other humans—can lead us to a healthier, and far richer experience of life.",
     "best_quote_zh": "与植物和动物建立联系，包括与其他人类建立联系，可以引领我们走向更健康、更丰富的生活体验。"
+  },
+  {
+    "id": 245,
+    "title": "Mayors vs. Nationalists",
+    "title_zh": "市长与民族主义者",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/global-notes/mayors-vs-nationalists",
+    "tags": [
+      "solve",
+      "politics",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "解决",
+      "政治时事",
+      "未来预测"
+    ],
+    "date": "2026-09-30",
+    "summary_en": "This article examines how city leaders worldwide are emerging as defiant guardians of democracy amid rising nationalist tides. Drawing on Benjamin R. Barber’s vision of cities as the \"original incubator\" of democratic ideals, the piece highlights mayors like Jacob Frey, Zohran Mamdani, and Elif Eralp who champion inclusive policies, resist federal overreach, and forge transnational networks such as C40 and the Pact of Free Cities. It underscores the tension between local pragmatic governance and national populist agendas, illustrating how urban solidarity can both model coexistence and provide a counter‑weight to centralized power. The narrative reveals that while mayors cannot unilaterally reshape global politics, their capacity to address concrete needs and embody progressive values offers a hopeful blueprint for revitalizing democratic institutions in an era of fragmentation. The analysis suggests that the survival of democratic norms may increasingly depend on these city‑level bastions of pluralism.",
+    "summary_zh": "城市领导者正成为民主的堡垒，对抗民族主义的兴起。巴伯的愿景在当今世界获得回响，市长们以具体行动证明，地方治理能维护社会凝聚力。文章聚焦于弗雷、姆达尼、埃拉普等城市领袖，以及C40等网络，展现了城市在抵御中央权力时的积极作用。",
+    "best_quote_en": "\"We have come full circle in the city’s epic history. Humankind began its march to politics and civilization in the township—it was democracy’s original incubator,\" Barber wrote in Politico.",
+    "best_quote_zh": "“我们已经完成了城市历史的完整循环。人类最初的政治和文明长征始于乡村，它是民主的摇篮。”——巴伯"
   }
 ]
