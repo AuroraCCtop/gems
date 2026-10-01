@@ -1,99 +1,5 @@
 [
   {
-    "id": 146,
-    "title": "How to evaluate LLMs before production",
-    "title_zh": "如何评估LLM以应用于生产环境",
-    "source": "GitHub Blog",
-    "link": "https://github.blog/ai-and-ml/llms/how-to-evaluate-llms-before-production/",
-    "tags": [
-      "solve",
-      "design",
-      "ai-research",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "解决",
-      "设计创意",
-      "AI研究",
-      "数据驱动"
-    ],
-    "date": "2026-08-25",
-    "summary_en": "The article exposes a critical gap between benchmark evaluations and real-world LLM deployment challenges. It advocates for a product-first evaluation mindset, where assessment serves specific business decisions rather than abstract metrics. The authors propose treating offline evaluation as integration testing—systematic, repeatable, and versioned. Through their GitHub secret scanning case study, they demonstrate a practical framework balancing primary outcomes (false positive reduction), safety constraints (recall preservation), and operational guardrails (latency, cost, reliability). The 95% false positive reduction showcases how disciplined evaluation transforms LLM systems from experimental prototypes to production-ready tools. Key innovations include clear product goal definition, rigorous error analysis, and a comprehensive checklist for assessing production readiness. This approach addresses the fundamental uncertainty of AI deployment by making evaluation visible, measurable, and manageable—applicable to any LLM-powered system in code analysis, security, or developer tools.",
-    "summary_zh": "这篇文章揭示了基准测试与实际LLM部署之间的关键差距。它倡导以产品为导向的评估方法，将评估服务于具体的业务决策，而非抽象的指标。作者提出将离线评估视为集成测试——系统、可重复且带版本控制。通过GitHub秘密扫描案例研究，他们展示了一个实用的框架，平衡主要目标（降低误报率）、安全限制（保持召回率）和操作限制（延迟、成本、可靠性）。95%的误报率降低展示了如何通过严格评估将LLM系统从实验原型转变为生产就绪工具。关键创新包括明确的产品目标定义、严格的错误分析和全面的生产就绪检查清单。这种方法通过使评估可见、可衡量和可管理，解决了AI部署的根本不确定性，适用于代码分析、安全和开发者工具等领域的任何LLM系统。",
-    "best_quote_en": "Production uncertainty is unavoidable. Evaluation makes it visible, measurable, and manageable.",
-    "best_quote_zh": "生产中的不确定性是不可避免的。评估使其变得可见、可衡量且可管理。"
-  },
-  {
-    "id": 147,
-    "title": "The Great Floating Homes of Los Angeles",
-    "title_zh": "洛杉矶的伟大浮动房屋",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/news/dispatch/the-great-floating-homes-of-los-angeles",
-    "tags": [
-      "guide",
-      "design",
-      "economics",
-      "deep-dive"
-    ],
-    "tags_zh": [
-      "指导",
-      "设计创意",
-      "经济金融",
-      "深度分析"
-    ],
-    "date": "2026-08-27",
-    "summary_en": "After the 2025 Eaton and Palisades fires devastated Altadena, Los Angeles, rebuilding became prohibitively expensive, leaving families underinsured and facing sky‑high construction costs. Residents turned to a forgotten practice—relocating entire historic houses—to rebuild faster and cheaper than new construction. The Historic House Relocation Project, led by Omgivning, revived early‑20th‑century house‑moving techniques, enabling families like the Martinezes and Chambers to transport Craftsman bungalows onto vacant lots. The article weaves personal stories of loss and hope, historical context on Los Angeles’ house‑moving heyday, and the logistical challenges of modern relocation. It highlights how community initiative, adaptive reuse, and a shortage of materials and labor have converged to create an unconventional but effective solution to housing crises, offering both practical lessons and emotional resonance for disaster‑affected neighborhoods nationwide.",
-    "summary_zh": "2025年埃顿和帕里塞德大火摧毁了洛杉矶阿尔塔迪纳社区，重建成本高昂，导致居民保险不足。居民们重新启用了古老的房屋迁移技术，通过历史房屋迁移项目将整栋历史建筑搬运到空置地块，实现快速、经济的住房重建。文章通过马丁内斯和钱伯斯等家庭的故事，展现了灾后重建的希望与挑战，同时追溯了洛杉矶20世纪早期房屋迁移的历史，探讨了社区倡议、适应性再利用以及材料与劳动力短缺如何共同塑造了这一非传统但有效的住房危机解决方案。",
-    "best_quote_en": "Doing an all‑nighter is not really for me anymore… but the lack of sleep was worth it, being able to witness that.",
-    "best_quote_zh": "连夜工作不再是我喜欢的方式了……但为了亲眼见证这一刻，失去的睡眠也是值得的。"
-  },
-  {
-    "id": 148,
-    "title": "We found a division by zero bug in FFmpeg with a vibecoded fuzzer",
-    "title_zh": "我们在使用 vibecoded 模糊测试工具时发现了一个 FFmpeg 除零错误",
-    "source": "Hacker News",
-    "link": "https://code.ffmpeg.org/FFmpeg/FFmpeg/issues/24290",
-    "tags": [
-      "inspire",
-      "cybersecurity",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "启发",
-      "网络安全",
-      "未来预测"
-    ],
-    "date": "2026-08-27",
-    "summary_en": "The article explains how Techaro deployed Anubis, a proof‑of‑work anti‑scraping system inspired by Hashcash, to combat aggressive AI‑driven website scraping. By imposing a lightweight computational challenge, Anubis makes mass scraping economically unattractive while remaining negligible for individual users. The author frames this as a pragmatic compromise, acknowledging the need for JavaScript to bypass the challenge and hinting at future improvements that will identify headless browsers without requiring a proof‑of‑work page. The piece offers a candid look at the evolving social contract between website hosts and AI scrapers, highlighting the tension between security, user experience, and the ongoing arms race in web protection.",
-    "summary_zh": "Techaro 推出了 Anubis，这是一个基于工作量证明的反爬虫系统，旨在抵御 AI 公司的大规模抓取。通过增加微小的计算负担，它保护了网站资源，未来有望通过浏览器指纹识别实现更精准的验证。尽管目前需要启用 JavaScript，但作者认为这只是过渡方案，反映了技术治理与用户体验之间的权衡。",
-    "best_quote_en": "Anubis uses a Proof‑of‑Work scheme in the vein of Hashcash…The idea is that at individual scales the additional load is ignorable, but at mass scraper levels it adds up and makes scraping much more expensive.",
-    "best_quote_zh": "Anubis 采用与 Hashcash 类似的工作量证明机制……其理念是单个请求时的额外负担可以忽略不计，但面对大规模抓取时负担累积，使爬取成本大幅提升。"
-  },
-  {
-    "id": 149,
-    "title": "Book Freak #224: Exactly",
-    "title_zh": "《Exactly》",
-    "source": "Kevin Kelly",
-    "link": "https://kk.org/cooltools/book-freak-224-exactly/",
-    "tags": [
-      "update",
-      "ai-research",
-      "tech-trends",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "动态",
-      "AI研究",
-      "技术趋势",
-      "未来预测"
-    ],
-    "date": "2026-08-28",
-    "summary_en": "Simon Winchester's 'Exactly' offers a fascinating exploration of precision engineering's transformative impact on human civilization, tracing its evolution from 18th-century cannon boring to modern microchip fabrication. The book reveals how John Wilkinson's precision cannon manufacturing enabled James Watt's steam engine, establishing the foundation for interchangeable parts that revolutionized mass production. Winchester's unique approach organizes content by orders of magnitude, from macroscopic to atomic scales, demonstrating precision's expanding reach across technological domains. Critically, the work balances technical admiration with cultural awareness, noting how Japan's aesthetic philosophy values imperfection alongside precision. This intellectual journey invites readers to contemplate their own relationship with perfection versus 'good enough' in an increasingly precise world. Winchester's narrative bridges historical scholarship with contemporary relevance, making complex engineering concepts accessible while highlighting precision's dual capacity to enhance and complicate human experience. The book serves as both technical history and philosophical meditation on modernity's obsession with exactness.",
-    "summary_zh": "Simon Winchester的《Exactly》以其对精密工程历史的深刻洞察，揭示了精确度如何从18世纪的英国炮管锻造演变为现代微芯片制造的基石。书中通过订单量级组织内容，从英寸级精度到原子级尺度，展现了精密工程如何推动从蒸汽机到微处理器的技术飞跃。作者不仅记录了约翰·威金森等先驱的技术突破，还批判性地指出了过度精确可能对艺术与 imperfection的压制，引用日本美学中不对称与粗糙的价值观念。整部作品既是技术史的记述，也是对现代社会精确化倾向的哲学反思，引导读者重新审视“完美”与“足够好”之间的平衡，以及如何在精密时代重估曾经被忽视的 imperfection 之美。",
-    "best_quote_en": "\"There are now more transistors at work on this planet (some 15 quintillion, or 15,000,000,000,000,000,000) than there are leaves on all the trees in the world.\"",
-    "best_quote_zh": "“如今地球上工作的晶体管数量（约15千亿亿个，或15,000,000,000,000,000,000个）比世界上所有的树叶还要多。”"
-  },
-  {
     "id": 150,
     "title": "How to Start When You’re Stuck, Finish What You Begin, and Stop Waiting for Inspiration — Creative Advice from Elizabeth Gilbert, Seth Godin, Joyce Carol Oates, Anne Lamott, and More (#878)",
     "title_zh": "如何开始当你卡住时，如何完成你所开始的，以及如何停止等待灵感——来自伊丽莎白·吉尔伯特、西斯·戈丁、乔伊斯·卡罗尔·奥茨、安妮·拉莫特等人的创意建议 (#878)",
@@ -2308,5 +2214,99 @@
     "summary_zh": "城市领导者正成为民主的堡垒，对抗民族主义的兴起。巴伯的愿景在当今世界获得回响，市长们以具体行动证明，地方治理能维护社会凝聚力。文章聚焦于弗雷、姆达尼、埃拉普等城市领袖，以及C40等网络，展现了城市在抵御中央权力时的积极作用。",
     "best_quote_en": "\"We have come full circle in the city’s epic history. Humankind began its march to politics and civilization in the township—it was democracy’s original incubator,\" Barber wrote in Politico.",
     "best_quote_zh": "“我们已经完成了城市历史的完整循环。人类最初的政治和文明长征始于乡村，它是民主的摇篮。”——巴伯"
+  },
+  {
+    "id": 246,
+    "title": "Simplex vs Timaeus: Round One",
+    "title_zh": "辛普莱克斯 vs 提迈欧斯：第一回合",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/Fs4inpM72PeH4hsAv/simplex-vs-timaeus-round-one",
+    "tags": [
+      "guide",
+      "ai-research",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "指导",
+      "AI研究",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2026-10-01",
+    "summary_en": "Alexander Gietelink Oldenziel dissects the divergent research agendas of Simplex and Timaeus, two AI alignment collectives rooted in distinct mathematical traditions. By mapping their core focuses—weight‑space singular learning theory versus activation‑space computational mechanics—he reveals a nuanced landscape where training and inference, IID versus non‑IID data, parameterization versus invariant structure, and bottom‑up versus top‑down interpretability each carve out their own territory. The author argues that these domains are largely orthogonal, a condition that, far from being wasteful, offers a time‑tested pathway to tackling super‑hard problems: isolate phenomena, study them systematically, and later synthesize. This perspective invites readers to appreciate methodological diversity as a catalyst for eventual paradigm‑shifting synergy, urging a measured optimism about the future of AI interpretability research.",
+    "summary_zh": "奥尔登齐尔深入剖析了辛普莱克斯与提迈欧斯两大AI对齐研究集体之间的差异与联系。文章指出，两者分别立足于权空间的辛普莱克斯学习理论与激活空间的计算力学，涵盖了训练与推理、独立同分布与非独立数据、参数化与不变结构、以及自下而上与自上而下等多个维度。作者认为这些研究领域在历史上基本相互独立，但正是这种独立性为解决复杂问题提供了可靠策略：先将问题分解，逐一研究，再谋求整合。这一观点启示我们，方法论的多样性实为推动AI可解释性突破的宝贵资源。",
+    "best_quote_en": "Simplex and Timaeus are neither competitors nor natural allies. Their historical domains of study are largely orthogonal.",
+    "best_quote_zh": "我宣布：辛普莱克斯和提迈欧斯既不是竞争对手，也不是天然的盟友。它们的研究领域在历史上基本是正交的。"
+  },
+  {
+    "id": 247,
+    "title": "How the “Cornell Seven” Rape Case Became a National Scandal",
+    "title_zh": "‘康奈尔七人’强奸案如何成为全国性丑闻",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/the-lede/how-the-cornell-seven-rape-case-became-a-national-scandal",
+    "tags": [
+      "analyze",
+      "society",
+      "education",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "社会议题",
+      "教育学习",
+      "数据驱动"
+    ],
+    "date": "2026-10-01",
+    "summary_en": "The article dissects how the so‑called ‘Cornell Seven’ rape case exploded into a national scandal, exposing a cascade of institutional failures at the university and in local prosecution. Journalist Jessica Winter details the harrowing night of October 19, 2024, when Jane Doe was drugged and assaulted by multiple fraternity members, and then chronicles the dismissive responses from campus police and District Attorney Matthew Van Houten, whose initial refusal to press charges ignited public outrage. The piece highlights the role of student journalism—the Cornell Daily Sun—in naming the accused and demanding accountability, while also critiquing the university’s uneven disciplinary actions and the broader cultural patterns of silence surrounding sexual violence. Winter weaves in legal nuances, such as New York’s “voluntary intoxication” loophole, and juxtaposes the case with other recent campus incidents, suggesting a systemic neglect of survivor safety. The narrative underscores how institutional carelessness, combined with fragmented investigative practices, can transform a single assault into a symbol of entrenched gender‑based injustice, prompting calls for independent oversight and comprehensive reform.",
+    "summary_zh": "这篇报道揭露了‘康奈尔七人’案背后的制度失灵：校园警察、检察官的漠视，大学的轻罚，以及学生记者的勇敢发声，反映出性暴力问题上的系统性忽视和文化沉默。文章还指出，纽约州关于自愿醉酒的法律漏洞，以及大学对抗议活动的压制，形成了一种‘病态模式'，导致更多受害者无声无助。",
+    "best_quote_en": "This is not a dark chapter in Cornell’s history, it’s a morbid pattern.",
+    "best_quote_zh": "这不是康奈尔历史上的黑暗篇章，而是一个病态的模式。"
+  },
+  {
+    "id": 248,
+    "title": "Essentials: Tools to Improve Your Focus & Concentration",
+    "title_zh": "专注力提升工具 essentials",
+    "source": "Huberman Lab",
+    "link": "https://www.hubermanlab.com/episode/essentials-tools-to-improve-your-focus-and-concentration",
+    "tags": [
+      "learn",
+      "psychology",
+      "lifestyle"
+    ],
+    "tags_zh": [
+      "学习",
+      "心理学",
+      "生活方式"
+    ],
+    "date": "2026-10-01",
+    "summary_en": "This Huberman Lab Essentials episode delivers a comprehensive, science-backed approach to improving focus and concentration through multiple evidence-based tools. The content explores the neurological foundations of attention, detailing how key neurochemicals like epinephrine, acetylcholine, and dopamine govern cognitive focus. Practical applications include optimizing sleep patterns, leveraging white and pink noise, implementing 90-minute ultradian work cycles, and strategic nutritional interventions including caffeine timing and blood glucose management. The episode offers actionable techniques such as deliberate cold exposure, 13-minute daily meditation, and visual focus exercises designed to train attentional control. It also critically examines supplement options like Alpha-GPC and L-tyrosine, while addressing ADHD treatments and the counterintuitive benefits of deliberate defocusing for sustained productivity. Huberman's expertise in neuroscience provides credible, research-informed guidance that bridges theoretical understanding with practical implementation.",
+    "summary_zh": "这篇胡伯曼实验室精要篇章提供了科学严谨的专注力提升方法，从神经化学基础到实用工具，全面解析注意力机制。通过睡眠优化、环境噪音控制、生物节律工作法到营养策略，该内容为现代人提供了实用的认知提升方案。尤其是关于“刻意分心”的创新观点，挑战了传统集中注意力工作理念，具有开创性意义。内容既专业又易懂，非常适合寻求自我提升的现代人。",
+    "best_quote_en": "Taking time to deliberately defocus is actually supportive of concentrated work.",
+    "best_quote_zh": "刻意地分心实际上有助于集中工作。"
+  },
+  {
+    "id": 249,
+    "title": "Developer policy update: Transparency, state policy, and what’s ahead",
+    "title_zh": "开发者政策更新：透明度、州政策及展望",
+    "source": "GitHub Blog",
+    "link": "https://github.blog/news-insights/policy-news-and-insights/developer-policy-update-transparency-state-policy-and-whats-ahead/",
+    "tags": [
+      "update",
+      "politics",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "动态",
+      "政治时事",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2026-09-29",
+    "summary_en": "GitHub’s latest policy update reveals how government regulations are reshaping the open‑source landscape, urging developers to stay informed about transparency, takedown requests, and emerging state legislation. The post highlights a dramatic rise in reported government takedown requests—708 in H1 2026 versus 98 in all of 2025—clarifying that the surge reflects improved reporting rather than increased content removal. It also surveys key policy battles, from California’s AI Transparency Act (SB 1000) to age‑assurance laws that risk sweeping in developer tools, showcasing GitHub’s active engagement with lawmakers to protect open‑source principles. By mapping current debates and previewing future challenges such as DMCA Section 1201 rulemaking and youth AI access, the article serves as both a strategic guide and a call for developer participation. The underlying message is clear: as policy becomes a core architect of software development, developers must cultivate a voice in the legislative process to ensure that regulation supports, rather than stifles, the collaborative innovation that defines open source.",
+    "summary_zh": "GitHub 政策更新揭示政府监管如何重塑开源生态，从透明度到州立法，开发者需紧跟变化。文章解析了 takedown 请求激增的报告逻辑，并聚焦 AI 透明法、年龄验证等议题，呼吁开发者积极建言，影响政策走向。",
+    "best_quote_en": "Policy decisions increasingly shape how developers build, collaborate, and participate in open source.",
+    "best_quote_zh": "政策决策日益塑造着开发者构建、协作和参与开源的方式。"
   }
 ]
