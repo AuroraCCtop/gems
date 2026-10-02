@@ -1,97 +1,5 @@
 [
   {
-    "id": 150,
-    "title": "How to Start When You’re Stuck, Finish What You Begin, and Stop Waiting for Inspiration — Creative Advice from Elizabeth Gilbert, Seth Godin, Joyce Carol Oates, Anne Lamott, and More (#878)",
-    "title_zh": "如何开始当你卡住时，如何完成你所开始的，以及如何停止等待灵感——来自伊丽莎白·吉尔伯特、西斯·戈丁、乔伊斯·卡罗尔·奥茨、安妮·拉莫特等人的创意建议 (#878)",
-    "source": "Tim Ferriss",
-    "link": "https://tim.blog/2026/08/07/writing-inspiration/",
-    "tags": [
-      "solve",
-      "design",
-      "ai-research"
-    ],
-    "tags_zh": [
-      "解决",
-      "设计创意",
-      "AI研究"
-    ],
-    "date": "2026-08-07",
-    "summary_en": "This episode of The Tim Ferriss Show gathers wisdom from celebrated authors—Elizabeth Gilbert, Seth Godin, Joyce Carol Oates, Anne Lamott, and others—on conquering creative blocks and building sustainable writing practices. Listeners learn that inspiration is unreliable and that consistent action, disciplined routines, and embracing \"resistance\" are the true engines of productivity. The experts share concrete tactics: setting micro‑goals, using \"fear‑setting\" to neutralize anxiety, maintaining a \"daily page\" habit, and reframing failure as data for iteration. By focusing on process over perfection, writers can start projects, see them through to completion, and develop a reliable output regardless of mood or external validation. The discussion also touches on adapting methods to individual psychology, leveraging shadow careers, and the importance of small wins in sustaining motivation. Overall, the compilation serves as a pragmatic guide for anyone seeking to transform creative aspirations into tangible results, offering both psychological insight and actionable steps.",
-    "summary_zh": "这期播客汇集了吉尔伯特、戈丁、奥茨等文学大家的实战经验，揭示了克服创作阻碍、持续产出与建立习惯的秘密。它提醒我们，灵感并非开始的前提，纪律与行动才是关键，对于希望成为作家或任何创意工作者的人都极具指导意义。",
-    "best_quote_en": "You don't wait for inspiration; you show up and work anyway.",
-    "best_quote_zh": "不要等待灵感，出现并工作就是了。"
-  },
-  {
-    "id": 151,
-    "title": "‘We’re at a crisis point’: Chappell Roan, Shirley Manson and Eli on playing Olivia Rodrigo’s women-led festival",
-    "title_zh": "我们正处于危机时刻：Chappell Roan、Shirley Manson 和 Eli 谈 Olivia Rodrigo 的女性主导音乐节",
-    "source": "Women | The Guardian",
-    "link": "https://www.theguardian.com/music/2026/aug/27/olivia-rodrigo-daisy-chain-fields-preview-chappell-roan-interview-eli-shirley-manson",
-    "tags": [
-      "update",
-      "society",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "动态",
-      "社会议题",
-      "未来预测"
-    ],
-    "date": "2026-08-27",
-    "summary_en": "Article explores Olivia Rodrigo’s debut women‑led festival, Daisy Chain Fields, as a bold response to the persistent gender imbalance in live music. Featuring veteran acts like Shirley Manson (Garbage) and emerging voices such as Chappell Roan and Eli, the event foregrounds community over competition, with all proceeds supporting reproductive‑rights organizations. Interviews reveal a sense of urgency: Manson reflects on past missed opportunities, noting that women’s rights are now regressing globally, while Roan frames the festival as a safe, inclusive space and a platform for giving back. Eli’s hopeful perspective ties the festival to broader aspirations for a harmonious future. The piece situates Daisy Chain Fields within a historic lineage of feminist festivals, from the 1976 Michigan Womyn’s Music Festival to Lilith Fair, yet emphasizes its contemporary relevance amid ongoing crises. By blending artistic celebration with concrete activism, the festival illustrates how artists can leverage scale for social impact, offering a model for future cultural initiatives.",
-    "summary_zh": "Olivia Rodrigo 的 Daisy Chain Fields 音乐节汇集女艺术家，以社区为本，将全部收益用于生殖权利组织。文章通过访谈揭示女性权益的危机，展现艺术家如何以规模换取社会影响，为未来文化活动提供灵感。该节庆延续了从 1976 年密歇根女歌手音乐节到 Lilith Fair 的传统，但在 2026 年女性权利倒退的背景下更显紧迫。艺术家们认为这是构建包容空间、支持女性权利的重要举措。",
-    "best_quote_en": "We're at a crisis point.",
-    "best_quote_zh": "我们正处于危机时刻。"
-  },
-  {
-    "id": 152,
-    "title": "Researchers and Founders",
-    "title_zh": "研究者与创业者",
-    "source": "Sam Altman",
-    "link": "https://blog.samaltman.com/researchers-and-founders",
-    "tags": [
-      "analyze",
-      "ai-research",
-      "startup-strategy",
-      "controversial"
-    ],
-    "tags_zh": [
-      "分析",
-      "AI研究",
-      "创业策略",
-      "争议观点"
-    ],
-    "date": "2020-06-19",
-    "summary_en": "The author reflects on a career spanning founders and researchers, noting surprising differences in the traits of top performers across these groups. While exceptions exist, the best individuals in both camps share a disciplined habit of confronting the Hamming question—what are the most important problems in our field, and why aren’t we solving them? This habit cultivates a keen ‘problem taste’ that blends independent thinking, future reasoning, and strategic attack vectors. They combine laser‑focus on immediate next steps with long‑term vision, exhibit relentless persistence, and act with a bias toward experimentation while honestly assessing what works. Creativity flows abundantly, even if many ideas prove flawed, and they cherish autonomy over arbitrary rules. Underlying motivations often stem from genuine curiosity rather than pure ambition. The piece invites readers to examine their own problem‑selection criteria, encouraging a more reflective, action‑oriented approach to both research and entrepreneurship.",
-    "summary_zh": "作者从创业者与研究者中提炼出有效人士的共同特质：不断反思海明问题，培养问题敏感性；兼具短期专注与长期愿景；坚持不懈，勇于行动并诚实评估成败；创意不断，即使许多想法不成熟；珍视自主性而非盲从规则。这些观察不仅揭示卓越者的心理图景，也启发我们重新审视自身的问题选择与行动方式。",
-    "best_quote_en": "The best people in both groups spend a lot of time reflecting on some version of the Hamming question—what are the most important problems in your field, and why aren’t you working on them?",
-    "best_quote_zh": "最优秀的人，无论是研究者还是创业者，都花大量时间思考海明问题——‘你所在领域最重要的问题是什么，为什么你没有去解决它？’"
-  },
-  {
-    "id": 153,
-    "title": "OpenClaw went viral. Meet the maintainers building and securing it.",
-    "title_zh": "OpenClaw 走红：Meet the maintainers building and securing it.",
-    "source": "GitHub Blog",
-    "link": "https://github.blog/open-source/maintainers/openclaw-went-viral-meet-the-maintainers-building-and-securing-it/",
-    "tags": [
-      "analyze",
-      "science",
-      "ai-research",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "科学研究",
-      "AI研究",
-      "数据驱动"
-    ],
-    "date": "2026-08-27",
-    "summary_en": "The explosive growth of OpenClaw, an AI assistant that runs locally and integrates with existing messaging platforms, offers a compelling case study in open‑source community dynamics. Within just six months, the project amassed nearly 388,000 GitHub stars, prompting maintainers to confront unprecedented challenges: a flood of AI‑generated pull requests, shifting trust signals, and emerging security risks tied to reputation and automated contributions. The video interview reveals how the team adapted by welcoming newcomers, using AI tools for code review, and redefining contribution quality through transparent work evidence. These insights highlight a broader trend where AI accelerates participation but also complicates governance, urging projects to balance openness with robust security practices. OpenClaw’s experience serves as both a cautionary tale and a blueprint for managing rapid growth in the AI era.",
-    "summary_zh": "OpenClaw 从一个个人实验迅速演变为全球性开源项目，引发了前所未有的社区治理挑战。面对 AI 生成的海量贡献，维护者重新定义了信任与安全，从欢迎新贡献者到利用 AI 工具进行代码审查，并强调通过透明的工作证据来评估质量。这反映出 AI 既推动了参与度，也加剧了治理复杂性，为快速增长的开源项目提供了宝贵的经验教训。",
-    "best_quote_en": "I don't even call them pull requests. I call them prompt requests.",
-    "best_quote_zh": "我甚至不叫它们是拉取请求，我叫它们是提示请求。"
-  },
-  {
     "id": 154,
     "title": "Feminism for a World on Fire by Natasha Walter review – hope amid the hopelessness",
     "title_zh": "娜塔莎·沃尔特的《世界在燃烧中的女性主义》评论——绝望中的希望",
@@ -2308,5 +2216,97 @@
     "summary_zh": "GitHub 政策更新揭示政府监管如何重塑开源生态，从透明度到州立法，开发者需紧跟变化。文章解析了 takedown 请求激增的报告逻辑，并聚焦 AI 透明法、年龄验证等议题，呼吁开发者积极建言，影响政策走向。",
     "best_quote_en": "Policy decisions increasingly shape how developers build, collaborate, and participate in open source.",
     "best_quote_zh": "政策决策日益塑造着开发者构建、协作和参与开源的方式。"
+  },
+  {
+    "id": 250,
+    "title": "The Well-Funded Fight to Keep Latinos Voting Republican",
+    "title_zh": "资金雄厚的拉丁裔选民维权战",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/the-lede/the-well-funded-fight-to-keep-latinos-voting-republican",
+    "tags": [
+      "analyze",
+      "politics",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "政治时事",
+      "数据驱动"
+    ],
+    "date": "2026-10-02",
+    "summary_en": "The article dissects the Libre Initiative’s well‑funded campaign to sway Latino voters toward Republican candidates, especially in Michigan. It reveals how the group leverages immigration reform rhetoric, faith‑based outreach, and community services to build a conservative Latino base, even as its policy goals clash with Trump’s deportation agenda. Through interviews with founders, volunteers, and local politicians, the piece shows the paradox of a pro‑immigrant conservative movement operating within a party increasingly defined by MAGA orthodoxy. The narrative underscores the strategic importance of targeted voter mobilization, the complexities of Latino political identity, and the broader implications for the GOP’s future electoral math. It also raises questions about the sustainability of such efforts when party leadership fails to align with the nuanced concerns of immigrant communities.",
+    "summary_zh": "这篇文章揭示了自由倡议如何利用资金和社区网络试图改变拉丁裔选民在共和党内部的传统倾向。面对移民政策分歧和特朗普支持率下降，该运动既展现了政治动员的精明，也暴露了共和党在移民问题上的矛盾。作者深入采访了关键人物，揭示了金钱、信仰和身份如何交织，塑造了当代美国政治版图。这表明拉丁裔选民正处于政治博弈的十字路口，其忠诚度正被重新定义。",
+    "best_quote_en": "“Tierra y libertad,” or “Land and liberty.”",
+    "best_quote_zh": "土地与自由"
+  },
+  {
+    "id": 251,
+    "title": "US Digital Currency",
+    "title_zh": "美国数字货币",
+    "source": "Sam Altman",
+    "link": "https://blog.samaltman.com/us-digital-currency",
+    "tags": [
+      "solve",
+      "economics",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "解决",
+      "经济金融",
+      "未来预测"
+    ],
+    "date": "2018-05-10",
+    "summary_en": "US Digital Currency explores the inevitable rise of cryptocurrency and proposes a government‑issued digital dollar, dubbed USDC, as a potential winner that could reconcile state interests with crypto’s promise. The author argues that while cryptocurrencies are here to stay, current systems suffer from pseudo‑anonymity, limited currency functionality, and tax challenges. By launching a state‑backed digital currency—distributed evenly to citizens, partially locked, and integrated with tax protocols—the U.S. could secure a strategic advantage over other nations and create substantial new wealth for its people. The piece also highlights the delicate balance needed between network autonomy and governmental monetary input, warning against arbitrary inflation. Ultimately, it envisions a middle ground where both regulators and crypto enthusiasts gain, positioning the first superpower to adopt such a system as a future global currency leader.",
+    "summary_zh": "美国可能推出名为USDC的数字货币，公平分配给公民，部分锁定并内置税收机制，这将使美国在未来全球货币竞争中占据优势，并创造大量新财富。同时平衡去中心化网络自治与政府适度货币政策干预，避免随意通胀，实现监管与加密货币用户双赢。",
+    "best_quote_en": "I think the first superpower government to do something like this will have an enviable position in the future of the world, and some power over a worldwide currency.",
+    "best_quote_zh": "我认为第一个采取这种行动的超级大国政府，将在未来的世界中拥有无与伦比的地位，以及对全球货币的一些权力。"
+  },
+  {
+    "id": 252,
+    "title": "How to Simplify Your Life — Tips from Oliver Burkeman, Chip Conley, Elizabeth Gilbert, and More (#885)",
+    "title_zh": "如何简化生活——来自奥利弗·伯克曼、奇普·科尼利、伊丽莎白·吉尔伯特等人的建议 (#885)",
+    "source": "Tim Ferriss",
+    "link": "https://tim.blog/2026/10/01/how-to-simplify-your-life-4/",
+    "tags": [
+      "solve",
+      "lifestyle",
+      "design",
+      "beginner-friendly"
+    ],
+    "tags_zh": [
+      "解决",
+      "生活方式",
+      "设计创意",
+      "新手友好"
+    ],
+    "date": "2026-10-02",
+    "summary_en": "This episode of The Tim Ferriss Show tackles the universal struggle with hidden complexity by asking a deceptively simple question: \"What are 1–3 decisions that could dramatically simplify my life?\" Each guest offers a distinct perspective—Chip Conley recounts how a near‑death experience onstage reshaped his priorities, Greg McKeown uses a stormtrooper costume as a metaphor for clutter, David Allen explains why internal to‑do lists drain energy, Elizabeth Gilbert treats her inbox like a home and manages uninvited guests, and Oliver Burkeman critiques the back‑firing of oversimplified simplicity advice. The conversation moves beyond quick fixes, emphasizing that \"simple\" is not synonymous with \"easy\" but rather a deliberate reduction of decision fatigue, the cultivation of personal boundaries, and the pursuit of authentic joy over dopamine hits. While the episode is interspersed with sponsor plugs for sleep and nutrition products, its core value lies in actionable, expert‑backed strategies that encourage listeners to reflect on their own habits and experiment with targeted simplifications. The show notes also provide extensive links for deeper exploration, making it a comprehensive guide for anyone seeking to streamline their daily life.",
+    "summary_zh": "这期播客汇集了奥利弗·伯克曼、奇普·科尼利、伊丽莎白·吉尔伯特等人的简化生活经验，从近死体验到收纳哲学，从邮箱管理到边界设定，揭示了简单与复杂的区别，并鼓励我们寻找真正的joy 而非短暂的快乐。",
+    "best_quote_en": "What are 1–3 decisions that could dramatically simplify my life?",
+    "best_quote_zh": "我想要知道：有哪些1到3个决定可以彻底简化我的生活？"
+  },
+  {
+    "id": 253,
+    "title": "10 technical talks I’m excited about at GitHub Universe 2026",
+    "title_zh": "我对 GitHub Universe 2026 十场技术演讲感到兴奋",
+    "source": "GitHub Blog",
+    "link": "https://github.blog/news-insights/company-news/10-technical-talks-im-excited-about-at-github-universe-2026/",
+    "tags": [
+      "learn",
+      "programming",
+      "ai-research",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "学习",
+      "编程开发",
+      "AI研究",
+      "数据驱动"
+    ],
+    "date": "2026-10-01",
+    "summary_en": "This blog post previews ten compelling technical talks at GitHub Universe 2026, reflecting the author's strategic approach to selecting sessions that address current development challenges. The content spans AI verification methodologies, agent memory systems, security frameworks, and practical tools for developers. Key themes include verifying AI-generated code, securing software dependencies, and building resilient systems for low-connectivity environments. The author demonstrates thought leadership by identifying emerging trends in AI research, particularly around evaluation methodologies and deterministic controls. These talks represent cutting-edge developments in software engineering, offering actionable insights for developers navigating the complexities of modern AI integration, security challenges, and toolchain optimization. The post serves as both a curated guide and a reflection on the evolving landscape of developer tools and practices.",
+    "summary_zh": "这篇博客预览了 GitHub Universe 2026 的十场精彩技术演讲，展示了作者如何围绕当前开发挑战精心挑选会议内容。文章涵盖了 AI 验证方法、代理记忆系统、安全框架和实用的开发者工具等主题。关键议题包括验证 AI 生成的代码、确保软件依赖的安全性，以及为低连接环境构建容错系统。这些演讲体现了 AI 研究领域的最新进展，特别是在评估方法和确定性控制方面。对于开发者而言，这是一份关于应对现代 AI 集成、安全挑战和工具链优化的宝贵指南。",
+    "best_quote_en": "I'm looking for ideas I can take back to my own work, from verifying agent-written code and securing dependencies to building software that works where internet access is unreliable.",
+    "best_quote_zh": "我正在寻找可以带回自己工作中的想法，从验证代理编写的代码和确保依赖项安全到构建在互联网访问不可靠的环境中运行的软件。"
   }
 ]
