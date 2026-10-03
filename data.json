@@ -1,125 +1,5 @@
 [
   {
-    "id": 154,
-    "title": "Feminism for a World on Fire by Natasha Walter review – hope amid the hopelessness",
-    "title_zh": "娜塔莎·沃尔特的《世界在燃烧中的女性主义》评论——绝望中的希望",
-    "source": "Women | The Guardian",
-    "link": "https://www.theguardian.com/books/2026/aug/25/feminism-for-a-world-on-fire-by-natasha-walter-review-hope-amid-the-hopelessness",
-    "tags": [
-      "analyze",
-      "politics",
-      "society",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "政治时事",
-      "社会议题",
-      "数据驱动"
-    ],
-    "date": "2026-08-25",
-    "summary_en": "Samantha Ellis reviews Natasha Walter’s new book, which reframes feminism through an ecofeminist lens, arguing that climate collapse and gender injustice are inseparable. Walter critiques the commodification of “aspiration feminism” and its focus on individual empowerment, instead championing collective solidarity and sisterhood. Through vivid global stories—from Bangladeshi women fetching water to Rojava’s radical feminists—her work shows how women bear the brunt of environmental degradation yet also build resilient communities. Ellis highlights Walter’s personal journey, from celebrating Thatcher as a trailblazer to condemning pink‑hat consumerism, and underscores the book’s hopeful message that feminist joy lies in mutual aid, not market‑driven symbols. The review emphasizes the urgency of linking climate action with gender justice, offering both a sobering analysis of current feminist shortcomings and an inspiring vision of collaborative resistance.",
-    "summary_zh": "娜塔莎·沃尔特的《世界在燃烧中的女性主义》将生态feminism与全球正义紧密结合，批判了个体主义的“女性主义消费”，倡导集体团结与姐妹情谊。书中通过孟加拉国、罗贾瓦等地的女性故事，展现了环境崩溃对女性的首要影响，以及她们如何在绝望中构建新的社区。评论者埃利斯既指出了女性主义被商品化的弊端，也赞颂了Walter从个人英雄主义到共同行动的转变，认为真正的女性主义 joy 在于帮助他人，而非购买昂贵的粉色帽子。这本书提供了一条将气候行动与性别正义相结合的必经之路，充满希望与行动力。",
-    "best_quote_en": "Feminist joy is not about buying a £140 pink pussy hat, but about helping other women – and, maybe one day, celebrating with them when the seemingly impossible has been achieved.",
-    "best_quote_zh": "真正的女性主义 joy 不是买一个 140 英镑的粉色 pussy 帽子，而是帮助其他女性——或许有一天，当看似不可能的事情实现时，与她们一起庆祝。"
-  },
-  {
-    "id": 155,
-    "title": "Essentials: The Science of Eating for Health, Fat Loss & Lean Muscle | Dr. Layne Norton",
-    "title_zh": "健康饮食科学：脂肪减少与肌肉增长的基础 | 莱恩·诺顿博士",
-    "source": "Huberman Lab",
-    "link": "https://www.hubermanlab.com/episode/essentials-the-science-of-eating-for-health-fat-loss-and-lean-muscle-layne-norton",
-    "tags": [
-      "analyze",
-      "science",
-      "ai-research",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "科学研究",
-      "AI研究",
-      "数据驱动"
-    ],
-    "date": "2026-06-25",
-    "summary_en": "This Huberman Lab Essentials episode explores the science of nutrition and energy balance with Dr. Layne Norton, a leading expert in fat loss and metabolism. The discussion covers practical strategies for building lean muscle, optimal protein and fiber intake, and the science behind calories in versus calories out. Norton examines controversial topics like artificial sweeteners, seed oils, and animal versus plant-based proteins, offering evidence-based insights for sustainable weight management. The episode provides actionable protocols for determining daily energy expenditure, using tools like average weight tracking, and implementing effective dietary approaches. By addressing common nutritional myths and providing practical recommendations, this content serves as a comprehensive guide for anyone seeking to optimize body composition through science-backed nutrition strategies.",
-    "summary_zh": "本期哈勃曼实验室精要节目邀请了营养学专家莱恩·诺顿博士，探讨了能量平衡与利用的科学原理。两人讨论了构建瘦肌肉和减少脂肪的实用策略，涵盖了蛋白质和纤维的最佳摄入量、人工甜味剂、种子油以及动物蛋白与植物蛋白的对比。这期内容提供了实用的工具和协议，如平均体重追踪、卡路里控制以及可持续饮食的选择。通过揭示加工食品与卡路里过剩之间的关系，以及深入探讨人工甜味剂对减肥的影响，节目为听众提供了基于科学的营养建议，帮助他们实现健康的目标。",
-    "best_quote_en": "The science of energy balance is not about counting calories, it's about understanding how your body utilizes energy and building sustainable habits that support your goals.",
-    "best_quote_zh": "能量平衡的科学不仅仅是计算卡路里，而是理解身体如何利用能量，并建立支持目标的可持续习惯。"
-  },
-  {
-    "id": 156,
-    "title": "GitHub Copilot app for Beginners: Automate Dependabot pull request triage",
-    "title_zh": "GitHub Copilot 初学者应用：自动化 Dependabot 拉取请求分流",
-    "source": "GitHub Blog",
-    "link": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-automate-dependabot-pull-request-triage/",
-    "tags": [
-      "guide",
-      "ai-product",
-      "design",
-      "beginner-friendly"
-    ],
-    "tags_zh": [
-      "指导",
-      "AI产品",
-      "设计创意",
-      "新手友好"
-    ],
-    "date": "2026-08-26",
-    "summary_en": "This article demonstrates how GitHub Copilot's automation feature can transform repetitive Dependabot pull request triage into a streamlined background process. By creating a simple automation that reviews, categorizes, and summarizes dependency updates, developers can reclaim valuable time and focus on meaningful work. The tutorial shows how natural language prompts enable customization for team workflows, making AI assistance accessible even to beginners. This approach represents a practical application of generative AI in software development, moving beyond code generation to workflow automation.",
-    "summary_zh": "本文展示了如何利用 GitHub Copilot 的自动化功能将重复的 Dependabot 拉取请求分流工作转化为后台处理流程。通过创建简单的自动化脚本，开发者可以自动审查、分类和总结依赖项更新，从而节省宝贵时间专注于更有价值的工作。教程展示了如何使用自然语言提示定制团队工作流程，让 AI 协助变得触手可及。这代表了生成式 AI 在软件开发领域的实际应用，从代码生成扩展到工作流自动化。",
-    "best_quote_en": "It's the perfect task to offload to Copilot! With GitHub Copilot app automations, you can hand off that first round of review. Instead of manually inspecting every Dependabot pull request, you can create an automation that reviews open pull requests, groups them by risk, verifies CI status, and delivers a summary before your day begins.",
-    "best_quote_zh": "这是完美的任务，可以交给 Copilot 来完成！通过 GitHub Copilot 应用自动化，您可以将第一轮审查工作交给它。无需手动检查每个 Dependabot 拉取请求，您可以创建一个自动化脚本，审查开放的拉取请求，按风险分组，验证 CI 状态，并在您开始工作日之前提供摘要。"
-  },
-  {
-    "id": 157,
-    "title": "Charisma / Power",
-    "title_zh": "魅力与权力",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/pow.html",
-    "tags": [
-      "solve",
-      "startup-strategy",
-      "leadership",
-      "controversial"
-    ],
-    "tags_zh": [
-      "解决",
-      "创业策略",
-      "领导管理",
-      "争议观点"
-    ],
-    "date": "2026-08-31",
-    "summary_en": "This article explores the uneasy relationship between power and charisma, arguing that individuals who wield authority but lack personal magnetism often become disliked targets of criticism. Using Hillary Clinton and builder‑type CEOs as examples, the author illustrates how a focus on results can blind leaders to the social currency of charm. Rather than offering a fix, the piece frames the phenomenon as a product of human nature, suggesting that relentless criticism may actually signal that a person is the right fit for a demanding role. The insight invites readers to reconsider how they evaluate leadership effectiveness, urging a more nuanced view that separates substantive competence from superficial appeal. By recognizing the tension between power and charisma, organizations and followers can better appreciate the value of those who drive change even when they are not naturally persuasive. The commentary is both analytical and reflective, offering a thoughtful lens on a pervasive social dynamic.",
-    "summary_zh": "当强者缺乏魅力时，批评如潮水般袭来，却往往是他们正被委以重任的信号。作者反思了人性的复杂，提醒我们在评判时应更深入理解，因为被攻击有时正是合适人选的证明。",
-    "best_quote_en": "The best we can do is to recognize that it's happening, and to understand that being a magnet for criticism is sometimes a sign not that someone is the wrong person for a job, but that they're the right one.",
-    "best_quote_zh": "我们最好的做法就是认识到这种情况，并理解成为批评目标有时不是表明某人不适合这份工作，而是指他们正是合适的人选。"
-  },
-  {
-    "id": 158,
-    "title": "The MAHA Custody Battle",
-    "title_zh": "MAHA 监护权之争",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/magazine/2026/09/07/the-maha-custody-battle",
-    "tags": [
-      "solve",
-      "medicine",
-      "politics",
-      "controversial"
-    ],
-    "tags_zh": [
-      "解决",
-      "医学健康",
-      "政治时事",
-      "争议观点"
-    ],
-    "date": "2026-08-31",
-    "summary_en": "Ruby Cramer’s narrative unfolds the heartbreaking custody clash between Michael Horrocks and Leah Stelly, whose opposing views on vaccination thrust their children into a measles outbreak. Michael, a biker‑dad who champions standard immunizations, battles Leah’s deep‑rooted MAHA ideology—fueled by TikTok, numerology, and spiritual anti‑establishment beliefs. The story charts how the children’s illnesses expose the real‑world consequences of vaccine hesitancy, while also probing the broader cultural forces that shape parental decisions. Cramer weaves in historical context, from the fraudulent 1998 Lancet paper to RFK Jr.’s political ascent, illustrating how fear, social media, and the valorization of intuition over science have reshaped public health discourse. Through intimate dialogue and vivid scenes—monster‑truck rides, playground recoveries, and fraught exchanges—the piece humanizes both sides, reminding readers that love drives every choice, even when it leads to conflict. It is a sobering exploration of how personal belief systems can collide with medical consensus, leaving families and societies to navigate the fallout.",
-    "summary_zh": "这篇故事揭示了两个父母在疫苗问题上的监护权斗争，一个追求科学免疫，另一个沉浸于MAHA运动的灵性反医观念。作者通过生动的叙事，展现了儿童因疫苗犹豫而患病的真实后果，并深入探讨了社交媒体、公众恐惧和直觉优先如何重塑健康话语权。文章既是个人困境的写照，也是对当今社会中个人信念与医学权威冲突的深刻反思。",
-    "best_quote_en": "\"She loves her kids,\" Michael said. \"You can't take that away from her.\"",
-    "best_quote_zh": "\"她爱她的孩子们,\" 迈克尔说, \"你不能夺走这个。\""
-  },
-  {
     "id": 159,
     "title": "Daisy Chain Fields review – Olivia Rodrigo’s women-led festival is electric amid extreme heat",
     "title_zh": "Daisy Chain Fields 音乐节评测——奥利维亚·罗德里戈的女性主导音乐节在极端高温下燃爆",
@@ -2308,5 +2188,121 @@
     "summary_zh": "这篇博客预览了 GitHub Universe 2026 的十场精彩技术演讲，展示了作者如何围绕当前开发挑战精心挑选会议内容。文章涵盖了 AI 验证方法、代理记忆系统、安全框架和实用的开发者工具等主题。关键议题包括验证 AI 生成的代码、确保软件依赖的安全性，以及为低连接环境构建容错系统。这些演讲体现了 AI 研究领域的最新进展，特别是在评估方法和确定性控制方面。对于开发者而言，这是一份关于应对现代 AI 集成、安全挑战和工具链优化的宝贵指南。",
     "best_quote_en": "I'm looking for ideas I can take back to my own work, from verifying agent-written code and securing dependencies to building software that works where internet access is unreliable.",
     "best_quote_zh": "我正在寻找可以带回自己工作中的想法，从验证代理编写的代码和确保依赖项安全到构建在互联网访问不可靠的环境中运行的软件。"
+  },
+  {
+    "id": 254,
+    "title": "My relationship with food was broken. Then I killed my own dinner",
+    "title_zh": "我与食物的关系破裂了。然后我杀了自己的晚餐",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/lifeandstyle/ng-interactive/2026/oct/03/food-diet-weight-hunting",
+    "tags": [
+      "solve",
+      "psychology",
+      "lifestyle",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "解决",
+      "心理学",
+      "生活方式",
+      "数据驱动"
+    ],
+    "date": "2026-10-03",
+    "summary_en": "Katherine Hill’s poignant essay chronicles her years‑long battle with diet culture, where food became a source of fear, control, and regret. After hunting and eating a deer she shot, she confronts the irony of vilifying body fat while wildlife thrives on it as a sign of health. The piece weaves personal trauma, expert insights from psychologist Dr. Hannah Carl, and startling statistics about fatphobia, exposing how modern beauty standards weaponize weight. Hill reflects on the disconnect between food origins and consumption, the soaring cost of meat, and the moral complexities of hunting. Her journey from self‑destruction to acceptance illustrates a broader cultural reckoning: fat need not be a flaw, and our relationship with food—and with mortality—might be healthier when we acknowledge its natural cycles. The essay challenges readers to reconsider what \"ideal\" bodies mean and to find peace in the fragile, fleeting nature of life.",
+    "summary_zh": "凯瑟琳·希尔讲述了她如何因饮食文化而与食物产生矛盾，通过狩猎并食用自己射杀的鹿，她重新审视了身体脂肪的价值。这篇文章结合了个人创伤、心理学家汉娜·卡尔的见解，以及关于体脂羞辱的统计数据，揭露了现代审美标准如何将体重视为缺陷。她反思了食物来源与消费之间的脱节，以及狩猎的道德复杂性。这段旅程从自我毁灭到接纳，不仅是个人的觉醒，也反映了社会对身体理想的更广泛质疑。",
+    "best_quote_en": "What would happen if society saw human bodies the same way I saw my first doe, with fat as proof of life and health?",
+    "best_quote_zh": "如果社会能像我看待第一只羚羊那样看待人类身体，认为脂肪是生命与健康的证明，会发生什么呢？"
+  },
+  {
+    "id": 255,
+    "title": "The Quiet Unravelling of a Haitian Life in America",
+    "title_zh": "海地人在美国的平静生活正在瓦解",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/our-local-correspondents/the-quiet-unravelling-of-a-haitian-life-in-america",
+    "tags": [
+      "analyze",
+      "politics",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "政治时事",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2026-10-02",
+    "summary_en": "The article follows Emmanuella, the sole family member with Temporary Protected Status (TPS), as the program’s termination upends her life in Brooklyn. Once a reliable nanny and employee, she now faces sudden job loss, the threat of deportation, and a stark shift from anxiety to fear. The narrative juxtaposes her personal struggle—quitting work, dating to secure a husband, and living underground—with broader policy developments: the Trump administration’s push to end TPS for Haitians, the Supreme Court’s recent ruling allowing this, and the resulting nationwide layoffs of Haitian workers. Through interviews with immigration lawyer Stephanie Delia, influencer Anya, and Emmanuella’s own reflections, the piece reveals the human cost of a humanitarian program’s collapse, highlighting how families are forced into secrecy, neighborhoods become hazardous, and long‑term residents are stripped of legal footing. It underscores the arbitrary nature of mass de‑legalization and the erosion of protections that have long sustained vulnerable communities.",
+    "summary_zh": "文章聚焦海地裔青年埃曼努埃拉，她是唯一持有临时保护身份的家庭成员。随着该身份的终止，她的生活在布鲁克林陷入混乱：丢掉工作、被迫寻找丈夫、开始隐秘生活。叙事交织个人困境与政策变革：特朗普政府推动终止海地人的TPS，最高法院裁决支持此举，导致海地工人全国性裁员。文章通过移民律师、网红及埃曼努埃拉的视角，揭示了这一人道主义项目崩溃的真实代价：家庭被迫隐匿，社区变为危险地带，长期居民失去法律地位。它批判了这种任意的去合法化行动，凸显了政策如何摧毁本已脆弱的生活。",
+    "best_quote_en": "It just sucks the life out of you.",
+    "best_quote_zh": "这真是让人感到绝望。"
+  },
+  {
+    "id": 256,
+    "title": "A Tale of Greed From the 1920s",
+    "title_zh": "1920年代的贪婪故事",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/a-tale-of-greed-from-the-1920s/",
+    "tags": [
+      "update",
+      "science",
+      "ai-research",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "动态",
+      "科学研究",
+      "AI研究",
+      "数据驱动"
+    ],
+    "date": "2026-10-02",
+    "summary_en": "This Deep Cut edition revives B. Traven’s 1929 novel *The White Rose*, a tale of American oil magnate Chaney Collins hunting a priceless Mexican hacienda for its underground oil. The story mirrors the real‑world Teapot Dome scandal, exposing how greed and political corruption intertwine across decades. Alongside the gripping narrative, the piece unpacks Traven’s elusive identity—his pseudonyms, anarchist past, and belief that “the creative person should have no other biography than his works.” The author’s meticulous translation experiment, using AI to stay close to the German original, highlights contemporary efforts to preserve obscure public‑domain literature. By weaving historical context, literary analysis, and the politics of resource extraction, the article offers a layered examination of power, heritage, and the enduring relevance of a century‑old cautionary tale.",
+    "summary_zh": "这篇文章重新讲述了1929年小说《白玫瑰》中关于美国石油大亨强占墨西哥家族庄园的故事，揭示了贪婪与权力腐败的永恒主题，并通过对特拉文神秘身份的探讨，反思创作者应以作品为传。译者利用AI进行忠实翻译，恢复了这部长期失传的经典。",
+    "best_quote_en": "The creative person should have no other biography than his works.",
+    "best_quote_zh": "创作者应该没有其他传记，只有他的作品。"
+  },
+  {
+    "id": 257,
+    "title": "Productivity",
+    "title_zh": "生产力",
+    "source": "Sam Altman",
+    "link": "https://blog.samaltman.com/productivity",
+    "tags": [
+      "guide",
+      "lifestyle"
+    ],
+    "tags_zh": [
+      "指导",
+      "生活方式"
+    ],
+    "date": "2018-04-10",
+    "summary_en": "Productivity is often framed as a system of tricks, but this piece reframes it as a philosophy of focus, values, and sustainable habits. The author argues that the most critical factor isn’t speed or tools but choosing the right problems to solve—a principle illustrated by the compound effect of modest daily gains. By detailing personal strategies—from deliberate scheduling and ruthless prioritization to sleep, nutrition, and workspace design—the essay reveals how small, consistent improvements compound over years, dwarfing short‑term optimizations. It also warns against “productivity porn,” urging readers to evaluate whether they’re working on meaningful goals rather than merely squeezing more tasks into their days. The blend of introspection, data‑backed habits (like sleep tracking), and candid admissions of imperfection makes the piece both actionable and relatable, offering a roadmap for anyone seeking to turn incremental effort into lasting impact.",
+    "summary_zh": "这篇文章将生产力提升从技巧转化为价值观与习惯的哲学思考，强调选择正确目标的重要性，并通过睡眠、饮食、时间管理等个人实践，揭示小幅持续改进如何在长期产生巨大效应，同时警示避免为提升而提升的误区。",
+    "best_quote_en": "A small productivity gain, compounded over 50 years, is worth a lot.",
+    "best_quote_zh": "一丁点的生产力提升，复利五十年，价值无穷。"
+  },
+  {
+    "id": 258,
+    "title": "AI is changing developer work. Here are three skills to strengthen.",
+    "title_zh": "AI 正在改變開發者的工作。以下是三項需要強化的技能。",
+    "source": "GitHub Blog",
+    "link": "https://github.blog/ai-and-ml/ai-is-rewriting-the-developer-career-ladder-heres-how-to-stand-out/",
+    "tags": [
+      "solve",
+      "design",
+      "ai-research",
+      "case-study"
+    ],
+    "tags_zh": [
+      "解决",
+      "设计创意",
+      "AI研究",
+      "案例研究"
+    ],
+    "date": "2026-10-02",
+    "summary_en": "AI is reshaping how developers work, turning traditional coding into a more strategic role. The article outlines three essential skills: learning to direct AI rather than simply using it, critically evaluating AI‑generated output, and leveraging AI to tackle higher‑level problems. These capabilities enable engineers to coordinate multiple AI agents, review their work, and make sound technical judgments. By embracing AI as an augmentative tool, developers can focus on creativity, system design, and user‑centric decisions that machines cannot replicate. The piece offers concrete examples and practical prompts, encouraging a mindset shift from implementation to orchestration. It also highlights GitHub Copilot’s features, such as the Rubber Duck agent, which provides a second opinion to catch blind spots. In sum, the article serves as a roadmap for tech professionals seeking to stay relevant, adapt their skill sets, and drive innovation in an AI‑augmented workplace.",
+    "summary_zh": "AI 正在重塑開發者職責，程式碼已非唯一核心。學習如何指導 AI，而非只是使用它；批判性審視輸出、聚焦大局問題三項技能成為新標桿。我們需主動轉型，將 AI 視為助手而非競爭對手，藉此提升判斷力與戰略思維。透過不斷練習與反思，每位開發者都能掌握 AI 時代的新工作方式，保持競爭優勢。",
+    "best_quote_en": "Learn to direct AI, not just use it.",
+    "best_quote_zh": "學習如何指導 AI，而非只是使用它。"
   }
 ]
