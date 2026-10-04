@@ -1,95 +1,5 @@
 [
   {
-    "id": 159,
-    "title": "Daisy Chain Fields review – Olivia Rodrigo’s women-led festival is electric amid extreme heat",
-    "title_zh": "Daisy Chain Fields 音乐节评测——奥利维亚·罗德里戈的女性主导音乐节在极端高温下燃爆",
-    "source": "Women | The Guardian",
-    "link": "https://www.theguardian.com/music/2026/aug/30/daisy-chain-fields-festival-review-olivia-rodrigo",
-    "tags": [
-      "analyze",
-      "lifestyle",
-      "leadership",
-      "controversial"
-    ],
-    "tags_zh": [
-      "分析",
-      "生活方式",
-      "领导管理",
-      "争议观点"
-    ],
-    "date": "2026-08-30",
-    "summary_en": "Olivia Rodrigo’s women‑led festival at Great Park turned a scorching Southern California heatwave into a charged moment of activism and community. By featuring artists like Sarah McLachlan, Stevie Nicks and Chappell Roan—who performed for free—the event raised $20 million for women‑ and girls‑focused charities, echoing historic protest‑music gatherings such as Lilith Fair and riot‑grrrl concerts. Rodrigo’s vision blended radical dreaming (Yoko Ono’s Wish Tree, graphic works by Jenny Holzer) with a relaxed, unselfconscious atmosphere that encouraged mutual care. Yet the festival’s logistical shortcomings—scarcity of water, shade and sunscreen, plus strict policies—exposed how even well‑meaning cultural initiatives can falter when confronting extreme weather. The review balances admiration for the festival’s activist spirit and fundraising impact with a critical look at its operational gaps, suggesting that future events must prioritize both artistic ambition and practical preparedness.",
-    "summary_zh": "Olivia Rodrigo 举办的女性主导音乐节在极端高温下燃爆，融合了 Riot Grrl、Lilith Fair 等女权传统，筹得 2000 万美元，但酷热天气下的后勤不足引发担忧。这场音乐盛宴展现了 Z 世代的激进梦想与互助精神，同时也凸显了极端天气下大型活动的组织挑战。",
-    "best_quote_en": "\"We’re at a crisis point\": Chappell Roan, Shirley Manson and Eli on playing Olivia Rodrigo’s women-led festival.",
-    "best_quote_zh": "“我们正处于危机时刻”：查佩尔·罗安、希尔薇·曼森和埃利谈 Olivia Rodrigo 女性主导音乐节。"
-  },
-  {
-    "id": 160,
-    "title": "Was “Defund the Police” Crazy?",
-    "title_zh": "“取消警察经费” 疯狂了吗?",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/news/the-lede/was-defund-the-police-crazy",
-    "tags": [
-      "analyze",
-      "politics",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "政治时事",
-      "数据驱动"
-    ],
-    "date": "2026-09-01",
-    "summary_en": "This article reflects on the dramatic shift of the “Defund the Police” slogan from a rallying cry of the 2020 protests to a politically toxic term that mainstream Democrats now distance themselves from. It traces the slogan’s origins in years of grassroots activism, its brief moment of visibility, and the subsequent retreat by left‑wing politicians fearing electoral backlash. The piece highlights polling that shows strong public support for expanding social services, universal health care, and wealth redistribution, even as the specific call to defund policing has lost favor. It examines the rise of centrist counter‑campaigns like “Promise to America,” the internal Democratic debates over Harris’s 2024 loss, and the growing popularity of ideas such as bail reform and “care, not cops” crisis response. By juxtaposing the movement’s decentralized energy with the logistical challenges of coordinated policy, the author argues that while the slogan may be politically untenable, the underlying demand for comprehensive criminal‑justice reform and robust social safety nets remains potent. The article ends with Angie Nixon’s nuanced stance, suggesting a pragmatic path forward that sidesteps polarizing rhetoric while pursuing substantive change.",
-    "summary_zh": "这篇反思揭示了“取消警察经费”口号从激进愿景到政治现实的转变，展示了社会服务支持度上升与渐进式改革之间的矛盾。尼克松的务实立场暗示着左翼如何在保持目标的同时避免极端化。",
-    "best_quote_en": "I don’t support defunding the police. I do support comprehensive criminal-justice reform to make sure we are addressing some of the root causes of people leading into a life of crime.",
-    "best_quote_zh": "我不支持取消警察经费。我支持全面的刑事司法改革，以确保解决导致人们走上犯罪道路的部分根源。"
-  },
-  {
-    "id": 161,
-    "title": "Workshop Setup",
-    "title_zh": "工作坊设置",
-    "source": "Kevin Kelly",
-    "link": "https://kk.org/cooltools/workshop-setup/",
-    "tags": [
-      "guide",
-      "design",
-      "beginner-friendly"
-    ],
-    "tags_zh": [
-      "指导",
-      "设计创意",
-      "新手友好"
-    ],
-    "date": "2026-08-31",
-    "summary_en": "This piece reviews three essential guides for anyone building a functional workshop, emphasizing the often‑overlooked practical details that make a space truly usable. \"Setting Up Shop\" stands out for its meticulous attention to lighting, dust collection, wiring, and work‑surface height, prompting the reader to reconsider aspects of their own shop. \"Workshop Idea Book\" serves as a curated scrapbook of storage tricks and clever solutions, reminiscent of a Pinterest board for makers. Meanwhile, \"The Workshop Book\" broadens the horizon with portable and unconventional setups—from truck‑mounted benches to apartment‑sized corners—offering inspiration for general‑purpose spaces. The author highlights concrete strategies such as cord‑tangle prevention, DIY spray booths, and aligning machines in a line to reduce clearance, all illustrated with vivid photos. While the books focus heavily on woodworking, they nonetheless provide actionable insight for metal and plastic workers. In a world where the ultimate guide to small‑scale prototype shops remains unwritten, these three resources are a solid starting point for both novices and seasoned makers seeking to turn tools into a thriving creative environment.",
-    "summary_zh": "这篇文章深入探讨了三本关于车间设计的宝贵指南，强调了那些常被忽视的实用细节。无论是照明、除尘还是布线，每一个细节都能改变工作坊的效率。从创意存储技巧到便携式工作台的创新设计，这些书为任何拥有工具的人提供 actionable 的灵感。作者以个人视角反思了这些资源的价值，指出了它们在涵盖金属和塑料加工方面的局限性，但也认为它们为现代制造者提供了宝贵的起点。",
-    "best_quote_en": "Tools need a home. Setting Up Shop is the best guide I've found for designing a workshop. It focuses on the practical details that other workshop books tend to ignore, like how to arrange the lighting, or set up dust collectors, design the placement of wiring, even determining the height of work surfaces.",
-    "best_quote_zh": "工具需要一个家。 《Setting Up Shop》是我在设计工作坊时发现的最佳指南，它关注其他工作坊书籍常忽略的实用细节，如如何布置照明、设置除尘器、设计布线，甚至确定工作台的高度。"
-  },
-  {
-    "id": 162,
-    "title": "Share your tributes and memories of Gloria Steinem",
-    "title_zh": "分享您对格洛丽亚·斯泰因的致敬和回忆",
-    "source": "Women | The Guardian",
-    "link": "https://www.theguardian.com/books/2026/sep/03/share-your-tributes-and-memories-of-gloria-steinem",
-    "tags": [
-      "inspire",
-      "society",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "启发",
-      "社会议题",
-      "未来预测"
-    ],
-    "date": "2026-09-03",
-    "summary_en": "The Guardian invites readers to share their tributes and memories of Gloria Steinem following her recent death at 92. As a pioneering feminist and journalist, Steinem's activism helped secure greater rights for women worldwide, leaving an indelible mark on civil rights and public discourse. This community-driven feature transforms personal recollection into collective heritage, offering a platform where diverse voices can reflect on her influence—whether through direct encounters or admiration of her work. By crowdsourcing stories, the piece not only preserves individual experiences but also highlights the broader societal impact of her advocacy, inviting readers to engage actively with history and inspire future generations of activists. The initiative underscores the power of narrative in shaping cultural memory and demonstrates how digital media can facilitate participatory commemoration, turning grief into a shared, reflective dialogue about gender equality and social justice.",
-    "summary_zh": "随着格洛丽亚·斯泰因的离世，卫报开启了一场集体回忆之旅，邀请读者分享对这位女权运动先锋的致敬与记忆。她的故事不仅是个人传奇，更是全球女性rights斗争的缩影。通过用户投稿，这个平台将私人情感升华为公共记忆，让不同背景的人从各自的角度重新审视她的影响。这不仅是情感宣泄，更是对性别平等和公民权利的深刻反思，体现了数字时代如何以互动方式构建文化遗产。",
-    "best_quote_en": "We would like to hear your tributes and memories of Gloria Steinem – whether you met her, or appreciated her work.",
-    "best_quote_zh": "我们希望听到您对格洛丽亚·斯泰因的致敬和回忆——无论您是否与她相遇，或欣赏她的作品。"
-  },
-  {
     "id": 163,
     "title": "The Risk of Discovery",
     "title_zh": "发现的风险",
@@ -2304,5 +2214,97 @@
     "summary_zh": "AI 正在重塑開發者職責，程式碼已非唯一核心。學習如何指導 AI，而非只是使用它；批判性審視輸出、聚焦大局問題三項技能成為新標桿。我們需主動轉型，將 AI 視為助手而非競爭對手，藉此提升判斷力與戰略思維。透過不斷練習與反思，每位開發者都能掌握 AI 時代的新工作方式，保持競爭優勢。",
     "best_quote_en": "Learn to direct AI, not just use it.",
     "best_quote_zh": "學習如何指導 AI，而非只是使用它。"
+  },
+  {
+    "id": 259,
+    "title": "Are my gen X peers the influencers the world has been waiting for? | Emma Beddington",
+    "title_zh": "我的X世代同龄人难道不是世界期待的那些影响者吗？| 艾玛·贝丁顿",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/commentisfree/2026/oct/04/my-gen-x-peers-influencers",
+    "tags": [
+      "update",
+      "science",
+      "tech-trends",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "动态",
+      "科学研究",
+      "技术趋势",
+      "数据驱动"
+    ],
+    "date": "2026-10-04",
+    "summary_en": "Emma Beddington’s column reframes the narrative around Generation X, highlighting how this cohort—now at career peak, financially stable and increasingly visible on platforms like TikTok—embodies a quiet but potent form of influence. While younger audiences label them “the cool ones,” the article reveals the complex realities behind this perception: aging parents, demanding jobs, health challenges, and a cultural reluctance to self‑promote. Yet figures such as Kathryn Turner, M&S’s product‑development director, demonstrate a new archetype—competent, unpretentious, and digitally savvy—whose short‑form videos attract millions of devoted followers. Beddington suggests that this generation’s authentic, problem‑solving presence could become a cultural ASMR of competence, offering viewers a balm in turbulent times. The piece invites readers to reconsider what influence looks like, urging Gen X to leverage its unique position not just as consumers but as creators shaping digital discourse.",
+    "summary_zh": "贝丁顿文章重新定义了X世代的影响力：这一代人正处于职业巅峰，拥有财富与闲暇，却面临健康、家庭与自我推广的矛盾。 Kathryn Turner等普通人以真实视频展示出静默而强大的魅力，或许这就是未来数字内容的情感慰藉。",
+    "best_quote_en": "If gen X were a country, it would be the world's second-largest consumer market.",
+    "best_quote_zh": "如果X世代是一个国家，它将是世界第二大消费市场."
+  },
+  {
+    "id": 260,
+    "title": "ICE Is Everywhere and Acting with Impunity",
+    "title_zh": "ICE 无处不在，逍遥法外",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/magazine/2026/10/12/ice-is-everywhere-and-acting-with-impunity",
+    "tags": [
+      "analyze",
+      "politics",
+      "controversial"
+    ],
+    "tags_zh": [
+      "分析",
+      "政治时事",
+      "争议观点"
+    ],
+    "date": "2026-10-04",
+    "summary_en": "Jonathan Blitzer’s report reveals a stark transformation of American life under the Trump administration: Immigration and Customs Enforcement (ICE) agents now operate with near‑total impunity, conducting record‑breaking arrests—over 51,000 in August alone—at hospitals, airports, and schools. The article documents a litany of violent encounters, from a Black man mistaken for a fugitive to be left bleeding, to the fatal shooting of a Venezuelan delivery driver, and the broader pattern of unprosecuted deaths. Blitzer highlights how the Department of Homeland Security shields its officers, files false assault charges against victims, and blocks independent investigations, while states struggle to hold agents accountable. The piece also uncovers disturbing new equipment purchases, such as electric‑shock gloves, and the deliberate concealment of detainees’ whereabouts. By juxtaposing raw statistics with personal stories, the reporting underscores a systemic erosion of due process and raises urgent questions about the balance between security and civil liberties in contemporary America.",
+    "summary_zh": "ICE 的执法已成常态，暴力事件频发却无人承担责任。政府掩盖滥权，法律形同虚设，民主制度受威胁。反思权力制衡，呼唤透明问责。",
+    "best_quote_en": "It has taken the Trump Administration less than two years to make violent encounters with federal immigration agents a regular fact of American life.",
+    "best_quote_zh": "特朗普政府不到两年的时间里，就让与联邦移民官员的暴力冲突成为美国生活的常态。"
+  },
+  {
+    "id": 261,
+    "title": "Science of Attraction, Compatibility & Romance | Dr. Paul Eastwick",
+    "title_zh": "吸引力、兼容性与浪漫的科学 | 保罗·伊斯特威克博士",
+    "source": "Huberman Lab",
+    "link": "https://www.hubermanlab.com/episode/science-of-attraction-compatibility-and-romance-dr-paul-eastwick",
+    "tags": [
+      "analyze",
+      "science",
+      "ai-research",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "科学研究",
+      "AI研究",
+      "数据驱动"
+    ],
+    "date": "2026-06-22",
+    "summary_en": "Dr. Paul Eastwick, a psychology professor at UC Davis, brings the latest research on how humans choose partners into sharp focus. The conversation reveals surprising patterns: age preferences, financial priorities, and physical attractiveness often diverge from what truly sustains long‑term bonds. Eastwick critiques modern dating apps, arguing they amplify superficial traits that may undermine relationship durability. He outlines how initial attraction evolves, identifies the key predictors of stability and satisfaction, and offers concrete activities to broaden one’s dating pool. Practical tools for building healthy connections are woven throughout, making the episode both scientifically rigorous and immediately applicable. Whether you’re navigating a current partnership or preparing for one, the episode balances empirical insight with actionable guidance, encouraging listeners to reflect on their own selection criteria and to reconsider the cultural scripts that shape romantic choices. The blend of evolutionary theory, empirical data, and real‑world advice positions the discussion as essential reading for anyone curious about the science behind love.",
+    "summary_zh": "伊斯特威克博士揭示了人类伴侣选择的惊人秘密——年龄偏好、财务观念与外表吸引力如何与关系持久力相悖。约会应用强化了不利于长期的特质偏好，而科学提供了预测稳定与满意度的工具，以及拓展社交圈的实用方法。这场对话既是知识盛宴，也是情感实践指南。",
+    "best_quote_en": "Dating apps often lead people to select for traits that don't support lasting partnerships.",
+    "best_quote_zh": "约会应用程序常常导致人们选择那些无法支持长期关系的特质。"
+  },
+  {
+    "id": 262,
+    "title": "The Tim Ferriss Show Transcripts: How to Simplify Your Life — Tips from Oliver Burkeman, Chip Conley, Elizabeth Gilbert, and More (#885)",
+    "title_zh": "《蒂姆·菲瑞斯秀》 transcript：如何简化生活——来自奥利弗·伯克曼、奇普·科尼利、伊丽莎白·吉尔伯特等专家的建议 (#885)",
+    "source": "Tim Ferriss",
+    "link": "https://tim.blog/2026/10/03/how-to-simplify-your-life-4-transcript/",
+    "tags": [
+      "solve",
+      "lifestyle",
+      "case-study"
+    ],
+    "tags_zh": [
+      "解决",
+      "生活方式",
+      "案例研究"
+    ],
+    "date": "2026-10-03",
+    "summary_en": "This transcript from The Tim Ferriss Show explores practical pathways to simplify modern life, featuring insights from Chip Conley, Oliver Burkeman, Elizabeth Gilbert, and others. Conley recounts his near‑death experience that forced a \"mindful decoupling\" from a high‑stakes hotel empire, illustrating how relinquishing identity and embracing a \"chrysalis\" period of curiosity can spark new opportunities—exemplified by his later role at Airbnb. The episode blends personal storytelling with actionable strategies, emphasizing that simplicity isn’t about rigid minimalism but about reducing anxiety over external order and learning to trust reality. Burkeman’s contribution likely deepens this theme with his psychological perspective, while Gilbert adds her own narrative on creative flow. Together, they challenge the conventional hustle mindset, proposing that intentional space‑making, emotional fluency, and curiosity are essential tools for personal renewal and sustained productivity in a hyper‑connected world.",
+    "summary_zh": "这期《蒂姆·菲瑞斯秀》transcript 分享了简化生活的智慧，从健康危机中觉醒的奇普·科尼利讲述了从企业领导者到 Airbnb 执委的转变，倡导“有意识的解耦”，通过好奇心与空间创造新的可能，启发听众重新定义身份与简约生活。",
+    "best_quote_en": "Mindful decoupling means I said, \"I don't know what I'm supposed to do next, but I know I'm not supposed to do this anymore... I need to move toward this fertile ground, this chrysalis space.\"",
+    "best_quote_zh": "有意识的解耦意味着我会说：‘我不知道接下来该做什么，但我知道我不该继续这样做了……我需要走向那片肥沃的土壤，那个蛹的空间。’"
   }
 ]
