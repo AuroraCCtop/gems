@@ -1,47 +1,5 @@
 [
   {
-    "id": 163,
-    "title": "The Risk of Discovery",
-    "title_zh": "发现的风险",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/disc.html",
-    "tags": [
-      "solve",
-      "startup-strategy",
-      "science"
-    ],
-    "tags_zh": [
-      "解决",
-      "创业策略",
-      "科学研究"
-    ],
-    "date": "2026-09-03",
-    "summary_en": "The essay reflects on how popular biographies of famous scientists tend to sanitize their histories, omitting the risky experiments and speculative pursuits that underpinned their breakthroughs. By focusing on Newton’s dual work in physics, alchemy, and theology, the author shows that what we now regard as certain scientific truths were once uncertain bets. This selective memory creates a distorted view of discovery, making past successes appear inevitable rather than contingent. The piece urges readers to recognize the essential role of risk‑taking in innovation and to reconsider the \"crazy\" side of genius as a necessary component of progress. In doing so, it challenges the conventional narrative of linear advancement and calls for a more nuanced appreciation of the uncertainty that drives scientific and creative breakthroughs.",
-    "summary_zh": "当我们阅读科学家传记时，往往忽略了他们曾经付出的巨大风险，因为成功已成定论。我们需重新审视这种“事后诸葛亮”的视角，理解风险在创新中的必然性，并鼓励当今探索者勇于承担未知的赌注，重新发现科学精神中的疯狂与智慧。这提醒我们，真正的突破往往源于那些不畏风险的疯狂尝试，而非预先设定的路径。",
-    "best_quote_en": "Newton made three bets. One of them worked. But they were all risky.",
-    "best_quote_zh": "牛顿做了三个赌注。其中一个成功了。但它们都是冒险的。"
-  },
-  {
-    "id": 164,
-    "title": "Essentials: Use Sleep to Enhance Learning, Memory & Emotional State | Dr. Gina Poe",
-    "title_zh": "精要：利用睡眠增强学习、记忆与情绪状态 | 吉娜·波博士",
-    "source": "Huberman Lab",
-    "link": "https://www.hubermanlab.com/episode/essentials-use-sleep-to-enhance-learning-memory-and-emotional-state-gina-poe",
-    "tags": [
-      "learn",
-      "education"
-    ],
-    "tags_zh": [
-      "学习",
-      "教育学习"
-    ],
-    "date": "2026-09-03",
-    "summary_en": "This episode of Huberman Lab Essentials features Dr. Gina Poe, a leading sleep researcher from UCLA, exploring the fascinating architecture of sleep and its critical role in cognitive and emotional functioning. The discussion reveals how different sleep stages serve distinct purposes: early sleep supports memory consolidation and waste clearance, while REM sleep enhances creativity and emotional processing. Dr. Poe shares science-backed strategies like maintaining consistent bedtimes, avoiding alcohol before sleep, and developing calming bedtime routines to optimize these natural processes. The conversation bridges cutting-edge research with practical applications, offering listeners actionable tools to improve sleep quality, boost cognitive performance, and balance hormones. By understanding sleep's fundamental role in learning and emotional regulation, this content empowers individuals to harness their natural biological processes for enhanced well-being and productivity. The episode exemplifies how expert insights can transform abstract scientific knowledge into tangible lifestyle improvements.",
-    "summary_zh": "本期《Huberman实验室精要》邀请了 UCLA 整合生物与生理学教授吉娜·波博士，探讨了睡眠的精妙结构及其对认知和情绪的关键影响。波博士揭示了不同睡眠阶段的独特功能：早期睡眠促进记忆巩固和脑部废物清除，而 REM 睡眠则提升创造力和情绪处理。她分享了基于科学的研究成果，提供了一系列实用的睡眠优化方法，如保持规律的睡眠时间、避免睡前饮酒以及建立平静的睡前习惯。通过将前沿研究与实际应用相结合，这期节目为听众提供了实用的工具，以提升睡眠质量、增强认知表现并调节激素平衡。这不仅让我们理解了睡眠在学习和情绪调节中的重要作用，也展示了如何将科学知识转化为切实可行的生活改善策略。",
-    "best_quote_en": "Each stage of sleep serves a distinct purpose for memory consolidation, creativity, brain restoration, and emotional processing.",
-    "best_quote_zh": "每一种睡眠阶段都具有独特的功用，涉及记忆巩固、创造力提升、大脑修复和情绪调节。"
-  },
-  {
     "id": 165,
     "title": "How Donald Trump Outmaneuvers the Supreme Court",
     "title_zh": "特朗普如何智胜最高法院",
@@ -2306,5 +2264,53 @@
     "summary_zh": "这期《蒂姆·菲瑞斯秀》transcript 分享了简化生活的智慧，从健康危机中觉醒的奇普·科尼利讲述了从企业领导者到 Airbnb 执委的转变，倡导“有意识的解耦”，通过好奇心与空间创造新的可能，启发听众重新定义身份与简约生活。",
     "best_quote_en": "Mindful decoupling means I said, \"I don't know what I'm supposed to do next, but I know I'm not supposed to do this anymore... I need to move toward this fertile ground, this chrysalis space.\"",
     "best_quote_zh": "有意识的解耦意味着我会说：‘我不知道接下来该做什么，但我知道我不该继续这样做了……我需要走向那片肥沃的土壤，那个蛹的空间。’"
+  },
+  {
+    "id": 263,
+    "title": "A new start after 60: Menopausal and out of work, I sat crying in my car. Now, I’m a standup comedian",
+    "title_zh": "60岁后新的开始：绝经后失业，我在车里哭泣。现在，我是一名单口相声演员",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/lifeandstyle/2026/oct/05/a-new-start-after-60-menopausal-out-of-work-standup-comedian",
+    "tags": [
+      "solve",
+      "lifestyle",
+      "society",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "解决",
+      "生活方式",
+      "社会议题",
+      "未来预测"
+    ],
+    "date": "2026-10-05",
+    "summary_en": "Barbara Scully’s journey from a 60‑year‑old mother who could not find work to a thriving stand‑up comedian illustrates how late‑stage career reinvention can become a powerful act of resistance against ageism and narrow expectations for women. After a series of “sixth careers” that included travel agent, tutor, fundraiser and author, Scully hit a crisis when she could not secure even social welfare, prompting a tearful car‑side epiphany that she must “make her own work.” Turning to comedy, she discovered a platform where her voice—initially honed through charity speaking and journalism—could amplify the experiences of menopausal women and challenge the cultural obsession with youthful appearance. Her show, “Because I’m Worth It,” now draws capacity audiences across Ireland, delivering both humor and a deeper message about embracing ageing as a portal to renewed purpose. The narrative not only showcases personal resilience but also critiques structural barriers that render older women invisible in the labor market, offering a model for how creative expression can transform perceived failure into a source of inspiration and social commentary.",
+    "summary_zh": "64岁的芭芭拉·斯科利从失业到成为单口喜剧演员，她将绝经视为新的起点，挑战年龄歧视，激励女性拥抱衰老，活出自我。这篇故事展现了中年女性的韧性与重塑自我力量，也引发对社会对老年女性期望的反思。",
+    "best_quote_en": "I'm spending my time and money and energy doing stuff that makes me happy.",
+    "best_quote_zh": "我正在花时间、金钱和精力去做让我快乐的事情。"
+  },
+  {
+    "id": 264,
+    "title": "Year of the Horse",
+    "title_zh": "马年",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/magazine/2026/10/12/year-of-the-horse",
+    "tags": [
+      "solve",
+      "politics",
+      "ai-research",
+      "controversial"
+    ],
+    "tags_zh": [
+      "解决",
+      "政治时事",
+      "AI研究",
+      "争议观点"
+    ],
+    "date": "2026-10-05",
+    "summary_en": "The article \"Year of the Horse\" charts the escalating clash over Central Park’s horse‑drawn carriage industry, sparked by the fatal accident of tourist Romanch Mahajan and a string of earlier equine mishaps. It weaves together the industry’s defenders—drivers like Christina Hansen and Ahmet Bilici, who celebrate horses as historic workers and cultural icons—with animal‑rights advocates and grieving families demanding bans such as \"Romanch’s Law.\" The piece reveals how nostalgia, livelihoods, and safety concerns collide, and how the pandemic supercharged park use, amplifying risk. It also probes the broader ethical question of animals in urban tourism, the political momentum generated by a high‑profile death, and the city’s struggle to balance a cherished past with a humane, modern future. Ultimately, the narrative asks what we stand to lose—or gain—by ending a 160‑year tradition, and whether New York can reconcile its romantic heritage with contemporary values.",
+    "summary_zh": "《马年》描摹了纽约中央公园马车业的生死存亡。少年游客罗马奇的死与多起马匹事故，推动了公众舆论与立法。文章通过司机与动物保护者的对话，揭示了传统、就业与动物福利之间的冲突，发人深省：我们能否在保留城市记忆的同时，拥抱更人道的都市生活方式？",
+    "best_quote_en": "Horses have been with us for six thousand years. Civilization as we know it is a partnership, and what you’re seeing is an attempt to sever this partnership.",
+    "best_quote_zh": "马匹与我们相伴六千年。文明就是一种伙伴关系，而你眼前所见，不过是试图切断这种关系。"
   }
 ]
