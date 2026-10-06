@@ -1,27 +1,5 @@
 [
   {
-    "id": 165,
-    "title": "How Donald Trump Outmaneuvers the Supreme Court",
-    "title_zh": "特朗普如何智胜最高法院",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/news/the-lede/how-donald-trump-outmaneuvers-the-supreme-court",
-    "tags": [
-      "guide",
-      "politics",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "指导",
-      "政治时事",
-      "未来预测"
-    ],
-    "date": "2026-09-04",
-    "summary_en": "Ruth Marcus dissects how the Trump administration leverages rapid construction and procedural maneuvers to outrun judicial review, testing the Supreme Court’s willingness to curb executive overreach. The article details the contentious White House ballroom project, where the Court’s conservative majority enabled the work despite lower‑court objections, highlighting a pattern of deferring to presidential power. Chief Justice John Roberts’ surprising dissent underscores constitutional limits, noting Congress’s authority over D.C. property and warning that the ballroom’s construction is likely unlawful. The piece also previews the looming battle over mail‑in ballot restrictions, where the Court’s emergency docket may again favor the administration. Marcus’s analysis reveals a judiciary increasingly strained by political pressure, raising urgent questions about the rule of law and the Court’s role as a check on executive ambition.",
-    "summary_zh": "特朗普政府通过快速施工和法律策略，试图绕过司法审查。最高法院保守派多数支持其行动，淡化了司法制衡。首席大法官罗伯茨罕见持反对意见，强调国会需授权，认为施工可能非法。此文揭示了总统权力扩张的危险，以及法院在面对政治压力时如何坚守规则。",
-    "best_quote_en": "That construction is likely unlawful.",
-    "best_quote_zh": "该施工很可能是非法的。"
-  },
-  {
     "id": 166,
     "title": "Project Covalence",
     "title_zh": "Covalence 项目",
@@ -2312,5 +2290,29 @@
     "summary_zh": "《马年》描摹了纽约中央公园马车业的生死存亡。少年游客罗马奇的死与多起马匹事故，推动了公众舆论与立法。文章通过司机与动物保护者的对话，揭示了传统、就业与动物福利之间的冲突，发人深省：我们能否在保留城市记忆的同时，拥抱更人道的都市生活方式？",
     "best_quote_en": "Horses have been with us for six thousand years. Civilization as we know it is a partnership, and what you’re seeing is an attempt to sever this partnership.",
     "best_quote_zh": "马匹与我们相伴六千年。文明就是一种伙伴关系，而你眼前所见，不过是试图切断这种关系。"
+  },
+  {
+    "id": 265,
+    "title": "Tracking Mice",
+    "title_zh": "追踪鼠标",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/tracking-mice/",
+    "tags": [
+      "guide",
+      "design",
+      "lifestyle",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "指导",
+      "设计创意",
+      "生活方式",
+      "未来预测"
+    ],
+    "date": "2026-10-05",
+    "summary_en": "This curated roundup explores a spectrum of innovative computer input devices, each designed to solve specific workflow and health challenges. The SpaceNavigator’s six‑axis 3D control dramatically boosts productivity for SketchUp and other modeling software, turning complex navigation into an intuitive, fun experience. Meanwhile, Logitech’s Performance and Anywhere MX mice showcase hyper‑fast scrolling and Darkfield tracking, reducing finger strain for engineers and power users while maintaining comfort across varied surfaces. The Evoluent ergonomic mouse offers a neutral wrist posture that can eliminate chronic pain for designers, and the Logitech Marble provides an affordable, ambidextrous trackball that protects wrists during long editing sessions. Together, these tools illustrate how thoughtful hardware can amplify efficiency, safeguard health, and enhance enjoyment, urging users to weigh cost against long‑term ergonomic benefits and platform compatibility. The collection serves as a practical guide for anyone seeking to upgrade their input experience.",
+    "summary_zh": "这篇合集介绍了多种创新输入设备，涵盖了从提升3D建模效率的SpaceNavigator，到缓解重复性劳损的Ergonomic鼠标，再到经济实惠的Trackball。它们不仅提高生产力，也保护健康，提醒我们在追求性能的同时别忽视用户体验和长期福祉。",
+    "best_quote_en": "It provides a huge increase in productivity and, frankly, fun.",
+    "best_quote_zh": "它提供了巨大的生产力提升，说实话还很有趣。"
   }
 ]
