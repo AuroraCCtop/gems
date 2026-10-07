@@ -1,73 +1,5 @@
 [
   {
-    "id": 166,
-    "title": "Project Covalence",
-    "title_zh": "Covalence 项目",
-    "source": "Sam Altman",
-    "link": "https://blog.samaltman.com/project-covalence",
-    "tags": [
-      "solve",
-      "medicine",
-      "science",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "解决",
-      "医学健康",
-      "科学研究",
-      "数据驱动"
-    ],
-    "date": "2020-06-16",
-    "summary_en": "Project Covalence emerges as a bold initiative to overhaul COVID‑19 clinical research by tackling one of its most stubborn bottlenecks: the speed and cost of trials. Partnering with TrialSpark and Dr. Mark Fishman, the platform re‑imagines how studies can be conducted outside traditional hospital walls, leveraging home‑based testing, telemedicine, and remote data capture that meets 21 CFR Part 11 standards. By providing shared infrastructure—sample kits, biostatistical support, protocol drafting, and adaptive master protocols—the project enables academic and industry researchers to launch trials rapidly, reducing strain on health systems and accelerating evidence generation. The underlying premise is that scientific rigor need not be sacrificed for agility; instead, technology and collaborative design can compress timelines while preserving data integrity. In a crisis where every month counts, Covalence’s approach illustrates how operational innovation can amplify the impact of biomedical research, offering a template for future pandemic responses and potentially reshaping the broader clinical‑trial ecosystem.",
-    "summary_zh": "Project Covalence 提出了一个突破性方案，通过家庭化临床试验、远程医疗和共享基础设施，加速 COVID‑19 研究，降低成本，减轻医院负担，展现了科学与创新在危机中的强大结合力量。",
-    "best_quote_en": "Science remains the only way out of the COVID‑19 crisis. Dramatically improving clinical trials, which are usually time‑consuming and cost tens to hundreds of millions of dollars, is one of the highest‑leverage ways to get out of it faster.",
-    "best_quote_zh": "科学是走出 COVID‑19 危机的唯一途径。极大地改进临床试验——这通常需要耗时且成本高昂——是加快摆脱危机的最高效方式之一。"
-  },
-  {
-    "id": 167,
-    "title": "GitHub Copilot app for Beginners: Run several agents at once",
-    "title_zh": "GitHub Copilot 应用入门：一次运行多个代理",
-    "source": "GitHub Blog",
-    "link": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-run-several-agents-at-once/",
-    "tags": [
-      "guide",
-      "design",
-      "beginner-friendly"
-    ],
-    "tags_zh": [
-      "指导",
-      "设计创意",
-      "新手友好"
-    ],
-    "date": "2026-09-03",
-    "summary_en": "This article teaches beginners how to leverage GitHub Copilot's parallel agent sessions to run multiple AI agents simultaneously without interference. Using an intuitive laundromat metaphor, it explains how each agent operates independently on its own Git worktree, maintaining separate contexts while working concurrently. The piece provides practical implementation guidance through a real-world example of managing three tasks—feature development, accessibility review, and testing—demonstrating how developers can increase productivity by delegating work to multiple AI agents that run in parallel. This approach transforms potential chaos into organized, efficient workflow management, allowing developers to focus on review and decision-making rather than monitoring individual agent progress.",
-    "summary_zh": "这篇文章教初学者如何利用 GitHub Copilot 应用同时运行多个 AI 代理，而不会产生冲突。通过生动的洗衣店比喻，作者解释了每个代理如何在独立的 Git worktree 上运行，保持独立上下文的同时并行工作。文章通过实际案例展示了如何同时管理三个任务：功能开发、无障碍审查和测试演示。这种方法将潜在的混乱转化为高效的工作流程，让开发者专注于审查和决策，而不是监控代理进度。",
-    "best_quote_en": "Think of parallel agent sessions like a trip to the laundromat. You can start multiple loads of laundry at the same time, in their own machines. You can set each washer with its own settings, and it won't impact the other loads.",
-    "best_quote_zh": "将并行代理会话想象成去洗衣店。您可以同时启动多轮洗衣，各自在不同的机器中运行。您可以为每个洗衣机设置自己的参数，而不会影响其他洗衣。"
-  },
-  {
-    "id": 168,
-    "title": "How to Make Pittsburgh a Startup Hub",
-    "title_zh": "如何让匹兹堡成为创业中心",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/pgh.html",
-    "tags": [
-      "solve",
-      "startup-strategy",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "解决",
-      "创业策略",
-      "数据驱动"
-    ],
-    "date": "2026-09-05",
-    "summary_en": "This talk offers a compelling, data‑driven roadmap for transforming Pittsburgh into a vibrant startup hub by amplifying its existing strengths rather than importing new ones. The speaker blends personal nostalgia with sharp analysis, highlighting the city’s youth‑driven food scene, affordable yet livable historic housing, dense pedestrian‑friendly neighborhoods, and the world‑class Carnegie Mellon University as natural catalysts. He argues that the key is to nurture tolerance, preserve historic architecture, and create an environment where founders can pursue side projects without institutional interference—exemplified by Harvard’s “Reading Period” model. While acknowledging the current lack of a robust investor community, he points to cheaper startup capital, crowdfunding platforms, and global accelerators as mitigating factors. The talk balances pragmatic policy advice with an inspirational vision, suggesting that Pittsburgh’s unique cultural and physical attributes give it a rare opportunity to become the next Silicon Valley on its own terms.",
-    "summary_zh": "这篇演讲以数据为依据，提出了一个通过强化自身优势将匹兹堡打造成创业中心的策略。演讲者将个人回忆与严谨分析相结合，指出年轻人口驱动的餐饮业、宜居的历史建筑、密集的步行街区以及卡内基梅隆大学等都是天然的推动力。他强调营造宽容、保护历史建筑、利用密度，以及让创业者自由探索的氛围——如哈佛大学的“阅读期”模式。虽然目前缺乏强大的投资社区，但 cheaper 启动成本、众筹和全球加速器等趋势减轻了这一负担。演讲既提供了务实的政策建议，又描绘了激励人心的愿景，认为匹兹堡的独特文化和物理属性使其具备成为下一个硅谷的独特机会。",
-    "best_quote_en": "If you want to know where startups come from, look at the empirical evidence. Look at the histories of the most successful startups, and you'll find they grow organically out of a couple of founders building something that starts as an interesting side project.",
-    "best_quote_zh": "要了解创业企业从何而来，就看实证数据。看看最成功的创业企业的历史，你会发现它们是几位创始人从有趣的副业项目中 organically 发展起来的。"
-  },
-  {
     "id": 169,
     "title": "How to Accelerate Learning & Improve Education | Joe Liemandt",
     "title_zh": "如何加速学习与改善教育 | 乔·利曼德特",
@@ -2314,5 +2246,77 @@
     "summary_zh": "这篇合集介绍了多种创新输入设备，涵盖了从提升3D建模效率的SpaceNavigator，到缓解重复性劳损的Ergonomic鼠标，再到经济实惠的Trackball。它们不仅提高生产力，也保护健康，提醒我们在追求性能的同时别忽视用户体验和长期福祉。",
     "best_quote_en": "It provides a huge increase in productivity and, frankly, fun.",
     "best_quote_zh": "它提供了巨大的生产力提升，说实话还很有趣。"
+  },
+  {
+    "id": 266,
+    "title": "How the Billions from the Opioid Settlement Are Being Spent",
+    "title_zh": "奥匹奥伊登毒品和非法药物解决协议下的数十亿美元是如何花费的",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/the-lede/how-the-billions-from-the-opioid-settlement-are-being-spent",
+    "tags": [
+      "analyze",
+      "politics",
+      "society",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "分析",
+      "政治时事",
+      "社会议题",
+      "未来预测"
+    ],
+    "date": "2026-10-07",
+    "summary_en": "The article investigates how billions from opioid settlements are allocated across the United States, highlighting a stark split between recovery funding and law‑enforcement spending. While West Virginia received the largest per‑capita payout, local governments have directed much of the money toward shooting ranges, police equipment, drones, and training centers, prompting criticism from community advocates who argue the funds should prioritize treatment and harm‑reduction services. The piece draws parallels to the tobacco master settlement, notes the legal requirement that 85 % of money be spent on remediation, and exposes weak oversight, inconsistent reporting, and the practice of supplantation. Voices from recovery groups, nonprofit watchdogs, and former officials reveal a growing concern that the settlement’s intent—to address a public‑health crisis—is being diluted by political discretion and a lack of clear guidance, leaving the opioid epidemic’s underlying drivers largely unaddressed.",
+    "summary_zh": "这篇文章深入调查了美国 opioid 结算基金的分配现状，揭示出在健康恢复与执法开支之间的明显失衡。尽管法律规定 85% 的资金必须用于缓解毒品危害，但许多资金却被用于枪械训练中心、警察装备、无人机等，引发了社区倡导者的强烈批评。文章通过案例展示了监督不力、报告不一致以及“资金替代”现象，指出这些问题可能导致 opioid 危机的公共卫生目标被削弱。",
+    "best_quote_en": "The money is generally moving too slow, and we’re actively in crisis.",
+    "best_quote_zh": "资金的流动普遍过于缓慢，而我们正处于危机之中。"
+  },
+  {
+    "id": 267,
+    "title": "Shaman Vol. 1 / Adventures with Barefoot Critters",
+    "title_zh": "萨满：卷一 / 赤脚小动物的冒险",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/shaman-vol-1-adventures-with-barefoot-critters/",
+    "tags": [
+      "analyze",
+      "society",
+      "design",
+      "beginner-friendly"
+    ],
+    "tags_zh": [
+      "分析",
+      "社会议题",
+      "设计创意",
+      "新手友好"
+    ],
+    "date": "2026-10-06",
+    "summary_en": "Ben Kahn and Bruno Hidalgo’s *Shaman Vol. 1* delivers a wildly entertaining comic that balances absurd humor with profound explorations of family, morality, and loss. The narrative’s gray‑area storytelling and multi‑dimensional characters feel surprisingly human, while Hidalgo’s dynamic art amplifies both comedy and drama. In contrast, Teagan White’s *Adventures with Barefoot Critters* reimagines the ABC format, weaving seasonal tales of woodland creatures through vibrant, nostalgic illustrations. Though the premise seems simple, the book offers genuine educational depth and emotional resonance. Together, these works demonstrate how genre‑bending creativity can serve both pure enjoyment and meaningful reflection, proving that even playful formats can deliver substantive, memorable experiences.",
+    "summary_zh": "《萨满：卷一》以荒诞与深思并存的方式，探讨了家庭、道德与失去的主题；《赤脚小动物的冒险》则以生动的图画和季节故事重塑了字母教学的边界。两部作品展现了创意如何在娱乐中蕴含教育意义，令人回味无穷。",
+    "best_quote_en": "Shaman is serving a full meal for dinner – it just happens to be one with a deliciously sweet and fun frosting on top.",
+    "best_quote_zh": "萨满这本书就像一顿丰盛的晚餐，只是上面撒满了甜美的、有趣的糖霜。"
+  },
+  {
+    "id": 268,
+    "title": "Building Git infrastructure for agent-scale development",
+    "title_zh": "构建支持代理规模开发的 Git 基础设施",
+    "source": "GitHub Blog",
+    "link": "https://github.blog/engineering/architecture-optimization/building-git-infrastructure-for-agent-scale-development/",
+    "tags": [
+      "analyze",
+      "programming",
+      "ai-research",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "分析",
+      "编程开发",
+      "AI研究",
+      "未来预测"
+    ],
+    "date": "2026-10-06",
+    "summary_en": "GitHub is rebuilding its Git infrastructure to meet the demands of agentic software development, where millions of concurrent commits and reads strain traditional architectures. The post outlines key challenges: commit latency becoming a bottleneck, write throughput exploding, merges contending on a single reference, and read fan‑out multiplying with CI and agents. To solve these, GitHub adopts three core design principles: minimizing coordination so only reference updates need agreement, moving maintenance (compaction, garbage collection) off the serving path, and decoupling storage from compute. Durable storage now lives in Azure Blob Storage, while lightweight workers handle reads and caching. This separation lets reads scale independently, reduces write latency, and improves failure recovery. The result is up to 35× higher write throughput and elastic read capacity, all while preserving the controls developers rely on—branch protection, review workflows, audit logs, and observability. The shift reflects a broader move toward automated, AI‑driven development and underscores the need for foundations that balance performance, reliability, and governance.",
+    "summary_zh": "GitHub 重建 Git 基础设施以应对代理规模开发，解决 commit 延迟、写入瓶颈、读写分离等挑战。通过最小化协调、将维护转移到后台以及解耦存储与计算，新架构实现高达 35 倍的写入吞吐量，同时保持分支保护、审核和审计等控制不变。这为 AI 驱动的开发提供了更坚实的基础，也提升了所有用户的体验。",
+    "best_quote_en": "We’re rebuilding GitHub's Git infrastructure to support them.",
+    "best_quote_zh": "我们正在重建 GitHub 的 Git 基础设施，以支持它们。"
   }
 ]
