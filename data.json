@@ -1,53 +1,5 @@
 [
   {
-    "id": 169,
-    "title": "How to Accelerate Learning & Improve Education | Joe Liemandt",
-    "title_zh": "如何加速学习与改善教育 | 乔·利曼德特",
-    "source": "Huberman Lab",
-    "link": "https://www.hubermanlab.com/episode/how-to-accelerate-learning-and-improve-education-joe-liemandt",
-    "tags": [
-      "solve",
-      "education",
-      "science",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "解决",
-      "教育学习",
-      "科学研究",
-      "数据驱动"
-    ],
-    "date": "2026-08-31",
-    "summary_en": "This episode explores Joe Liemandt’s Alpha School, a K‒1 2 model that leverages AI and individualized learning to compress academic mastery into roughly two hours daily. By employing adaptive algorithms, students progress at their own pace, allowing extensive time for entrepreneurship, experimentation, community engagement, and life‑skill development. The discussion highlights tangible tools for parents and educators, current efficacy data, and Liemandt’s vision of AI reshaping human potential beyond traditional schooling. The conversation underscores the transformative power of personalized AI tutoring, the shift from time‑based to mastery‑based education, and the broader societal implications of re‑engineering learning ecosystems to foster innovation, resilience, and real‑world competence.",
-    "summary_zh": "乔·利曼德特的阿尔法学校利用人工智能和个性化学习，将学术掌握时间压缩至两小时 daily，释放学生时间从事创业、实验、社区和生活技能培养。探讨了可落地工具、当前成效及AI重塑教育的愿景，展示了从时间本位到掌握本位的范式转变。",
-    "best_quote_en": "Alpha School helps students master academics in just two hours a day using AI and individualized learning.",
-    "best_quote_zh": "阿尔法学校利用人工智能和个性化学习，帮助学生在短短两小时内掌握学术知识。"
-  },
-  {
-    "id": 170,
-    "title": "The Tim Ferriss Show Transcripts: Tales of Overcoming The Odds, and How to Turn Losses Into Wins — Tim McGraw, Terry Crews, Dax Shepard, and More (#881)",
-    "title_zh": "《泰姆·弗里斯秀》文字稿：克服逆境的故事，以及如何将失败转化为成功——泰·麦葛、泰瑞·克鲁斯、大·谢泼德等（第881期）",
-    "source": "Tim Ferriss",
-    "link": "https://tim.blog/2026/09/04/failure-into-success-transcript/",
-    "tags": [
-      "solve",
-      "ai-research",
-      "lifestyle",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "解决",
-      "AI研究",
-      "生活方式",
-      "数据驱动"
-    ],
-    "date": "2026-09-05",
-    "summary_en": "This transcript of Tim Ferriss’s 881st episode dives into the art of turning setbacks into opportunities. Guests such as country star Tim McGraw, actor Terry Crews, and comedian Dax Shepard share personal stories of failure—from a high‑school basketball loss to near‑fatal accidents—and reveal how those moments sparked resilience and growth. A particularly moving segment follows BJ Miller, a disability advocate who retrofitted a motorcycle to ride despite losing limbs, illustrating extraordinary problem‑solving and determination. The conversation weaves practical lessons with profound reflections on identity, community, and the “following state” where curiosity outweighs certainty. By spotlighting diverse pathways from loss to triumph, the episode offers both inspirational motivation and actionable insight for anyone navigating adversity. It underscores that failure is not an endpoint but a catalyst for reinvention when approached with openness and support.",
-    "summary_zh": "这期《泰姆·弗里斯秀》文字稿探讨了如何将挫折转化为机遇。嘉宾泰·麦葛、泰瑞·克鲁斯、大·谢泼德等分享了从高中篮球失利到意外受伤等失败经历，并揭示这些时刻如何催生韧性与成长。BJ·米勒通过改装摩托车克服肢体缺失的故事尤其令人动容，展现了非凡的解决能力和决心。对话交织了实用教训与深刻反思，触及身份、社区与“跟随状态”的哲学思辨——在这种状态中，好奇心超越确定性。本期节目不仅激励人心，也提供可操作的洞察，提醒我们在逆境中，失败是重新发明的机会，前提是保持开放与支持。",
-    "best_quote_en": "Setbacks can often present opportunities, if you know how to look for them.",
-    "best_quote_zh": "挫折往往能带来机会，只要你知道如何去寻找它们。"
-  },
-  {
     "id": 171,
     "title": "For Gloria Steinem, fashion was about much more than aesthetics",
     "title_zh": "对格洛丽亚·斯坦因来说，时尚不仅仅是审美",
@@ -2318,5 +2270,53 @@
     "summary_zh": "GitHub 重建 Git 基础设施以应对代理规模开发，解决 commit 延迟、写入瓶颈、读写分离等挑战。通过最小化协调、将维护转移到后台以及解耦存储与计算，新架构实现高达 35 倍的写入吞吐量，同时保持分支保护、审核和审计等控制不变。这为 AI 驱动的开发提供了更坚实的基础，也提升了所有用户的体验。",
     "best_quote_en": "We’re rebuilding GitHub's Git infrastructure to support them.",
     "best_quote_zh": "我们正在重建 GitHub 的 Git 基础设施，以支持它们。"
+  },
+  {
+    "id": 269,
+    "title": "A Clarification",
+    "title_zh": "澄清",
+    "source": "Sam Altman",
+    "link": "https://blog.samaltman.com/a-clarification",
+    "tags": [
+      "inspire",
+      "psychology",
+      "society",
+      "controversial"
+    ],
+    "tags_zh": [
+      "启发",
+      "心理学",
+      "社会议题",
+      "争议观点"
+    ],
+    "date": "2017-12-16",
+    "summary_en": "Sam Altman clarifies a prior post that sparked controversy, emphasizing that his intent was never to condone bigotry but to argue for societal tolerance of unpopular ideas as a catalyst for scientific and social progress. He notes that the most transformative discoveries and reforms begin as fringe viewpoints, citing the historic shift in gay rights as a case where free speech enabled moral correction. Altman acknowledges the difficulty of distinguishing harmful hate speech from legitimate dissent, stressing that while many misuse free speech to be jerks, the system eventually yields a more just world. He also speculates on future moral reckonings—such as meat consumption and poverty—suggesting that today’s offensive ideas may become tomorrow’s ethical standards. The piece serves as a thoughtful reminder of the delicate balance between protecting discourse and combating discrimination, urging readers to consider how societies evolve through contested dialogue.",
+    "summary_zh": "Altman 澄清了之前对容忍与进步的误解，指出社会应保护争议性思想而非偏见。他强调言论自由是推动进步的必要条件，历史证明挑战正统能带来道德提升，同时承认划定界限的困难。这提醒我们保持开放思维，平衡保护与批判。",
+    "best_quote_en": "We need to allow free speech because sometimes society is wrong—we needed people to be able to say 'gay people are ok' at a time when 'gay people are evil' was the consensus opinion.",
+    "best_quote_zh": "我们需要允许言论自由，因为有时社会是错误的——我们需要能够说出‘同性恋没问题’的人，而‘同性恋是邪恶的’曾是共识。"
+  },
+  {
+    "id": 270,
+    "title": "Essentials: Manage Stress & Build Resilience | Dr. Elissa Epel",
+    "title_zh": " Essentials: 管理压力与建立韧性 | 埃利萨·埃佩尔博士",
+    "source": "Huberman Lab",
+    "link": "https://www.hubermanlab.com/episode/essentials-manage-stress-and-build-resilience-elissa-epel",
+    "tags": [
+      "learn",
+      "psychology",
+      "education",
+      "beginner-friendly"
+    ],
+    "tags_zh": [
+      "学习",
+      "心理学",
+      "教育学习",
+      "新手友好"
+    ],
+    "date": "2026-10-08",
+    "summary_en": "This Huberman Lab Essentials episode features Dr. Elissa Epel exploring the profound impacts of stress on our bodies and minds, from cellular aging to mitochondrial health. The discussion bridges cutting-edge scientific research with practical, evidence-based strategies for managing both acute and chronic stress. Dr. Epel offers actionable tools for reducing rumination, reframing stress as a challenge rather than a threat, and cultivating resilience through radical acceptance and purpose-driven approaches. The episode provides valuable insights for anyone seeking to understand stress's biological mechanisms while acquiring concrete techniques to enhance mental and physical well-being, making it essential listening for those interested in science-based approaches to stress management and personal growth.",
+    "summary_zh": "这期 Huberman Lab Essentials 邀请了埃利萨·埃佩尔博士，探讨了压力对身体和大脑的深远影响，从细胞衰老到线粒体健康。节目将前沿科学研究与实用的减压策略相结合，提供减少沉思、将压力重构为挑战并通过接纳和目标感建立韧性的具体方法。这对于寻求科学压力管理方法的听众来说非常宝贵。",
+    "best_quote_en": "We can reframe stress as a challenge and build resilience through tools like radical acceptance and a sense of purpose.",
+    "best_quote_zh": "我们可以通过接纳和目标感等工具，将压力重构为挑战并建立韧性。"
   }
 ]
