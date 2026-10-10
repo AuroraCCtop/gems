@@ -1,75 +1,5 @@
 [
   {
-    "id": 174,
-    "title": "Life is Short",
-    "title_zh": "生命短暂",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/vb.html",
-    "tags": [
-      "solve",
-      "startup-strategy",
-      "lifestyle",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "解决",
-      "创业策略",
-      "生活方式",
-      "未来预测"
-    ],
-    "date": "2026-09-07",
-    "summary_en": "This essay reflects on the perception of life’s brevity, using parenthood as a lens to transform abstract time into concrete moments—weeks, holidays, and childhood experiences become countable, revealing life’s inherent shortness. The author argues that recognizing this scarcity reframes common expressions like “life is too short” from mere complaints into actionable warnings against “bullshit,” defined as time‑wasting activities forced or self‑chosen. By distinguishing between unavoidable duties and self‑induced distractions, the piece offers practical strategies: choose employers and clients that minimize nonsense, avoid reactive online arguments, and cultivate impatience for meaningful pursuits. The narrative also highlights the importance of savoring present experiences, learning what truly matters, and resisting the addictive pull of modern distractions. Ultimately, the work blends philosophical insight with tangible life‑hacks, encouraging readers to prune waste, act on priorities, and appreciate fleeting moments before they vanish.",
-    "summary_zh": "作者以育儿视角将抽象的时间转化为具体片段，揭示生命的短暂性。他主张将“生命短暂”从修辞转为行动指南，警惕“垃圾信息”——那些浪费时间的事物。文章提供实用策略：选择低浪费的工作/客户、避免网络争斗、培养对有意义事务的迫切感，并强调珍惜当下、辨别真正重要的事物，平衡生活中的义务与自我选择。",
-    "best_quote_en": "Bullshit is the junk food of experience.",
-    "best_quote_zh": "那些浪费时间的东西，就是经验的垃圾食品。"
-  },
-  {
-    "id": 175,
-    "title": "The Death of Shame Is Tearing Us Apart",
-    "title_zh": "羞耻的消亡正在撕裂我们",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/news/fault-lines/the-death-of-shame-is-tearing-us-apart",
-    "tags": [
-      "inspire",
-      "society",
-      "leadership",
-      "controversial"
-    ],
-    "tags_zh": [
-      "启发",
-      "社会议题",
-      "领导管理",
-      "争议观点"
-    ],
-    "date": "2026-09-08",
-    "summary_en": "Jay Caspian Kang’s column dissects how the erosion of shame—once a social regulator—has accelerated in an “optimization culture” driven by ROI calculations and amplified by social media. Through the lens of NBA tanking, Kang traces the historical shift from communal norms to self‑interested strategies, arguing that the loss of collective shame fuels societal atomization. He juxtaposes two interpretations: one attributing the decline to technological mediation of morality, the other to a moral collapse triggered by opportunistic actors. Kang’s analysis reveals that the conflict between optimizers and empaths now defines America’s cultural battleground, suggesting that only deliberate regulation and restored social barriers can counter the relentless drive for profit. The piece blends deep cultural criticism with personal reflection, urging readers to consider how shame’s disappearance reshapes community, ethics, and public discourse.",
-    "summary_zh": "康杰伊文章剖析了羞耻的消亡如何在“优化文化”中加剧，这种文化以ROI为导向，并因社交媒体而放大。通过NBA坦克战的历史，作者揭示了从共同规范到自利策略的转变。他提出两种解释：一是技术媒介重塑道德，二是自利者打破社会契约。文章指出，优化者与同理心者之间的冲突已成为美国文化战争的核心。作者呼吁通过监管与社会屏障来重塑羞耻，重建社区与伦理。",
-    "best_quote_en": "\"We’ve gone into an optimization culture that removes the guardrails that shame used to provide,\" Foxworth said.",
-    "best_quote_zh": "\"我们已经进入了一种优化文化，它移除了羞耻曾经提供的约束。\""
-  },
-  {
-    "id": 176,
-    "title": "Nature Study",
-    "title_zh": "自然研究",
-    "source": "Kevin Kelly",
-    "link": "https://kk.org/cooltools/nature-study/",
-    "tags": [
-      "guide",
-      "science",
-      "design"
-    ],
-    "tags_zh": [
-      "指导",
-      "科学研究",
-      "设计创意"
-    ],
-    "date": "2026-09-07",
-    "summary_en": "This piece explores unconventional ways to study nature, weaving together audio recording, affordable optics, and hands‑on field projects. The author praises Bernie Krause’s guide to wild soundscapes, revealing how capturing subtle sounds can re‑teach us to perceive the natural world through a new sensory channel. A deep dive into Nikon’s Monarch binoculars shows how modern optics deliver near‑professional performance at a fraction of traditional cost, making prolonged observation of birds, insects, and landscapes both comfortable and rewarding. The review of \"The Amateur Naturalist\" highlights accessible, low‑budget experiments—like preserving spider webs or raising frog spawn—that turn any neighborhood into a living laboratory. Together, these sections argue that superior tools and practical methodologies democratize scientific inquiry, inviting both novices and seasoned enthusiasts to engage more intimately with the environment. The underlying message is that curiosity, augmented by the right equipment and guidance, transforms everyday surroundings into rich sources of discovery and wonder.",
-    "summary_zh": "这篇文章展示了如何通过听觉、望远镜和动手实验来探索自然世界。作者分享了录音技巧、经济实惠的装备推荐和趣味科学项目，鼓励读者亲身实践，用多种感官重新认识身边的生物与环境。这种沉浸式、自然式的学习方式不仅激发好奇心，也让科学知识变得具体而生动。",
-    "best_quote_en": "See with your ears!",
-    "best_quote_zh": "用耳朵去看看！"
-  },
-  {
     "id": 177,
     "title": "How Mitochondria Control Your Metabolism | Dr. Jared Rutter",
     "title_zh": "线粒体如何控制你的代谢 | 贾里德·拉特博士",
@@ -2318,5 +2248,75 @@
     "summary_zh": "一位顶尖的 GitHub 漏洞赏金研究人员分享其功能调查方法，从选择复杂目标到验证 AI 辅助发现的完整流程，展示了网络安全研究的耐心与深度。本文不仅提供实用技巧，也启发安全从业者反思验证的重要性及 AI 在安全研究中的平衡使用。",
     "best_quote_en": "The main thing I'd say is to always verify what the AI gives you and never submit a finding you haven't confirmed yourself.",
     "best_quote_zh": "我最想说的是要始终验证 AI 给你什么东西，绝不要提交你自己没有确认过的发现。"
+  },
+  {
+    "id": 274,
+    "title": "Who Won the Redistricting War?",
+    "title_zh": "谁赢得了重新划分选区的战争？",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/the-political-scene/who-won-the-redistricting-war",
+    "tags": [
+      "solve",
+      "politics",
+      "controversial"
+    ],
+    "tags_zh": [
+      "解决",
+      "政治时事",
+      "争议观点"
+    ],
+    "date": "2026-10-10",
+    "summary_en": "Jon Allsop’s deep dive into Missouri’s redistricting saga reveals how a century‑old battle over gerrymandering has erupted into a national showdown. From the 1922 voter revolt against a Republican map to the 2025 Republican push, amplified by Trump’s mid‑decade redistricting crusade, the piece charts a legal roller‑coaster: secretarial rejections, Supreme Court stays, and a Supreme Court decision that gutted the Voting Rights Act’s protections. Allsop shows how short‑term partisan tactics—referenda, court battles, and strategic map‑drawing—have destabilized elections, disenfranchised voters, and sparked a broader crisis of legitimacy. The narrative underscores the paradox of fighting fire with fire, warning that such tactics may leave democracy in ashes. By weaving personal interviews with lawmakers, clerks, and activists, the article offers a nuanced portrait of institutional strain and the urgent need for systemic reform.",
+    "summary_zh": "文章深入剖析了密苏里州的重新划分选区斗争，展现了从1922年反 gerrymandering 运动到2025年特朗普主导的共和党选区重新划分之间的历史回响。通过法律博弈、投票权法案的削弱及政党短期策略，文章揭示了选举制度的动荡和选民权利的受损，警示“以火攻火”可能导致民主灰飞烟灭。",
+    "best_quote_en": "When you do that, nothing is left but ash in the end.",
+    "best_quote_zh": "当你这样做时，最终只剩下灰烬。"
+  },
+  {
+    "id": 275,
+    "title": "The Merge",
+    "title_zh": "合并",
+    "source": "Sam Altman",
+    "link": "https://blog.samaltman.com/the-merge",
+    "tags": [
+      "analyze",
+      "ai-research",
+      "science",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "分析",
+      "AI研究",
+      "科学研究",
+      "未来预测"
+    ],
+    "date": "2017-12-07",
+    "summary_en": "Nick Bostrom’s article “The Merge” offers a provocative look at the accelerating convergence between humans and artificial intelligence. He argues that the much‑discussed singularity is now better understood as a gradual, ongoing process—already evident in how algorithms shape our attention, emotions, and beliefs. By examining the feedback loop of AI influencing human behavior and humans enhancing AI capabilities, Bostrom highlights the inevitability of superhuman AI, genetic enhancement, and brain‑machine interfaces. He warns that our current “attention‑hacking” mechanisms resemble a sugar epidemic, eroding focus and amplifying outrage. The piece stresses that the merge will likely occur sooner than expected, driven by exponential hardware gains and a growing talent pool. Bostrom calls for global coordination to steer this transformation responsibly, suggesting that cooperation may be humanity’s best bet to avoid conflict with more intelligent successors. The article blends technical insight with philosophical reflection, urging readers to confront the ethical and existential stakes of co‑evolution.",
+    "summary_zh": "博斯特罗姆的《合并》指出，人类与 AI 的融合已渐成趋势。算法塑造我们的注意力、情绪与思想，超人工智能、基因增强与脑机接口迫在眉睫。他呼吁全球协作，共同引导这一共进过程。",
+    "best_quote_en": "I believe the merge has already started, and we are a few years in.",
+    "best_quote_zh": "我相信合并已经开始了，我们已经进入了最初的几年。"
+  },
+  {
+    "id": 276,
+    "title": "The Random Show — AI Super Assistants, Boner Pills, Dream Engineering, Wizards, Supplements, Books, and More (#886)",
+    "title_zh": "随机秀——AI超级助理、伟哥、梦工程、巫师、补充剂、书籍等更多内容 (#886)",
+    "source": "Tim Ferriss",
+    "link": "https://tim.blog/2026/10/09/the-random-show-ai-super-assistants-boner-pills-dream-engineering-wizards-supplements-books-and-more/",
+    "tags": [
+      "update",
+      "lifestyle",
+      "medicine",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "动态",
+      "生活方式",
+      "医学健康",
+      "未来预测"
+    ],
+    "date": "2026-10-09",
+    "summary_en": "This episode of The Random Show is a masterclass in interdisciplinary curiosity, weaving together cutting‑edge AI tools, performance‑enhancing supplements, and quirky personal experiments. Tim Ferriss and Kevin Rose explore AI super assistants that could manage daily tasks via text, discuss beta‑alanine’s impact on climbing endurance, and examine surprising links between walnuts and sperm quality. The dialogue also ventures into dream engineering, anesthesia research, and unconventional topics like boner pills and male makeup, culminating in discussions about upcoming books and a Jean‑Claude Van Damme splits bet. The sponsors—Timeline’s mitopure, Shopify’s commerce platform, Fin’s AI customer‑service agent, and Gusto’s HR solutions—underscore the hosts’ interest in optimizing health, business, and technology. This eclectic mix exemplifies how modern knowledge‑hacking can blend science, self‑experimentation, and entrepreneurial insight, offering listeners actionable takeaways while celebrating the joy of unstructured exploration.",
+    "summary_zh": "本期《随机秀》是一场跨领域好奇心的盛宴，探讨了AI超级助理、运动补充剂、奇幻工程、个人实验等多样话题。从文本管理的AI助手到β‑alanine对攀岩的表现，从核桃与生殖健康到梦境工程与麻醉研究，再到伟哥、男士化妆、即将出版的书以及传奇动作明星的 splits 训练，内容涵盖科技、健康、个人成长与流行文化。赞助商们也体现了对健康优化、电子商务、AI客服与人力资源的关注。这集节目展示了现代知识探索如何将科学、自我实验与创业精神融合，启发听众在杂乱中寻找结构性洞见。",
+    "best_quote_en": "AI super assistants that run your life over text message represent a new frontier of delegation and cognitive offloading.",
+    "best_quote_zh": "通过文本消息管理生活的AI超级助理，代表着一个新的任务委派和认知卸载的前沿。"
   }
 ]
