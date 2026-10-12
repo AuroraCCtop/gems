@@ -1,29 +1,5 @@
 [
   {
-    "id": 180,
-    "title": "Weird Love / The Marvels",
-    "title_zh": "奇怪的爱 / 奇迹",
-    "source": "Kevin Kelly",
-    "link": "https://kk.org/cooltools/weird-love-the-marvels/",
-    "tags": [
-      "solve",
-      "design",
-      "psychology",
-      "controversial"
-    ],
-    "tags_zh": [
-      "解决",
-      "设计创意",
-      "心理学",
-      "争议观点"
-    ],
-    "date": "2026-09-08",
-    "summary_en": "The collection Weird Love and The Marvels offers contrasting windows into how narrative forms capture cultural moments. Weird Love, a 2015 anthology of 1950s‑70s romance comics, revels in its own absurdity, exposing the era’s entrenched sexism through a lens that is both unintentionally hilarious and historically revealing. Garrett Gottschalk’s commentary invites readers to appreciate the period’s limited gender dynamics while recognizing how far modern romance has progressed. In parallel, Brian Selznick’s The Marvels blends graphic storytelling with meta‑fiction, using a theatrical framing device to explore family, identity, and the power of stories themselves. Damien McLaughlin highlights its layered illustrations and progressive themes, noting how the novel’s structure—black‑and‑white sketches followed by a contemporary narrative—creates a dialogue between past and present. Together, these works demonstrate that comics and illustrated novels can serve as both entertainment and cultural critique, encouraging readers to reflect on how storytelling shapes our understanding of love, history, and self.",
-    "summary_zh": "这套书分别呈现了奇幻爱情漫画与插图小说，它们以不同的方式反映了文化时刻。奇异之爱揭露了过时的性别观念，而奇迹则通过故事套故事的结构探讨家庭与身份。两者都提醒我们，叙事艺术既是娱乐，也是文化反思的载体。",
-    "best_quote_en": "Stories within stories, books inside plays, real life lived out on a theatre stage.",
-    "best_quote_zh": "故事套故事，书套戏剧，真实生活上演在舞台上。"
-  },
-  {
     "id": 181,
     "title": "Please Fund More Science",
     "title_zh": "请资助更多科学",
@@ -2320,5 +2296,29 @@
     "summary_zh": "凯文·瑞安这位纽约科技界传奇人物分享了他发现十年趋势和建立百亿美元公司的宝贵经验。从DoubleClick的创业到MongoDB、Business Insider等公司的创立，他的成功之道在于敏锐的市场洞察和果断的执行。他目前在AlleyCorp的投资经验进一步丰富了他的趋势识别方法，为企业家和投资者提供了宝贵的见解。",
     "best_quote_en": "Growing DoubleClick from a 20-person startup to a publicly-traded company with more than 1,500 employees taught me that the most important skill in entrepreneurship is not just having ideas, but the discipline to execute them consistently over the long term.",
     "best_quote_zh": "将DoubleClick从20人创业团队成长为拥有1500多名员工的上市公司，让我明白，创业中最重要的技能不是有想法，而是长期坚持执行的纪律性。"
+  },
+  {
+    "id": 280,
+    "title": "Straps",
+    "title_zh": "绑带",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/straps/",
+    "tags": [
+      "solve",
+      "ai-research",
+      "lifestyle",
+      "beginner-friendly"
+    ],
+    "tags_zh": [
+      "解决",
+      "AI研究",
+      "生活方式",
+      "新手友好"
+    ],
+    "date": "2026-10-12",
+    "summary_en": "This newsletter highlights five rugged fastening tools that solve real‑world problems where conventional elastic or bungee cords fall short. The NRS Heavy Duty Cam Straps offer 2,000‑lb tensile strength and infinite adjustability, making them indispensable for river runners, truckers, and DIY repair kits. Strapworks.com provides a one‑stop shop for custom hardware and webbing, while extra‑large rubber bands from LFSMarine prove versatile for everything from academic binding to garden splicing. Griptwist’s giant rubberized twist ties deliver point‑to‑point stability without the give of bungees, ideal for transporting delicate equipment. Finally, four‑way rubber bands add decorative and functional bundling options. Together, these tools embody a maker‑centric philosophy: reliable, adaptable, and often overlooked solutions that enhance everyday problem‑solving. The curated selections encourage readers to rethink mundane fastening needs and appreciate the craftsmanship behind simple yet robust hardware.",
+    "summary_zh": "这期通讯推荐了五款坚固的紧固工具，解决了传统弹力绳或卡扣在实际场景中的不足。NRS重型卡扣 strap 提供 2000 磅拉力，调节无限；Strapworks.com 则是一站式硬件与 webbing 供应商。超大橡皮筋、巨型扭结扣以及四向橡皮筋各显其能，从野外运输到园艺维修，从教学文书到礼品包装，展现出多功能性。这些工具体现出实用主义精神，激励读者重新审视日常的紧固需求，领略简单硬件背后的精妙设计。",
+    "best_quote_en": "These straps are incredibly strong. The tensile strength of these 1.5 inchers is 2000 pounds.",
+    "best_quote_zh": "这些绑带非常坚固。这些1.5英寸宽的绑带的拉力强度可达2000磅。"
   }
 ]
