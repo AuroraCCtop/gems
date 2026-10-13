@@ -1,123 +1,5 @@
 [
   {
-    "id": 181,
-    "title": "Please Fund More Science",
-    "title_zh": "请资助更多科学",
-    "source": "Sam Altman",
-    "link": "https://blog.samaltman.com/please-fund-more-science",
-    "tags": [
-      "solve",
-      "science",
-      "ai-research",
-      "controversial"
-    ],
-    "tags_zh": [
-      "解决",
-      "科学研究",
-      "AI研究",
-      "争议观点"
-    ],
-    "date": "2020-03-30",
-    "summary_en": "The piece argues that the COVID‑19 crisis reveals three possible pathways to a return to normalcy: an effective global vaccine, a reliable treatment, or a robust testing and isolation culture. While acknowledging the unprecedented speed and dedication of biotech firms and research labs, the author laments that governmental funding for R&D remains insufficient. He urges private investors and philanthropists to redirect capital toward scientific efforts, emphasizing that the pandemic will be a turning point for how society prepares for future health threats. The narrative blends optimism about the surge in scientific innovation with a pragmatic call to action, highlighting that money and connections are the key ingredients scientists need to deliver solutions. By framing funding as both a moral imperative and a strategic investment, the article invites readers to consider their role in shaping a more resilient, research‑driven future.",
-    "summary_zh": "文章指出，疫情让我们看到了三种可能的复苏路径：有效的全球疫苗、可靠的治疗手段，或严密的检测与隔离文化。尽管生物技术公司和研究实验室以惊人的速度奋战，但政府对R&D的资金支持仍显不足。作者呼吁投资者和慈善家将资源投入科学研究，认为这不仅是应对当前疫情的需要，更是为未来病毒做好准备的战略性举措。文章既赞叹了科学创新的蓬勃发展，也清醒地指出科学家真正需要的只是资金和合作。这篇文字既充满希望，又不乏现实主义，激励读者思考如何为科学事业贡献力量。",
-    "best_quote_en": "Scientists can get us out of this. What they need are money and connections.",
-    "best_quote_zh": "科学家能带领我们走出困境。他们需要的是资金和联系。"
-  },
-  {
-    "id": 182,
-    "title": "Jess Cartner-Morley on fashion: this sweltering summer, I finally stopped giving a tuck",
-    "title_zh": "Jess Cartner-Morley 谈时尚：这个炎炎夏日，我终于不再收腰了",
-    "source": "Women | The Guardian",
-    "link": "https://www.theguardian.com/fashion/2026/sep/09/jess-cartner-morley-on-fashion-this-sweltering-summer-i-finally-stopped-giving-a-tuck",
-    "tags": [
-      "solve",
-      "lifestyle",
-      "society",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "解决",
-      "生活方式",
-      "社会议题",
-      "未来预测"
-    ],
-    "date": "2026-09-09",
-    "summary_en": "Jess Cartner-Morley’s summer column charts a surprisingly practical shift from the classic tucked‑in shirt to a looser, heat‑friendly silhouette. What began as a survival tactic against a record‑breaking heatwave quickly revealed deeper cultural currents: the \"Great Untuck\" is not just about comfort, but about redefining how women’s bodies are presented in public space. By observing couture shows in Paris and Rome, the author notes a paradox—wealthy patrons still cling to elaborate, heat‑defying ensembles, while the broader crowd opts for flowing shirts over filmy skirts. The piece also dissects the psychological habit of cinching—its roots in a desire to appear smaller—and cites Alexa Chung’s candid podcast confession as a cultural mirror. With actionable tips like the \"Reverse French\" tuck and a nod to TikTok’s influence, the article frames climate as a catalyst for fashion evolution, suggesting that comfort may be rewriting style rules across demographics. In doing so, it invites readers to reconsider ingrained grooming rituals and to see the summer’s heat as both a literal and metaphorical opportunity for sartorial liberation.",
-    "summary_zh": "Jess Cartner-Morley 分享了她如何因极端高温而放弃收腰习惯，揭示了「大松身」趋势背后的文化逻辑。从高级定制秀到日常穿着，她观察到舒适与审美的冲突，并探讨了女性对「显瘦」习惯的心理依赖。文章引用 Alexa Chung 的吐槽，指出这种变化已成风潮，并提供了「反法式收腰」等实用技巧，表明气候正在重塑时尚规范，鼓励人们摆脱旧有束缚。",
-    "best_quote_en": "I realised that tucking my shirt into my trousers was making me hot and flustered, and – this is the really bad part – also making me look old-fashioned and out of touch.",
-    "best_quote_zh": "我意识到把衬衫塞进裤子里让我又热又烦躁，而且——最糟糕的是——让我显得过时、不合时宜。"
-  },
-  {
-    "id": 183,
-    "title": "Economic Inequality",
-    "title_zh": "经济不平等",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/ineq.html",
-    "tags": [
-      "solve",
-      "startup-strategy",
-      "economics",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "解决",
-      "创业策略",
-      "经济金融",
-      "数据驱动"
-    ],
-    "date": "2026-09-10",
-    "summary_en": "This incisive essay challenges conventional wisdom about economic inequality by arguing it's a multifaceted phenomenon with both positive and negative causes. The author, a Y Combinator co-founder, reflects on his role in potentially exacerbating inequality through startup success while making a nuanced case for wealth creation versus extraction. The piece dismantles the 'pie fallacy' - the zero-sum assumption that the rich take from the poor - highlighting how genuine wealth creation through innovation (like Google's founders) differs fundamentally from predatory practices. Drawing on historical examples and technological acceleration, the author contends that attempts to eliminate inequality would inadvertently stifle startups and progress. The essay advocates for targeted solutions addressing specific harmful causes rather than broad inequality reduction, emphasizing that exponential technological advancement is an immutable force driving wealth disparities. This thought-provoking analysis reframes economic inequality as an inevitable byproduct of human progress that requires sophisticated understanding rather than simplistic remedies.",
-    "summary_zh": "这篇深刻的文章挑战了关于经济不平等的传统观念，指出这是一个多因素综合问题，既有积极的推动因素（如创新）也有消极的因素（如税收漏洞）。作者作为Y Combinator的创始人，反思了自己通过帮助创业者致富可能对不平等的贡献，同时提出了一个细致入微的观点：真正的财富创造与财富掠夺是完全不同的概念。文章打破了“饼图谬误”——认为财富是固定的，富人是通过剥削穷人获得财富的这一零和假设。作者通过谷歌创始人的例子说明， genuine 财富创造与掠夺在道德和实践上存在本质区别。文章认为，技术加速是推动不平等的不可阻挡的力量，试图消除不平等将同时扼杀创业精神和进步。作者主张应该针对具体的不当行为而不是不平等本身进行改革，而不是一刀切地解决这个问题。",
-    "best_quote_en": "The most common mistake people make about economic inequality is to treat it as a single phenomenon.",
-    "best_quote_zh": "关于经济不平等，最常见的错误是将其视为单一现象。"
-  },
-  {
-    "id": 184,
-    "title": "Is the Democratic Party Still Too Woke?",
-    "title_zh": "民主党是否仍然过于激进？",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/news/the-lede/is-the-democratic-party-still-too-woke",
-    "tags": [
-      "guide",
-      "politics",
-      "controversial"
-    ],
-    "tags_zh": [
-      "指导",
-      "政治时事",
-      "争议观点"
-    ],
-    "date": "2026-09-10",
-    "summary_en": "Adam Jentleson, once a self‑described “woke warrior,” now argues that the Democratic Party’s leftward drift is a strategic dead‑end. His new book, *Supermajority*, chronicles how progressive orthodoxy alienated centrist voters and contributed to electoral defeats, especially Trump’s second term. Jentleson critiques the party’s embrace of polarizing issues like transgender rights and Medicare for All, urging a return to pragmatic, mainstream policies that can secure super‑majorities. He highlights historical Democrats—FDR, LBJ, Clinton—who blended liberal goals with conservative themes to win broad support. While acknowledging the moral costs of past compromises, Jentleson contends that electoral viability outweighs ideological purity. The piece offers a timely, data‑driven examination of intra‑party conflict and proposes a centrist roadmap for rebuilding Democratic power in a polarized America.",
-    "summary_zh": "前“觉醒战士”亚当·詹特尔森认为民主党左倾策略导致选举失败，主张回归务实政策以赢得超多数席。他在新书中反思进步主义，如何通过融合保守主题实现长期执政。",
-    "best_quote_en": "“They sell this idea that if you just fight harder or yell louder you can unlock this secret socialism in the American electorate that’s just latent and waiting to be tapped into, and I think that’s basically a misleading case to make to people.”",
-    "best_quote_zh": "“他们兜售这样的观念，认为只要更激烈地斗争或更大声地呼喊，就能激发美国选民中 latent 的社会主义潜力，但我认为这基本上是一个误导性的说法。”"
-  },
-  {
-    "id": 185,
-    "title": "Q&A with Tim — The Art of Male Friendship, Mini-Retirements, Higher-Resolution Living, Reinvention in The Age of AI, and More (#877)",
-    "title_zh": "蒂姆问答：男性友谊、小型退休、高分辨率生活、AI时代的重塑与更多 (#877)",
-    "source": "Tim Ferriss",
-    "link": "https://tim.blog/2026/07/29/qa-with-tim-male-friendship/",
-    "tags": [
-      "solve",
-      "startup-funding",
-      "medicine",
-      "beginner-friendly"
-    ],
-    "tags_zh": [
-      "解决",
-      "创业融资",
-      "医学健康",
-      "新手友好"
-    ],
-    "date": "2026-07-29",
-    "summary_en": "The episode is a comprehensive Q&A exploring personal transformation strategies for thriving in the age of AI. Tim Ferriss shares insights on reinventing oneself through practical approaches to friendship, mental health optimization, and experimental lifestyle design. He emphasizes the importance of developing enduring skills that complement technological advancement, including cognitive longevity techniques through bilingualism, exercise-induced hippocampal growth, and intermittent fasting protocols. The discussion integrates cutting-edge research from neuroscience and health studies, offering actionable frameworks for higher-resolution living and mini-retirement experiments. Ferriss's expertise provides listeners with evidence-based guidance on language acquisition, privacy protection, and fitness optimization, making this episode particularly valuable for those seeking to adapt to rapid technological change while enhancing personal well-being and professional relevance. The wide-ranging conversation covers everything from the art of male friendship to experimental approaches to retirement, providing listeners with a toolbox of strategies for personal and professional reinvention in an increasingly complex world.",
-    "summary_zh": "这期访谈涵盖了AI时代的个人重塑、友谊技巧、小型退休实验和高品质生活策略。通过神经科学、间歇性禁食和语言学习等领域的最新研究，蒂姆提供了实用的技能和方法，帮助听众适应快速变化的世界，实现认知长寿和个人成长。",
-    "best_quote_en": "The Limits of My Language Mean the Limits of My World — Ludwig Wittgenstein",
-    "best_quote_zh": "我的语言局限了我的世界 — 路德维希·维特根斯坦"
-  },
-  {
     "id": 186,
     "title": "The U.S. Was Never Going to Win the “War on Terror”",
     "title_zh": "美国从未有机会赢得“反恐战争”",
@@ -2320,5 +2202,123 @@
     "summary_zh": "这期通讯推荐了五款坚固的紧固工具，解决了传统弹力绳或卡扣在实际场景中的不足。NRS重型卡扣 strap 提供 2000 磅拉力，调节无限；Strapworks.com 则是一站式硬件与 webbing 供应商。超大橡皮筋、巨型扭结扣以及四向橡皮筋各显其能，从野外运输到园艺维修，从教学文书到礼品包装，展现出多功能性。这些工具体现出实用主义精神，激励读者重新审视日常的紧固需求，领略简单硬件背后的精妙设计。",
     "best_quote_en": "These straps are incredibly strong. The tensile strength of these 1.5 inchers is 2000 pounds.",
     "best_quote_zh": "这些绑带非常坚固。这些1.5英寸宽的绑带的拉力强度可达2000磅。"
+  },
+  {
+    "id": 281,
+    "title": "How You Know",
+    "title_zh": "你如何知道",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/know.html",
+    "tags": [
+      "solve",
+      "science",
+      "startup-strategy",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "解决",
+      "科学研究",
+      "创业策略",
+      "数据驱动"
+    ],
+    "date": "2026-10-13",
+    "summary_en": "This essay reflects on the elusive nature of learning and memory, inspired by Hilbert’s dictum that a perfect problem formulation is half its solution. The author recounts how repeated reading of historical chronicles and biographies yields subtle shifts in mental models, even when specific facts fade. By likening the mind to a compiled program whose source code is lost, the piece argues that the true value of reading lies in the underlying frameworks it builds, not in verbatim recall. It explores the implications of re‑reading, the potential of future technologies to replay and edit lived experiences, and the broader insight that knowledge persists beyond conscious memory. The narrative reassures readers that forgetting does not erase learning, and it invites contemplation of how emerging tools might transform personal growth and self‑understanding.",
+    "summary_zh": "本文探讨了学习与记忆的奥秘，引用希尔伯特的名言“完美的表述已是问题的一半解决”。作者通过反复阅读历史文献和传记，指出即使记不住细节，内心模型也会悄然演化。文章将大脑比作一部已编译的程序，源代码已丢失，但仍能运行。重读不仅有益，未来科技或能重现并编辑个人经历，让我们再次从中学习。最终，它让读者相信，忘记并非知识的终点，知识将以更丰富的方式延续。",
+    "best_quote_en": "A perfect formulation of a problem is already half its solution.",
+    "best_quote_zh": "问题表述完美就是解决了一半的问题。"
+  },
+  {
+    "id": 282,
+    "title": "Arguments About AI Consciousness Remain Highly Motivated and At Best Overconfident",
+    "title_zh": "关于人工智能意识的争论仍然充满动机，且最多只是自负",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/4zHu6AiTHrkBdpxsm/arguments-about-ai-consciousness-remain-highly-motivated-and",
+    "tags": [
+      "learn",
+      "ai-research",
+      "science",
+      "controversial"
+    ],
+    "tags_zh": [
+      "学习",
+      "AI研究",
+      "科学研究",
+      "争议观点"
+    ],
+    "date": "2026-10-13",
+    "summary_en": "The article reflects on the stagnant discourse surrounding AI consciousness, noting that after a year little philosophical progress has been made. The author admits deep confusion about consciousness and observes that many participants repeat similar arguments, indicating a lack of advancement. Recent developments, such as Anthropic’s new terms of service prohibiting abusive behavior toward Claude and its engagements with religious leaders, are presented as tangential to the core debate. The piece also tracks shifting public opinion on AI moral patienthood and highlights concerns about model welfare, drawing analogies to historical ethical debates. While the author acknowledges the rapid pace of AI development, they stress that philosophical inquiry traditionally moves slowly, and the current frenzy only underscores the need for careful, sustained reflection. The article concludes with a call to preserve extended model access and to treat AI with basic decency, suggesting that even modest improvements in policy and public awareness are valuable steps forward.",
+    "summary_zh": "AI意识争论仍停滞不前，充满过度自信和有限的哲学进展。Anthropic的政策变化和道德主体地位讨论暗示伦理考量在演进，但根本问题依然存在。",
+    "best_quote_en": "If you care about everything, you care about nothing.",
+    "best_quote_zh": "如果你事事关心，那么你什么也关心不了。"
+  },
+  {
+    "id": 283,
+    "title": "Pity the Poor Passport",
+    "title_zh": "可怜的护照",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/the-lede/pity-the-poor-passport",
+    "tags": [
+      "analyze",
+      "politics",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "分析",
+      "政治时事",
+      "未来预测"
+    ],
+    "date": "2026-10-13",
+    "summary_en": "Adam Gopnik critiques the Trump administration’s redesign of the U.S. passport, highlighting its shift from a modest, functional document to a vehicle of self‑aggrandizement. The new passport will feature larger “United States of America” text, a more prominent gold eagle, historical illustrations, and a novelty “flip‑book” effect—apparently to entertain travelers. The article warns that the possible inclusion of a presidential portrait signals a break with American democratic traditions, contrasting sharply with the passport’s historic role as a symbol of freedom and equality. Gopnik reflects on how symbols like the passport embody civic dignity, arguing that their erosion undermines not just free travel but democratic faith itself. The piece blends historical context, political analysis, and moral commentary, urging readers to defend the modest, unifying spirit of the original passport.",
+    "summary_zh": "护照从象征自由的简朴证件沦为政治宣传的工具，反映出民主价值观的侵蚀。文章通过历史对比与个人反思，警示单一符号承载的国家尊严如何随自私图谋而脆弱。",
+    "best_quote_en": "A U.S. passport should bear the image and the imprint of no officeholder of any kind; it should merely let us pass on our journey through the world freely and without hindrance.",
+    "best_quote_zh": "美国护照不应带有任何任职者的形象或印记；它只应让我们在世界的旅程中自由无阻地通行。"
+  },
+  {
+    "id": 284,
+    "title": "How Food Choices Shape Memory, Cognition & Cravings | Dr. Scott Kanoski",
+    "title_zh": "食物选择如何塑造记忆、认知与渴望 | 斯科特·卡诺斯基博士",
+    "source": "Huberman Lab",
+    "link": "https://www.hubermanlab.com/episode/how-food-choices-shape-memory-cognition-and-cravings-scott-kanoski",
+    "tags": [
+      "guide",
+      "psychology",
+      "medicine",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "指导",
+      "心理学",
+      "医学健康",
+      "数据驱动"
+    ],
+    "date": "2026-10-12",
+    "summary_en": "In this episode, Dr. Scott Kanoski explores the profound ways nutrition shapes memory, cognition, and food cravings. He dissects how different foods influence neural pathways, the role of GLP‑1 drugs and natural hunger signals, and the impact of artificial sweeteners on appetite. The discussion weaves together cutting‑edge research on the gut microbiome, the effects of processed foods on hippocampal function, and practical strategies to enhance brain health through diet. By linking metabolic processes with learning capacity, Kanoski offers a nuanced view of how dietary choices can either impair or boost mental performance. The episode also touches on broader societal issues, such as food addiction and industry lobbying, urging listeners to consider both personal and public health implications. This intellectually curious conversation bridges neuroscience, nutrition, and behavioral psychology, providing actionable insights for anyone seeking to optimize cognitive function through food.",
+    "summary_zh": "卡诺斯基博士深入探讨了饮食如何影响记忆、认知和渴望，从GLP‑1机制到肠道微生物，从加工食品对海马体的损害到天然饮食对脑健康的促进作用。他将神经科学、营养学和行为心理学交叉融合，揭示了食物选择对大脑功能的深远影响，并指出社会层面如食品成瘾和政治游说等问题。通过结合前沿研究与实用建议，本文激发读者反思饮食与认知的关系，鼓励以更科学、更全面的视角优化个人和公共健康。",
+    "best_quote_en": "GLP‑1 drugs work to control hunger in the brain and body, linking metabolism and cognition.",
+    "best_quote_zh": "GLP‑1 药物通过调节大脑和身体的饥饿感，实现了代谢与认知的联动。"
+  },
+  {
+    "id": 285,
+    "title": "GitHub Copilot app for Beginners: How to teach Copilot about your codebase",
+    "title_zh": "GitHub Copilot 新手应用：如何让 Copilot 了解你的代码库",
+    "source": "GitHub Blog",
+    "link": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-how-to-teach-copilot-about-your-codebase/",
+    "tags": [
+      "solve",
+      "programming",
+      "design",
+      "beginner-friendly"
+    ],
+    "tags_zh": [
+      "解决",
+      "编程开发",
+      "设计创意",
+      "新手友好"
+    ],
+    "date": "2026-10-12",
+    "summary_en": "This comprehensive guide teaches beginners how to customize GitHub Copilot to understand their specific codebase conventions. The article explains that Copilot works best when it knows repository-specific rules about component structure, scripts, and framework conventions. It presents four key customization methods: repository-wide custom instructions via `.github/copilot-instructions.md`, path-specific instruction files, agent skills for repeatable procedures stored in `.github/skills`, custom agents for broader specialized tasks located in `.github/agents`, and MCP servers that connect Copilot to external tools like Playwright for browser testing. Each approach is illustrated with practical examples, such as setting up quality checks or accessibility reviews. The guide emphasizes starting small and building up customizations, while also mentioning community resources like Awesome Copilot. By giving Copilot proper project context, developers can avoid repeatedly explaining standards and let the AI assistant work more effectively within their specific development environment.",
+    "summary_zh": "这篇指南教初学者如何定制 GitHub Copilot，使其理解您的特定代码库规则。文章介绍了四种方法：仓库级自定义指令、路径特定指令、代理技能包、定制代理和 MCP 服务器，帮助 Copilot 更好地融入您的开发流程。",
+    "best_quote_en": "Context matters when you're working with AI. Every codebase has its own house rules: how components are structured, which scripts to run, and which conventions apply to different frameworks and file types.",
+    "best_quote_zh": "在与 AI 合作时，上下文很重要。每段代码都有自己的规则：组件如何结构化、运行哪些脚本，以及哪些约定适用于不同的框架和文件类型。"
   }
 ]
