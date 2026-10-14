@@ -1,73 +1,5 @@
 [
   {
-    "id": 186,
-    "title": "The U.S. Was Never Going to Win the “War on Terror”",
-    "title_zh": "美国从未有机会赢得“反恐战争”",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/news/a-reporter-at-large/the-us-was-never-going-to-win-the-war-on-terror",
-    "tags": [
-      "solve",
-      "politics",
-      "controversial"
-    ],
-    "tags_zh": [
-      "解决",
-      "政治时事",
-      "争议观点"
-    ],
-    "date": "2026-09-11",
-    "summary_en": "Twenty‑five years after 9/11, the United States has waged multiple military campaigns against extremism, costing nearly a million lives and trillions of dollars, yet experts agree the “war on terror” was unwinnable. While the U.S. has prevented another catastrophic domestic attack, it failed to defeat al‑Qaeda’s ideology, and its strategies in Afghanistan and against ISIS proved fatally flawed. The article chronicles the rise of new terrorist ecosystems, the shift from hierarchical groups to decentralized, digitally‑driven networks, and the expansion of threats ranging from domestic extremism to state‑backed terrorism. It highlights the human toll, the squandered reconstruction efforts, and the broader geopolitical fallout, urging a critical reassessment of how the U.S. defines and confronts terrorism in the 21st century.",
-    "summary_zh": "25年反恐战后，美国付出近百万人命和数万亿美元代价，却仍无法赢得这场战争。文章揭示美国虽成功防止国内恐怖袭击，但意识形态斗争失败，阿富汗和反ISIS战略严重失误，新恐怖主义生态系统崛起，威胁更加分散和复杂，呼吁重新审视反恐定义。",
-    "best_quote_en": "We basically set ourselves up to fail by making the standard so impossible to achieve.",
-    "best_quote_zh": "我们基本上是自找失败，因为我们设定的标准太过难以实现。"
-  },
-  {
-    "id": 187,
-    "title": "Multi-charger Plugs/Crash With Couchers/Changing Travel Demands",
-    "title_zh": "多插头旅行套件/Couchers崩溃记/不断变化的旅行需求",
-    "source": "Kevin Kelly",
-    "link": "https://kk.org/cooltools/multi-charger-plugs-crash-with-couchers-changing-travel-demands/",
-    "tags": [
-      "update",
-      "science",
-      "leadership",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "动态",
-      "科学研究",
-      "领导管理",
-      "数据驱动"
-    ],
-    "date": "2026-09-10",
-    "summary_en": "This newsletter delivers four practical travel insights. A compact multi‑charger adapter solves the space crunch of European and Central Asian plugs, offering a cheap, actionable solution for globetrotters. The resurgence of Couchers.org re‑introduces a non‑profit, community‑driven version of the once‑flawed Couchsurfing platform, inspiring a return to authentic hospitality. A critical look at glossy \"best places to live\" studies warns readers to distrust AI‑cobbled rankings, urging personal, on‑the‑ground evaluation instead. Finally, TripAdvisor’s six‑month booking data reveals shifting traveler preferences: immersive local experiences like cooking classes and surf lessons outpace traditional sightseeing, even as iconic tours rebound. Together, these pieces blend problem‑solving tech gear, a hopeful social model, media literacy, and emerging trend analysis for the modern nomad.",
-    "summary_zh": "这份通讯提供了四项实用的旅行洞见：紧凑型多插头适配器解决欧洲和中亚插座空间问题；Couchers.org 非营利版复兴了社区共享精神；揭露“最佳生活地”研究的虚假性，呼吁亲身体验；TripAdvisor 数据显示 immersive 本地体验（如烹饪课、冲浪）超越传统观光。这些内容融合了实用科技、社区希望、媒体批判和趋势洞察，助力现代 nomad。",
-    "best_quote_en": "The only real way to find out if a place is perfect for you or a 'Get me out of here' nightmare is to go there and spend some real time on location.",
-    "best_quote_zh": "唯一真正的办法就是亲身体验，去那个地方，花时间亲自了解，才能知道它是否适合你，或是变成『逃离这里』的噩梦。"
-  },
-  {
-    "id": 188,
-    "title": "Essentials: Genes & the Inheritance of Memories Across Generations | Dr. Oded Rechavi",
-    "title_zh": "基础知识：基因与代际记忆的遗传 | 奥德·雷查维博士",
-    "source": "Huberman Lab",
-    "link": "https://www.hubermanlab.com/episode/essentials-genes-and-the-inheritance-of-memories-across-generations-oded-rechavi",
-    "tags": [
-      "analyze",
-      "science",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "科学研究",
-      "数据驱动"
-    ],
-    "date": "2026-09-10",
-    "summary_en": "This Huberman Lab Essentials episode explores the fascinating frontier of transgenerational inheritance, featuring Dr. Oded Rechavi's groundbreaking research on how epigenetic mechanisms enable information transfer across generations. The discussion cuts through common misconceptions about Lamarckian inheritance while revealing how small RNAs in C. elegans can transmit antiviral resistance and behavioral changes. This episode bridges fundamental molecular biology with practical implications for human reproductive health and diagnostics, offering listeners a rare glimpse into how scientific paradigms are shifting our understanding of inheritance itself. The conversation balances technical precision with accessible explanation, making complex genetic concepts relevant to anyone interested in how our biological legacy extends beyond our own lifetimes.",
-    "summary_zh": "本期哈勃实验室精要节目探讨了转基因遗传的迷人前沿，邀请了特拉维夫大学的奥德·雷查维博士分享他的突破性研究。他们揭示了表观遗传机制如何使信息跨代传递，挑战了关于后天性状遗传的传统观念。通过秀丽线虫的研究，他们展示了小RNA如何传递抗病毒抵抗力和行为改变。这不仅连接了基础分子生物学，也为人类生殖健康和诊断带来了希望，让听众了解到科学范式如何改变我们对遗传本身的理解。",
-    "best_quote_en": "The Weismann Barrier has been challenged by our discovery that small RNAs can be inherited and influence traits across generations.",
-    "best_quote_zh": "我们已经通过发现小RNA可以遗传并影响跨代的性状，挑战了魏斯曼屏障的概念。"
-  },
-  {
     "id": 189,
     "title": "The hill I will die on: Comedians should not be hot | Amy Annette",
     "title_zh": "我会死在这一仗上：喜剧演员不应该长得漂亮 | 艾米·安妮特",
@@ -2320,5 +2252,77 @@
     "summary_zh": "这篇指南教初学者如何定制 GitHub Copilot，使其理解您的特定代码库规则。文章介绍了四种方法：仓库级自定义指令、路径特定指令、代理技能包、定制代理和 MCP 服务器，帮助 Copilot 更好地融入您的开发流程。",
     "best_quote_en": "Context matters when you're working with AI. Every codebase has its own house rules: how components are structured, which scripts to run, and which conventions apply to different frameworks and file types.",
     "best_quote_zh": "在与 AI 合作时，上下文很重要。每段代码都有自己的规则：组件如何结构化、运行哪些脚本，以及哪些约定适用于不同的框架和文件类型。"
+  },
+  {
+    "id": 286,
+    "title": "The Fatal Pinch",
+    "title_zh": "致命的挤压",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/pinch.html",
+    "tags": [
+      "solve",
+      "startup-strategy",
+      "startup-funding",
+      "case-study"
+    ],
+    "tags_zh": [
+      "解决",
+      "创业策略",
+      "创业融资",
+      "案例研究"
+    ],
+    "date": "2026-10-14",
+    "summary_en": "The Fatal Pinch diagnoses a common yet deadly phase in early‑stage startups: when cash reserves shrink faster than revenue can grow, founders cling to the hope of another funding round. Paul Graham dissects the self‑reinforcing dynamics that make this trap so perilous—rising burn rates, higher investor expectations, and a looming perception of failure. He argues that the fatal mistake is the belief that investors will bail out a company already in decline, urging founders to act as if the current capital is their last. Graham offers a stark decision tree: shut down, increase income, or slash expenses—often by firing underperforming teams or shifting to mercenary, consulting‑style revenue streams. His analysis blends blunt realism with pragmatic tactics, reminding readers that survival often demands ruthless prioritization and a willingness to abandon the status quo. By naming the phenomenon, Graham hopes to jolt founders into recognizing the pinch before it becomes irreversible, turning a grim scenario into an opportunity for disciplined, purpose‑driven action.",
+    "summary_zh": "当初创企业陷入‘致命挤压’时，融资幻觉与成本失控形成恶性循环。本文揭示了这一危险的自我强化机制，并提供切中时弊的应对策略，从心理层面到实操层面，全面剖析了为何‘最后那句话才是致命的’，引发读者对创业风险的深刻反思。",
+    "best_quote_en": "That last sentence is the fatal one.",
+    "best_quote_zh": "最后那句话才是致命的。"
+  },
+  {
+    "id": 287,
+    "title": "The Tim Ferriss Show Transcripts: The Random Show — AI Super Assistants, Boner Pills, Dream Engineering, Wizards, Supplements, Books, and More (#886)",
+    "title_zh": "《蒂姆·菲利兹秀》文字版：随机秀——AI超级助理、伟哥、梦工程、巫师、补充剂、书籍等话题 (#886)",
+    "source": "Tim Ferriss",
+    "link": "https://tim.blog/2026/10/11/the-random-show-ai-super-assistants-boner-pills-dream-engineering-wizards-supplements-books-and-more-transcript/",
+    "tags": [
+      "learn",
+      "ai-research",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "学习",
+      "AI研究",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2026-10-11",
+    "summary_en": "This transcript captures Tim Ferriss and Kevin Rose’s freewheeling conversation on cutting‑edge AI super assistants that now operate via simple text messages, agentic shopping tools, and experimental supplements like beta‑alanine for climbing endurance and walnuts for sperm quality. The dialogue blends personal experimentation with broader tech trends, offering actionable insights into how emerging AI can replace routine tasks and enhance daily life. Listeners gain a front‑row seat on dream‑engineering concepts, unconventional health hacks, and the cultural impact of tools such as Instinct and Grok. The episode balances curiosity‑driven exploration with pragmatic advice, making it a rich source for anyone interested in the intersection of technology, self‑optimization, and interdisciplinary learning.",
+    "summary_zh": "这期文字版记录了蒂姆·菲利兹和凯文·罗斯围绕AI超级助理、伟哥、梦工程、巫师、补充剂、书籍等话题的轻松对话，探讨了AI如何通过短信运行、代理购物以及实验性补充剂（如β-丙氨酸和核桃）影响日常生活与健康。内容兼具个人实验与技术趋势分析，为读者提供关于新兴科技与自我优化交叉领域的实用洞见。",
+    "best_quote_en": "AI has turned into something that I kind of saw it coming, but I didn’t think it would come this rapidly, which is it is replacing everyday tasks and personal assistance with AI super assistants.",
+    "best_quote_zh": "AI已经发展到我预料到了，但没想到它会如此迅速地发展，正在取代日常任务和个人助理等功能。"
+  },
+  {
+    "id": 288,
+    "title": "GitHub’s model for secret detection: Finding more secrets with less noise",
+    "title_zh": "GitHub 的秘密检测模型：以更少的噪声发现更多秘密",
+    "source": "GitHub Blog",
+    "link": "https://github.blog/ai-and-ml/githubs-model-for-secret-detection-finding-more-secrets-with-less-noise/",
+    "tags": [
+      "learn",
+      "ai-research",
+      "programming",
+      "beginner-friendly"
+    ],
+    "tags_zh": [
+      "学习",
+      "AI研究",
+      "编程开发",
+      "新手友好"
+    ],
+    "date": "2026-10-13",
+    "summary_en": "GitHub has unveiled a sophisticated secret‑detection model that marries high‑recall regex filtering with a fine‑tuned ModernBERT classifier, delivering a hybrid pipeline that dramatically cuts cost while boosting accuracy. The new system reduces median post‑push scan time by 86%, slashes serving expense by over 98%, and lifts owner‑weighted acceptance by 11.5%—all while improving offline precision (+13%) and recall (+19%). By contextualizing candidates with file paths, variable names, and surrounding code, the classifier distinguishes genuine credentials from harmless look‑alikes such as test fixtures or checksums, addressing the long‑standing tension between sensitivity and false positives. The approach underscores a broader lesson: for narrowly defined tasks, a compact, purpose‑built model can out‑perform sprawling LLMs in both efficiency and effectiveness. This shift not only makes secret scanning more trustworthy for developers but also sets a template for how AI‑driven products can scale security controls without prohibitive compute overhead.",
+    "summary_zh": "GitHub 发布了一套新的秘密检测模型，通过结合正则表达式和 ModernBERT 分类器，在降低成本的同时提高了检测准确性和速度。这不仅减少了开发者被虚假警报困扰的负担，也让安全扫描更具可扩展性。作者深入剖析了从候选生成到上下文分类的整个流程，展示了小规模精调模型如何优于大语言模型方案。这启发我们思考，在特定任务中，精简模型可能比大模型更有效。安全工程领域由此展现出新的发展方向。",
+    "best_quote_en": "Secret scanning works best when developers are confident in the findings.",
+    "best_quote_zh": "秘密扫描最有效时，开发者对结果充满信心。"
   }
 ]
