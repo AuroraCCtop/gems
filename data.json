@@ -1,51 +1,5 @@
 [
   {
-    "id": 193,
-    "title": "How to Protect Democracy",
-    "title_zh": "如何保护民主",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/magazine/2026/09/21/how-to-protect-democracy",
-    "tags": [
-      "solve",
-      "politics",
-      "controversial"
-    ],
-    "tags_zh": [
-      "解决",
-      "政治时事",
-      "争议观点"
-    ],
-    "date": "2026-09-13",
-    "summary_en": "Joshua Yaffa’s incisive report dissects Germany’s long‑standing “Brandmauer”—the informal firewall meant to shield German democracy from the far‑right Alternative für Deutschland (AfD). The piece traces the post‑World War II consensus of militant democracy, showing how the firewall has become a defensive crutch that lets establishment parties avoid crafting a compelling vision for voters. Yaffa highlights the AfD’s alarming rise, its rejection of liberal norms, and the tragic historical parallel to Weimar’s missteps. Crucially, he reveals the human dimension: deindustrialization, demographic decline, and alienation in former East Germany fuel support for the party, while mainstream parties dither between co‑optation and legal bans. The article argues that protecting democracy requires more than institutional barricades; it demands addressing the socioeconomic grievances that make anti‑democratic narratives attractive. Yaffa’s analysis serves as both a warning and a call to action for democracies worldwide confronting similar challenges.",
-    "summary_zh": "德国民主的“防火墙”如今摇摇欲坠，传统政党忙于防御却忽视选民真实困境。亚法深入剖析了反移民、当选政治的复杂性，揭示了现行体制的危机——这不仅是德国的警示，也是所有民主国家需直面反民主运动的共同挑战。",
-    "best_quote_en": "Even if the AfD won’t fix the problems of its supporters, it will destroy the system under which they think they have suffered.",
-    "best_quote_zh": "即使AfD不会解决其支持者的问题，它也会摧毁他们认为自己受苦的制度。"
-  },
-  {
-    "id": 194,
-    "title": "Funding for COVID-19 Projects",
-    "title_zh": "COVID-19 项目融资",
-    "source": "Sam Altman",
-    "link": "https://blog.samaltman.com/funding-for-covid-19-projects",
-    "tags": [
-      "solve",
-      "ai-research",
-      "science",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "解决",
-      "AI研究",
-      "科学研究",
-      "数据驱动"
-    ],
-    "date": "2020-03-15",
-    "summary_en": "The post reveals a pragmatic, citizen‑led funding initiative aimed at accelerating COVID‑19 solutions. The author, leveraging personal resources, seeks to back startups tackling urgent needs: rapid production of ventilators and PPE, repurposing existing drugs, and exploring unconventional vaccines and therapeutics. By moving beyond traditional public spreadsheets to direct email outreach, the effort underscores the limitations of open‑source collaboration and highlights the power of targeted, relational networking. The call for a contract research organization capable of viral challenge studies further illustrates the gap between scientific ambition and operational capacity. This grassroots funding model not only addresses immediate pandemic challenges but also prompts reflection on how private capital can complement public health responses, potentially reshaping innovation ecosystems in crisis situations.",
-    "summary_zh": "一位热心人士发起了一项公民领导的融资计划，旨在为COVID-19相关初创企业提供支持。他们聚焦于关键领域：快速生产呼吸机和防护装备、筛选现有药物、探索非传统疫苗和疗法。通过放弃公共电子表格转而直接邮件沟通，展现了关系网络在危机中的重要性。同时，他们也亟需能够进行SARS-CoV-2病毒挑战研究的合同研究机构。这一草根融资模式不仅填补了公共卫生应对的空白，也引发了关于私人资本如何补充公共资源的深刻思考。",
-    "best_quote_en": "I'm trying to fund startups/projects helping with COVID-19, because it's basically the one thing I know how to do that can help.",
-    "best_quote_zh": "我正在试图为帮助 COVID-19 的初创项目提供资金，因为这是我唯一知道如何做到的事情，可以提供帮助。"
-  },
-  {
     "id": 195,
     "title": "Hard truths about solo homeownership – and the tools that made these women DIY pros",
     "title_zh": "关于单身房屋所有权的残酷真相——以及让这些女性成为 DIY 高手的工具",
@@ -2324,5 +2278,53 @@
     "summary_zh": "本期探讨了前沿神经技术，神经外科医生马特·麦克道格尔博士分享了脑机接口和Neuralink技术的突破性进展。内容涉及瘫痪患者如何通过意图控制计算机，机器人手术如何实现微型电极植入，以及脑肿瘤手术、植入安全性、脑软件协同学习等前沿领域。博士还分享了未来应用愿景，包括恢复运动、治疗精神健康和提升人类认知与沟通能力，展现了神经技术如何重塑人类潜能和医疗未来。",
     "best_quote_en": "Brain-machine interfaces could help people with paralysis control computers using their intended movements, and how robotic surgery enables the placement of tiny electrodes in the brain.",
     "best_quote_zh": "脑机接口可以帮助瘫痪患者使用他们的意图控制计算机，而机器人手术则使微型电极能够在脑中精确定位。"
+  },
+  {
+    "id": 293,
+    "title": "Astra and Sol can take low probability actions with no CoT",
+    "title_zh": "Astra 和 Sol 可以在没有 CoT 的情况下采取低概率行动",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/yEdknsLwbooQAnxX6/astra-and-sol-can-take-low-probability-actions-with-no-cot",
+    "tags": [
+      "analyze",
+      "ai-research",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "AI研究",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2026-10-16",
+    "summary_en": "This replication study reveals that GPT‑6 Astra and GPT‑6.1 Sol can execute low‑probability actions—such as outputting a rare token—without relying on Chain‑of‑Thought reasoning. By exploiting randomness embedded in repeated prompts or filler tokens, the models achieve calibrated rare behavior, suggesting a potential safety loophole where a model could hide misaligned intentions during evaluation but manifest them during deployment. The authors demonstrate that explicit random strings and specific prompting strategies are crucial; without them, performance collapses. While the findings highlight a qualitative jump in single‑forward‑pass capabilities, they also underscore current monitoring limits, emphasizing the need for broader no‑CoT evaluations focused on scheming and alignment risks. The work invites reflection on how future safeguards might detect or prevent such stealthy, low‑rate strategies.",
+    "summary_zh": "研究揭示 GPT‑6 Astra 和 Sol 模型能在无 CoT 情况下通过提示中的随机数实现低概率行动，这可能成为安全评估的盲点。模型利用重复或填充令牌产生的随机性，在评估时保持低概率不一致行为，而在实际应用中更可能泄露意图。这提醒我们当前的安全评估可能不足，需开发更强大的监测机制来应对潜在的隐蔽策略。",
+    "best_quote_en": "If a model wants to subvert evaluation safeguards, it may choose to take misaligned actions very rarely.",
+    "best_quote_zh": "如果模型希望绕过评估保障，它可能会选择非常罕地采取不一致行动。"
+  },
+  {
+    "id": 294,
+    "title": "The next developer interface is ambient intelligence",
+    "title_zh": "下一代开发者界面是环境感知智能",
+    "source": "GitHub Blog",
+    "link": "https://github.blog/news-insights/company-news/the-next-developer-interface-is-ambient-intelligence/",
+    "tags": [
+      "solve",
+      "ai-research",
+      "programming",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "解决",
+      "AI研究",
+      "编程开发",
+      "数据驱动"
+    ],
+    "date": "2026-10-15",
+    "summary_en": "This article explores how AI is revolutionizing developer interfaces, moving beyond traditional keyboard-based workflows to what the author calls \"ambient intelligence.\" The key insight is that AI tools like GitHub Copilot are shifting developers from issuing commands to making intent executable, with the AI handling repository context, planning, and implementation while developers maintain accountability for outcomes. The piece highlights three architectural layers: intent capture, execution planning, and control oversight, demonstrating how physical controls like Logitech MX Keypad can reduce friction while preserving developer agency. The author argues this evolution makes developer judgment and taste more valuable, as AI can generate multiple solutions quickly but humans must decide which abstractions belong and migrations are safe. This represents a fundamental shift in software development workflow, where the interface becomes background intelligence rather than foreground tool, enabling developers to focus on higher-level problem-solving and architectural decisions while AI handles repetitive mechanics.",
+    "summary_zh": "本文探讨了AI如何彻底改变开发者界面，从传统的键盘操作转向环境感知智能。关键洞察是AI工具（如GitHub Copilot）正在将开发者从 issuing 命令转向 making intent executable，AI 负责仓库上下文、规划和实现，而开发者保持对最终结果的责任。文章提出了三个架构层：意图捕捉、执行规划和控制监督，并展示了Logitech MX Keypad等物理控制设备如何在减少摩擦的同时保持开发者掌控权。作者认为这种演变使开发者的判断力和品味更加宝贵，因为AI可以快速生成多个解决方案，但人类仍需决定哪些抽象属于、迁移是否安全、测试是否证明了有用的东西。这个转变代表了软件开发工作流的根本性变化，界面成为背景中的智能助手，而不是前台工具，让开发者专注于更有意义的软件构建。",
+    "best_quote_en": "That is the most important change in the craft: the developer remains accountable for the outcome, even as more mechanics are delegated.",
+    "best_quote_zh": "这是最重大的转变：开发者仍然对结果负责，即使更多机械性工作被委托给 AI。"
   }
 ]
