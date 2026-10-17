@@ -1,53 +1,5 @@
 [
   {
-    "id": 195,
-    "title": "Hard truths about solo homeownership – and the tools that made these women DIY pros",
-    "title_zh": "关于单身房屋所有权的残酷真相——以及让这些女性成为 DIY 高手的工具",
-    "source": "Women | The Guardian",
-    "link": "https://www.theguardian.com/thefilter-us/2026/sep/14/best-diy-home-ownership-lessons-tips-women",
-    "tags": [
-      "solve",
-      "society",
-      "lifestyle",
-      "beginner-friendly"
-    ],
-    "tags_zh": [
-      "解决",
-      "社会议题",
-      "生活方式",
-      "新手友好"
-    ],
-    "date": "2026-09-14",
-    "summary_en": "This article reveals how a new generation of women are mastering home ownership through self‑taught DIY skills, challenging long‑standing gender norms in trades. From online tutorials and Reddit threads to community‑sourced tools, they turn daunting renovations into achievable projects, sharing practical tips on drywall repair, flooring, and even heavy furniture moving. The narrative highlights the empowerment that comes from learning hands‑on construction abilities, the importance of selecting the right tools, and the supportive networks that make progress feel less solitary. By documenting personal journeys—from initial fear to confident mastery—the piece underscores a broader cultural shift: home improvement is no longer a male‑only domain, and the freedom to choose one’s living space is increasingly accessible to women. The stories also reveal how these skills can be passed down, as seen when parents teach children, fostering a new generation of competent homeowners.",
-    "summary_zh": "这些女性打破传统，学会了从维修到装修的各项本领，她们用在线教程和社区支持将恐惧转化为能力。她们不仅改造房屋，也挑战性别偏见，证明自我成长的力量。这种自我教育的精神让房屋维修不再是男性的专属领域，而是成为一种更广泛的社会转变的象征。",
-    "best_quote_en": "I'm going to figure this out.",
-    "best_quote_zh": "我会搞定的。"
-  },
-  {
-    "id": 196,
-    "title": "The American Religion of Self-Storage Facilities",
-    "title_zh": "美国自存储设施的宗教",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/magazine/2026/09/21/the-american-religion-of-self-storage-facilities",
-    "tags": [
-      "solve",
-      "business-model",
-      "society",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "解决",
-      "商业模式",
-      "社会议题",
-      "数据驱动"
-    ],
-    "date": "2026-09-14",
-    "summary_en": "David Owen’s sprawling narrative unpacks America’s peculiar devotion to self‑storage, revealing how the nation has turned excess possessions into a cultural rite. By weaving personal road‑trip anecdotes, industry statistics, and interviews with operators, Owen shows that the sector’s explosive growth—now worth over $40 billion and occupying 90 % of global capacity—mirrors deeper social patterns: death, divorce, downsizing, and even the delusion that children will inherit “brown” furniture. The piece juxtaposes the mundane reality of metal lockers with the grand American tendency to commodify space, suggesting that storage facilities have become modern temples of material identity. Owen’s observations raise questions about consumption, memory, and the economics of “stuff” in a society that increasingly outsources its clutter. The article functions as both a sociological case study and a practical guide for readers curious about an overlooked American institution, offering insight into why we keep more than we need and how that habit fuels a lucrative industry.",
-    "summary_zh": "作者以美国自存储设施为镜，揭示了这个国家对物质的痴迷——从死亡、离婚到子女继承的幻觉。文章通过数据和故事展现了这一行业如何成为750亿美元的市场，同时反思了消费与身份的关联。",
-    "best_quote_en": "We're a stuff society.",
-    "best_quote_zh": "我们是一个物质社会."
-  },
-  {
     "id": 197,
     "title": "Paper2Audio / Infinite Slop / Identify Feather Tool",
     "title_zh": "Paper2Audio / 无限垃圾 / 识别羽毛工具",
@@ -2326,5 +2278,51 @@
     "summary_zh": "本文探讨了AI如何彻底改变开发者界面，从传统的键盘操作转向环境感知智能。关键洞察是AI工具（如GitHub Copilot）正在将开发者从 issuing 命令转向 making intent executable，AI 负责仓库上下文、规划和实现，而开发者保持对最终结果的责任。文章提出了三个架构层：意图捕捉、执行规划和控制监督，并展示了Logitech MX Keypad等物理控制设备如何在减少摩擦的同时保持开发者掌控权。作者认为这种演变使开发者的判断力和品味更加宝贵，因为AI可以快速生成多个解决方案，但人类仍需决定哪些抽象属于、迁移是否安全、测试是否证明了有用的东西。这个转变代表了软件开发工作流的根本性变化，界面成为背景中的智能助手，而不是前台工具，让开发者专注于更有意义的软件构建。",
     "best_quote_en": "That is the most important change in the craft: the developer remains accountable for the outcome, even as more mechanics are delegated.",
     "best_quote_zh": "这是最重大的转变：开发者仍然对结果负责，即使更多机械性工作被委托给 AI。"
+  },
+  {
+    "id": 295,
+    "title": "Before the Startup",
+    "title_zh": "创业之前",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/before.html",
+    "tags": [
+      "solve",
+      "startup-strategy",
+      "education",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "解决",
+      "创业策略",
+      "教育学习",
+      "数据驱动"
+    ],
+    "date": "2026-10-17",
+    "summary_en": "Sam Altman’s essay distills a counterintuitive roadmap for aspiring founders, emphasizing that startup success hinges not on mastering the mechanics of launching a company but on genuine curiosity and deep user understanding. He likens the startup journey to skiing—our instincts often mislead, and disciplined learning overrides them. Altman warns against \"playing house,\" the tendency to mimic superficial startup rituals while neglecting product‑market fit, and stresses that gaming the system fails when real users demand value. He also highlights the all‑consuming nature of successful ventures, the danger of mistaking fundraising tricks for genuine progress, and the ultimate advice to \"just learn.\" The piece serves as both a pragmatic guide and a philosophical reflection on choosing work that rewards authentic problem‑solving over performative ambition.",
+    "summary_zh": "Altman 揭示了创业的反直觉本质：成功源于对用户与问题的深刻洞察，而非创业技巧的堆砌。他将创业比作滑雪，指出直觉常会误导，真正的成长来自有意识地克服这些冲动。文中批判了年轻创始人常见的“扮演公司”现象，警示模仿外表形式会忽视产品核心价值。同时，创业的消耗性与长期压力也需提前考量。最终，他以简洁的“只要学习”凝练了核心箴言，引发我们对真正有意义工作的反思。",
+    "best_quote_en": "The way to succeed in a startup is not to be an expert on startups, but to be an expert on your users and the problem you're solving for them.",
+    "best_quote_zh": "创业成功的关键不是成为创业专家，而是成为用户和他们所面临问题的专家。"
+  },
+  {
+    "id": 296,
+    "title": "How Trump’s Immigration Crackdown Gave Florida Democrats a Chance",
+    "title_zh": "特朗普的移民镇压如何给佛罗里达民主党人带来了机会",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/the-lede/how-trumps-immigration-crackdown-gave-florida-democrats-a-chance",
+    "tags": [
+      "update",
+      "politics",
+      "controversial"
+    ],
+    "tags_zh": [
+      "动态",
+      "政治时事",
+      "争议观点"
+    ],
+    "date": "2026-10-17",
+    "summary_en": "The article examines how President Trump’s aggressive immigration enforcement, especially in Miami—the city with the highest ICE arrests—has reshaped local politics in Florida’s 27th Congressional District. Once a reliably Republican stronghold, the district is now witnessing a surprising Democratic surge as Latino voters, particularly Cuban Americans, react against harsh deportation policies. Republican María Elvira Salazar, a former news anchor, initially embraced Trump’s stance but later released an ad distancing herself from his immigration actions, signaling a strategic pivot. Meanwhile, Democrat Eliott Rodriguez, a longtime local broadcaster, leverages his community ties and anti‑Trump sentiment to court unaffiliated and disaffected voters. The piece highlights the personal stories of families impacted by ICE detention, the shifting political calculus of long‑time Republican supporters, and the broader implications for the 2024 election cycle. It underscores how immigration policy can serve as a decisive catalyst, potentially flipping a contested seat and reshaping the regional political landscape.",
+    "summary_zh": "特朗普的移民镇压如何给佛罗里达民主党人带来了机会？文章深入探讨了特朗普政府的严厉移民执法如何重塑佛罗里达州第27选区的政治格局。迈阿密作为全国ICE逮捕最多的城市，拉丁裔选民（尤其是古巴裔）对强硬的遣返政策产生了强烈反弹。共和党人玛丽亚·萨拉扎尔（María Elvira Salazar）最初支持特朗普的政策，但后来发布了一则广告，试图与特朗普的移民政策划清界限。民主党人埃利奥特·罗德里格兹（Eliott Rodriguez）利用其作为当地新闻主播的声望和反特朗普情绪，积极争取无党派选民和那些对移民政策感到失望的选民。文章通过讲述受ICE拘留影响的家庭故事，揭示了长期支持共和党的选民如何改变心意，并指出了这一变化对2024年大选周期的潜在影响。",
+    "best_quote_en": "\"Mr. President, some of your immigration enforcement efforts have gone too far.\"",
+    "best_quote_zh": "\"总统先生，你的一些移民执法努力已经走得太远了。\""
   }
 ]
