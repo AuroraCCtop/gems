@@ -1,73 +1,5 @@
 [
   {
-    "id": 197,
-    "title": "Paper2Audio / Infinite Slop / Identify Feather Tool",
-    "title_zh": "Paper2Audio / 无限垃圾 / 识别羽毛工具",
-    "source": "Kevin Kelly",
-    "link": "https://kk.org/cooltools/paper2audio-infinite-slop-identify-feather-tool/",
-    "tags": [
-      "learn",
-      "design",
-      "tech-trends",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "学习",
-      "设计创意",
-      "技术趋势",
-      "未来预测"
-    ],
-    "date": "2026-09-13",
-    "summary_en": "The newsletter delivers a quick scan of emerging tools and cultural moments that caught the writers’ eyes. First, Paper2Audio shows how AI can turn any text document into listen‑ready audio, offering a free tier that already covers most personal needs while a modest subscription unlocks export flexibility. Second, Infinite Slop illustrates a new form of real‑time AI video generation where a crowd‑curated, meme‑driven stream runs 24/7, raising questions about content creation, attention economics, and the aesthetics of algorithmic art. Third, the U.S. Fish & Wildlife Service’s Identify Feather Tool provides a non‑AI, methodical way to pinpoint bird species from plumage, reminding us that sometimes human‑crafted databases still outperform machine learning for niche tasks. Finally, a redesigned box cutter and small‑space design tips showcase incremental hardware and lifestyle hacks that improve daily efficiency and spatial perception. Together these snippets highlight a pattern: AI is opening rapid prototyping possibilities, yet thoughtful design—whether in tools, interfaces, or creative processes—remains essential for meaningful adoption.",
-    "summary_zh": "本周资讯涵盖文本转音频的便捷工具、实时AI视频的无尽垃圾流、美国野生动物服务识别羽毛工具、改良裁纸刀以及小空间设计妙招。这些创新展示了AI的潜力，也提醒我们精心设计与实用性同等重要。",
-    "best_quote_en": "The new ability to generate video as fast as you can watch it will be used in other ways, such as in games, but this infinite slop is the first crude step as performance art.",
-    "best_quote_zh": "新的能力可以以你观看的速度生成视频，它将用于其他方式，如游戏，但这种无限垃圾是表演艺术的初步尝试。"
-  },
-  {
-    "id": 198,
-    "title": "The Art of True Happiness | Dr. Arthur Brooks",
-    "title_zh": "The Art of True Happiness | Dr. Arthur Brooks",
-    "source": "Huberman Lab",
-    "link": "https://www.hubermanlab.com/episode/the-art-of-true-happiness-arthur-brooks",
-    "tags": [
-      "learn",
-      "education"
-    ],
-    "tags_zh": [
-      "学习",
-      "教育学习"
-    ],
-    "date": "2026-09-14",
-    "summary_en": "This content presents Dr. Arthur Brooks' groundbreaking framework for understanding true happiness through three scientifically-based \"macronutrients\": enjoyment/pleasure, satisfaction/purpose, and meaning/regrets. Brooks moves beyond superficial happiness advice by offering concrete self-discovery tools that help individuals identify their core values and obstacles to fulfillment. The analysis reveals how modern society's focus on achievement often conflicts with deeper moral aspirations and authentic purpose. By integrating scientific research with practical exercises like the \"Three Questions of Meaning\" and \"Identifying Your Idol\" framework, Brooks provides a roadmap for cultivating lasting joy through intentional value clarification and behavioral change. This approach represents a significant shift from passive consumption of happiness tips to active self-transformation, offering actionable pathways for those seeking deeper purpose and sustainable well-being.",
-    "summary_zh": "布鲁克斯教授通过三个科学上的\"宏量营养素\"分享了真正幸福的奥秘：享受、满足和意义。他提供实用的自我发现工具，帮助人们识别真正重要的事情并围绕这些事情塑造生活。这种方法从根本上改变了我们对幸福的理解——从追求瞬间的快乐转向培养持久的充实感。通过识别\"偶像\"和提出三个意义问题， Brooks 提供了一条通往更深层目的和真正快乐的明确路径。",
-    "best_quote_en": "The three macronutrients of happiness are enjoyment, satisfaction, and meaning – and understanding what specifically blocks each of these is the key to accessing more happiness and purpose.",
-    "best_quote_zh": "幸福的三个宏量营养素是享受、满足和意义——理解是什么具体阻碍了这些因素是获得更多幸福和目的的关键。"
-  },
-  {
-    "id": 199,
-    "title": "Marketing ops as code: Automating events from planning to follow-up on GitHub",
-    "title_zh": "营销运营即代码：从规划到跟进自动化的 GitHub 事件",
-    "source": "GitHub Blog",
-    "link": "https://github.blog/ai-and-ml/github-copilot/marketing-ops-as-code-automating-events-from-planning-to-follow-up-on-github/",
-    "tags": [
-      "analyze",
-      "programming",
-      "marketing",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "编程开发",
-      "市场营销",
-      "数据驱动"
-    ],
-    "date": "2026-09-11",
-    "summary_en": "This article reveals how a marketing ops leader transformed repetitive event‑management tasks into a self‑service pipeline using GitHub’s native tools. By treating each event as a GitHub Issue, leveraging issue forms, labels, and Actions, the author automates landing‑page creation, UTM link generation, email drafting, and post‑event reporting—all orchestrated through GitHub Copilot. The narrative emphasizes a balanced approach: AI drafts routine steps while humans retain decision‑making, ensuring flexibility and accountability. A key insight is the \"DRY_RUN\" switch, enabling safe experimentation without touching production systems. The piece also highlights security considerations, data‑policy compliance, and the power of documenting workflows as SKILL.md files for reproducible automation. For anyone juggling multiple tools and regional variations, this story offers a pragmatic roadmap to turn manual, error‑prone processes into a developer‑friendly, version‑controlled workflow that scales with the team’s needs.",
-    "summary_zh": "本文展示了一位营销运营负责人如何利用 GitHub 原生工具将繁琐的活动管理流程转化为自动化管道。通过将每个活动视为 GitHub Issue，利用问题表单、标签和 Actions，作者实现了从落地页创建、UTM 链接生成到邮件草拟和活动后报告等全流程自动化。文章强调了 AI 与人工决策的协作平衡：AI 负责日常起草， humans 保留最终审批。DRY_RUN 开关的设计尤其巧妙，让团队能够安全地进行实验而不影响生产环境。安全合规、数据政策以及将工作流程文档化为 SKILL.md 文件以实现可重复自动化也是文章的重要亮点。对于那些在多工具、多区域之间奔波的团队，这提供了一条将手工、易出错流程转变为版本控制、开发者友好工作流的实用路径。",
-    "best_quote_en": "I didn’t write the code. I wrote down my runbooks, handed them to GitHub Copilot, and grew the automation in conversation.",
-    "best_quote_zh": "我没有写代码，而是把我的运行手册写下来交给 GitHub Copilot，然后在对话中逐步构建自动化流程。"
-  },
-  {
     "id": 200,
     "title": "Jessica Livingston",
     "title_zh": "杰西卡·利文斯顿",
@@ -2324,5 +2256,75 @@
     "summary_zh": "特朗普的移民镇压如何给佛罗里达民主党人带来了机会？文章深入探讨了特朗普政府的严厉移民执法如何重塑佛罗里达州第27选区的政治格局。迈阿密作为全国ICE逮捕最多的城市，拉丁裔选民（尤其是古巴裔）对强硬的遣返政策产生了强烈反弹。共和党人玛丽亚·萨拉扎尔（María Elvira Salazar）最初支持特朗普的政策，但后来发布了一则广告，试图与特朗普的移民政策划清界限。民主党人埃利奥特·罗德里格兹（Eliott Rodriguez）利用其作为当地新闻主播的声望和反特朗普情绪，积极争取无党派选民和那些对移民政策感到失望的选民。文章通过讲述受ICE拘留影响的家庭故事，揭示了长期支持共和党的选民如何改变心意，并指出了这一变化对2024年大选周期的潜在影响。",
     "best_quote_en": "\"Mr. President, some of your immigration enforcement efforts have gone too far.\"",
     "best_quote_zh": "\"总统先生，你的一些移民执法努力已经走得太远了。\""
+  },
+  {
+    "id": 297,
+    "title": "How to Raise Money",
+    "title_zh": "如何筹集资金",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/fr.html",
+    "tags": [
+      "solve",
+      "startup-funding",
+      "startup-strategy",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "解决",
+      "创业融资",
+      "创业策略",
+      "未来预测"
+    ],
+    "date": "2026-10-18",
+    "summary_en": "This essay distills the nuanced art of Series 2 fundraising for early‑stage startups, blending pragmatic rules with psychological insight. It outlines why fundraising is both a heavy lift and a puzzle, emphasizing that founders must impose external constraints because intuition alone is unreliable. The piece dissects investor behavior—driven by fear of missing out and fear of failure—and warns against the seductive delays investors employ. By prescribing a disciplined approach (breadth‑first search weighted by expected value), clear boundaries between fundraising mode and normal operations, and the importance of introductions, the author offers a roadmap that balances aggression with realism. The advice is particularly valuable for founders navigating YC’s ecosystem, highlighting the tension between rapid growth and the need for capital. Ultimately, the essay serves as both a tactical guide and a philosophical reflection on the high‑stakes dance of seeking investment.",
+    "summary_zh": "这篇文章系统地揭示了初创企业Series 2融资的复杂艺术，将实用规则与心理洞察相结合。它指出融资既像举重那样艰难，也像解谜那样艰难， founders必须施加外部约束，因为直觉不可靠。文章剖析了投资者的行为——由对错过机会和对失败的恐惧驱动——并警告 founders 小心投资者惯用的拖延战术。通过提出加权广度优先搜索、明确的融资模式边界以及宝贵的投资者引荐策略，作者提供了一条平衡激进与现实的道路。这对于YC生态中的初创企业尤其有价值，揭示了快速增长与资本需求之间的紧张关系。文章既是实用的指南，也是对融资高风险博弈的深刻反思。",
+    "best_quote_en": "Fundraising is hard in both senses: hard like lifting a heavy weight, and hard like solving a puzzle.",
+    "best_quote_zh": "筹集资金既像举重那样艰难，也像解谜那样艰难。"
+  },
+  {
+    "id": 298,
+    "title": "The Tim Ferriss Show Transcripts: How to Legalize Medical Psychedelics in Your Country — Tania de Jong on The Playbook Behind Australia’s World-First Breakthrough (#883)",
+    "title_zh": "如何在你的国家合法化医疗迷幻药物 — 塔尼亚·德容分享澳大利亚世界首创突破的计划 (#883)",
+    "source": "Tim Ferriss",
+    "link": "https://tim.blog/2026/09/18/how-to-legalize-medical-psychedelics-transcript/",
+    "tags": [
+      "solve",
+      "medicine",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "解决",
+      "医学健康",
+      "数据驱动"
+    ],
+    "date": "2026-09-19",
+    "summary_en": "This transcript reveals how Tania de Jong and her husband Peter orchestrated Australia’s pioneering legislation allowing MDMA and psilocybin prescriptions for psychiatric conditions. Starting with a personal psychedelic experience inspired by Tim Ferriss’s blog, they navigated scientific, regulatory, and public‑opinion hurdles, ultimately co‑founding Mind Medicine Australia. Their playbook combines rigorous clinical research, strategic partnerships with neuroscientists, grassroots advocacy, and media engagement to reframe psychedelics from illicit substances to legitimate therapeutics. The conversation also highlights the integration process, emphasizing the need for professional support and societal acceptance. For other nations wrestling with similar policy debates, the Australian case offers a concrete roadmap: combine evidence‑based science with compassionate storytelling, build coalitions across medical, legal, and community sectors, and leverage early successes to create momentum. The episode underscores that systemic change is possible when personal transformation meets organized, data‑driven activism, providing both inspiration and a practical guide for reformers worldwide.",
+    "summary_zh": "塔尼亚·德容如何以个人致幻体验为起点，通过科学研究、政策游说和公众教育，推动澳大利亚成为首个允许MDMA和Psilocybin用于精神治疗的国家。她分享的实操策略为其他国家提供了从临床证据到社会接受的完整路径，证明当个人觉醒遇上系统性行动，政策变革并非遥不可及。",
+    "best_quote_en": "What have you got to lose? Seriously, what have you got to lose?",
+    "best_quote_zh": "你有什么可以失去？认真的，你有什么可以失去？"
+  },
+  {
+    "id": 299,
+    "title": "Staying Evergreen: How we automated secure access and repo hygiene in a shared org",
+    "title_zh": "保持常青：如何在一个共享组织中自动化安全访问和仓库卫生",
+    "source": "GitHub Blog",
+    "link": "https://github.blog/engineering/platform-security/staying-evergreen-how-we-automated-secure-access-and-repo-hygiene-in-a-shared-org/",
+    "tags": [
+      "solve",
+      "cybersecurity",
+      "design",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "解决",
+      "网络安全",
+      "设计创意",
+      "未来预测"
+    ],
+    "date": "2026-10-15",
+    "summary_en": "GitHub’s new Evergreen app automates repository hygiene for shared organizations by conducting quarterly access reviews and detecting stale repos. Built entirely from native GitHub features—issues, webhooks, custom properties, and git history—it follows two core principles: fail secure (revoking access automatically if no response) and never destroy (archived repos remain recoverable). The solution uses a controller repo to track state as JSON files, opens checklist issues for collaborator approvals, and respects GitHub’s rate limits through careful batching. Evergreen demonstrates how to turn routine housekeeping into a considerate, undo‑friendly process, offering practical lessons on using existing primitives, meeting users where they work, and treating logs as a revert button. The article is a hands‑on guide for engineering leaders seeking to automate security and maintenance at scale.",
+    "summary_zh": "GitHub 发布了一款名为 Evergreen 的应用，通过自动化审查和存档流程，帮助共享组织保持仓库安全与整洁。设计时坚持安全默认、不删除数据，并利用 Git 历史作为审计记录。该方案展示了如何利用 GitHub 原生功能构建可恢复的自动化工具，并分享了应对大规模组织中的速率限制和用户体验的宝贵经验。",
+    "best_quote_en": "Fail secure. If nobody responds to an access review, we don't leave access in place and hope for the best. We revoke it.",
+    "best_quote_zh": "失败时要安全。如果没有人响应访问审查，我们不会留下访问权限并抱有希望。我们撤销它。"
   }
 ]
