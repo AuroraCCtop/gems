@@ -1,49 +1,5 @@
 [
   {
-    "id": 200,
-    "title": "Jessica Livingston",
-    "title_zh": "杰西卡·利文斯顿",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/jessica.html",
-    "tags": [
-      "analyze",
-      "startup-strategy",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "创业策略",
-      "数据驱动"
-    ],
-    "date": "2026-09-15",
-    "summary_en": "This essay reveals Jessica Livingston’s pivotal yet under‑recognized role in shaping Y Combinator’s culture and founder‑selection process. By describing her as the “Social Radar,” the author shows how her uncanny ability to assess character became the core of YC’s investment thesis, privileging authenticity over hype. The piece critiques the myth of the lone male founder, arguing that YC’s success stems from a collaborative family‑like environment where Jessica’s judgment, humility, and aversion to attention created a trusted alumni network. It also highlights the tension between genuine expertise and media sensationalism, illustrating how a powerful female founder’s voice can be silenced by public scrutiny. The narrative invites readers to reconsider the hidden architects of Silicon Valley’s most influential institutions and to value subtle, data‑rich insights over loud self‑promotion.",
-    "summary_zh": "本文揭示了杰西卡·利文斯顿在Y Combinator中的关键作用，尽管她鲜为人知。她被誉为“社会雷达”，她的性格洞察力成为YC投资的核心标准，强调真实性胜过虚假。文章批判了“单飞创始人”的神话，指出YC的成功源于一个家庭式的合作环境，而杰西卡的判断力、谦逊和对关注的厌恶构建了一个信任的校友网络。文章还探讨了真才实学与媒体炒作之间的冲突，展现了强大女性创始人在公众视野中的困境。读者被邀请重新审视硅谷背后那些默默无闻的建筑师，反思价值在于细腻而丰富的数据洞察而非浮夸的自我宣传。",
-    "best_quote_en": "Authenticity is one of the most important things YC looks for in founders, not just because fakers and opportunists are annoying, but because authenticity is one of the main things that separates the most successful startups from the rest.",
-    "best_quote_zh": "真实性是Y Combinator最看重创始人品质的原因之一，因为虚假和机会主义者不仅令人厌烦，而且真正的成功者往往更看重真实性。"
-  },
-  {
-    "id": 201,
-    "title": "Hive Mind",
-    "title_zh": "蜂群智慧",
-    "source": "Kevin Kelly",
-    "link": "https://kk.org/cooltools/hive-mind/",
-    "tags": [
-      "learn",
-      "design",
-      "beginner-friendly"
-    ],
-    "tags_zh": [
-      "学习",
-      "设计创意",
-      "新手友好"
-    ],
-    "date": "2026-09-14",
-    "summary_en": "James K. Miller’s ‘Hive Mind’ celebrates three tools that turn the internet’s collective intelligence into a personal dashboard. PopUrls condenses headlines from dozens of sites into a single, scrollable page, letting users scan what the crowd deems interesting with minimal friction. StumbleUpon’s community‑driven recommendation engine now includes search, surfacing high‑quality images, videos, and products far better than generic Google results, thanks to its anti‑spam voting system. Meanwhile, the Wikipedia Missing Manual demystifies collaborative editing, offering clear guidance on participation, formatting, and community norms. Together, these tools illustrate how curated aggregation, social filtering, and open‑source collaboration can simplify information overload, empower everyday users, and reshape how we discover and contribute knowledge online. The piece is both a practical guide and a thoughtful meditation on the power of networked crowds.",
-    "summary_zh": "这篇文章介绍了三种将集体智慧转化为个人仪表板的工具：PopUrls 聚合热门头条，StumbleUpon 提供优质推荐，Wikipedia 缺失手册指导协作编辑。这些工具展示了如何利用网络过滤和开放协作简化信息过载。",
-    "best_quote_en": "There's no better way to watch the hive mind.",
-    "best_quote_zh": "没有比这更好的方式来观察蜂群智慧了。"
-  },
-  {
     "id": 202,
     "title": "GitHub Copilot app for Beginners: Using the diff, terminal, and browser",
     "title_zh": "GitHub Copilot 应用初学者指南：使用 diff、终端和浏览器面板",
@@ -2326,5 +2282,53 @@
     "summary_zh": "GitHub 发布了一款名为 Evergreen 的应用，通过自动化审查和存档流程，帮助共享组织保持仓库安全与整洁。设计时坚持安全默认、不删除数据，并利用 Git 历史作为审计记录。该方案展示了如何利用 GitHub 原生功能构建可恢复的自动化工具，并分享了应对大规模组织中的速率限制和用户体验的宝贵经验。",
     "best_quote_en": "Fail secure. If nobody responds to an access review, we don't leave access in place and hope for the best. We revoke it.",
     "best_quote_zh": "失败时要安全。如果没有人响应访问审查，我们不会留下访问权限并抱有希望。我们撤销它。"
+  },
+  {
+    "id": 300,
+    "title": "Investor Herd Dynamics",
+    "title_zh": "投资者群体动态",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/herd.html",
+    "tags": [
+      "solve",
+      "startup-strategy",
+      "startup-funding",
+      "controversial"
+    ],
+    "tags_zh": [
+      "解决",
+      "创业策略",
+      "创业融资",
+      "争议观点"
+    ],
+    "date": "2026-10-19",
+    "summary_en": "This essay dissects the hidden forces shaping investor behavior during fundraising, revealing how herd dynamics can both accelerate and mislead early‑stage ventures. By exploring why investors gravitate toward founders already backed by others, the author illustrates the twin benefits of reduced risk and heightened confidence, while cautioning against the pitfalls of chasing \"stampedes.\" The piece balances pragmatic advice—raising valuation only with comfortable investors, protecting deal confidentiality, and leveraging genuine progress—against a sobering view of investor judgment, noting that even top investors are swayed by peer pressure and deadlines. Through personal anecdotes and reflective commentary, the author invites founders to understand, rather than manipulate, these social currents, turning perceived chaos into strategic clarity. It’s a compelling blend of psychological insight, tactical guidance, and humility that reshapes how entrepreneurs approach capital acquisition.",
+    "summary_zh": "本文揭示了投资者“羊群行为”的深层逻辑：其他投资者的青睐如何反过来提升创始人的投资价值，降低风险，并增强信心。作者既指出利用这一现象的实用策略（如适度调高估值、谨慎披露竞争信息），也提醒 founders 不要盲目追逐投资狂热，因为许多“火热项目”最终陨落。通过反思投资者心理与创业者应对之道，文章引导读者从理解群体力量转向掌握筹资主动权，提供了一份兼具洞察力与谦逊的实战指南。",
+    "best_quote_en": "The biggest component in most investors' opinion of you is the opinion of other investors.",
+    "best_quote_zh": "投资者对你最主要的看法，来源于其他投资者对你的看法。"
+  },
+  {
+    "id": 301,
+    "title": "How to Legalize Medical Psychedelics in Your Country — Tania de Jong on The Playbook Behind Australia’s World-First Breakthrough (#883)",
+    "title_zh": "如何在你的国家合法化医疗迷幻剂——蒂安娜·德容分享澳大利亚世界首创突破背后的攻略",
+    "source": "Tim Ferriss",
+    "link": "https://tim.blog/2026/09/18/how-to-legalize-medical-psychedelics/",
+    "tags": [
+      "analyze",
+      "science",
+      "medicine",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "科学研究",
+      "医学健康",
+      "数据驱动"
+    ],
+    "date": "2026-09-18",
+    "summary_en": "This episode offers an unprecedented insider perspective on how Tania de Jong and Mind Medicine Australia engineered Australia's world-first breakthrough in medical psychedelics. Through a detailed timeline spanning 2015-2024, de Jong reveals the strategic playbook behind making MDMA and psilocybin accessible for psychiatric conditions, transforming from Michael Pollan's influential 2015 article into tangible policy change. The content provides actionable insights for advocates, policymakers, and entrepreneurs seeking to replicate this success elsewhere, demonstrating how evidence-based research, strategic partnerships, and persistent advocacy can overcome regulatory barriers. This represents a landmark case study in modern drug policy reform, offering both inspirational thought leadership and practical guidance for the global psychedelic therapy movement.",
+    "summary_zh": "这集播客提供了前所未有的内部视角，展示了蒂安娜·德容和Mind Medicine Australia如何打造了澳大利亚在医疗迷幻剂领域的世界首创突破。通过2015-2024年的详细时间线，德容分享了从迈克尔·波兰2015年《迷幻治疗》文章到最终政策突破的完整战略蓝图。本文为倡导者、政策制定者和企业家提供了可复制的行动指南，展示了如何通过实证研究、战略合作和持续倡导来突破药物管制限制。这是一个关于现代药物政策改革的里程碑案例研究，为全球迷幻治疗运动提供了宝贵的经验教训和实践指导。",
+    "best_quote_en": "We didn't just change a drug schedule; we changed a country's approach to mental health treatment.",
+    "best_quote_zh": "我们不仅仅改变了药物分类，更改变了一个国家对心理健康治疗的态度。"
   }
 ]
