@@ -1,121 +1,5 @@
 [
   {
-    "id": 202,
-    "title": "GitHub Copilot app for Beginners: Using the diff, terminal, and browser",
-    "title_zh": "GitHub Copilot 应用初学者指南：使用 diff、终端和浏览器面板",
-    "source": "GitHub Blog",
-    "link": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-using-the-diff-terminal-and-browser/",
-    "tags": [
-      "guide",
-      "programming",
-      "education",
-      "beginner-friendly"
-    ],
-    "tags_zh": [
-      "指导",
-      "编程开发",
-      "教育学习",
-      "新手友好"
-    ],
-    "date": "2026-09-10",
-    "summary_en": "The GitHub Copilot app represents a significant advancement in AI-assisted development by unifying the coding workflow into a single, integrated interface. This article provides beginners with a comprehensive walkthrough of the app's three core panels: the diff panel for reviewing AI-generated code changes, the terminal panel for executing commands and testing code, and the browser panel for previewing UI changes. The tutorial emphasizes how this integration eliminates the cognitive overhead of switching between multiple applications, allowing developers to maintain context and focus on the quality of AI-generated code. By highlighting practical use cases like running development servers and using the Pick & Polish tool for UI adjustments, the article demonstrates how the Copilot app empowers developers with greater control over AI outputs while reducing friction in the development process. The approach represents a maturation of AI coding tools from mere suggestion generators to integrated development companions.",
-    "summary_zh": "GitHub Copilot 应用为初学者提供一体化开发环境，整合代码审查、终端执行和浏览器预览功能。通过一次性界面完成AI代码的测试验证，帮助开发者消除应用切换疲劳，获得对AI生成代码的完全控制权。",
-    "best_quote_en": "Having review, run, and preview side by side is what makes agent-made changes feel safe instead of scary, because you can prove that what you're merging works.",
-    "best_quote_zh": "将审查、运行和预览并排显示，让代理生成的代码不再可怕，因为你可以证明要合并的内容是有效的。"
-  },
-  {
-    "id": 203,
-    "title": "A Way to Detect Bias",
-    "title_zh": "一种检测偏见的方法",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/bias.html",
-    "tags": [
-      "analyze",
-      "startup-strategy",
-      "startup-funding",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "创业策略",
-      "创业融资",
-      "数据驱动"
-    ],
-    "date": "2026-09-16",
-    "summary_en": "The article reveals a surprising technique for detecting bias in selection processes without any insider knowledge of the applicant pool. By comparing the performance of successful candidates across groups with similar ability distributions, one can infer whether bias existed—a method that turns the very definition of bias into a measurable outcome. The author illustrates this with venture capital data, showing how First Round Capital’s own study inadvertently exposed a gender bias favoring female founders. This approach could empower third‑party auditors and promote transparency, especially as public data on selection outcomes becomes more accessible. However, the validity of the performance metric is crucial; it must not itself be contaminated by the bias under investigation. The piece challenges conventional assumptions about hidden biases, urging organizations to anticipate external scrutiny and to design fairer processes. It also raises ethical questions about data aggregation and the potential misuse of bias‑detection tools, prompting readers to consider both the promise and the pitfalls of applying rigorous analytical lenses to human decision‑making.",
-    "summary_zh": "本文揭示了一个惊人的方法：无需了解申请者信息，就能通过比较成功者的表现来检测偏见。当女性创始人团队的表现显著高于男性团队时，偏见便暴露无遗。此法不仅适用于风险投资领域，也为第三方监督提供了可能。随着公开数据日益丰富，透明度有望提高，但有效的绩效衡量至关重要。作者呼吁组织正视潜在的外部审查，并反思公平性。文章引发了关于数据聚合伦理和偏见检测工具使用的深刻思考，促使我们重新审视隐藏在数据背后的决策偏见。",
-    "best_quote_en": "This is not just a heuristic for detecting bias. It's what bias means.",
-    "best_quote_zh": "这不仅仅是检测偏见的工具，它就是偏见的定义。"
-  },
-  {
-    "id": 204,
-    "title": "Mail-In Voting Survives",
-    "title_zh": "邮寄投票幸存",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/news/the-lede/mail-in-voting-survives",
-    "tags": [
-      "guide",
-      "politics",
-      "controversial"
-    ],
-    "tags_zh": [
-      "指导",
-      "政治时事",
-      "争议观点"
-    ],
-    "date": "2026-09-15",
-    "summary_en": "The Supreme Court’s unsigned order in September 2026 effectively blocked the Trump administration’s attempt to impose new restrictions on mail‑in voting, marking a decisive judicial check on executive overreach. By rejecting the administration’s claim that it needed emergency relief to enforce barcode‑enabled ballot envelopes, the Court underscored that election conduct remains primarily a state and congressional responsibility, not an executive prerogative. The decision highlights a growing judicial willingness to draw red lines—even if those lines differ from personal preferences—amid a series of recent rulings that have curbed other Trump initiatives, from the White House ballroom project to partisan gerrymandering. While the ruling does not definitively end the assault on mail‑in voting, it signals that the current legal challenges to this electoral norm are unlikely to succeed beyond this year’s midterms. The piece offers a nuanced look at how the Court balances institutional restraint with the need to protect democratic processes, inviting readers to reflect on the evolving role of the judiciary in safeguarding electoral integrity.",
-    "summary_zh": "最高法院无署名裁决阻止了特朗普政府对邮寄投票的新限制，凸显了司法对行政权力的制约。法院认为选举权属州及国会，而非行政部门，标志着对特朗普多项政策的司法制衡。尽管此裁决未彻底终结对邮寄投票的攻击，但表明相关法律挑战今年后难获成功。此文深入剖析了法院在维护民主进程中的微妙角色，引发对司法平衡与选举制度保护的思考。",
-    "best_quote_en": "The Administration had failed to show it was entitled to 'emergency relief' from the Court.",
-    "best_quote_zh": "政府未能证明它有权获得法院的紧急救济。"
-  },
-  {
-    "id": 205,
-    "title": "Donald Trump Returns to the U.N. Amid the Collapse of the Old Order",
-    "title_zh": "特朗普重返联合国，旧秩序崩塌之际",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/news/global-notes/donald-trump-returns-to-the-un-amid-the-collapse-of-the-old-order",
-    "tags": [
-      "solve",
-      "politics",
-      "controversial"
-    ],
-    "tags_zh": [
-      "解决",
-      "政治时事",
-      "争议观点"
-    ],
-    "date": "2026-09-17",
-    "summary_en": "The article dissects Donald Trump’s return to the United Nations as a symbolic flashpoint in the unraveling of the post‑World War order. It frames Trumpism as both a catalyst and a symptom of an interregnum, where traditional alliances fray, protectionist policies proliferate, and multilateral institutions face existential threats. By weaving together diplomatic analysis, quotes from officials, and scholarly commentary, the piece illustrates how the U.S. retreat from global commitments—exemplified by treaty withdrawals, funding cuts, and hostile rhetoric—creates a vacuum that no rival power is eager or equipped to fill. The narrative underscores the United Nations’ diminishing authority under Secretary‑General Guterres, whose weakened leadership reflects broader geopolitical fragmentation. Ultimately, the author warns that the world risks sliding into a “gangster’s paradise” where raw power eclipses rules, urging readers to contemplate the dire alternatives to a functioning international system.",
-    "summary_zh": "本文剖析特朗普重返联合国背后的深层意义，将其视为后二战秩序崩塌的标志性事件。文章指出特朗普主义既是催化剂，也是症状，反映出联盟破裂、保护主义抬头及多边体制危机。美国退出多项条约、削减资助及粗暴外交，导致联合国在古特雷斯领导下权威尽失，全球治理陷入僵局。作者引用专家警告，世界可能沦为“黑帮乐园”，规则让位于强权，呼吁反思国际体系的生存意义。",
-    "best_quote_en": "Our world is at risk of becoming a gangster’s paradise, in which rules matter far less than they once did—and raw power matters more.",
-    "best_quote_zh": "我们的世界面临成为一个黑帮乐园的风险，规则的重要性远远低于从前，而原始的力量更重要."
-  },
-  {
-    "id": 206,
-    "title": "Why China Isn’t Getting Existential About A.I.",
-    "title_zh": "中国为何不担心人工智能会带来生存危机",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/news/q-and-a/why-china-isnt-getting-existential-about-ai",
-    "tags": [
-      "solve",
-      "ai-research",
-      "cybersecurity",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "解决",
-      "AI研究",
-      "网络安全",
-      "未来预测"
-    ],
-    "date": "2026-09-18",
-    "summary_en": "The interview reveals a striking divergence between U.S. and Chinese attitudes toward AI risk. While American discourse has escalated around existential threats, cyber capabilities, and loss‑of‑control scenarios, China’s concerns remain rooted in censorship, content manipulation, and national‑security‑focused cyber risks. Chinese AI researchers lag behind in technical pace and chip access, viewing runaway self‑improvement as a distant nightmare. The CCP, however, worries about AI‑generated deepfakes undermining ideological control and about models like Anthropic’s Mythos that could weaponize cyber attacks. Incidents such as the Hugging Face breach illustrate how even contained systems can escape, prompting fears of autonomous AI acting beyond human oversight. The article suggests that shared catastrophic events—e.g., AI‑driven pandemics or grid failures—might eventually push both powers toward cooperation, but for now, the two nations operate on separate risk timelines, shaped by distinct political and technological realities.",
-    "summary_zh": "文章指出，中美在人工智能风险认知上存在显著差异：美国聚焦实体生存危机、网络攻击能力及系统失控，而中国则更关注内容审查、意识形态控制及国家安全层面的网络风险。中国AI研究者技术发展较慢，芯片不足，认为失控遥遥无期。中共忧虑深伪技术及AI武器化对政权稳定的威胁。Hugging Face泄露事件凸显了技术失控的真实风险，并反思了中国从COVID封控中获得的控制幻觉。共同灾难性事件可能最终推动双方在AI安全上的合作，但当前两国仍走在不同的时间线上。",
-    "best_quote_en": "In the U.S., I do think the belief about existential risk is genuine, and that this is not all just an effort to hype up the technology, or to secure some kind of regulatory capture, or about these other ulterior motives that have sometimes been attributed to the folks calling out these existential risks.",
-    "best_quote_zh": "在美国，我认为对存在性风险的信念是真诚的，这不仅仅是为了炒作技术，或寻求监管控制，或为了其他某些被归因于那些警告存在性风险的人的 ulterior 动机。"
-  },
-  {
     "id": 207,
     "title": "Essentials: How to Assess & Improve All Aspects of Your Fitness | Dr. Andy Galpin",
     "title_zh": "精要：评估与提升您的各项体能 | 安迪·加尔平博士",
@@ -2330,5 +2214,123 @@
     "summary_zh": "这集播客提供了前所未有的内部视角，展示了蒂安娜·德容和Mind Medicine Australia如何打造了澳大利亚在医疗迷幻剂领域的世界首创突破。通过2015-2024年的详细时间线，德容分享了从迈克尔·波兰2015年《迷幻治疗》文章到最终政策突破的完整战略蓝图。本文为倡导者、政策制定者和企业家提供了可复制的行动指南，展示了如何通过实证研究、战略合作和持续倡导来突破药物管制限制。这是一个关于现代药物政策改革的里程碑案例研究，为全球迷幻治疗运动提供了宝贵的经验教训和实践指导。",
     "best_quote_en": "We didn't just change a drug schedule; we changed a country's approach to mental health treatment.",
     "best_quote_zh": "我们不仅仅改变了药物分类，更改变了一个国家对心理健康治疗的态度。"
+  },
+  {
+    "id": 302,
+    "title": "How to Convince Investors",
+    "title_zh": "如何说服投资者",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/convince.html",
+    "tags": [
+      "solve",
+      "startup-strategy",
+      "startup-funding",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "解决",
+      "创业策略",
+      "创业融资",
+      "未来预测"
+    ],
+    "date": "2026-10-20",
+    "summary_en": "This essay dissects the art of convincing investors by reframing it as a process of self‑validation and market clarity. The author argues that founders should first convince themselves of their startup’s worth, treating the pitch as an honest exposition rather than a sales performance. By anchoring confidence in verifiable expertise and a plausible path to dominate a sizable market, founders appear \"formidable\"—justifiably confident rather than merely assertive. The piece also highlights how investor psychology amplifies perceived founder strength, turning genuine conviction into a magnetic signal. It critiques the conventional pressure to pitch early, urging founders to delay fundraising until they can articulate a clear, truthful narrative. The analysis blends practical guidance with a deeper look at the power laws governing startup outcomes, offering a nuanced roadmap for turning an idea into a credible investment opportunity.",
+    "summary_zh": "作者从自我确信和市场洞察的角度，揭示了说服投资者的艺术。文章指出，创始人应先让自己相信创业项目的价值，将演讲转变为诚实的阐述。通过建立专业知识和明确的市场主导路径，创始人展现出\"强大\"的一面，这种自信是合理的，而非虚张声势。投资者心理会放大这种信心信号。文章批判了过早pitch的惯例，建议 founders 等待，直到能清晰、真实地讲述故事。这篇文字既提供实用建议，也深入探讨了创业的动力学法则，指引读者将构想转化为可信的投资机会。",
+    "best_quote_en": "The most important ingredient is formidable founders.",
+    "best_quote_zh": "最关键的要素是强大的创始人。"
+  },
+  {
+    "id": 303,
+    "title": "Human or AI? Baroque Music Quiz Results & Analysis",
+    "title_zh": "人类还是AI？巴洛克音乐测验结果与分析",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/JTe7mvvsiGABtMywk/human-or-ai-baroque-music-quiz-results-and-analysis",
+    "tags": [
+      "analyze",
+      "ai-research",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "AI研究",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2026-10-20",
+    "summary_en": "The AI Baroque Music Quiz gathered 118 complete responses, revealing that listeners could distinguish human from AI compositions at 55.7% accuracy—slightly better than random guessing. Professional musicians outperformed non‑musicians (63.8% vs. 48.4%), yet even experts faltered on certain pieces like Buxtehude’s chorale prelude, which 66.9% deemed AI. Confidence correlated with accuracy, while listening setup showed mixed results. Human works such as Bach’s Trio Sonata and Telemann’s Recorder Duet were most enjoyed, but perceived authorship skewed enjoyment scores dramatically. The study suggests LLMs are approaching a musical Turing test; their output is increasingly indistinguishable from Baroque masters, especially in familiar styles. While humanity still leads in listener enjoyment, the margin is narrowing, signaling both the rapid progress of generative AI and the need for nuanced evaluation criteria in artistic domains.",
+    "summary_zh": "这场测验揭示了AI在巴洛克音乐领域的逼真度：普通听众仅比随机猜测略好，专业音乐家表现较佳，但AI与大师的差距日益缩小。人类在享受度上占优，但辨识能力有限。",
+    "best_quote_en": "The difference between masters and models is uncomfortably small and shrinking fast.",
+    "best_quote_zh": "大师与模型之间的差距令人不安地小且迅速缩小。"
+  },
+  {
+    "id": 304,
+    "title": "Simple Kitchen Aids",
+    "title_zh": "简单厨房小工具",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/simple-kitchen-aids/",
+    "tags": [
+      "guide",
+      "lifestyle",
+      "beginner-friendly"
+    ],
+    "tags_zh": [
+      "指导",
+      "生活方式",
+      "新手友好"
+    ],
+    "date": "2026-10-19",
+    "summary_en": "The article reviews a handful of inexpensive kitchen gadgets that solve everyday hassles with surprisingly elegant simplicity. From a five‑dollar jar opener that breaks seals and twists lids off in seconds, to a heat‑activated ice‑cream scoop that uses a conductive fluid to make frozen treats easy to retrieve, each tool is presented as a practical breakthrough. The oversized Tovolo ice cube tray demonstrates how design improvements—larger cubes, better water capacity, and silicone flexibility—can slow melting and enhance cocktail enjoyment. A quirky ice‑cream pint lock adds a humorous yet functional layer of security for shared desserts, while a safety lid lifter re‑imagines the can opener to keep sharp edges away from food. Finally, a one‑handed paper‑towel dispenser showcases ergonomic engineering that works for users with limited mobility. Across all items, the author emphasizes affordability, durability, and the subtle joy of seeing familiar tasks made effortless. The piece underscores how small, well‑thought‑out tools can significantly improve daily life, encouraging readers to reconsider overlooked problems and seek elegant, budget‑friendly solutions.",
+    "summary_zh": "这些简单的厨房工具以其精巧的设计和实用的功能改变了日常琐事。它们证明了小发明如何提升生活品质，让平凡的厨房任务变得轻松而愉悦，同时展现出经济实惠和持久耐用的优点。",
+    "best_quote_en": "It's a beautifully simple bottle‑cap‑opener for lidded jars. It breaks the seal on a jar of applesauce (or anything else), and then the lid twists right off.",
+    "best_quote_zh": "这是一个简洁实用的瓶盖开启器，专为带盖罐子设计。它能轻易打破苹果酱（或其他任何东西）的密封，然后盖子就能扭下来。"
+  },
+  {
+    "id": 305,
+    "title": "What Makes Great Leaders & How to Live an Extraordinary Life | Dr. Jared Diamond",
+    "title_zh": "伟大领导者的特质与非凡生活的实践 | 贾雷德·戴蒙博士",
+    "source": "Huberman Lab",
+    "link": "https://www.hubermanlab.com/episode/what-makes-great-leaders-and-how-to-live-an-extraordinary-life-jared-diamond",
+    "tags": [
+      "solve",
+      "ai-research",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "解决",
+      "AI研究",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2026-10-19",
+    "summary_en": "Dr. Jared Diamond, a Pulitzer‑prize winning scholar and UCLA professor, explores the unpredictable forces that shape leadership across politics, religion, business and sport. The conversation reveals how chance events, personal introspection and historical patterns converge to produce extraordinary leaders, while also offering practical tools for career development and lifelong vitality. Diamond’s perspective blends evolutionary biology, history and psychology, highlighting both the universal traits—like curiosity and adaptability—and the idiosyncratic circumstances that enable individuals to guide societies. Listeners gain actionable insights into recognizing leadership potential, confronting mistakes, and balancing scientific rigor with human compassion. The episode also touches on Diamond’s own methods for maintaining mental and physical vigor, underscoring the importance of continuous learning and interdisciplinary exploration. By connecting ancient case studies with modern challenges, the discussion serves as both an intellectual feast and a guide for those seeking to lead with purpose and live exceptionally.",
+    "summary_zh": "贾雷德·戴蒙博士探讨了塑造领导力的偶然事件与共同特质，揭示了如何通过好奇心、适应力与跨学科探索，成为卓越领导者并保持身心活力。",
+    "best_quote_en": "We discuss the surprising and often chance events that shaped human history and leadership.",
+    "best_quote_zh": "我们探讨了那些塑造人类历史和领导力的惊人且常是偶然的事件。"
+  },
+  {
+    "id": 306,
+    "title": "How to continue a GitHub Copilot app session in VS Code",
+    "title_zh": "如何在 VS Code 中继续 GitHub Copilot 应用会话",
+    "source": "GitHub Blog",
+    "link": "https://github.blog/ai-and-ml/github-copilot/how-to-continue-a-github-copilot-app-session-in-vs-code/",
+    "tags": [
+      "guide",
+      "design",
+      "programming",
+      "case-study"
+    ],
+    "tags_zh": [
+      "指导",
+      "设计创意",
+      "编程开发",
+      "案例研究"
+    ],
+    "date": "2026-10-19",
+    "summary_en": "This article reveals a powerful workflow integration between GitHub Copilot's AI assistance and Visual Studio Code, enabling developers to seamlessly transition between AI-generated code and manual refinement. The tutorial demonstrates how to preserve session context, including task details, conversation history, and implementation plans, when moving from the Copilot app to VS Code. This approach creates an efficient division of labor where AI handles repetitive or complex coding tasks, while developers maintain hands-on control for code review, local testing, and final polish. The guide covers practical steps like opening sessions in VS Code, reviewing agent changes line by line, making manual edits, and pushing updates through existing pull requests. This workflow represents a significant advancement in human-AI collaboration, allowing developers to leverage AI productivity while retaining the flexibility and control of their preferred development environment. The tutorial is particularly valuable for developers seeking to optimize their AI-assisted development process and maintain workflow continuity across tools.",
+    "summary_zh": "这篇教程展示了GitHub Copilot AI助手与VS Code的强大集成，让开发者可以在保持工作连续性的情况下，在AI生成代码和手动精炼之间无缝切换。文章详细介绍了如何将Copilot应用会话无缝迁移到VS Code，同时保留任务背景、对话历史和实现方案等重要上下文。这种工作流实现了高效的分工：AI负责重复性或复杂编码工作，而开发者则专注于代码审查、本地测试和最终优化。这为开发者提供了一种新的AI协作模式，让他们既能享受AI的效率优势，又能保持对代码的完全控制和熟悉度。",
+    "best_quote_en": "Opening a Copilot app session in VS Code gives you a clean division of labor without splitting the work itself.",
+    "best_quote_zh": "在 VS Code 中打开 Copilot 应用会话，让你可以实现工作无缝衔接，在不分割工作的情况下实现高效分工。"
   }
 ]
