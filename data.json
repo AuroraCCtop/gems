@@ -1,121 +1,5 @@
 [
   {
-    "id": 207,
-    "title": "Essentials: How to Assess & Improve All Aspects of Your Fitness | Dr. Andy Galpin",
-    "title_zh": "精要：评估与提升您的各项体能 | 安迪·加尔平博士",
-    "source": "Huberman Lab",
-    "link": "https://www.hubermanlab.com/episode/essentials-how-to-assess-and-improve-all-aspects-of-your-fitness-andy-galpin",
-    "tags": [
-      "solve",
-      "education",
-      "science",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "解决",
-      "教育学习",
-      "科学研究",
-      "数据驱动"
-    ],
-    "date": "2026-09-17",
-    "summary_en": "This Huberman Lab Essentials episode dives into the nine core pillars of physical fitness, offering a pragmatic roadmap for assessment and improvement. Dr. Andy Galpin, an exercise physiologist, breaks down actionable tests—ranging from grip strength and push‑ups to VO2 max measurements—providing listeners with concrete tools to quantify movement quality, power, strength, muscle mass, and endurance. The discussion goes beyond mere metrics, emphasizing how to structure testing, track progress, and prioritize training for long‑term health and performance. By blending scientific rigor with practical guidance, the episode democratizes fitness knowledge, empowering anyone to make data‑driven decisions about their own bodies. The intellectual curiosity of the host and guest shines through, making complex physiological concepts accessible while underscoring the broader cultural shift toward personalized, evidence‑based wellness.",
-    "summary_zh": "这期节目深入探讨了体能的九大维度，提供实用的评估工具，从握力到VO2 max，指引人们系统追踪进步。个人觉得，这种数据驱动的方法将主观感受与客观指标结合，既使健康监测变得更加民主化，也启发我们重新定义长期健身目标。",
-    "best_quote_en": "Understanding the nine components of physical fitness allows you to prioritize training that supports long‑term health and performance.",
-    "best_quote_zh": "了解体能的九大成分，能让你专注训练以支持长期健康与表现。"
-  },
-  {
-    "id": 208,
-    "title": "How to Teach a 3-Year-Old to Read and Rethinking Education — Tim Coaches Niels Hoven of Mentava (#882)",
-    "title_zh": "如何教3岁孩子阅读并重新思考教育 — 蒂姆指导Mentava的尼尔斯·霍文 (#882)",
-    "source": "Tim Ferriss",
-    "link": "https://tim.blog/2026/09/10/niels-hoven-mentava/",
-    "tags": [
-      "solve",
-      "education",
-      "case-study"
-    ],
-    "tags_zh": [
-      "解决",
-      "教育学习",
-      "案例研究"
-    ],
-    "date": "2026-09-10",
-    "summary_en": "This episode explores a revolutionary approach to early childhood education through a live coaching session between Tim Ferriss and Niels Hoven, founder of Mentava. The conversation reveals how today's education system dramatically underserves eager learners, with Hoven's software platform designed to unlock children's potential. Drawing from his engineering background and experience running global mobile games, Hoven has created tools that tap into children's remarkable 10x faster learning capacity. The discussion challenges conventional educational paradigms, suggesting technology can bridge gaps between fast-learning children and traditional teaching methods. Key insights include the importance of personalized learning pathways, leveraging children's natural curiosity, and rethinking how we measure educational success. The episode offers both practical strategies for parents teaching reading and broader philosophical questions about education reform, making it essential viewing for educators, parents, and anyone interested in the future of learning.",
-    "summary_zh": "尼尔斯·霍文分享了他的教育科技公司Mentava如何帮助快学孩子突破传统教育的限制。Tim Ferriss的对话揭示了儿童学习能力的惊人潜能，以及现有教育体系如何忽视这些天赋。 episode不仅提供了实用的教学方法，还引发了对教育本质的深刻反思，挑战了我们对学习和成长的传统认知。",
-    "best_quote_en": "Kids are dramatically underserved by today's education system, and Niels created Mentava to allow students to achieve their potential.",
-    "best_quote_zh": "孩子们在当今的教育体系中受到严重忽视，而尼尔斯创建了 Mentava，让学生能够实现他们的潜力。"
-  },
-  {
-    "id": 209,
-    "title": "Write Like You Talk",
-    "title_zh": "像说话一样写作",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/talk.html",
-    "tags": [
-      "guide",
-      "startup-strategy",
-      "education",
-      "beginner-friendly"
-    ],
-    "tags_zh": [
-      "指导",
-      "创业策略",
-      "教育学习",
-      "新手友好"
-    ],
-    "date": "2026-09-19",
-    "summary_en": "This essay argues that writing in spoken language dramatically boosts readability and engagement. The author illustrates how formal prose often alienates readers, citing convoluted examples like “the mercurial Spaniard himself declared.” By contrast, experts in complex fields communicate plainly, using informal language as the ‘athletic clothing of ideas.’ Practical advice includes drafting in your usual style, then filtering each sentence through a conversational lens, reading aloud, and even explaining the draft to a friend before revision. The piece emphasizes that mastering this approach places you ahead of most writers, offering a simple yet powerful method to make your writing accessible and impactful. It blends personal reflection with actionable guidance, making it a valuable resource for anyone seeking to improve their written communication.",
-    "summary_zh": "本文主张以口语化语言写作能显著提升可读性。作者通过生硬例句说明正式文体如何疏远读者，并指出专家在深入讨论时反而更随意。文章提供了具体技巧：先草拟，再用“能否对朋友说”过滤；大声朗读并修正不流畅之处；甚至可将草稿讲给朋友听后替换。作者认为掌握这一方法能让你的写作超越95%的作者，文风自然亲切。这不仅是实用的写作指南，也反映了对语言本真性的思考，适合所有希望提升沟通效果的读者。",
-    "best_quote_en": "Informal language is the athletic clothing of ideas.",
-    "best_quote_zh": "非正式语言是思想的运动服。"
-  },
-  {
-    "id": 210,
-    "title": "Learnings from a week in the wet lab",
-    "title_zh": "一个礼拜的湿实验室学习",
-    "source": "LessWrong",
-    "link": "https://www.lesswrong.com/posts/tAWLAoerBFDkeh9qE/learnings-from-a-week-in-the-wet-lab",
-    "tags": [
-      "guide",
-      "science",
-      "medicine",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "指导",
-      "科学研究",
-      "医学健康",
-      "数据驱动"
-    ],
-    "date": "2026-09-19",
-    "summary_en": "The author, a biosafety evaluator for LLMs, steps into a community wet lab to experience firsthand the realities of experimental biology. Over a week, they collaborate with experienced biologists to design plasmids, order custom DNA, and culture glowing peptide‑producing E. coli, uncovering the depth of tacit knowledge that cannot be captured by algorithms. The narrative highlights the logistical hurdles—shipping delays, equipment quirks, and the relentless need for contamination control—while emphasizing that human expertise still outperforms current AI in nuanced laboratory work. By juxtaposing the DIY bio‑punk ethos with the pragmatic constraints of cost, safety, and reproducibility, the piece offers a grounded perspective on how AI might augment rather than replace bench scientists, suggesting automation and cloud‑based CROs as potential bridges. Ultimately, it serves as both a tutorial and a cautionary tale, reminding readers that breakthrough science remains a human‑driven, iterative process.",
-    "summary_zh": "作者作为LLM生物安全评估者，亲身体验社区实验室的日常，揭示了生物学中难以言传的隐性知识。文章讲述了设计质粒、定制DNA和培养发光肽的生产过程，展现了实验中的物流难题与污染控制。作者指出，即使是最基本的实验，湿实验室也极其艰难，人类专家仍远超当前AI的表现。同时，文章探讨了AI如何通过机器人自动化和云端CRO等技术实现辅助，提供了对科学突破的深刻反思。",
-    "best_quote_en": "Wet lab is really hard, even for the most basic experiments.",
-    "best_quote_zh": "即使是最基本的实验，湿实验室也非常困难。"
-  },
-  {
-    "id": 211,
-    "title": "Israel’s Qatargate Scandal",
-    "title_zh": "以色列的卡塔盖特丑闻",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/magazine/2026/09/28/israels-qatargate-scandal",
-    "tags": [
-      "analyze",
-      "politics",
-      "case-study"
-    ],
-    "tags_zh": [
-      "分析",
-      "政治时事",
-      "案例研究"
-    ],
-    "date": "2026-09-19",
-    "summary_en": "The Qatargate scandal exposes a web of political corruption in Israel, implicating Prime Minister Benjamin Netanyahu’s inner circle in alleged influence‑peddling for Qatar. Former nightclub promoter Yisrael Einhorn’s consulting firm Perception secured millions in Qatari payments to shape media narratives, promote a Jewish‑friendly image for the 2022 World Cup, and later to reposition Qatar as a peace broker during the Gaza conflict. Netanyahu aides Jonatan Urich and Eli Feldstein are accused of orchestrating press campaigns, fabricating sources, and planting stories that inverted public perception, all while receiving substantial salaries through shell companies. The revelations have sparked a police investigation, potential indictments, and a fierce election battle, with opposition leader Naftali Bennett branding it the nation’s gravest treason. The case underscores how foreign money can infiltrate sovereign politics, erode democratic accountability, and manipulate public opinion—raising urgent questions about transparency, the integrity of electoral processes, and the resilience of Israeli governance amid regional turmoil.",
-    "summary_zh": "以色列的Qatargate丑闻揭露了高层政治腐败与外部势力干预的黑暗面，权力被金钱腐蚀，民众信任崩溃。丑闻牵涉竞选操纵、媒体造假，甚至安全事务，凸显制度漏洞与道德沦丧，不仅威胁内阁稳定，更动摇民主根基，引发对国家叙事的重新审视。",
-    "best_quote_en": "The Qatari grant is the main artery of the Hamas movement.",
-    "best_quote_zh": "卡塔尔的资助是哈马斯运动的主要生命线."
-  },
-  {
     "id": 212,
     "title": "Book Freak #219: Aretha: From These Roots",
     "title_zh": "书虫杂谈 #219：艾蕾塔：来自根源",
@@ -2332,5 +2216,119 @@
     "summary_zh": "这篇教程展示了GitHub Copilot AI助手与VS Code的强大集成，让开发者可以在保持工作连续性的情况下，在AI生成代码和手动精炼之间无缝切换。文章详细介绍了如何将Copilot应用会话无缝迁移到VS Code，同时保留任务背景、对话历史和实现方案等重要上下文。这种工作流实现了高效的分工：AI负责重复性或复杂编码工作，而开发者则专注于代码审查、本地测试和最终优化。这为开发者提供了一种新的AI协作模式，让他们既能享受AI的效率优势，又能保持对代码的完全控制和熟悉度。",
     "best_quote_en": "Opening a Copilot app session in VS Code gives you a clean division of labor without splitting the work itself.",
     "best_quote_zh": "在 VS Code 中打开 Copilot 应用会话，让你可以实现工作无缝衔接，在不分割工作的情况下实现高效分工。"
+  },
+  {
+    "id": 307,
+    "title": "Do Things that Don't Scale",
+    "title_zh": "做不规模的事",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/ds.html",
+    "tags": [
+      "analyze",
+      "startup-strategy",
+      "beginner-friendly"
+    ],
+    "tags_zh": [
+      "分析",
+      "创业策略",
+      "新手友好"
+    ],
+    "date": "2026-10-21",
+    "summary_en": "Y Combinator’s seminal essay argues that the most effective early‑stage tactics are those that deliberately resist scaling—manual user acquisition, hyper‑personalized onboarding, and obsessive delight. By dissecting real examples like Stripe’s door‑to‑door recruiting and Airbnb’s hand‑crafted hospitality, the piece shows how founders can transform fragility into momentum. It challenges the myth that growth must be automated from day one, emphasizing that compound growth stems from small, intentional actions. The author also warns against internal self‑doubt, urging founders to see early, labor‑intensive work as the optimal path to market domination. This intellectually curious, practice‑oriented guide offers a timeless playbook for turning seemingly “unscalable” effort into sustainable, exponential success.",
+    "summary_zh": "YC文章鼓舞初创者 Embrace 不规模策略：手动招募、个性化服务以激发增长。文章指出早期脆弱是常态，专注用户能形成持久优势。这是一份指引，教你如何将微小努力转化为指数级影响。",
+    "best_quote_en": "You should take extraordinary measures not just to acquire users, but also to make them happy.",
+    "best_quote_zh": "你应该采取非同寻常的措施，不仅要获取用户，还要让他们感到快乐。"
+  },
+  {
+    "id": 308,
+    "title": "Data as particles and mean field theory abound",
+    "title_zh": "数据如粒子，均场理论充盈",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/NZAcgxszfezg84Chn/data-as-particles-and-mean-field-theory-abound",
+    "tags": [
+      "learn",
+      "ai-research",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "学习",
+      "AI研究",
+      "数据驱动"
+    ],
+    "date": "2026-10-21",
+    "summary_en": "The article reframes machine learning concepts by viewing data points as particles and model parameters as bonds, drawing on ideas from statistical physics. Hennick shows how this particle‑based perspective yields a mean‑field description of the data, connects naturally to the Bayesian free energy of singular learning theory, and extends to a dynamical mean‑field theory for stochastic gradient descent. By treating loss functions as Hamiltonians and using cumulants to capture higher‑order correlations, the piece offers a pedagogical bridge between many‑body physics and learning dynamics. The approach illuminates why collective force fluctuations become Gaussian and quadratic in the large‑batch, small‑learning‑rate limit, suggesting a second‑order effective theory for training phases. While not a rigorous proof, the framework provides intuitive tools for analyzing gradient‑based optimization and hints at future formal results linking neural tangent hierarchies with mean‑field physics. It is aimed at researchers and practitioners who want a fresh, physics‑inspired lens on learning theory, making advanced concepts more accessible without sacrificing depth.",
+    "summary_zh": "作者将数据视为粒子，模型参数为粒子间联系，从物理学视角重构机器学习理论。通过粒子-均场视角，文章揭示了数据分布的统计特性，与奇异学习理论的贝叶斯自由能量建立联系，并推导出梯度下降的动态均场理论。文章将损失函数视为哈密顿量，利用高阶共性揭示复杂数据关系，展示了大批量、小学习率条件下训练的二次有效理论。该框架为研究梯度优化提供了新的直观工具，也为进一步的正式研究指明了方向。",
+    "best_quote_en": "Each datapoint is a particle, and model parameters define bonds between them.",
+    "best_quote_zh": "每个数据点都是一个粒子，模型参数定义了它们之间的联系。"
+  },
+  {
+    "id": 309,
+    "title": "Lula’s Last Dance",
+    "title_zh": "卢拉的最后舞步",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/global-notes/lulas-last-dance",
+    "tags": [
+      "analyze",
+      "politics",
+      "controversial"
+    ],
+    "tags_zh": [
+      "分析",
+      "政治时事",
+      "争议观点"
+    ],
+    "date": "2026-10-21",
+    "summary_en": "Ishaan Tharoor’s incisive chronicle captures Brazil at a historic crossroads, where President Lula’s once‑dominant leftist legacy faces an existential challenge from a resurgent right‑wing tide. The piece weaves together the emotional resonance of Bowie’s “Under Pressure” with hard‑headed analysis of polling data, institutional constraints, and the broader hemispheric shift toward nationalist populism. Tharoor draws striking parallels between Bolsonaro’s Brazil and Trump’s United States, highlighting how both nations are experiencing mirrored democratic backsliding on different timelines. By foregrounding Lula’s personal saga—his rise from poverty, imprisonment, and triumphant return—while also exposing the socioeconomic forces (gig‑economy atomization, cost‑of‑living crises) that have eroded his support, the article offers a nuanced portrait of a leader whose vision of a more humane, solidarity‑based global order is now under siege. The narrative invites readers to contemplate the fragility of democratic progress and the cyclical nature of political tides, making it essential reading for anyone tracking the future of democracy in the Global South.",
+    "summary_zh": "卢拉的最后舞步，或许标志着巴西左翼潮流的终结，这场右翼回潮也映照出美国政治的镜像——我们是否正目睹民主的周期性挣扎？左派理想在二十一世纪的原子化经济中式微，民众对成本和安全的焦虑或已重写选票的规则.",
+    "best_quote_en": "This is our last dance.",
+    "best_quote_zh": "这是我们的最后一舞."
+  },
+  {
+    "id": 310,
+    "title": "How 3 Java Champions are using GitHub Copilot for increased productivity",
+    "title_zh": "3 名 Java 冠军如何使用 GitHub Copilot 提高生产力",
+    "source": "GitHub Blog",
+    "link": "https://github.blog/ai-and-ml/github-copilot/how-3-java-champions-are-using-github-copilot-for-increased-productivity/",
+    "tags": [
+      "solve",
+      "education",
+      "design",
+      "case-study"
+    ],
+    "tags_zh": [
+      "解决",
+      "教育学习",
+      "设计创意",
+      "案例研究"
+    ],
+    "date": "2026-10-20",
+    "summary_en": "The article explores how three seasoned Java developers, all recognized as Java Champions, are leveraging GitHub Copilot to boost their productivity while maintaining code quality and accountability. Rather than treating AI as a silver bullet, they emphasize a collaborative workflow: using Copilot for rapid prototyping, code analysis, and even complex feature implementation, but always reviewing and validating the output. Vlad Mihalcea showcases how custom AI skills can preserve a developer’s writing style and coding philosophy, dramatically cutting down development time—from weeks to days. Patrick Baumgartner illustrates a methodical approach to migration and testing, where AI assists in generating reproducible tests and compact representations, reinforcing the principle of delegating execution while keeping responsibility. Frank Delporte highlights a real‑world bug‑fix where Copilot helped diagnose a virtual‑thread limitation on a Raspberry Pi, demonstrating that AI can surface subtle architectural insights. Across the three case studies, the common thread is disciplined integration: AI augments human expertise, accelerates iteration, and frees developers to focus on higher‑level design and maintenance. The piece serves as a practical guide for engineers seeking to adopt AI coding tools without sacrificing reliability, offering concrete best‑practice tips such as defining clear constraints, requesting proofs, and maintaining code review standards.",
+    "summary_zh": "三位 Java 冠军分享了如何将 GitHub Copilot 融入日常开发，通过协作式 AI 辅助提高生产力，同时保持代码质量和责任感。他们的实践表明，AI 能加速原型设计和复杂功能实现，但人工 review 不可或缺。通过定制 AI 技能、定义明确约束和验证测试，他们将 AI 从单纯的代码生成工具转变为智能合作伙伴。这篇实践指南为开发者如何平衡速度与可靠性提供了宝贵经验。",
+    "best_quote_en": "I still review the plans and the code that is generated by AI since their goal is to improve my productivity, not replace me entirely.",
+    "best_quote_zh": "我仍然会 review AI 生成的计划和代码，因为它们的目标是提高我的生产力，而不是完全取代我。"
+  },
+  {
+    "id": 311,
+    "title": "科技爱好者周刊（第 415 期）：3D 版《看不见的城市》",
+    "title_zh": "科技爱好者周刊（第 415 期）：3D 版《看不见的城市》",
+    "source": "阮一峰的网络日志",
+    "link": "http://www.ruanyifeng.com/blog/2026/10/weekly-issue-415.html",
+    "tags": [
+      "solve",
+      "design",
+      "ai-research",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "解决",
+      "设计创意",
+      "AI研究",
+      "数据驱动"
+    ],
+    "date": "2026-10-16",
+    "summary_en": "This issue explores cutting-edge AI applications in literary visualization, showcasing Claude Opus 5.5's superior performance over GPT-6 Astra in transforming Italo Calvino's \"Invisible Cities\" from text descriptions into immersive 3D environments. The content features innovative AI modeling projects, including a floating sakura boat simulation and Hong Kong's cyber city reconstruction, alongside discussions on futuristic lamp-based computing and the decline of Deno programming language. The newsletter also highlights practical tools like AI-powered binary reverse engineering, content detection systems, and various developer utilities, providing both technical insights and creative inspiration for tech professionals.",
+    "summary_zh": "本期科技周刊探索了AI在文学可视化方面的前沿应用，展示了Claude Opus 5.5在将卡尔维诺的《看不见的城市》从文本描述转化为沉浸式3D环境方面的卓越表现，超越了GPT-6 Astra。内容涵盖了创新的AI建模项目，包括漂浮在樱花河道上的船只模拟和对香港九龙半岛的重建，还讨论了未来灯泡式计算机和Deno编程语言的衰落。周刊还介绍了实用的工具，如AI驱动的二进制反向工程、内容检测系统和各种开发者工具，为科技专业人士提供技术洞察和创意灵感。",
+    "best_quote_en": "It even generated the crowds sitting in the square",
+    "best_quote_zh": "它甚至生成了广场上坐着的人群"
   }
 ]
