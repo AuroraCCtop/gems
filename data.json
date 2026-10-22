@@ -1,101 +1,5 @@
 [
   {
-    "id": 212,
-    "title": "Book Freak #219: Aretha: From These Roots",
-    "title_zh": "书虫杂谈 #219：艾蕾塔：来自根源",
-    "source": "Kevin Kelly",
-    "link": "https://kk.org/cooltools/book-freak-219-aretha-from-these-roots/",
-    "tags": [
-      "update",
-      "lifestyle",
-      "ai-research",
-      "beginner-friendly"
-    ],
-    "tags_zh": [
-      "动态",
-      "生活方式",
-      "AI研究",
-      "新手友好"
-    ],
-    "date": "2026-09-18",
-    "summary_en": "Book Freak #219 dives into the biography \"Aretha: From These Roots,\" chronicling the Queen of Soul’s extraordinary journey from a gospel‑filled Detroit church to global superstardom. The piece highlights four core principles that shaped Aretha’s life: honoring one’s roots as a source of power, the universal yearning for respect, humility as the hallmark of true greatness, and the art of balancing public and private selves. By weaving together archival anecdotes and actionable reflection prompts, the review offers readers a practical framework for self‑discovery and personal growth. It goes beyond mere fan fare, positioning Aretha’s story as a timeless case study in authenticity, resilience, and the interplay between talent and humility. The narrative invites both music enthusiasts and general readers to contemplate how their own \"roots\" can fuel ambition, how respect functions as a social currency, and how to integrate disparate facets of identity without sacrificing integrity. In doing so, it transforms a music‑centric profile into a broader meditation on leadership, identity, and the human desire for meaning—making it a compelling, thought‑provoking read for anyone interested in the intersection of art, character, and cultural impact.",
-    "summary_zh": "这篇书评深入探讨了艾蕾塔·富兰克林的成长之路，强调了根源的力量、尊重的普遍需求、谦逊的伟大，以及如何平衡多面人生。通过生平故事和实践建议，启发读者反思自身成长与自我认知，寻找个人力量与和谐生活的平衡点。",
-    "best_quote_en": "\"It was the need of a nation, the need of the average man and woman in the street, the businessman, the mother, the fireman, the teacher—everyone wanted respect.\"",
-    "best_quote_zh": "\"那是全民族的需要，是街头男女、商人、母亲、消防员、教师——每个人都需要的尊重。\""
-  },
-  {
-    "id": 213,
-    "title": "The Virus",
-    "title_zh": "病毒",
-    "source": "Sam Altman",
-    "link": "https://blog.samaltman.com/the-virus",
-    "tags": [
-      "update",
-      "science",
-      "medicine",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "动态",
-      "科学研究",
-      "医学健康",
-      "数据驱动"
-    ],
-    "date": "2020-03-07",
-    "summary_en": "The Virus article by an informed commentator warns that Covid‑19 may be only the first of a series of severe pandemics in our lifetimes. Drawing on expert interviews, the author predicts hundreds of thousands of deaths and urges societies to treat the outbreak as a rehearsal for future crises. He advises young, healthy individuals to delay infection as long as possible, noting that while the disease is mild for them, their spread accelerates transmission to vulnerable populations. The piece forecasts a rapid shift to a “new normal,” with lasting changes in hygiene practices and business travel, while work‑from‑home trends may fade. It also highlights the under‑appreciated economic fragility exposed by the pandemic, linking the collapse of Treasury yields to cascading failures in complex systems. The author’s central message is that preparedness, not complacency, is essential for confronting the inevitable next health emergency.",
-    "summary_zh": "病毒文章警告，新冠可能只是未来更严重疫情的开端。作者引用专家观点，预测数百万人死亡，呼吁社会将此视为危机演习，强调年轻人应延缓感染，指出经济系统脆弱性，并预言新的常态将改变卫生与商务行为。",
-    "best_quote_en": "Covid‑19 is bad, but only a warm‑up.",
-    "best_quote_zh": "新冠病毒很糟糕，但只是开始。"
-  },
-  {
-    "id": 214,
-    "title": "Default Alive or Default Dead?",
-    "title_zh": "默认存活还是默认死亡？",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/aord.html",
-    "tags": [
-      "solve",
-      "startup-strategy",
-      "startup-funding",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "解决",
-      "创业策略",
-      "创业融资",
-      "数据驱动"
-    ],
-    "date": "2026-09-20",
-    "summary_en": "Trevor Blackwell’s 2015 essay forces founders to confront a brutal reality: after several months, does a startup have enough runway to become profitable, or is it already doomed? He introduces the \"default alive or default dead\" calculus, warning that many founders ignore it until it’s too late, leading to the \"fatal pinch\"—a combination of unprofitability, slow growth, and insufficient time to pivot. The piece critiques common misconceptions, especially the belief that aggressive hiring or fundraising will rescue a struggling venture. Instead, it advocates early, honest assessment, planning for a \"plan B\" if fundraising fails, and focusing on product‑market fit before scaling. By urging founders to ask the uncomfortable question early, the essay offers a pragmatic roadmap for survival and sustainable growth, making it essential reading for anyone navigating early‑stage startups.",
-    "summary_zh": "这篇文章迫使初创企业创始人直面一个残酷的事实：几个月后，公司是否还有盈利可能，还是已经步入绝境？作者提出了“默认存活还是默认死亡”的计算方法，警告许多创始人忽视这一点，直到陷入“致命困境”——无盈利、增长慢、时间不足。通过批判过度招聘和盲目融资的误区，文章倡导早期 Honest 评估，制定备用生存计划，并强调产品‑市场匹配的重要性。它为初创企业提供了一条务实的生存与稳健增长路径，是所有早期创业者的必读之作。",
-    "best_quote_en": "Hiring too fast is by far the biggest killer of startups that raise money.",
-    "best_quote_zh": "快速雇人是初创企业筹资后最大的杀手。"
-  },
-  {
-    "id": 215,
-    "title": "Labs could soon start automated research into architectures driven by no-CoT perfomance",
-    "title_zh": "实验室可能很快开始进行由无思维链性能驱动的自动架构研究",
-    "source": "LessWrong",
-    "link": "https://www.lesswrong.com/posts/7WA6odujzhr8WkgDx/labs-could-soon-start-automated-research-into-architectures",
-    "tags": [
-      "analyze",
-      "ai-research",
-      "science",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "AI研究",
-      "科学研究",
-      "数据驱动"
-    ],
-    "date": "2026-09-20",
-    "summary_en": "The article argues that no‑CoT (no Chain‑of‑Thought) performance can serve as a practical proxy for gauging the g‑factor intelligence of foundational AI models, citing prior work on latent multi‑hop reasoning. It envisions labs deploying automated research interns that propose architectural tweaks—such as carrying latent information across filler tokens—to boost both no‑CoT n‑hop performance and sequential reasoning, thereby improving token efficiency and tackling long‑horizon tasks. While this trajectory promises faster, more capable models, it also points toward reduced monitorability and raises urgent questions about mechanistic interpretability, activation oracles, and the potential emergence of hidden, parallel reasoning processes that elude human understanding. The piece balances enthusiasm for rapid progress with a sober warning that the unknowns demand careful exploration, echoing concerns seen in systems like DeepSeek‑R1 and OpenAI o1 that previously relied on exponential scaling. In sum, the shift toward no‑CoT‑driven automation could accelerate AI capabilities but also deepens the challenge of maintaining transparency and control.",
-    "summary_zh": "无思维链性能成为衡量基础模型g因子的新指标，促使实验室探索自动架构研究，以期提升长任务推理的令牌效率和智能水平。然而，低可监控性和解释难题隐现，引发对模型可解释性的深刻担忧，未来需平衡进步与安全。",
-    "best_quote_en": "No‑CoT performance has been a decent proxy for tracking the g‑factor intelligence of base models.",
-    "best_quote_zh": "无思维链性能是衡量基础模型g因子的有效指标。"
-  },
-  {
     "id": 216,
     "title": "Hard Startups",
     "title_zh": "艰难创业",
@@ -2330,5 +2234,95 @@
     "summary_zh": "本期科技周刊探索了AI在文学可视化方面的前沿应用，展示了Claude Opus 5.5在将卡尔维诺的《看不见的城市》从文本描述转化为沉浸式3D环境方面的卓越表现，超越了GPT-6 Astra。内容涵盖了创新的AI建模项目，包括漂浮在樱花河道上的船只模拟和对香港九龙半岛的重建，还讨论了未来灯泡式计算机和Deno编程语言的衰落。周刊还介绍了实用的工具，如AI驱动的二进制反向工程、内容检测系统和各种开发者工具，为科技专业人士提供技术洞察和创意灵感。",
     "best_quote_en": "It even generated the crowds sitting in the square",
     "best_quote_zh": "它甚至生成了广场上坐着的人群"
+  },
+  {
+    "id": 312,
+    "title": "Tell us: are you a single woman? We want to know about your relationship to sex",
+    "title_zh": "告诉我们：你是单身女性吗？我们想了解你对性的态度",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/lifeandstyle/2026/oct/14/tell-us-are-you-a-single-woman-we-want-to-know-about-your-relationship-to-sex",
+    "tags": [
+      "analyze",
+      "science",
+      "lifestyle",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "科学研究",
+      "生活方式",
+      "数据驱动"
+    ],
+    "date": "2026-10-14",
+    "summary_en": "This Guardian community piece invites single women to share their personal relationship with sex, sparked by the provocative trailer for the film *Wicker*, which portrays a woman commissioning a woven husband. The editor’s note highlights an unbridled cultural resonance: the notion of a woman seizing control over her own sexuality, however imaginatively, strikes a deep societal nerve. By posing a series of reflective prompts—ranging from whether sex is a \"need\" or a \"nice to have\" to what lessons have been learned about communication and desire—the article functions as both a sociological survey and a platform for voice. It raises questions about the evolving expectations of female sexual agency, the tension between personal fulfillment and cultural scripts, and the methodological challenges of aggregating anonymous, self‑reported data. The piece also underscores the Guardian’s commitment to secure, consent‑based storytelling, offering contributors options for anonymity and control over their material. Ultimately, it serves as a timely catalyst for broader conversations about intimacy, autonomy, and the diverse ways women navigate their sexual identities in contemporary society.",
+    "summary_zh": "这篇卫报社区文章邀请单身女性分享她们对性的态度，灵感来自《威克》电影的预告片——一个女性订制织成的丈夫的故事。编辑指出，一个女性掌控自己性生活的想法，无论多么奇幻，都触动了人们的神经。通过一系列反思性问题——性是“需求”还是“可有可无”？你从性中学到了什么？——文章既是社会调查，也是声音平台。它引发了对女性性自主权的新期待、文化脚本与个人满足之间的张力，以及如何可靠收集匿名自我报告数据的思考。同时，它也体现了卫报对安全、同意叙事的承诺，给予贡献者匿名和控制权。总之，它成为探讨亲密关系、自我认知与当代女性性身份的热点话题。",
+    "best_quote_en": "The idea of a single woman taking control of her sex life – no matter how fantastically – struck a nerve.",
+    "best_quote_zh": "一个单身女性掌控自己性生活的想法，无论多么奇幻，都触动了人们的神经。"
+  },
+  {
+    "id": 313,
+    "title": "Can Justin J. Pearson Win in Tennessee?",
+    "title_zh": "贾斯汀·J·皮尔森能在田纳西州获胜吗？",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/the-lede/can-justin-j-pearson-win-in-tennessee",
+    "tags": [
+      "learn",
+      "politics",
+      "society",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "学习",
+      "政治时事",
+      "社会议题",
+      "未来预测"
+    ],
+    "date": "2026-10-22",
+    "summary_en": "Justin J. Pearson, a young Black activist from Memphis, now faces a steep challenge after Tennessee’s redistricting erased the state’s only Black‑majority congressional district. Forced to campaign across a sprawling, majority‑white rural swath, Pearson blends economic populism with anti‑pipeline and anti‑data‑center activism, appealing to disaffected voters across racial lines. His bid tests whether a progressive message rooted in class inequality can transcend the South’s entrenched racial and partisan divides. The race also spotlights how recent Supreme Court rulings weakening the Voting Rights Act have reshaped electoral maps, prompting Democrats to rethink strategies in historically red territories. Pearson’s campaign, framed by personal resilience and grassroots mobilization, could redefine political coalitions in a state where urban‑driven representation is increasingly contested.",
+    "summary_zh": "前田纳西州众议员贾斯汀·J·皮尔森在选区重划后被迫进入多数白人农村选区竞选。他将经济民粹主义与反管道、反数据中心行动相结合，试图跨越种族界限赢得选民。这场竞选考验着阶级平等信息能否打破南部的种族和党派壁垒，同时也反映出最高法院削弱投票权法案后民主党在红州的战略调整。皮尔森的草根动员能否重塑政治联盟？这不仅关乎一个议席，更关乎民主党的未来走向。",
+    "best_quote_en": "My thing is that, if you are not a billionaire, you are one of us.",
+    "best_quote_zh": "我的观点是，如果你不是亿万富翁，你就是我们中的一员。"
+  },
+  {
+    "id": 314,
+    "title": "What’s in my NOW? — Tony Franco",
+    "title_zh": "我的当下有什么？ — 托尼·法兰科",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/whats-in-my-now-tony-franco/",
+    "tags": [
+      "guide",
+      "leadership"
+    ],
+    "tags_zh": [
+      "指导",
+      "领导管理"
+    ],
+    "date": "2026-10-21",
+    "summary_en": "Tony Franco offers a fascinating glimpse into his personal and professional ecosystem in 'What's in my NOW?' This fractional COO and founder of SageWell Advisors shares practical tools and philosophies that drive his productivity and leadership. The content spans physical essentials like a Rite in the Rain notebook and Biofreeze roll-on, to digital workflows using Notion and Claude for efficient project management. Franco's coaching philosophy, inspired by NICA youth mountain biking, emphasizes 'type 2 fun' - the joy found in overcoming challenges and growth. His approach combines actionable productivity hacks with deeper insights about leadership, mentorship, and personal development. The piece is particularly valuable for founders, coaches, and professionals seeking practical tools and inspirational guidance. By sharing both tangible resources and intangible wisdom like 'You gotta earn the view. Embrace the suck, enjoy the climb… the whole thing is the thing,' Franco provides a holistic blueprint for effective leadership and personal effectiveness that balances practical tools with philosophical depth.",
+    "summary_zh": "托尼·法兰科在《我的当下有什么？》中分享了他个人和职业生态的实用工具和哲学。作为SageWell Advisors的创始人兼COO，他展示了从 Rite in the Rain 笔记本到 Notion+Claude 数字工作流的实用生产力工具，以及从 NICA 青少年山地车队中汲取的领导力智慧。他提出的“类型二快乐”理念——在挑战中成长、享受攀登的过程——为现代领导者和教练提供了宝贵的视角。这篇文章不仅提供了实用的工具和方法，还传递了深刻的个人发展哲学，非常适合寻求平衡效率与智慧的现代专业人士阅读。",
+    "best_quote_en": "You gotta earn the view. Embrace the suck, enjoy the climb… the whole thing is the thing.",
+    "best_quote_zh": "你必须赚取这个视角。拥抱痛苦，享受攀登……整个过程就是目的。"
+  },
+  {
+    "id": 315,
+    "title": "Essentials: Developing a Rational Approach to Supplementation for Health & Performance",
+    "title_zh": "精要：制定理性的补充方案以提升健康与表现",
+    "source": "Huberman Lab",
+    "link": "https://www.hubermanlab.com/episode/essentials-developing-a-rational-approach-to-supplementation-for-health-and-performance",
+    "tags": [
+      "solve",
+      "medicine",
+      "psychology"
+    ],
+    "tags_zh": [
+      "解决",
+      "医学健康",
+      "心理学"
+    ],
+    "date": "2026-10-22",
+    "summary_en": "In this Huberman Lab Essentials episode, Andrew Huberman outlines a systematic method for crafting a personalized supplementation strategy that aligns with individual health goals, nutritional status, and budget constraints. He breaks down foundational multivitamins and targeted single‑ingredient supplements for sleep, hormonal balance, and cognitive enhancement, detailing practical tools for testing efficacy, selecting dosages, and cycling compounds responsibly. Huberman stresses that behavioral interventions and whole‑food nutrition remain the bedrock of mental and physical performance, positioning supplements as adjuncts rather than replacements. The discussion blends rigorous scientific reasoning with actionable advice, encouraging listeners to adopt an evidence‑based, iterative approach to self‑optimization. This perspective not only empowers individuals to make informed choices but also highlights a broader cultural shift toward data‑driven, personalized health protocols that could reshape public wellness paradigms.",
+    "summary_zh": "胡伯曼实验室 Essentials  episode 提供了一套系统方法，教你制定符合个人需求、营养状况和预算的补充方案。他详细讲解了基础维生素和针对睡眠、激素及认知的单方补充剂，并教授测试、剂量和循环的实用工具。他反复强调行为调整和均衡饮食才是健康与表现的核心，补充剂只是辅助。这篇内容既科学严谨又极具操作性，鼓励听众采用实证、自我调整的方法来优化健康。这种个性化、健康导向的趋势或许将重塑公共健康观念。",
+    "best_quote_en": "Behavioral tools and nutrition remain the foundation for mental health, physical health and performance.",
+    "best_quote_zh": "行为工具和营养是维持心理健康、身体健康和表现的基础。"
   }
 ]
