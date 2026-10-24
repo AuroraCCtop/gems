@@ -1,27 +1,5 @@
 [
   {
-    "id": 219,
-    "title": "The Lost Descendants of Thomas Jefferson",
-    "title_zh": "托马斯·杰斐逊失踪的后代",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/news/the-lede/the-lost-descendants-of-thomas-jefferson",
-    "tags": [
-      "analyze",
-      "science",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "科学研究",
-      "数据驱动"
-    ],
-    "date": "2026-09-21",
-    "summary_en": "Julian Lucas’s expansive report reveals how a secret Smithsonian DNA study has finally settled America’s longest paternity dispute: Thomas Jefferson fathered children with his enslaved chambermaid Sally Hemings, and their bloodline persists across the nation. The narrative follows Richard Kurin’s decade‑long, high‑stakes effort—from hair samples in the Jefferson Bible to exhumed remains and breakthroughs in ancient DNA extraction—to sequence Jefferson’s genome and confirm genetic links with living descendants like Margot Kossmann Williams. Lucas weaves scientific rigor, historical controversy, and personal stories, showing how the findings reshape national identity and force a reckoning with the contradictions of liberty and slavery. The article balances meticulous research, the emotional impact on descendants, and the broader cultural implications of finally acknowledging a foundational, hidden lineage.",
-    "summary_zh": "研究用DNA证据证实了杰斐逊与黑人女仆的私生子女血脉延续，揭示了美国历史中难以忽视的种族矛盾与身份重构。",
-    "best_quote_en": "Now you can’t think about the founding without thinking about Black people.",
-    "best_quote_zh": "现在你无法在思考建国历史时忽略黑人的存在。"
-  },
-  {
     "id": 220,
     "title": "DesignPatentDaily / Origin Myth Map / Magnifying Desk Lamp",
     "title_zh": "设计专利日报 / 起源神话地图 / 放大桌灯",
@@ -2324,5 +2302,27 @@
     "summary_zh": "优衣库成为廉价旅行装备的暗藏宝地，$15 即可购得防臭吸湿上衣；航空评比凸显亚洲 carriers 服务领先，数据驱动的消费者调查更能反映体验；东南亚烟雾危机实为人为烧荒所致，治理不力与气候变化加剧问题；迪士尼豪华行程成本惊人，引发对旅行价值的深思。这些片段揭示了衣食住行背后的经济、环境与文化逻辑，鼓励读者重新审视旅途中的选择与责任。",
     "best_quote_en": "an anti-odor wicking one that feels better-made than what you'd expect for $15.",
     "best_quote_zh": "一件防臭吸湿的T恤，15美元的价格感觉做工比预期更好。"
+  },
+  {
+    "id": 319,
+    "title": "How to Get Startup Ideas",
+    "title_zh": "如何获得创业点子",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/startupideas.html",
+    "tags": [
+      "solve",
+      "startup-strategy",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "解决",
+      "创业策略",
+      "数据驱动"
+    ],
+    "date": "2026-10-24",
+    "summary_en": "This essay dismantles the myth of brainstorming startup ideas and proposes a pragmatic, problem‑centric approach. Paul Graham argues that the most promising ventures arise from personal pain points—problems founders truly experience—because those problems guarantee existence and urgency. He illustrates how early successes like Microsoft, Apple, and Facebook began as \"wells\" rather than \"craters\": narrow, deep markets where a few users desperately need a solution. Graham also stresses the importance of being at the leading edge of a fast‑changing field, cultivating the right mindset, and learning to \"notice\" opportunities rather than force‑fit ideas. The piece offers actionable advice: identify genuine user need, seek a clear path to expand beyond the initial niche, and build enough technical skill to prototype quickly. By reframing idea generation as a process of observation and problem solving, Graham provides a roadmap for aspiring entrepreneurs to discover startups that truly matter.",
+    "summary_zh": "这篇文章揭示了创业点子并非源于随意头脑风暴，而是要从真实问题中寻找，尤其是那些创始人亲身经历的问题。作者认为最成功的创业往往聚焦于“井”型市场——小众但迫切的需求。他强调身处快速变化领域的重要性，培养正确的观察力，并迅速将想法转化为原型。通过转变思维，从问题出发，文章为创业者提供了实用的方法：找到真实的用户痛点，规划扩展路径，并掌握基本技术技能。这不仅是关于如何产生好点子，更是关于如何构建真正有价值的企业。",
+    "best_quote_en": "Live in the future, then build what's missing.",
+    "best_quote_zh": "生活在未来，然后构建缺失的部分."
   }
 ]
