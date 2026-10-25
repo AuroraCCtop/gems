@@ -1,29 +1,5 @@
 [
   {
-    "id": 220,
-    "title": "DesignPatentDaily / Origin Myth Map / Magnifying Desk Lamp",
-    "title_zh": "设计专利日报 / 起源神话地图 / 放大桌灯",
-    "source": "Kevin Kelly",
-    "link": "https://kk.org/cooltools/designpatentdaily-origin-myth-map-magnifying-desk-lamp/",
-    "tags": [
-      "solve",
-      "design",
-      "psychology",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "解决",
-      "设计创意",
-      "心理学",
-      "数据驱动"
-    ],
-    "date": "2026-09-20",
-    "summary_en": "This daily digest curates a fascinating mix of design, culture, tools, and personal growth. The first feature highlights DesignPatentDaily, an Instagram account that shares one elegant patent drawing each day, turning technical schematics into stunning, minimalist art. Next, the Origin Myth Map offers an immersive, interactive exploration of creation stories worldwide, allowing users to navigate time, themes, and mythic lineages with intuitive curiosity. Practical segments introduce a high‑quality magnifying desk lamp and a ratcheting bar clamp, both praised for their functionality and user‑friendly design. A compelling story about Fiskars honoring a 16‑year‑old broken lopper without a receipt underscores the value of brand loyalty and durable products, echoed by other brands like Calphalon and Philips. Finally, Peter McEwen’s guide on meeting difficult emotions without trying to fix them offers a gentle, contemplative practice for emotional resilience. Together, these pieces reveal how thoughtful design, cultural narratives, reliable tools, and mindful introspection can enrich everyday life.",
-    "summary_zh": "这份日间精选涵盖了专利艺术的简约之美、全球神话的互动地图、实用的放大灯具、快速夹具的创新，以及品牌工具的终身支持，最后是一份温柔接纳困难情绪的指引。这些看似无关的内容实则映照了设计、文化、实用与心理成长的交织，提醒我们在快节奏的生活中停下来欣赏细节，聆听古老叙事，并温柔地面对内心的冲突。",
-    "best_quote_en": "When a difficult emotion shows up, you don’t have to resolve it. You drop out of the story and into the actual sensation in your body, and you stay with it in small doses, even if it’s only a few seconds.",
-    "best_quote_zh": "当困难的情绪出现时，你不必去解决它。你跳脱出叙事，进入身体中的真实感觉，并小剂量地与它共处，即使只是一小会儿。"
-  },
-  {
     "id": 221,
     "title": "Best Tools for Gut Health & Weight Loss | Dr. Chris Thompson",
     "title_zh": "最佳肠道健康与减重工具 | 克里斯·汤姆森博士",
@@ -2324,5 +2300,27 @@
     "summary_zh": "这篇文章揭示了创业点子并非源于随意头脑风暴，而是要从真实问题中寻找，尤其是那些创始人亲身经历的问题。作者认为最成功的创业往往聚焦于“井”型市场——小众但迫切的需求。他强调身处快速变化领域的重要性，培养正确的观察力，并迅速将想法转化为原型。通过转变思维，从问题出发，文章为创业者提供了实用的方法：找到真实的用户痛点，规划扩展路径，并掌握基本技术技能。这不仅是关于如何产生好点子，更是关于如何构建真正有价值的企业。",
     "best_quote_en": "Live in the future, then build what's missing.",
     "best_quote_zh": "生活在未来，然后构建缺失的部分."
+  },
+  {
+    "id": 320,
+    "title": "Book Freak #228: Breakthrough Copywriter",
+    "title_zh": "书虫 #228：突破性文案撰写",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/book-freak-228-breakthrough-copywriter/",
+    "tags": [
+      "solve",
+      "ai-research",
+      "science"
+    ],
+    "tags_zh": [
+      "解决",
+      "AI研究",
+      "科学研究"
+    ],
+    "date": "2026-10-23",
+    "summary_en": "Breakthrough Copywriter by Eugene M. Schwartz offers a timeless guide to advertising that transcends fleeting marketing trends. The book reveals that effective copywriting isn't about manufacturing desire but rather channeling humanity's eternal aspirations, fears, and dreams toward products that can fulfill them. Schwartz's five-tiered awareness framework provides a sophisticated map for understanding consumer psychology, while his insights on market sophistication and role-based marketing demonstrate how brands evolve from novelty to mainstream acceptance. The practical exercises invite readers to immediately apply these principles, making this both a theoretical masterpiece and a hands-on toolkit. In an era of AI-generated content, this book serves as a crucial reminder that the human element in advertising remains indispensable - understanding and articulating what people already want to become is the ultimate competitive advantage.",
+    "summary_zh": "尤金·施瓦茨的《突破性文案撰写》是一本超越时代经典的广告指南书。它揭示了有效文案创作的深刻真相： copywriting不是制造欲望，而是引导人类永恒的愿望、恐惧和梦想，让它们与能实现这些梦想的产品相结合。在当今AI内容泛滥的时代，这本书提醒我们，理解和 articulate人们渴望成为的自己 remains 人类广告的终极竞争力。",
+    "best_quote_en": "Copy cannot create desire for a product. It can only take the hopes, dreams, fears, and desires that already exist in the hearts of millions of people, and focus those already-existing desires onto a particular product. This is the copywriter's task: not to create this mass desire — but to channel and direct it.",
+    "best_quote_zh": "文案无法为产品创造欲望。它只能接纳那些已经存在于千百万人心中的希望、梦想、恐惧和欲望，并将这些已有的欲望集中到特定的产品上。这就是文案撰写的任务：不是创造这种大众欲望，而是引导和指挥它。"
   }
 ]
