@@ -1,73 +1,5 @@
 [
   {
-    "id": 221,
-    "title": "Best Tools for Gut Health & Weight Loss | Dr. Chris Thompson",
-    "title_zh": "最佳肠道健康与减重工具 | 克里斯·汤姆森博士",
-    "source": "Huberman Lab",
-    "link": "https://www.hubermanlab.com/episode/best-tools-for-gut-health-and-weight-loss-chris-thompson",
-    "tags": [
-      "solve",
-      "medicine",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "解决",
-      "医学健康",
-      "数据驱动"
-    ],
-    "date": "2026-09-21",
-    "summary_en": "Harvard Medical School Professor Dr. Chris Thompson provides cutting-edge insights into gut health and weight management, bridging advanced medical research with practical applications. The content explores how gastrointestinal health regulates hunger, metabolism, and overall wellness through mechanisms like gut hormones, microbiome balance, and innovative treatments including GLP-1 medications. Thompson's expertise reveals the critical connection between digestive health and systemic well-being, offering evidence-based strategies for both conventional and emerging weight loss approaches. The discussion demystifies complex medical concepts while providing actionable guidance for individuals struggling with gut health challenges, making sophisticated metabolic science accessible to general readers seeking to optimize their health through targeted nutritional and medical interventions.",
-    "summary_zh": "哈佛医学院汤姆森博士深入探讨了肠道健康与减重的科学奥秘，揭示了胃肠道如何调控饥饿、代谢和整体健康。从肠道激素到微生物群落，从GLP-1药物到生活方式干预，他为我们呈现了连接现代医学前沿与实用健康的桥梁。这篇内容不仅解析了复杂的生理机制，还提供了切实可行的解决方案，尤其对那些面临肠道健康或体重管理挑战的人来说，具有重要的指导意义。",
-    "best_quote_en": "Your gut health is vital to all the organs of the body, overall health, and longevity.",
-    "best_quote_zh": "肠道健康对身体所有器官、整体健康和长寿都至关重要。"
-  },
-  {
-    "id": 222,
-    "title": "Change Your Name",
-    "title_zh": "更改你的公司名称",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/name.html",
-    "tags": [
-      "solve",
-      "startup-strategy",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "解决",
-      "创业策略",
-      "未来预测"
-    ],
-    "date": "2026-09-22",
-    "summary_en": "This essay argues that acquiring a matching .com domain is a critical, often overlooked signal of legitimacy for startups, especially those with mobile apps where discoverability has shifted. The author, drawing on years of advising founders at Y Combinator, explains how emotional attachment and limited imagination can blind entrepreneurs to the strategic importance of a clean, memorable name. By reframing the problem—imagining an alternative name and recognizing naming as a distinct skill—founders can break denial and take concrete action, such as generating a list of viable domains and purchasing them promptly. The piece highlights Stripe’s early success and provides data: 100% of top 20 YC companies by valuation have a .com, while only 66% of current batches do, suggesting a looming lesson for many. Ultimately, the article blends practical advice, psychological insight, and a call for disciplined branding, urging founders to treat domain acquisition as a quick, high‑impact fix rather than a negotiable detail.",
-    "summary_zh": "这篇文章揭示了拥有匹配 .com 域名对初创企业的重要性，它不仅仅是发现问题，更是实力的象征。作者通过分享在 Y Combinator 的经验，指出创始人因情感依恋和想象力局限而忽视这一关键点。文章建议 founders 通过想象替代名称并承认命名技能的独立性来克服这一障碍，进而采取购买域名的具体行动。Stripe 的案例和数据表明，顶级 YC 公司几乎无一例外拥有 .com 域名，而当前批次仅有三分之二具备此条件，预示着许多企业将面临相关教训。这篇文字融合了实用的建议、心理洞察和品牌建设的纪律呼吁，激励创始人将域名 acquisition 视为一个快速且高价值的举措。",
-    "best_quote_en": "Having x.com signals strength even if it has no relation to what you do.",
-    "best_quote_zh": "拥有 x.com 即使与你们的业务无关，也能传达出实力。"
-  },
-  {
-    "id": 223,
-    "title": "Projecting AI Automation at Anthropic",
-    "title_zh": "预测 Anthropic 的人工智能自动化",
-    "source": "LessWrong",
-    "link": "https://www.lesswrong.com/posts/sFx2EgCmpJdyD3iAq/projecting-ai-automation-at-anthropic",
-    "tags": [
-      "update",
-      "ai-research",
-      "science",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "动态",
-      "AI研究",
-      "科学研究",
-      "未来预测"
-    ],
-    "date": "2026-09-22",
-    "summary_en": "The article dissects Anthropic’s newly released R&D Automation Index, mapping AI’s progression from AL0 (no AI involvement) to AL5 (full autonomy). By leveraging Epoch AI’s scale, the author extracts concrete data on how much of model‑development work is already automated, then projects future trajectories using logistic curves and lag assumptions. The analysis reveals plausible pathways for AL5 to reach 80 % automation between mid‑2027 and early 2028, contingent on factors like recursive self‑improvement and safety considerations. The piece underscores the importance of transparent benchmarking for external observers and highlights critical inflection points—AL4 hitting ~50 % by October 2026 and AL5 nudging to 1‑2 % in late 2026. It also cautions that projections ignore feedback loops from AI‑driven growth and potential human‑in‑the‑loop constraints. Overall, the work offers a rigorous, data‑driven lens on AI’s accelerating R&D automation, inviting readers to contemplate both the technical momentum and the societal implications of increasingly autonomous model development.",
-    "summary_zh": "本文深入剖析 Anthropic 发布的 R&D 自动化指数，从 AL0 到 AL5 展现 AI 在模型研发中的自动化演进。通过 Epoch AI 的评估尺度，作者提取了当前自动化数据，并利用逻辑曲线预测未来趋势。分析显示，若递归自我改进持续，AL5 可能在 2027 年中至 2028 年初实现 80 % 自动化，但需关注安全限制和人类参与因素。文章强调了公开透明度对外部观察者的价值，并指出 2026 年 10 月 AL4 达到约 50 % 及当年秋季 AL5 爬升至 1‑2 % 等关键节点。作者提醒，预测未纳入 AI 自身增长反馈环，可能导致曲线偏差。全文以数据为依据，引导读者思考 AI 自动化加速的深远技术与社会意义。",
-    "best_quote_en": "I expect the lag to be longer than 7.3 months, since the step change from AI “leads” to full automation seems quite large to me, and I expect the slope to be steeper for AL5 than AL4 due to recursive self‑improvement.",
-    "best_quote_zh": "我预计 lag 会比 7.3 个月更长，因为从 AI “领导”到完全自动化的跃进对我来说相当巨大，我还预期 AL5 的增长斜率会比 AL4 更陡峭，这是递归自我改进的效果。"
-  },
-  {
     "id": 224,
     "title": "How the Absence of Shame Weakens Democracy",
     "title_zh": "羞耻的缺失如何削弱民主",
@@ -2322,5 +2254,77 @@
     "summary_zh": "尤金·施瓦茨的《突破性文案撰写》是一本超越时代经典的广告指南书。它揭示了有效文案创作的深刻真相： copywriting不是制造欲望，而是引导人类永恒的愿望、恐惧和梦想，让它们与能实现这些梦想的产品相结合。在当今AI内容泛滥的时代，这本书提醒我们，理解和 articulate人们渴望成为的自己 remains 人类广告的终极竞争力。",
     "best_quote_en": "Copy cannot create desire for a product. It can only take the hopes, dreams, fears, and desires that already exist in the hearts of millions of people, and focus those already-existing desires onto a particular product. This is the copywriter's task: not to create this mass desire — but to channel and direct it.",
     "best_quote_zh": "文案无法为产品创造欲望。它只能接纳那些已经存在于千百万人心中的希望、梦想、恐惧和欲望，并将这些已有的欲望集中到特定的产品上。这就是文案撰写的任务：不是创造这种大众欲望，而是引导和指挥它。"
+  },
+  {
+    "id": 321,
+    "title": "Don’t call me ‘mumsy’ – the contempt behind that word makes me livid | Rhiannon Lucy Cosslett",
+    "title_zh": "别叫我“mumsy”——这个词背后的轻蔑让我愤怒 | 里安农·露西·科塞特",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/commentisfree/2026/oct/25/dont-call-me-mumsy-contempt-makes-me-livid-respect-mothers",
+    "tags": [
+      "solve",
+      "society",
+      "ai-research",
+      "controversial"
+    ],
+    "tags_zh": [
+      "解决",
+      "社会议题",
+      "AI研究",
+      "争议观点"
+    ],
+    "date": "2026-10-25",
+    "summary_en": "Rhiannon Lucy Cosslett’s opinion piece dissects the derogatory term “mumsy” as a linguistic weapon that reduces mothers to drab, old‑fashioned stereotypes, stripping them of style and agency. Drawing on personal anecdotes—from a health professional’s slip to a writer’s work being dismissed as “a bit mumsy”—she reveals how casual misogyny permeates fashion journalism, parenting forums, and broader cultural narratives. The essay critiques the pressure on mothers to conceal their identity, navigating the paradox of wanting respect while being judged for “motherly” traits. By invoking concepts like matrescence and referencing figures such as Amy Poehler, Cosslett illustrates the cyclical nature of maternal labeling and the resilience required to reclaim agency. Her call for genuine respect challenges readers to confront structural sexism and to stop policing mothers’ self‑expression, positioning the fight against “mumsy” as a broader battle for gender equity and authentic identity.",
+    "summary_zh": "文章揭露了“mumsy”一词如何将母亲贬低为缺乏时尚和现代感的符号，反映出社会对已育女性的刻板偏见。作者通过个人经历和文化批判，呼吁重新定义母性价值，赋予母亲应有的尊重与多元形象。",
+    "best_quote_en": "The harsh reality that dawns on you as you transition from not‑mother to mother is that you are for ever changed.",
+    "best_quote_zh": "当你从非母亲转变为母亲时，猛然意识到你将永远改变。"
+  },
+  {
+    "id": 322,
+    "title": "How Jim Morrison Surmounted Tragedy and Skied Down Everest",
+    "title_zh": "吉姆·莫里森如何战胜悲剧并滑下珠穆朗玛峰",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/magazine/2026/11/02/how-jim-morrison-surmounted-tragedy-and-skied-down-everest",
+    "tags": [
+      "analyze",
+      "ai-research",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "AI研究",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2026-10-26",
+    "summary_en": "Nick Paumgarten’s profile reveals how extreme athlete Jim Morrison turned personal tragedy—losing his wife and two children in a plane crash—into a relentless pursuit of the impossible. After his partner Hilaree Nelson’s death, Morrison pressed forward with their ambitious ski descent of Everest’s north face, the \"Super Direct.\" The narrative explores how grief, endorphins, and the mountain’s stark presence reshaped his coping mechanisms, turning loss into a twisted exultation. Morrison’s journey underscores the paradox of seeking transcendence through danger, while also exposing the fragile humanity behind the myth of the lone hero. The article offers a nuanced look at endurance sports, the psychology of bereavement, and the way cinematic documentation can both preserve and exploit such raw moments. Paumgarten balances reverence for Morrison’s tenacity with a sober assessment of the costs, leaving readers to contemplate what it means to live fully when joy and sorrow coexist.",
+    "summary_zh": "这篇文章讲述了极限运动员吉姆·莫里森如何在失去妻儿后，通过滑雪挑战珠峰北脊，化悲痛为力量。作者揭示了极端运动中悲伤的复杂心理，以及山脉如何成为抚慰与毁灭的双重力量。文章不仅记录了一位传奇运动员的坚韧，也引发我们对生命意义、风险与陪伴的深刻思考。",
+    "best_quote_en": "The mountains have given me so much. They've also taken a great deal from me. I don't climb or ski for the risk. I do it for the presence it demands.",
+    "best_quote_zh": "山谷给予了我太多，也带走了许多。我攀登滑雪不是为了冒险，而是为了那种专注力。"
+  },
+  {
+    "id": 323,
+    "title": "White noise alarm clock / Dopamine Shop / Inner sound journeys",
+    "title_zh": "白噪音闹钟 / 多巴胺商店 / 内心声音之旅",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/white-noise-alarm-clock-dopamine-shop-inner-sound-journeys/",
+    "tags": [
+      "solve",
+      "ai-research",
+      "design",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "解决",
+      "AI研究",
+      "设计创意",
+      "未来预测"
+    ],
+    "date": "2026-10-25",
+    "summary_en": "This Christmas issue of Recomendo steps away from its usual personal‑experience recommendations to showcase subscriber‑submitted discoveries. The curated picks include a Hotmoon Cocoon Pro 3 sound machine that doubles as a sleep aid, Dopamine Shop’s recreational online‑shopping simulation, Alana Fairchild’s meditative sound journeys, the AI‑generated Instagram series Gossip Goblin, Kids Trends—a searchable archive of over 100 million children’s drawings—and a pair of AI‑musical debates framing AI as a cultural meme. Together they map a landscape where wellness tech, digital escapism, spiritual audio, generative media, and childhood imagination satisfy niche emotional needs. The selections highlight a shift toward experiential, community‑driven consumption and illustrate how AI is reshaping entertainment and discourse. By inviting readers to contribute, Recomendo turns recommendation into a collaborative cultural snapshot, offering actionable inspiration and a sense of belonging in an increasingly fragmented media ecosystem.",
+    "summary_zh": "这份圣诞推荐集打破日常口味，汇集了各式奇特的创意——白噪音闹钟、虚拟购物、冥想声音、AI 动画剧、儿童画库——展现了当代人如何借助工具与想象满足焦虑，构建共享的审美社区与个人发现之路。",
+    "best_quote_en": "AI‑musicals are becoming memes – and the new way to debate ideas.",
+    "best_quote_zh": "AI 音乐剧正在成为 meme——也是探讨理念的新方式。"
   }
 ]
