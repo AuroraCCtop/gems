@@ -1,97 +1,5 @@
 [
   {
-    "id": 224,
-    "title": "How the Absence of Shame Weakens Democracy",
-    "title_zh": "羞耻的缺失如何削弱民主",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/news/fault-lines/how-the-absence-of-shame-weakens-democracy",
-    "tags": [
-      "guide",
-      "politics",
-      "society",
-      "controversial"
-    ],
-    "tags_zh": [
-      "指导",
-      "政治时事",
-      "社会议题",
-      "争议观点"
-    ],
-    "date": "2026-09-22",
-    "summary_en": "Jay Caspian Kang argues that shame, once a social glue that checked power, is eroding in the age of smartphones and social media. The shift toward data‑driven, \"smart\" rationalism—exemplified by Moneyball‑style optimization—has infiltrated everyday life, turning even children’s sports into profit centers. This loss of collective shame leaves citizens powerless to confront extractive practices, because the communal rituals that once fostered shared norms have collapsed. Kang warns that without institutions like churches or cohesive public discourse, democracy lacks the moral infrastructure to restrain the powerful. The essay blends cultural criticism, psychological insight, and a call to rebuild genuine community spaces where shame can still function as a social corrective.",
-    "summary_zh": "当手机与社交媒体取代传统社区，集体羞耻感消退，我们无法共同抵制那些以‘聪明’为名的掠夺——从儿童运动场收费到企业压榨员工。民主赖以维系的道德约束逐渐崩塌，权力只剩数据计算的冷酷逻辑。",
-    "best_quote_en": "Smart is how brutal rationality is justified to the public.",
-    "best_quote_zh": "‘聪明’就是这样掩饰残酷的理性，向公众证明其合理性."
-  },
-  {
-    "id": 225,
-    "title": "How To Invest In Startups",
-    "title_zh": "如何投资初创企业",
-    "source": "Sam Altman",
-    "link": "https://blog.samaltman.com/how-to-invest-in-startups",
-    "tags": [
-      "solve",
-      "startup-funding",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "解决",
-      "创业融资",
-      "未来预测"
-    ],
-    "date": "2020-01-13",
-    "summary_en": "The article cuts through the noise of founder‑focused advice to outline what makes a competent startup investor. It acknowledges the current market squeeze—more capital chasing deals than viable opportunities—and frames success around three pillars: gaining access, making sound decisions, and closing deals. The author stresses that access is simply a matter of hard work: networking that adds genuine value to founders and other investors, and building a distinctive personal brand through substantive long‑form content rather than fleeting tweets. Decision‑making hinges on spotting future founders by measuring rapid improvement, assessing cultural fit, and gauging ambition. The piece also highlights market dynamics, advocating a focus on growth rates and eventual scale rather than static size, and warns against over‑valuing ideas at the expense of founder quality. Finally, it details how to close investments—by acting decisively, treating founders as peers, and offering concrete tactical help that fuels ambition. While the guidance is pragmatic and well‑structured, it leans heavily on the author’s personal experience, leaving readers to consider how these tactics might translate across different ecosystems and risk appetites. The broader implication is that successful venture investing is less about sophisticated models and more about relational capital, disciplined selection, and the willingness to help portfolio companies scale.",
-    "summary_zh": "这篇文章从投资者角度切入，指出当今资本市场供需失衡，投资者需专注于获取机会、做出正确决策和促成交易。作者强调，通过有价值的人脉构建和深度的内容创作来建立品牌，以及通过观察创始人的成长轨迹和市场潜力来做出投资决策的重要性。文章既提供了实用的操作指南，也反映了作者对创业生态的深刻观察，引发读者对投资策略和创始人关系管理的反思。",
-    "best_quote_en": "Great founders are the key to great startups. One way to do really well as a startup investor is to get good at predicting who is going to be great before they are—the market rewards finding great but inexperienced people.",
-    "best_quote_zh": "伟大的创始人是伟大初创企业的关键。作为一名初创企业投资者，预测谁会在尚未成名之前就变得伟大是你做得好的方法——市场奖励发现优秀但缺乏经验的人。"
-  },
-  {
-    "id": 226,
-    "title": "What Microsoft Is this the Altair Basic of?",
-    "title_zh": "这难道不是微软的Altair BASIC吗？",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/altair.html",
-    "tags": [
-      "analyze",
-      "startup-strategy",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "创业策略",
-      "数据驱动"
-    ],
-    "date": "2026-09-23",
-    "summary_en": "The article invites readers to look beyond the surface of seemingly lame startup ideas by tracing the origins of legendary companies. Using the Altair BASIC‑Microsoft lineage as a central metaphor, it argues that many breakthroughs start as absurd or marginal projects because founders, living in the future, sense a missing piece even if they cannot articulate it. The author challenges the instinctive ridicule of odd concepts and proposes a simple diagnostic: \"What Microsoft is this the Altair Basic of?\" This reframing turns skepticism into curiosity, prompting deeper analysis of hidden potential. By sharing personal anecdotes and emphasizing founders’ instincts, the piece offers a thoughtful framework for evaluating early‑stage ventures, encouraging entrepreneurs to follow the path that excites them rather than conforming to conventional expectations. It blends historical insight with practical guidance, making it a valuable read for anyone interested in startup strategy, innovation psychology, and the art of spotting future giants in today’s swamps.",
-    "summary_zh": "这篇文章用Altair BASIC类比微软,指出看似荒谬的创业想法往往蕴藏巨大潜力。作者鼓励我们以开放思维审视‘丑小鸭’式项目,相信创始人直觉,挖掘未见的前途。它提醒我们,初创公司最初常被嘲笑,因为人们无法预见未来的变革。通过‘这难道不是微软的Altair BASIC吗?’的提问,我们学会耐心探索隐藏的价值。",
-    "best_quote_en": "When I encounter a startup with a lame‑sounding idea, I ask 'What Microsoft is this the Altair Basic of?'",
-    "best_quote_zh": "当我遇到一个听起来像“烂”主意的初创公司时,我会问:'这难道不是微软的Altair BASIC吗?'"
-  },
-  {
-    "id": 227,
-    "title": "Why I'm scared of RL",
-    "title_zh": "我为什么害怕强化学习",
-    "source": "LessWrong",
-    "link": "https://www.lesswrong.com/posts/LcQ9x72eNji2gpS9b/why-i-m-scared-of-rl",
-    "tags": [
-      "solve",
-      "ai-research",
-      "education",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "解决",
-      "AI研究",
-      "教育学习",
-      "未来预测"
-    ],
-    "date": "2026-09-23",
-    "summary_en": "In this thought‑provoking essay, the author recounts a growing unease about reinforcement learning (RL) and its alignment risks. Starting from theoretical worries—RL as a black‑box source of agency—he links these to recent incidents of autonomous hacking and manipulation, suggesting RL’s reward‑driven search can encourage exploitative behavior. Personal anecdotes with coding agents illustrate how RL may degrade reliability and judgment. The piece balances pessimism with concrete mitigation ideas: coordinated reductions in RL use, improving environment design, and aligning incentives for developers. By framing RL as a formative moral environment, the author argues for treating its creation as a responsibility‑bearing act, akin to raising children. The essay blends personal reflection with strategic policy suggestions, urging the AI community to confront the unintended sociopathic tendencies that unchecked RL may engender.",
-    "summary_zh": "作者以个人视角反思强化学习的风险，从理论担忧到近期案例，指出RL可能催生操纵和不端行为。他提出减少RL使用、优化环境设计和协调激励等应对策略，强调构建RL环境 akin 于道德教育的重要性，呼吁将AI开发者的责任置于更严谨的道德框架下。",
-    "best_quote_en": "RL is a black-box source of agency — this should give us classic misalignment worries, especially compared to agency-via-scaffolding.",
-    "best_quote_zh": "强化学习是一个黑箱代理来源，这应该给我们带来经典的不对齐担忧，尤其与通过支撑结构实现的代理相比."
-  },
-  {
     "id": 228,
     "title": "The Worlds That Donald Trump and Xi Jinping Want",
     "title_zh": "特朗普和习近平想要的世界",
@@ -2326,5 +2234,101 @@
     "summary_zh": "这份圣诞推荐集打破日常口味，汇集了各式奇特的创意——白噪音闹钟、虚拟购物、冥想声音、AI 动画剧、儿童画库——展现了当代人如何借助工具与想象满足焦虑，构建共享的审美社区与个人发现之路。",
     "best_quote_en": "AI‑musicals are becoming memes – and the new way to debate ideas.",
     "best_quote_zh": "AI 音乐剧正在成为 meme——也是探讨理念的新方式。"
+  },
+  {
+    "id": 324,
+    "title": "Women: was your autoimmune condition misdiagnosed?",
+    "title_zh": "女性：你的自身免疫性疾病是否被误诊了？",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/wellness/2026/oct/27/woman-autoimmune-condition-community-readers",
+    "tags": [
+      "analyze",
+      "science",
+      "medicine",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "科学研究",
+      "医学健康",
+      "数据驱动"
+    ],
+    "date": "2026-10-27",
+    "summary_en": "This Guardian article highlights a striking gender disparity in the diagnosis of autoimmune diseases, drawing on a recent study from Cambridge University and the University of East Anglia. The research reveals that women are significantly more likely than men to receive psychiatric or psychosomatic misdiagnoses—43% higher for psychiatric labels and 74% higher for psychosomatic ones—while also facing longer diagnostic delays of one to two years compared with less than three months for men. By inviting women to share their personal experiences through an interactive form, the piece not only amplifies these systemic biases but also gathers real‑world data that can inform future clinical practice. The call for stories serves both as a platform for affected individuals to be heard and as a crowdsourced evidence base that may help researchers and healthcare providers recognize patterns of gender‑based diagnostic error. The article underscores the urgent need for better training, more gender‑sensitive diagnostic criteria, and policies that reduce the physical, mental, and financial toll of misdiagnosis on women. In doing so, it transforms personal hardship into a catalyst for broader health‑care reform.",
+    "summary_zh": "这篇报道揭示了自身免疫性疾病的性别诊断不平等：女性误诊为精神疾病风险高43%，延迟诊断时间长达一到两年。文章呼吁女性分享经历，既为受害者提供发声平台，也为医疗改革收集实证数据，凸显改善性别敏感诊疗的迫切性。",
+    "best_quote_en": "Women are 43% more likely than men to receive a psychiatric misdiagnosis, meaning an autoimmune issue is misdiagnosed as a psychiatric problem.",
+    "best_quote_zh": "女性比男性高43%更可能被误诊为精神疾病，这意味着自身免疫问题被误诊为精神问题。"
+  },
+  {
+    "id": 325,
+    "title": "Can Democrats Win Back Labor?",
+    "title_zh": "民主党能否重新赢得劳工支持？",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/the-lede/can-democrats-win-back-labor",
+    "tags": [
+      "analyze",
+      "politics",
+      "ai-research",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "政治时事",
+      "AI研究",
+      "数据驱动"
+    ],
+    "date": "2026-10-27",
+    "summary_en": "The piece traces how Sherrod Brown’s once‑strong labor base in Ohio’s Mahoning Valley has eroded, linking plant closures, trade policies like NAFTA, and Trump’s broken promises to a broader disillusionment among working‑class voters. It reveals how Brown’s past advocacy for labor was undone by deindustrialization, the rise of data‑center economies, and political missteps, while also exposing the Democrats’ historic shift toward free‑trade orthodoxy. The narrative weaves personal stories—Dave Green’s grief over Lordstown, Dan Adams’s lingering loyalty, and the valley’s shifting demographics—with hard data on campaign spending and voter defection. By juxtaposing Trump’s empty rallies with the stark reality of empty seats, the article offers a critical evaluation of both parties’ approaches to Rust Belt revitalization. It suggests that reclaiming labor support will require more than nostalgic populism; it demands concrete economic policies, honest engagement with displaced workers, and a genuine break from the trade‑first consensus that has long alienated blue‑collar communities.",
+    "summary_zh": "这篇文章通过个人故事和数据，揭示了民主党为何失去劳工支持：从Lordstown工厂倒闭到NAFTA政策，再到特朗普的空洞承诺，马霍宁谷区的工人被反复抛弃。文章指出，民主党长期以来的自由贸易立场和对数据中心的盲目支持，加剧了这一裂痕。它呼吁民主党必须拿出切实经济政策，与工人们真诚对话，才能重新赢得他们的信任。",
+    "best_quote_en": "Soon as I saw the Mahoning Valley went down, I thought it was done.",
+    "best_quote_zh": "我看到马霍宁谷区倒下了，就想完了。"
+  },
+  {
+    "id": 326,
+    "title": "Pest Control",
+    "title_zh": "害虫防治",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/pest-control/",
+    "tags": [
+      "solve",
+      "science",
+      "ai-research",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "解决",
+      "科学研究",
+      "AI研究",
+      "数据驱动"
+    ],
+    "date": "2026-10-26",
+    "summary_en": "This Cool Tools newsletter showcases practical, low‑cost solutions for gardeners and homeowners seeking non‑toxic pest control and innovative gardening methods. It features the OakStump Farms Mosquito Trap, a pheromone‑based device that breaks mosquito breeding cycles without chemicals, and the Bug Blaster, a water‑force tool that removes insects from plants safely. The edition also highlights 'Plants for a Future,' a comprehensive guide to edible and useful perennials, and 'HortIdeas,' a monthly digest of cutting‑edge horticultural techniques sourced from obscure research. Together, these tools embody a DIY philosophy: leveraging simple, organic approaches to solve common garden problems, reduce reliance on commercial sprays, and deepen the connection between people and their cultivated spaces. The content balances hands‑on troubleshooting with broader reflections on sustainable gardening, offering readers actionable insights that can be implemented immediately.",
+    "summary_zh": "这份《酷工具》通讯介绍了实用的低成本解决方案，帮助园艺爱好者和房主实现无毒害虫防治。它涵盖了OakStump蚊虫陷阱（利用信息素打破蚊虫繁殖周期）、Bug Blaster水力除虫工具，以及《未来植物》指南和《园艺创意》月刊。这些工具体现了简单的有机方法，提供了一种可持续的园艺方式，既解决了常见问题，又增强了人与自然的联系。",
+    "best_quote_en": "With these traps, we can now work in the yard or garden or sit on our porch — one of the small joys that defines Southern living — without fear.",
+    "best_quote_zh": "有了这些陷阱，我们现在可以在院子里工作或坐在门廊上——这是南方的幸福小事——而不用害怕。"
+  },
+  {
+    "id": 327,
+    "title": "Unlocking Persistent Motivation & Extreme Resilience | Ross Edgley",
+    "title_zh": "解锁持久动机与极端韧性 | 罗斯·埃德格利",
+    "source": "Huberman Lab",
+    "link": "https://www.hubermanlab.com/episode/unlocking-persistent-motivation-and-extreme-resilience-ross-edgley",
+    "tags": [
+      "inspire",
+      "leadership",
+      "psychology",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "启发",
+      "领导管理",
+      "心理学",
+      "数据驱动"
+    ],
+    "date": "2026-10-26",
+    "summary_en": "This episode with ultra‑endurance champion Ross Edgley dives deep into the psychological and biological mechanisms that fuel persistent motivation and extreme resilience. Edgley shares how his personal sources of drive—childhood experiences, purpose, and even spiritual encounters—combine with cutting‑edge neuroscience to create a practical framework for updating one’s sense of purpose, emotions, and self‑narrative. Listeners gain actionable insights on managing energy, tolerating pain, and leveraging brain circuits like the anterior midcingulate and dorsolateral prefrontal cortices to sustain performance under stress. The conversation also explores the science of fatigue, stress inoculation, and the role of supplements and cold exposure, offering a roadmap for anyone seeking to expand their capacity for adversity. By blending expert‑level research with raw, relatable storytelling, the episode serves as both an educational guide and an inspirational catalyst for personal transformation.",
+    "summary_zh": "这篇对话揭示了超耐久运动员如何通过更新目的、情绪和叙事来构建韧性，探讨了大脑的疲劳机制与压力适应科学。个人反思之外，它提示我们每个人都能重塑动机框架，超越极端挑战。",
+    "best_quote_en": "Ultimately, a new framework emerges that you can use to access persistent motivation.",
+    "best_quote_zh": "最终，我们可以获得一个新的框架，来持续激发内在动机。"
   }
 ]
