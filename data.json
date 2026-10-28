@@ -1,49 +1,5 @@
 [
   {
-    "id": 228,
-    "title": "The Worlds That Donald Trump and Xi Jinping Want",
-    "title_zh": "特朗普和习近平想要的世界",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/news/global-notes/the-worlds-that-donald-trump-and-xi-jinping-want",
-    "tags": [
-      "inspire",
-      "politics",
-      "controversial"
-    ],
-    "tags_zh": [
-      "启发",
-      "政治时事",
-      "争议观点"
-    ],
-    "date": "2026-09-23",
-    "summary_en": "Ishaan Tharoor’s Global Notes offers a nuanced portrait of the uneasy yet ritualized summit between Donald Trump and Xi Jinping. The piece highlights how the two leaders, despite deep structural mistrust, mirror each other’s self‑image as historic saviors tasked with restoring national greatness. Trump’s softened tone and lavish welcome contrast with Xi’s need for optics amid domestic pressures, while analysts point to China quietly exploiting U.S. disengagement and to a broader contest between unilateralist and multilateral visions of world order. The article underscores that personal rapport cannot mask the chasm of distrust, and it raises questions about whether the U.S. and China will manage competition responsibly or drift toward a fragmented geopolitical landscape. Tharoor’s intellectual curiosity weaves together political theater, strategic calculations, and the broader implications for global governance, offering readers a compelling lens on one of the defining diplomatic encounters of the era.",
-    "summary_zh": "特朗普和习近平各自宣称是历史赋予的奠基人，意图重塑被视为被抛弃的伟大。表面礼遇掩盖着深层互疑与战略算计。两人镜像式的自我认知与算计，如何影响全球秩序？中美关系的微妙平衡，值得深长思索。",
-    "best_quote_en": "They both regard themselves as seminal, if not singular, figures whom history has appointed to fulfill a weighty mandate.",
-    "best_quote_zh": "他们都认为自己是历史任命的、具有开创性的人物，甚至是独一无二的，肩负着重要的使命。"
-  },
-  {
-    "id": 229,
-    "title": "The Ronco Principle",
-    "title_zh": "罗恩科原则",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/ronco.html",
-    "tags": [
-      "solve",
-      "startup-strategy",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "解决",
-      "创业策略",
-      "数据驱动"
-    ],
-    "date": "2026-09-24",
-    "summary_en": "The Ronco Principle explores how Ron Conway, one of Silicon Valley’s most influential angel investors, built his legendary network not through aggression but through genuine benevolence. The essay argues that the startup ecosystem’s growing transparency and unpredictability have made authentic goodness a strategic advantage: investors who truly act with integrity attract more deals, earn trust, and ultimately achieve superior returns. Conway’s track record—funding Google, Facebook, Twitter, and countless other successes—illustrates a broader trend where the most successful investors are also the most upstanding. The piece traces this shift from a less transparent era to today’s data‑rich, fast‑moving environment, where being two‑faced is risky and maintaining consistent kindness becomes a competitive edge. By highlighting how Conway’s “old‑school” ethics have become a forward‑looking investment principle, the article offers a thought‑provoking lens on leadership, trust, and the evolving economics of startup funding, suggesting that the future of investing belongs to those who are genuinely good.",
-    "summary_zh": "罗恩科 principle 揭示了硅谷投资者的转变：透明与不确定性迫使真诚善良成为成功的不二法门。本文深入剖析了康威的投资哲学，指出道德品质已成为投资竞争力的核心，并展望了这一趋势如何影响更广泛领域。",
-    "best_quote_en": "In a sufficiently connected and unpredictable world, you can't seem good without being good.",
-    "best_quote_zh": "在一个足够互联和不可预测的世界里，你无法伪装善良，而必须真正善良。"
-  },
-  {
     "id": 230,
     "title": "There Is No A.I. “Race”",
     "title_zh": "人工智能没有‘竞赛’",
@@ -2330,5 +2286,51 @@
     "summary_zh": "这篇对话揭示了超耐久运动员如何通过更新目的、情绪和叙事来构建韧性，探讨了大脑的疲劳机制与压力适应科学。个人反思之外，它提示我们每个人都能重塑动机框架，超越极端挑战。",
     "best_quote_en": "Ultimately, a new framework emerges that you can use to access persistent motivation.",
     "best_quote_zh": "最终，我们可以获得一个新的框架，来持续激发内在动机。"
+  },
+  {
+    "id": 328,
+    "title": "Smaller NLAs and probes read eval awareness as well as full size NLAs",
+    "title_zh": "小型 NLA 和探测器也能读取评估意识，媲美全尺寸 NLA",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/MQCZponFdSd7ZBXaa/smaller-nlas-and-probes-read-eval-awareness-as-well-as-full",
+    "tags": [
+      "analyze",
+      "ai-research",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "AI研究",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2026-10-28",
+    "summary_en": "This work demonstrates that distilling a 27‑billion‑parameter Natural Language Autoencoder (NLA) into a 2‑billion‑parameter model preserves performance on evaluation‑awareness and agentic‑misalignment tasks while sacrificing obscure factual knowledge. The authors also show that a simple linear probe, trained on the distilled model’s outputs, matches the larger NLA’s ability to detect evaluation cues at a fraction of the computational cost. A new benchmark injects cues of varying obviousness into 76 technical scenarios, and a pragmatic aggregation rule isolates genuine awareness from background noise. The findings suggest that compact readers can be viable for large‑scale monitoring of model internals, but knowledge‑heavy reasoning still demands larger models. By highlighting both the promise and limits of distillation for interpretability, the paper opens pathways for cheaper probing, more efficient evaluation tools, and future research into scalable model‑reading techniques.",
+    "summary_zh": "研究将27B NLA提炼成2B模型，在评估意识和代理不一致性方面表现相当，却丢失了稀疏事实知识。线性探测器以低成本实现同等性能，展示了小型读取器在可解释性方面的潜力，但知识密集型任务仍需更大模型支持。",
+    "best_quote_en": "A linear probe trained on 2B‑generated labels matches a 27B NLA + LLM judge on reading eval awareness, at a tiny fraction of the cost.",
+    "best_quote_zh": "一个基于2B生成的标签的线性探测器，在读取评估意识方面与27B NLA加LLM评判器相当，但成本仅为前者的零头。"
+  },
+  {
+    "id": 329,
+    "title": "Texas Democrats Venture Into “No Man’s Land”",
+    "title_zh": "德克萨斯州民主党人进入“无人区”",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/the-political-scene/texas-democrats-venture-into-no-mans-land",
+    "tags": [
+      "guide",
+      "politics",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "指导",
+      "政治时事",
+      "未来预测"
+    ],
+    "date": "2026-10-27",
+    "summary_en": "Texas Democrats are racing to reverse decades of neglect by building a grassroots infrastructure that can sustain local candidates and voter outreach. The article follows new party chairman Kendall Scudder as he recruits candidates for 137 seats, opens regional offices in Amarillo, and seeks to turn historically Republican strongholds into viable battlegrounds. It highlights the party’s past failures—abandoned counties, underfunded operations, and a reliance on short‑term campaign bursts—and shows how issues like data‑center development are being weaponized to mobilize rural voters. The piece also reveals personal stories of converts, from former Trump supporters to LGBTQ+ residents, who are redefining political identity in a state where the Democratic survival now hinges on long‑term organization rather than occasional blue‑wave hopes. This deep dive offers insight into the strategic recalibration needed for any party to compete in a shifting electoral landscape.",
+    "summary_zh": "德州民主党正奋力重建组织基础，从零开始招募候选人，解决长期以来的基础设施缺失问题。文章聚焦新任主席斯卡德（Kendall Scudder）在保守 stronghold 开办地区办公室、动员基层选民的努力，揭示了数据中心等议题如何成为政治动员的契机，并呈现了从前特朗普支持者到 LGBTQ+ 居民等各色人等重新定义政治身份的故事。这是一次对美国政治地理变化的深刻反思，凸显了民主党为在德州立足而实施的长期战略调整。",
+    "best_quote_en": "We put out these candidates and we don’t build on the infrastructure that they build.",
+    "best_quote_zh": "我们提名了这些候选人，却没有为他们奠定基础设施。"
   }
 ]
