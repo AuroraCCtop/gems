@@ -1,117 +1,5 @@
 [
   {
-    "id": 230,
-    "title": "There Is No A.I. “Race”",
-    "title_zh": "人工智能没有‘竞赛’",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/news/the-lede/there-is-no-ai-race",
-    "tags": [
-      "solve",
-      "ai-research",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "解决",
-      "AI研究",
-      "数据驱动"
-    ],
-    "date": "2026-09-24",
-    "summary_en": "This essay dismantles the popular narrative of an imminent AI “race” by drawing parallels with the historic electricity revolution. It highlights how early invention does not guarantee long‑term dominance, citing Jeffrey Ding’s diffusion theory and the U.S. experience with electric power. The piece critiques the “But China” fear‑mongering that drives unchecked tech growth, warns against speculative dystopian scenarios, and stresses that true advantage comes from widespread adoption, workforce training, and safety‑first policies. By juxtaposing past technological diffusion with today’s AI landscape, the author urges a pragmatic shift from frontier hype to broad‑based implementation, suggesting that America’s path to “winning” lies in nurturing an AI‑literate middle class and balancing innovation with responsible deployment.",
-    "summary_zh": "文章以电力革命为鉴，揭示“人工智能竞赛”的虚妄性。早期创新者并非必然赢家，扩散比发明更关键。作者批判“中国威胁”论，警示过度炒作与灾难性猜测，主张稳健、安全的普及策略。真正的优势在于培养AI素养的普通民众，而非单纯的尖端投资。文章呼唤从狂热转向务实，以共同繁荣为目标重新定义“赢”。",
-    "best_quote_en": "But the first to innovate is rarely the one who wins.",
-    "best_quote_zh": "但第一个创新者很少能赢得胜利。"
-  },
-  {
-    "id": 231,
-    "title": "What Doesn't Seem Like Work?",
-    "title_zh": "那些不觉得是工作的事",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/work.html",
-    "tags": [
-      "solve",
-      "startup-strategy",
-      "ai-research"
-    ],
-    "tags_zh": [
-      "解决",
-      "创业策略",
-      "AI研究"
-    ],
-    "date": "2026-09-25",
-    "summary_en": "This essay explores a simple yet powerful heuristic for discovering work that feels like play. Through personal anecdotes—his mathematician father’s early love of problems, programmers’ enjoyment of debugging, and the author’s own thrill writing papers for friends—the piece illustrates how intrinsic enjoyment can signal a natural fit. The author critiques generic passion‑matching advice, arguing that self‑awareness of what feels effortless is a more reliable guide. By framing the search for a vocation as a detective‑like investigation of subtle preferences, the essay encourages readers to ask themselves what tasks seem like work to others but not to them. The result is a thoughtful, introspective guide that reframes career choice as an evidence‑based, personalized process, highlighting the broader cultural implication that aligning work with innate interest can transform labor into fulfillment.",
-    "summary_zh": "当一件在他人眼中是“工作”的事情，对你而言却是享受，那就是你天生的专长。这篇文章通过父亲的数学热情、程序员的调试癖和代写论文的奇遇，揭示了如何从细微的喜好线索中侦查自己的真正志向，呼吁人们重新审视职业选择的标准。",
-    "best_quote_en": "If something that seems like work to other people doesn't seem like work to you, that's something you're well suited for.",
-    "best_quote_zh": "如果一件在他人眼中是“工作”的事情，对你而言却是享受，那就是你天生的专长。"
-  },
-  {
-    "id": 232,
-    "title": "The Week Republicans Finally Panicked About Trump",
-    "title_zh": "共和党人最终对特朗普感到恐慌的这一周",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/news/letter-from-trumps-washington/the-week-republicans-finally-panicked-about-trump",
-    "tags": [
-      "update",
-      "politics",
-      "controversial"
-    ],
-    "tags_zh": [
-      "动态",
-      "政治时事",
-      "争议观点"
-    ],
-    "date": "2026-09-24",
-    "summary_en": "Susan B. Glasser’s incisive reporting captures a pivotal moment in American politics as Republicans confront a looming midterm disaster. The piece reveals how President Trump’s reckless foreign policy—especially the ill‑fated Iran war—and his polarizing domestic antics have eroded even his core base. With polling showing historic unpopularity, GOP candidates are openly distancing themselves, signaling a potential repudiation of the Trump‑aligned agenda. The article highlights a striking shift: voters who once propelled Trump to power now view his leadership as a liability, while the Republican establishment, fearing electoral annihilation, scrambles for survival. Glasser’s analysis underscores the broader implications of a president whose charisma once masked policy failures now faces a coalition of disillusionment and pragmatic self‑preservation. This narrative not only chronicles a political crisis but also raises questions about the durability of personality‑driven governance in a nation demanding accountability.",
-    "summary_zh": "玻璃曼的报道揭示了共和党在中期选举前面临的危机。特朗普的伊朗战争和 polarizing举动导致其支持率暴跌，甚至连核心大本营也开始倒戈。共和党候选人纷纷表态与特朗普保持距离，反映出选民对他的领导能力失去信心。这一变局不仅预示着共和党可能在秋季选举中惨败，也引发了对个人魅力型领导在现代美国政治中的可持续性的深刻反思。",
-    "best_quote_en": "Republicans are running out of runway.",
-    "best_quote_zh": "共和党人的时间正在耗尽。"
-  },
-  {
-    "id": 233,
-    "title": "Essentials: Optimal Protocols to Build Strength & Grow Muscles | Dr. Andy Galpin",
-    "title_zh": "力量与肌肉增长：最佳训练协议要领 | 安迪·加尔平博士",
-    "source": "Huberman Lab",
-    "link": "https://www.hubermanlab.com/episode/essentials-optimal-protocols-to-build-strength-and-grow-muscles-andy-galpin",
-    "tags": [
-      "guide",
-      "science",
-      "ai-research"
-    ],
-    "tags_zh": [
-      "指导",
-      "科学研究",
-      "AI研究"
-    ],
-    "date": "2026-09-24",
-    "summary_en": "This Huberman Lab Essentials episode features Dr. Andy Galpin, an exercise scientist specializing in human performance, who breaks down the science of strength training and muscle hypertrophy. The discussion emphasizes how resistance training becomes increasingly important for maintaining physical function as we age. Dr. Galpin provides practical protocols covering progressive overload, exercise selection, repetition speed, and weekly training volume. The episode offers actionable tools for developing strength, power, and muscle size, including strategies for adapting workouts to individual goals, equipment availability, and schedule constraints. This expert-driven content bridges the gap between exercise science research and practical application, making it valuable for fitness enthusiasts, athletes, and older adults seeking to optimize their training outcomes through evidence-based methods.",
-    "summary_zh": "本期霍伯曼实验室精要邀请了人类表现专家安迪·加尔平博士，探讨了力量训练与肌肉增长的科学本质。加尔平博士强调，随着年龄增长，保持身体机能的关键在于持续的抗阻训练。他分享了基于科学的研究成果，提供了一整套实用的训练方案，从渐进式超负荷到练习选择，从动作速度到每周训练量，再到如何根据个人目标、设备和时间安排定制训练。这些由专家带来的实证方法，将理论知识转化为 actionable 的训练策略，对于希望通过科学方式提升体能的各年龄段人群都具有指导意义。",
-    "best_quote_en": "Strength and hypertrophy are distinct adaptations, and understanding this difference is crucial for designing effective training programs that optimize both strength and muscle growth.",
-    "best_quote_zh": "力量和肌肉增殖是两种不同的适应过程，理解这一区别对于设计出既能提高力量又能促进肌肉增长的有效训练计划至关重要。"
-  },
-  {
-    "id": 234,
-    "title": "The Tim Ferriss Show Transcripts: How to Spot 10-Year Trends and Build Billion-Dollar Companies — Kevin Ryan of DoubleClick, MongoDB, Business Insider, and Many More (#884)",
-    "title_zh": "《蒂姆·费里斯秀》 transcripts：如何发现十年趋势并打造百亿公司 — 凯文·瑞安（DoubleClick、MongoDB、Business Insider 等公司创始人）（第884期）",
-    "source": "Tim Ferriss",
-    "link": "https://tim.blog/2026/09/25/kevin-ryan-transcript/",
-    "tags": [
-      "solve",
-      "startup-strategy",
-      "economics",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "解决",
-      "创业策略",
-      "经济金融",
-      "数据驱动"
-    ],
-    "date": "2026-09-25",
-    "summary_en": "Kevin Ryan, a seasoned entrepreneur and investor dubbed the “Godfather of NYC tech,” shares his playbook for spotting decade‑long trends and building billion‑dollar companies. He outlines a disciplined exercise of listing 20 potential trends, then asking what will truly exist a decade later, not just what will grow. Ryan emphasizes that meaningful ventures require a 10‑year horizon, citing his successes with DoubleClick (internet advertising), MongoDB (unstructured data), psychedelics, nuclear energy, and the creator economy. He also highlights emerging areas like value‑based care, biotech (Transcend Therapeutics), and longevity, while noting where his bets missed the mark. Beyond his investment vehicle AlleyCorp, Ryan reflects on the resurgence of New York’s tech scene and the United States’ overall dominance in future industries. The interview blends practical framework, real‑world case studies, and a visionary outlook, offering actionable insights for founders, investors, and anyone curious about long‑term opportunity spotting.",
-    "summary_zh": "凯文·瑞安这位纽约科技界传奇人物，分享了他如何通过列出20个十年趋势并聚焦真正的新兴事物来打造百亿公司的策略。他强调真正的创业需要十年长周期，眼光不能只盯着当下的热潮。通过DoubleClick、MongoDB、psychedelics、核能、创作者经济等案例，他展示了如何识别并押注于能持续十年的趋势。同时，他也指出了价值医疗、生物科技和长寿等领域的机遇与挑战。访谈不仅提供了实用的方法论，也反映了纽约科技复兴和美国未来产业的全球领导地位，引发人们对长期创新与投资的深刻思考。",
-    "best_quote_en": "First of all, 10 years is important because to build an important company, unfortunately you can't do it in two or three years. It does take 10 years. And so you've got to bet on a long-term trend.",
-    "best_quote_zh": "首先，10年很重要，因为要建立一个重要的公司，遗憾的是，你无法在两三年内完成。这需要10年时间。因此，你必须押注于一个长期趋势。"
-  },
-  {
     "id": 235,
     "title": "Don't Talk to Corp Dev",
     "title_zh": "别和企业发展部门谈话",
@@ -2332,5 +2220,117 @@
     "summary_zh": "德州民主党正奋力重建组织基础，从零开始招募候选人，解决长期以来的基础设施缺失问题。文章聚焦新任主席斯卡德（Kendall Scudder）在保守 stronghold 开办地区办公室、动员基层选民的努力，揭示了数据中心等议题如何成为政治动员的契机，并呈现了从前特朗普支持者到 LGBTQ+ 居民等各色人等重新定义政治身份的故事。这是一次对美国政治地理变化的深刻反思，凸显了民主党为在德州立足而实施的长期战略调整。",
     "best_quote_en": "We put out these candidates and we don’t build on the infrastructure that they build.",
     "best_quote_zh": "我们提名了这些候选人，却没有为他们奠定基础设施。"
+  },
+  {
+    "id": 330,
+    "title": "A women's commune sounds like a great retirement option. But I have my doubts | Polly Hudson",
+    "title_zh": "女性公社听起来是很好的退休选择。但我有所疑虑 | 波莉·哈德森",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/commentisfree/2026/oct/25/womens-commune-sounds-great-retirement-but-i-have-my-doubts",
+    "tags": [
+      "learn",
+      "lifestyle",
+      "controversial"
+    ],
+    "tags_zh": [
+      "学习",
+      "生活方式",
+      "争议观点"
+    ],
+    "date": "2026-10-25",
+    "summary_en": "Polly Hudson examines the romanticized notion of older women forming communes as a retirement solution, inspired by the Golden Girls ideal. While the concept promises companionship and shared resources, the author draws on personal anecdotes and survey data to argue that practical challenges—privacy, habit differences, and potential conflicts—often outweigh the benefits. She highlights a recent AARP‑backed workshop in New Mexico and an Upworthy poll showing many prefer adjacent living over full cohabitation. The piece balances empathy for the desire for community with a pragmatic warning that not all dreams translate smoothly into everyday life, suggesting that maintaining separate residences may be a healthier path to preserving friendships.",
+    "summary_zh": "作者质疑女性养老公社的理想化愿景，指出尽管看似温馨，却可能重现年轻时共享公寓的冲突。独立空间才是维系友谊的更佳方式，反映出年龄增长并不能自动解决人际相处问题。",
+    "best_quote_en": "Not all dreams are meant to come true.",
+    "best_quote_zh": "并非所有梦想都注定能实现。"
+  },
+  {
+    "id": 331,
+    "title": "James Talarico’s Final Sprint",
+    "title_zh": "詹姆斯·塔拉里科的最后冲刺",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/the-lede/james-talaricos-final-sprint",
+    "tags": [
+      "learn",
+      "politics",
+      "controversial"
+    ],
+    "tags_zh": [
+      "学习",
+      "政治时事",
+      "争议观点"
+    ],
+    "date": "2026-10-29",
+    "summary_en": "James Talarico’s final sprint reveals a high‑stakes Texas Senate race where the Democrat is attempting an unprecedented coalition‑building feat. Once a Presbyterian seminarian turned state legislator, Talarico now blends cultural references—from Beyoncé to biblical David—to appeal to a broad electorate. His campaign, flush with record‑breaking fundraising, leans on targeted outreach to Latino and Black communities, while his opponent Ken Paxton struggles with scandal and a fractured GOP base. The race hinges on voter fatigue over inflation, immigration enforcement, and disillusionment with national politics. Talarico’s message oscillates between local concerns like property‑tax cuts and broader themes of faith, family, and freedom, yet critics question the coherence of his ever‑expanding narrative. The outcome could reshape Texas’ political landscape and test whether a Democrat can finally break a three‑decade Republican stronghold, making this sprint not just a campaign but a referendum on the state’s shifting identity.",
+    "summary_zh": "塔拉里科的最后冲刺展现了德州 Senate's 激烈竞争。民主党候选人试图构建前所未有的联盟，融合贝约、神话和流行文化以吸引选民。他的高额筹款和精准的拉丁裔及黑人社区 outreach 与反对党帕克斯顿的丑闻形成鲜明对比。选民对通胀、移民和国家政治的不满成为决定性因素。塔拉里科的议程从 property 税减免到信仰自由，叙事丰富但一致性受质疑。这场竞选不仅关乎选举，更关乎德州政治格局的转变，以及民主党能否打破30年的共和党垄断。",
+    "best_quote_en": "“Talarico has to do everything… there is no one single theory of change to win this state. Every type of Texan has to decide, ‘Enough of it, enough.’”",
+    "best_quote_zh": "“塔拉里科必须做到一切……没有单一的变革理论可以赢得这个州。每个类型的德克萨斯人都要决定，‘够了，够了。’”"
+  },
+  {
+    "id": 332,
+    "title": "Essentials: How Smells Influence Our Hormones, Health & Behavior | Dr. Noam Sobel",
+    "title_zh": "精要：气味如何影响我们的激素、健康与行为 | 诺姆·索贝尔博士",
+    "source": "Huberman Lab",
+    "link": "https://www.hubermanlab.com/episode/essentials-how-smells-influence-our-hormones-health-and-behavior-noam-sobel",
+    "tags": [
+      "update",
+      "medicine",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "动态",
+      "医学健康",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2026-10-29",
+    "summary_en": "This Essentials episode with Dr. Noam Sobel reveals how olfaction—a sense often overlooked—exerts profound control over our biology and social lives. Sobel explains the neural pathways that translate scent into hormonal shifts, emotional responses, and even decisions about friendship and aggression. The discussion highlights groundbreaking research on human chemosignals, such as the ‘chemical blanket’ of tears and the scent of fear, illustrating how invisible cues can transmit stress and modulate testosterone levels. The conversation also ventures into emerging technologies: digitizing smells and using body odor profiles for noninvasive disease detection, a frontier that could revolutionize diagnostics. By linking basic neurobiology to real‑world behaviors and future medical applications, the episode offers a compelling blend of fundamental science and practical insight. Listeners gain a deeper appreciation for the subtle power of smell and its potential to transform health, relationships, and technological innovation.",
+    "summary_zh": "气味影响我们的激素、情绪、友谊与攻击性。索贝尔博士揭示了化学信号的秘密，如‘化学毯子’般的眼泪，以及‘恐惧气味’如何传递压力。这场对话还探讨了数字化气味和利用体臭进行疾病诊断的未来前景。",
+    "best_quote_en": "Smell shapes who we become friends with and how we experience emotions, hormones, and aggression.",
+    "best_quote_zh": "气味决定了我们选择朋友的方式，并影响我们体验情绪、激素和攻击性的方式。"
+  },
+  {
+    "id": 333,
+    "title": "The Tim Ferriss Show Transcripts: Legendary Chef Jacques Pépin — The Pursuit of Mastery, Cooking for Presidents, Meeting Julia Child, and More",
+    "title_zh": "《蒂姆·费里斯秀》 transcript：传奇厨师雅克·佩彭——对卓越的追求，为总统烹饪，结识朱莉娅·查尔德等",
+    "source": "Tim Ferriss",
+    "link": "https://tim.blog/2026/10/27/jacques-pepin-transcript/",
+    "tags": [
+      "guide",
+      "education",
+      "lifestyle"
+    ],
+    "tags_zh": [
+      "指导",
+      "教育学习",
+      "生活方式"
+    ],
+    "date": "2026-10-27",
+    "summary_en": "The Tim Ferriss Show transcript with culinary legend Jacques Pépin offers a rare window into the mindset of a master who turned post‑war scarcity into artistic excellence. Pépin reveals how disciplined, invisible preparation underpins both cooking and painting, emphasizing iterative testing and adjustment until a dish—or a canvas—feels complete. His journey from a frugal upbringing in war‑torn France to serving three French heads of state, and even a White House offer he declined, illustrates how personal values can shape professional paths. The interview also highlights the transferability of skills across domains, the importance of resourcefulness, and the timeless pursuit of mastery. For readers, Pépin’s reflections serve as both a practical guide to culinary technique and an inspirational narrative about lifelong learning, encouraging us to examine our own ‘mise en place’ and to embrace continuous refinement in every craft.",
+    "summary_zh": "雅克·佩彭的访谈让我窥见一位传奇厨师如何将战后的贫穷锻造成艺术的辉煌。他揭示了“准备很重要，但必须不露痕迹”的烹饪哲学，并将这种理念延伸到绘画等其他艺术领域。从街头小馆到为法国总统御厨，再到拒绝白宫的机缘巧合，佩彭的生涯体现了个人价值观如何决定职业轨迹。访谈不仅传授了技术要领，更激发了对跨领域技能转移、资源巧用及终身学习的思考。读罢不禁反思：我们日常的‘准备’是否已过度暴露？如何在保持专业性的同时追求无懈可击的完美？",
+    "best_quote_en": "Preparation is very important, but it should be unseen in a sense to look natural.",
+    "best_quote_zh": "准备非常重要，但应该是不露痕迹的，这样看起来才自然."
+  },
+  {
+    "id": 334,
+    "title": "GitHub Universe 2026: Evolving every layer of the stack",
+    "title_zh": "GitHub Universe 2026：演进每一层栈",
+    "source": "GitHub Blog",
+    "link": "https://github.blog/news-insights/company-news/github-universe-2026-evolving-every-layer-of-the-stack/",
+    "tags": [
+      "solve",
+      "programming",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "解决",
+      "编程开发",
+      "未来预测"
+    ],
+    "date": "2026-10-28",
+    "summary_en": "GitHub Universe 2026 announces a fundamental shift from writing code to orchestrating AI agents in software development. The platform envisions itself as the world's most comprehensive software delivery system, moving beyond linear SDLC to a dynamic, agentic model. Key innovations include the GitHub Copilot app for unified agent management, Copilot Fusion for intelligent model selection, and Copilot projects for cross-repository workflow coordination. Infrastructure investments of 4 million CPU cores and 160PB storage support this agentic era. The announcement emphasizes velocity, intelligence, and quality through continuous learning systems, while democratizing AI access by making Copilot features available without separate enterprise subscriptions. GitHub argues that current software represents less than 1% of what we'll create in five years, with the real opportunity lying in solving previously intractable problems through integrated human-AI collaboration.",
+    "summary_zh": "GitHub Universe 2026 宣布软件开发从编写代码到编排 AI 代理的革命性转变。GitHub 构想自己为世界上最全面的软件交付系统，超越线性 SDLC 采用动态的代理模型。关键创新包括 Copilot 应用实现统一代理管理、Copilot Fusion 实现智能模型选择、Copilot 项目实现跨仓库工作流协调。基础设施投资了 400 万 CPU 内核和 160PB 高速存储，支持代理时代的需求。通过持续学习系统实现速度、智能和质量的统一，同时通过 AI 积分支付模式实现 Copilot 功能的普及化。",
+    "best_quote_en": "Our jobs as developers are changing. In a couple of years, we've gone from writing every line of code to working with AI assistants to orchestrating fleets of agents.",
+    "best_quote_zh": "我们的工作作为开发人员正在发生变化。在短短几年内，我们已经从编写每一行代码发展到与 AI 助手合作，再到编排代理团队。"
   }
 ]
