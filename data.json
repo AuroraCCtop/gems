@@ -1,75 +1,5 @@
 [
   {
-    "id": 239,
-    "title": "Thinking Games",
-    "title_zh": "思维游戏",
-    "source": "Kevin Kelly",
-    "link": "https://kk.org/cooltools/thinking-games/",
-    "tags": [
-      "solve",
-      "education",
-      "design",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "解决",
-      "教育学习",
-      "设计创意",
-      "未来预测"
-    ],
-    "date": "2026-09-28",
-    "summary_en": "This roundup from Cool Tools explores a handful of \"thinking games\" that blend cognition, social dynamics, and technology. The Set card game illustrates pure pattern‑recognition, challenging players to spot multiple trios of unalike symbols under time pressure, revealing innate differences in logical intuition. The $20 20Q AI toy demonstrates how a tiny, autonomous device can outguess humans on object identification, offering a glimpse of future‑scale, domain‑specific intelligence. The social deduction game Werewolf showcases human psychology, deception, and collective decision‑making in a fast‑moving, equipment‑light format. Apples to Apples highlights subjective association and the art of judging, while StarCraft II is presented as a digital sport that demands strategic depth, reflexes, and adaptive play. Across these examples, the author emphasizes that each game is cheap, accessible, and endlessly extensible, inviting both casual fun and deeper learning. The piece serves as an inspirational guide for educators, gamers, and anyone curious about how structured play can sharpen mind‑skills.",
-    "summary_zh": "这篇文章介绍了几款“思维游戏”，涵盖认知、社交和科技。Set 牌游戏考验模式识别能力，20Q 智能球展示了微型 AI 的猜物能力，Werewolf 体现人类心理与欺骗，Apples to Apples 突显主观联想，StarCraft II 则是实时策略体育。作者强调这些游戏简单廉价、不断扩展，既能娱乐又能提升思维能力。",
-    "best_quote_en": "It can’t be explained; it has to be shown.",
-    "best_quote_zh": "这无法解释，只能演示。"
-  },
-  {
-    "id": 240,
-    "title": "‘I can’t be the mum I want to be’: why does parenthood feel so impossible for millennial mothers?",
-    "title_zh": "我做不了我想做的妈妈：为什么千禧一代妈妈觉得育儿如此艰难？",
-    "source": "Women | The Guardian",
-    "link": "https://www.theguardian.com/lifeandstyle/2026/sep/28/parenthood-millennial-mothers-overwhelmed",
-    "tags": [
-      "analyze",
-      "ai-research",
-      "science",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "AI研究",
-      "科学研究",
-      "数据驱动"
-    ],
-    "date": "2026-09-27",
-    "summary_en": "This article captures the crushing reality of millennial mothers juggling careers, childcare, and self‑care in an economy that offers little flexibility. Through personal anecdotes and hard data, it reveals how women’s increased paid work hours have not been matched by a redistribution of domestic responsibilities, leaving them time‑stressed and financially strained. The piece critiques structural failures—school schedules, unaffordable childcare, and workplace expectations—while highlighting the emotional toll of feeling \"limited\" in both professional and parental roles. Interviews with experts and recent research underscore a widening gender gap in care work and a looming demographic crisis. The narrative balances raw frustration with a call for systemic change, urging policymakers and societies to rethink work‑life integration and redefine success beyond relentless busyness. It is a compelling, data‑rich exploration of why modern motherhood feels impossible for many, and why collective action is essential.",
-    "summary_zh": "这篇文章生动描绘了千禧代妈妈在职业、育儿和自我成长之间的艰难平衡。作者通过个人故事和统计数据，揭示了女性进入职场后，家庭责任却未相应减轻的现实。学校时间表、昂贵的托儿费用和职场的高度期望，成为压垮她们的“结构性灾难”。专家指出，尽管女性参与工作的时长增加，但男性分担家务的进度却远远落后，导致时间压力和财务压力双重困扰。文章既展现了妈妈们的无助与挣扎，也呼唤着政策层面和文化层面的变革，以重塑更公平的工作‑生活平衡。",
-    "best_quote_en": "ChatGPT was like, 'Oh, that's interesting, what you just said is you're not getting to parent the way that you always wanted to parent and … you're limited and I think that that's a really common experience.'",
-    "best_quote_zh": "ChatGPT说:'哦，你刚才说你做不了你想做的妈妈……你很有限制，我觉得这是一种很普遍的经历。'"
-  },
-  {
-    "id": 241,
-    "title": "How to Be an Expert in a Changing World",
-    "title_zh": "如何成为一个适应变化的世界专家",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/ecw.html",
-    "tags": [
-      "solve",
-      "startup-strategy",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "解决",
-      "创业策略",
-      "未来预测"
-    ],
-    "date": "2026-09-29",
-    "summary_en": "This essay challenges the assumption that expertise guarantees lasting correctness, arguing that a static worldview leads to overconfidence. Drawing from a decade of startup investing, the author illustrates how protecting against obsolete beliefs is essential for success in rapidly changing domains. The core strategy is to cultivate an explicit belief in change, remain aggressively open‑minded, and treat hypotheses as provisional tools rather than fixed doctrines. By focusing on the \"winds of change\" emerging from domain experts’ unconscious insights, betting on people over ideas, and surrounding oneself with independent‑minded innovators, readers learn practical techniques to detect when their beliefs become outdated. The piece blends personal reflection with broader implications for anyone who must act on ideas—be it investors, creators, or curious learners—offering a thoughtful roadmap for thriving amid accelerating change.",
-    "summary_zh": "这篇文章揭示了静态世界观如何导致专家过度自信，并通过作者十年的创业投资经验，提出保护自己免于过时信念的策略。核心在于明确承认变化、保持开放心态，并将假设视为临时工具。通过关注来自专家无意识的“变化之风”、赌注于人而非想法，并与有独立思维的创新者为伍，读者可以学会识别信念过时的方法。这不仅是针对投资者的建议，更是为所有需要行动于思想的人提供的实用指南，引发了对知识更新与适应能力在当今加速变化社会中重要性的深刻思考。",
-    "best_quote_en": "When experts are wrong, it's often because they're experts on an earlier version of the world.",
-    "best_quote_zh": "当专家出错时，通常是因为他们是过时的世界的专家。"
-  },
-  {
     "id": 242,
     "title": "Individual Choices Won’t Fix America’s Public Schools",
     "title_zh": "个人的选择无法拯救美国的公立学校",
@@ -2330,5 +2260,73 @@
     "summary_zh": "这位传奇厨师雅克·佩彭的独家访谈展现了一位从为法国总统烹饪到与朱利亚·儿童合作、出版30余本 cookbooks 的烹饪大师的传奇旅程。佩彭从精英法式烹饪转向平民化家常菜的转变，以及他“厨房里没有政治含义，我们都为了让人们快乐而工作”的理念，挑战了烹饪的等级观念。访谈探讨了他对食物浪费的思考，以及“食谱只是方法，但真正重要的是你如何运用它”的深刻见解。通过他的基金会提供免费教学和对家庭厨师的重视，佩彭将技术精湛与民主化烹饪教育完美结合，为追求烹饪大师水平的人们提供了宝贵的启示。",
     "best_quote_en": "There is no political implication in the kitchen, and so we all go to do the same thing, to make people happy.",
     "best_quote_zh": "厨房里没有政治含义，我们都为了让人们快乐而工作。"
+  },
+  {
+    "id": 339,
+    "title": "‘There’s always been a belittling of African women’: honouring history’s invisible heroines",
+    "title_zh": "非洲女性总是被轻视：纪念被忽视的历史英雄",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/global-development/2026/oct/06/fashion-art-photography-history-african-women-mababu-slavery-pamela-tulizo-dr-congo",
+    "tags": [
+      "analyze",
+      "society",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "社会议题",
+      "数据驱动"
+    ],
+    "date": "2026-10-06",
+    "summary_en": "Congolese photographer Pamela Tulizo confronts the erasure of African women’s histories through her staged photographic series Mababu, which re‑centres overlooked heroines like Kimpa Vita and Queen Nzinga. By weaving together costume, vivid scenery, and symbols of the transatlantic slave trade—cotton, tobacco, sugar cane—she reveals how women were forced into resilience and turned that strength into resistance. Tulizo’s work not only celebrates their agency but also draws a parallel between past resource‑driven exploitation and today’s mineral‑fueled conflicts in the DRC. The project, born from personal curiosity about her own community’s fortitude, serves as both an artistic tribute and a critical commentary on how racism and colonialism have historically diminished African women. By placing them at the visual forefront, she challenges dominant narratives, offers a new lens on gender, power, and memory, and invites viewers to reconsider the invisible contributions of women in shaping history.",
+    "summary_zh": "图利佐用摄影重新发现被忽视的非洲女性英雄，她通过服装和奴隶贸易符号（棉花、烟草、甘蔗）揭示女性如何将苦难转化为抵抗力量，并联系历史与当代矿产冲突，挑战种族主义叙事，展现性别与历史的真实面貌。",
+    "best_quote_en": "\"Because of racism, there’s always been this belittling of African women that portrays them as vulnerable, as victims, and suggests they lack strength or intelligence,\" says Tulizo.",
+    "best_quote_zh": "\"因为种族主义，非洲女性总是被轻视，被描绘成脆弱的受害者，暗示她们缺乏力量或智慧，\" 图利佐说。"
+  },
+  {
+    "id": 340,
+    "title": "Book Freak #229: The Social Construction of Reality",
+    "title_zh": "书虫 #229：社会现实的建构",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/book-freak-229-the-social-construction-of-reality/",
+    "tags": [
+      "solve",
+      "society",
+      "education"
+    ],
+    "tags_zh": [
+      "解决",
+      "社会议题",
+      "教育学习"
+    ],
+    "date": "2026-10-30",
+    "summary_en": "Peter Berger and Thomas Luckmann’s classic argues that the social world we inhabit is not a natural given but a humanly constructed reality. Through habitualization, institutionalization, and linguistic framing, collective practices become objectified, appearing as immutable facts. The book draws parallels with Yuval Noah Harari’s “imagined orders,” showing how money, nations, and rights persist because enough people collectively believe in them. Its three‑step model—making, experiencing, absorbing—offers a powerful lens for questioning taken‑for‑granted norms. Practical “Try It Now” exercises invite readers to trace the origins of personal and cultural rules, relabel entrenched concepts, and consider the malleability of social structures. By exposing reification, the work empowers individuals to recognize their agency in reshaping the social world, making it a vital guide for anyone interested in sociology, philosophy, or the mechanics of cultural change.",
+    "summary_zh": "这本书指出，我们眼中的社会秩序不过是人类共同编织的幻象，却被当作了自然法则。通过习惯化、制度化和语言框架，集体实践变得客观，仿佛永恒不变。作者将此与哈拉里的“想象秩序”相呼应，揭示了金钱、国家和权利如何因集体信念而存在。三个步骤——创造、体验、吸收——帮助我们质疑日常规范。实用的“立即实践”建议则引导我们审视规则的起源，尝试重新标签，并思考如何改变它们。认识到我们是社会的创造者，而非被动的接受者，便拥有了改变世界的可能。这不仅是学术反思，更是日常生活的实践指南。",
+    "best_quote_en": "Social order is not part of the ‘nature of things,’ and it cannot be derived from the ‘laws of nature.’ Social order exists only as a product of human activity.",
+    "best_quote_zh": "社会秩序不是‘事物之本质’的一部分，也不能从‘自然法则’中推导出来。社会秩序仅作为人类活动的产物而存在。"
+  },
+  {
+    "id": 341,
+    "title": "The Tim Ferriss Show Transcripts: Q&A with Tim — The 4-Hour Workweek in a World of AI, Rebuilding Personal Agency, The 4-Hour Body After 40, and More (#887)",
+    "title_zh": "蒂姆·费里斯秀 transcript：Q&A 对话——AI 时代下的《4小时工作周》、重塑个人能动性、《40岁后的4小时身材》及更多 (#887)",
+    "source": "Tim Ferriss",
+    "link": "https://tim.blog/2026/10/21/qa-with-tim-ai-4-hour-workweek-transcript/",
+    "tags": [
+      "learn",
+      "startup-strategy",
+      "design",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "学习",
+      "创业策略",
+      "设计创意",
+      "未来预测"
+    ],
+    "date": "2026-10-21",
+    "summary_en": "This Q&A installment of Tim Ferriss’s show digs deep into how the classic concepts of The 4‑Hour Workweek hold up when AI agents are everywhere. Ferriss re‑emphasizes the DEAL framework—Definition, Elimination, Automation, Liberation—and argues that AI amplifies whatever you feed it. Without clear definition and ruthless elimination of the non‑essential, automation becomes a trap that multiplies busywork rather than freeing time. He warns against the utopian promise of endless leisure, noting that technology has never delivered that before and AI may do the opposite if misused. The conversation also pivots to personal health, highlighting low‑cost movement routines like “The Happy Body” and Gymnastic Strength Training (GST) as keys to vitality after 40. Ferriss reflects on how life stage reshapes the relevance of past advice, urging readers to match wisdom to their current chapter. Overall, the transcript is a masterclass in applying timeless productivity principles to modern tools, while championing simple, accessible fitness practices for sustained agency and well‑being.",
+    "summary_zh": "蒂姆·费里斯在 Q&A 中重述了《4小时工作周》的 DEAL 框架，指出在 AI 时代，定义与剔除的重要性更胜以往，否则自动化只会放大无效工作。他反驳了 AI 带来无限闲暇的幻觉，强调技术从不曾实现过这一承诺。此外，他分享了《幸福身体》和 GST 等低成本运动方法，助我们在 40 岁后保持活力。 Ferriss 提醒我们，阅读任何书籍都要考虑作者所处的生命阶段，以适应自身需求。本期内容为我们提供了将经典生产力原则应用于当今工具的实用指南，同时倡导简单而有效的健康生活方式。",
+    "best_quote_en": "If you don’t first identify the critical few, AI simply multiplies the useless.",
+    "best_quote_zh": "如果不先识别出真正有影响力的少数关键事项，AI 只会放大那些无用且琐碎的事情。"
   }
 ]
