@@ -1,73 +1,5 @@
 [
   {
-    "id": 242,
-    "title": "Individual Choices Won’t Fix America’s Public Schools",
-    "title_zh": "个人的选择无法拯救美国的公立学校",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/news/fault-lines/individual-choices-wont-fix-americas-public-schools",
-    "tags": [
-      "solve",
-      "education",
-      "beginner-friendly"
-    ],
-    "tags_zh": [
-      "解决",
-      "教育学习",
-      "新手友好"
-    ],
-    "date": "2026-09-29",
-    "summary_en": "The article dissects Nikole Hannah‑Jones’s dramatic shift from championing a struggling public school for her daughter to confronting the limits of individual privilege in fixing systemic educational inequities. By tracing her personal journey—from P.S. 307 through a selective magnet school—the author reveals how parental choices, however well‑intentioned, cannot override deep‑seated segregation, resource disparities, and the broader sociopolitical forces shaping American schooling. The piece critiques the seductive narrative of “parental agency” and underscores the stubborn reality that decades of incremental reform have yielded scant progress. It also interrogates the role of teachers, standardized testing, and school size, arguing that large, regimented institutions with robust support systems may better serve both struggling and advanced learners. Ultimately, the essay calls for a collective, structural response rather than reliance on individual privilege, reminding readers that true educational equity demands systemic overhaul, not selective interventions.",
-    "summary_zh": "文章剖析了尼科尔·汉娜-琼斯从倡导将女儿送入一所贫困学校到最终承认个人选择无法解决美国公立学校系统性不平等问题的转变。通过讲述她的亲身经历，从P.S.307到一所精英高中，作者揭示了家长的选择无论多么高尚，都无法克服种族和阶级隔离、资源分配不均等深层次问题。文章批判了“个人能改变学校”的迷思，指出教育改革的进展缓慢，并探讨了教师、标准化考试和学校规模的作用。最终，作者呼吁我们需要集体性的结构性改革，而非依赖于个人的特权，才能真正实现教育公平。",
-    "best_quote_en": "Individual choices made by parents, however virtuous they may be, will not fix the problems with public schools in this country.",
-    "best_quote_zh": "个人的选择，无论多么高尚，都无法解决美国公立学校的问题。"
-  },
-  {
-    "id": 243,
-    "title": "Reinforcement Learning Progress",
-    "title_zh": "强化学习进展",
-    "source": "Sam Altman",
-    "link": "https://blog.samaltman.com/reinforcement-learning-progress",
-    "tags": [
-      "solve",
-      "ai-research",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "解决",
-      "AI研究",
-      "数据驱动"
-    ],
-    "date": "2018-06-25",
-    "summary_en": "OpenAI’s latest breakthrough demonstrates that deep reinforcement learning can master extremely complex, real‑world‑like environments using only self‑play and well‑designed reward functions. By training five agents with PPO on Dota 2, the team achieved a 90‑95% win rate against semi‑pros without any human gameplay data, showcasing the power of scaling computation and simulation. This achievement highlights a paradigm shift: instead of hand‑coding solutions, AI can discover strategies autonomously when given sufficient resources and a realistic training ground. The implications extend far beyond gaming, suggesting pathways to general intelligence and applications in domains where human expertise is currently indispensable. The work underscores the importance of investing in large‑scale simulations and robust reward engineering as core components of future AI research, while also raising questions about the ethical and safety considerations of increasingly autonomous systems.",
-    "summary_zh": "这篇博文展示了OpenAI利用强化学习在Dota 2上击败半职业玩家的突破性进展。作者强调了PPO算法在无需人类游戏数据的情况下通过自我对战实现的学习能力，认为这标志着深度强化学习在复杂真实世界问题上的巨大潜力。个人反思：当计算规模与精心设计的模拟环境结合时，AI 能够解决许多无法手动编码的问题，这为通用智能的实现提供了重要线索。",
-    "best_quote_en": "This is the game that to me feels closest to the real world and complex decision making (combining strategy, tactics, coordinating, and real-time action) of any game AI had made real progress against so far.",
-    "best_quote_zh": "对我来说，这款游戏最接近真实世界和复杂决策（结合策略、战术、协调和实时行动），是迄今为止任何游戏AI所取得的真正进展。"
-  },
-  {
-    "id": 244,
-    "title": "What Humans, Animals and Plants Tell Us About Consciousness | Michael Pollan",
-    "title_zh": "人类、动物和植物如何揭示意识之谜 | 迈克尔·波伦",
-    "source": "Huberman Lab",
-    "link": "https://www.hubermanlab.com/episode/what-humans-animals-and-plants-tell-us-about-consciousness-michael-pollan",
-    "tags": [
-      "inspire",
-      "science",
-      "society",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "启发",
-      "科学研究",
-      "社会议题",
-      "数据驱动"
-    ],
-    "date": "2026-09-28",
-    "summary_en": "This episode with Michael Pollan offers a groundbreaking interdisciplinary exploration of consciousness, bridging biology, psychology, and philosophy. Pollan challenges conventional boundaries by examining how plants, animals, and humans contribute to our understanding of awareness. Through discussions of psychedelics, microbiome interactions, and even caffeine, he reveals the intricate dialogue between body and brain that shapes our conscious experience. The conversation highlights the evolutionary advantages of self-recognition and social connection, while offering practical insights into enhancing mental well-being. Pollan's hopeful perspective suggests that cultivating relationships with other living beings—plants included—can lead to richer, more balanced consciousness. This content stands out for its unique synthesis of scientific rigor and accessible storytelling, making complex consciousness theories relevant to everyday life.",
-    "summary_zh": "迈克尔·波伦从跨学科角度探讨了意识的本质，揭示了植物、动物和人类如何共同塑造我们的意识。通过讨论迷幻药物、肠道微生物群和咖啡因等话题，他展示了身体与大脑之间的微妙对话如何影响我们的感知。这种将科学严谨性与生动讲故事相结合的方法，使复杂的意识理论变得易于理解，并提供了实用的方法来提升我们的心理健康和整体生活质量。",
-    "best_quote_en": "Our relationship with plants and animals—including other humans—can lead us to a healthier, and far richer experience of life.",
-    "best_quote_zh": "与植物和动物建立联系，包括与其他人类建立联系，可以引领我们走向更健康、更丰富的生活体验。"
-  },
-  {
     "id": 245,
     "title": "Mayors vs. Nationalists",
     "title_zh": "市长与民族主义者",
@@ -2328,5 +2260,75 @@
     "summary_zh": "蒂姆·费里斯在 Q&A 中重述了《4小时工作周》的 DEAL 框架，指出在 AI 时代，定义与剔除的重要性更胜以往，否则自动化只会放大无效工作。他反驳了 AI 带来无限闲暇的幻觉，强调技术从不曾实现过这一承诺。此外，他分享了《幸福身体》和 GST 等低成本运动方法，助我们在 40 岁后保持活力。 Ferriss 提醒我们，阅读任何书籍都要考虑作者所处的生命阶段，以适应自身需求。本期内容为我们提供了将经典生产力原则应用于当今工具的实用指南，同时倡导简单而有效的健康生活方式。",
     "best_quote_en": "If you don’t first identify the critical few, AI simply multiplies the useless.",
     "best_quote_zh": "如果不先识别出真正有影响力的少数关键事项，AI 只会放大那些无用且琐碎的事情。"
+  },
+  {
+    "id": 342,
+    "title": "Startup = Growth",
+    "title_zh": "创业 = 增长",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/growth.html",
+    "tags": [
+      "analyze",
+      "startup-strategy",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "分析",
+      "创业策略",
+      "未来预测"
+    ],
+    "date": "2026-11-01",
+    "summary_en": "Paul Graham’s seminal essay reframes startups as companies explicitly engineered for rapid growth, arguing that growth is both the defining characteristic and the strategic compass for founders. He distinguishes startups from ordinary businesses by emphasizing that the sole essential goal is to scale quickly, and that all other attributes—technology, funding, or exit—follow from this imperative. Graham outlines how successful startups uncover overlooked market opportunities, often because their founders perceive problems differently, and explores the three-phase growth curve—initial stagnation, explosive ascent, and eventual maturation. He provides practical guidance on measuring growth rates, warns against deceptive tactics, and stresses that a promising idea need not be perfect at inception but must evolve with early adopters. The piece blends philosophical insight with actionable advice, making it a foundational guide for anyone seeking to build a high‑velocity enterprise in today’s technology‑driven economy.",
+    "summary_zh": "波尔·格雷厄姆的经典文章重新定义了“创业”，认为创业公司就是为快速增长而生的。他指出，增长是创业的核心与战略方向，其他要素如技术、融资或退出 merely 是增长的衍生。文章通过三个增长阶段（初始缓慢期、爆发式增长期、成熟期）阐述了成功的创业逻辑，强调 founders 需发现被忽视的市场机会，并提供实用的增长指标和警示性建议。这篇文章既富含思想深度，又切合实际实践，是构建高增长企业的必备指南。",
+    "best_quote_en": "A startup is a company designed to grow fast.",
+    "best_quote_zh": "创业就是为快速增长而生的公司。"
+  },
+  {
+    "id": 343,
+    "title": "Organic",
+    "title_zh": "有机",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/9uhcexcfYuWvu2cDq/organic",
+    "tags": [
+      "solve",
+      "tech-trends",
+      "science",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "解决",
+      "技术趋势",
+      "科学研究",
+      "未来预测"
+    ],
+    "date": "2026-11-01",
+    "summary_en": "The narrative explores the psychological and social fracture caused by humanity’s rapid digital transformation through the intimate lens of Adam, an self‑identified \"organic\" who rejects wired technology. As Adam grapples with insomnia, emotional turbulence, and a strained relationship with Elo—who embraces digitalization—the story reveals how personal identity becomes entangled with technological choice. It critiques the emerging hierarchy between \"organics\" and \"digitals,\" highlighting the loss of empathy, the erosion of authentic connection, and the internal conflict of fearing both disempowerment and dehumanization. The plot underscores the necessity of bridging technological divides through self‑awareness and mutual respect, suggesting that the future of society hinges not on the tools we adopt but on our capacity to preserve humanity amid progress. By blending speculative fiction with psychological depth, the piece serves as both a cautionary tale and a call for inclusive dialogue about the ethical implications of digital integration.",
+    "summary_zh": "这篇小说以亚当的视角，描绘了数字技术浪潮中个人与社会的心理撕裂。身为“有机”的他拒绝科技，却在与数字化伴侣洛的爱恨交织中，发现自我认同与技术选择如何塑造关系。故事揭示了新兴科技阶级之间的隔阂，批判了因技术而生的疏离与评判，呼唤着对人类共同价值的重新审视与包容。",
+    "best_quote_en": "I need to save my relationship from resentment.",
+    "best_quote_zh": "我需要拯救我的关系免于怨恨。"
+  },
+  {
+    "id": 344,
+    "title": "Bringing Extinct Species Back to Life | Dr. Beth Shapiro",
+    "title_zh": "让灭绝物种重返地球 | 贝丝·沙皮罗博士",
+    "source": "Huberman Lab",
+    "link": "https://www.hubermanlab.com/episode/bringing-extinct-species-back-to-life-dr-beth-shapiro",
+    "tags": [
+      "inspire",
+      "ai-research",
+      "design",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "启发",
+      "AI研究",
+      "设计创意",
+      "未来预测"
+    ],
+    "date": "2026-10-05",
+    "summary_en": "In this episode, evolutionary biologist Dr. Beth Shapiro explores the cutting‑edge field of de‑extinction, detailing how ancient DNA and modern embryology are being harnessed to resurrect extinct species such as woolly mammoths, dodo birds, and dire wolves. She explains the genetic tools and conservation strategies that could not only revive lost lineages but also bolster endangered populations through genetic rescue. Shapiro also confronts the ethical dilemmas and ecological uncertainties inherent in rewilding extinct traits, emphasizing the need for rigorous modeling, public education, and responsible synthetic‑biology practices. The discussion highlights the transformative potential of biotechnology to enhance biodiversity, build resilient ecosystems, and reshape humanity’s relationship with the natural world, while urging careful stewardship of these powerful scientific capabilities.",
+    "summary_zh": "沙皮罗博士探讨了利用古代DNA和现代胚胎学技术复活猛犸象、渡渡鸟和直狼等灭绝物种的潜力，并深入反思了合成生物学在保护生物多样性、恢复生态系统和应对伦理挑战方面的应用前景。她指出，这项工作不仅为消灭物种灭绝提供新的工具，也引发了关于生态重建、基因选择和公众认知等深刻讨论。",
+    "best_quote_en": "Ancient DNA and modern embryology are being used to de-extinct and protect woolly mammoths, dodo birds, and dire wolves.",
+    "best_quote_zh": "我们正利用古代DNA和现代胚胎学技术来复活猛犸象、渡渡鸟和直狼等灭绝物种。"
   }
 ]
