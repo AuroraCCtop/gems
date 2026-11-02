@@ -1,97 +1,5 @@
 [
   {
-    "id": 245,
-    "title": "Mayors vs. Nationalists",
-    "title_zh": "市长与民族主义者",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/news/global-notes/mayors-vs-nationalists",
-    "tags": [
-      "solve",
-      "politics",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "解决",
-      "政治时事",
-      "未来预测"
-    ],
-    "date": "2026-09-30",
-    "summary_en": "This article examines how city leaders worldwide are emerging as defiant guardians of democracy amid rising nationalist tides. Drawing on Benjamin R. Barber’s vision of cities as the \"original incubator\" of democratic ideals, the piece highlights mayors like Jacob Frey, Zohran Mamdani, and Elif Eralp who champion inclusive policies, resist federal overreach, and forge transnational networks such as C40 and the Pact of Free Cities. It underscores the tension between local pragmatic governance and national populist agendas, illustrating how urban solidarity can both model coexistence and provide a counter‑weight to centralized power. The narrative reveals that while mayors cannot unilaterally reshape global politics, their capacity to address concrete needs and embody progressive values offers a hopeful blueprint for revitalizing democratic institutions in an era of fragmentation. The analysis suggests that the survival of democratic norms may increasingly depend on these city‑level bastions of pluralism.",
-    "summary_zh": "城市领导者正成为民主的堡垒，对抗民族主义的兴起。巴伯的愿景在当今世界获得回响，市长们以具体行动证明，地方治理能维护社会凝聚力。文章聚焦于弗雷、姆达尼、埃拉普等城市领袖，以及C40等网络，展现了城市在抵御中央权力时的积极作用。",
-    "best_quote_en": "\"We have come full circle in the city’s epic history. Humankind began its march to politics and civilization in the township—it was democracy’s original incubator,\" Barber wrote in Politico.",
-    "best_quote_zh": "“我们已经完成了城市历史的完整循环。人类最初的政治和文明长征始于乡村，它是民主的摇篮。”——巴伯"
-  },
-  {
-    "id": 246,
-    "title": "Simplex vs Timaeus: Round One",
-    "title_zh": "辛普莱克斯 vs 提迈欧斯：第一回合",
-    "source": "LessWrong",
-    "link": "https://www.lesswrong.com/posts/Fs4inpM72PeH4hsAv/simplex-vs-timaeus-round-one",
-    "tags": [
-      "guide",
-      "ai-research",
-      "science",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "指导",
-      "AI研究",
-      "科学研究",
-      "数据驱动"
-    ],
-    "date": "2026-10-01",
-    "summary_en": "Alexander Gietelink Oldenziel dissects the divergent research agendas of Simplex and Timaeus, two AI alignment collectives rooted in distinct mathematical traditions. By mapping their core focuses—weight‑space singular learning theory versus activation‑space computational mechanics—he reveals a nuanced landscape where training and inference, IID versus non‑IID data, parameterization versus invariant structure, and bottom‑up versus top‑down interpretability each carve out their own territory. The author argues that these domains are largely orthogonal, a condition that, far from being wasteful, offers a time‑tested pathway to tackling super‑hard problems: isolate phenomena, study them systematically, and later synthesize. This perspective invites readers to appreciate methodological diversity as a catalyst for eventual paradigm‑shifting synergy, urging a measured optimism about the future of AI interpretability research.",
-    "summary_zh": "奥尔登齐尔深入剖析了辛普莱克斯与提迈欧斯两大AI对齐研究集体之间的差异与联系。文章指出，两者分别立足于权空间的辛普莱克斯学习理论与激活空间的计算力学，涵盖了训练与推理、独立同分布与非独立数据、参数化与不变结构、以及自下而上与自上而下等多个维度。作者认为这些研究领域在历史上基本相互独立，但正是这种独立性为解决复杂问题提供了可靠策略：先将问题分解，逐一研究，再谋求整合。这一观点启示我们，方法论的多样性实为推动AI可解释性突破的宝贵资源。",
-    "best_quote_en": "Simplex and Timaeus are neither competitors nor natural allies. Their historical domains of study are largely orthogonal.",
-    "best_quote_zh": "我宣布：辛普莱克斯和提迈欧斯既不是竞争对手，也不是天然的盟友。它们的研究领域在历史上基本是正交的。"
-  },
-  {
-    "id": 247,
-    "title": "How the “Cornell Seven” Rape Case Became a National Scandal",
-    "title_zh": "‘康奈尔七人’强奸案如何成为全国性丑闻",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/news/the-lede/how-the-cornell-seven-rape-case-became-a-national-scandal",
-    "tags": [
-      "analyze",
-      "society",
-      "education",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "社会议题",
-      "教育学习",
-      "数据驱动"
-    ],
-    "date": "2026-10-01",
-    "summary_en": "The article dissects how the so‑called ‘Cornell Seven’ rape case exploded into a national scandal, exposing a cascade of institutional failures at the university and in local prosecution. Journalist Jessica Winter details the harrowing night of October 19, 2024, when Jane Doe was drugged and assaulted by multiple fraternity members, and then chronicles the dismissive responses from campus police and District Attorney Matthew Van Houten, whose initial refusal to press charges ignited public outrage. The piece highlights the role of student journalism—the Cornell Daily Sun—in naming the accused and demanding accountability, while also critiquing the university’s uneven disciplinary actions and the broader cultural patterns of silence surrounding sexual violence. Winter weaves in legal nuances, such as New York’s “voluntary intoxication” loophole, and juxtaposes the case with other recent campus incidents, suggesting a systemic neglect of survivor safety. The narrative underscores how institutional carelessness, combined with fragmented investigative practices, can transform a single assault into a symbol of entrenched gender‑based injustice, prompting calls for independent oversight and comprehensive reform.",
-    "summary_zh": "这篇报道揭露了‘康奈尔七人’案背后的制度失灵：校园警察、检察官的漠视，大学的轻罚，以及学生记者的勇敢发声，反映出性暴力问题上的系统性忽视和文化沉默。文章还指出，纽约州关于自愿醉酒的法律漏洞，以及大学对抗议活动的压制，形成了一种‘病态模式'，导致更多受害者无声无助。",
-    "best_quote_en": "This is not a dark chapter in Cornell’s history, it’s a morbid pattern.",
-    "best_quote_zh": "这不是康奈尔历史上的黑暗篇章，而是一个病态的模式。"
-  },
-  {
-    "id": 248,
-    "title": "Essentials: Tools to Improve Your Focus & Concentration",
-    "title_zh": "专注力提升工具 essentials",
-    "source": "Huberman Lab",
-    "link": "https://www.hubermanlab.com/episode/essentials-tools-to-improve-your-focus-and-concentration",
-    "tags": [
-      "learn",
-      "psychology",
-      "lifestyle"
-    ],
-    "tags_zh": [
-      "学习",
-      "心理学",
-      "生活方式"
-    ],
-    "date": "2026-10-01",
-    "summary_en": "This Huberman Lab Essentials episode delivers a comprehensive, science-backed approach to improving focus and concentration through multiple evidence-based tools. The content explores the neurological foundations of attention, detailing how key neurochemicals like epinephrine, acetylcholine, and dopamine govern cognitive focus. Practical applications include optimizing sleep patterns, leveraging white and pink noise, implementing 90-minute ultradian work cycles, and strategic nutritional interventions including caffeine timing and blood glucose management. The episode offers actionable techniques such as deliberate cold exposure, 13-minute daily meditation, and visual focus exercises designed to train attentional control. It also critically examines supplement options like Alpha-GPC and L-tyrosine, while addressing ADHD treatments and the counterintuitive benefits of deliberate defocusing for sustained productivity. Huberman's expertise in neuroscience provides credible, research-informed guidance that bridges theoretical understanding with practical implementation.",
-    "summary_zh": "这篇胡伯曼实验室精要篇章提供了科学严谨的专注力提升方法，从神经化学基础到实用工具，全面解析注意力机制。通过睡眠优化、环境噪音控制、生物节律工作法到营养策略，该内容为现代人提供了实用的认知提升方案。尤其是关于“刻意分心”的创新观点，挑战了传统集中注意力工作理念，具有开创性意义。内容既专业又易懂，非常适合寻求自我提升的现代人。",
-    "best_quote_en": "Taking time to deliberately defocus is actually supportive of concentrated work.",
-    "best_quote_zh": "刻意地分心实际上有助于集中工作。"
-  },
-  {
     "id": 249,
     "title": "Developer policy update: Transparency, state policy, and what’s ahead",
     "title_zh": "开发者政策更新：透明度、州政策及展望",
@@ -2330,5 +2238,99 @@
     "summary_zh": "沙皮罗博士探讨了利用古代DNA和现代胚胎学技术复活猛犸象、渡渡鸟和直狼等灭绝物种的潜力，并深入反思了合成生物学在保护生物多样性、恢复生态系统和应对伦理挑战方面的应用前景。她指出，这项工作不仅为消灭物种灭绝提供新的工具，也引发了关于生态重建、基因选择和公众认知等深刻讨论。",
     "best_quote_en": "Ancient DNA and modern embryology are being used to de-extinct and protect woolly mammoths, dodo birds, and dire wolves.",
     "best_quote_zh": "我们正利用古代DNA和现代胚胎学技术来复活猛犸象、渡渡鸟和直狼等灭绝物种。"
+  },
+  {
+    "id": 345,
+    "title": "What does Olivia Colman's hot sex with a basket tell us about heteropessimism? | Emma Beddington",
+    "title_zh": "奥利维亚·科尔曼与篮子的火热性爱告诉我们什么关于异性悲观主义？ | 艾玛·贝丁顿",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/commentisfree/2026/nov/01/wicker-olivia-colman-alexander-skarsgard-hot-sex-basket-heteropessimism",
+    "tags": [
+      "update",
+      "society",
+      "ai-research",
+      "controversial"
+    ],
+    "tags_zh": [
+      "动态",
+      "社会议题",
+      "AI研究",
+      "争议观点"
+    ],
+    "date": "2026-11-01",
+    "summary_en": "Emma Beddington’s witty essay dissects Olivia Colman’s steamy role in *Wicker* to probe a broader cultural malaise she terms “heteropessimism.” By juxtaposing the film’s whimsical erotic fable—where a wicker‑crafted lover replaces a human partner—with the surge of “romantasy” featuring non‑human suitors, Beddington suggests a collective fatigue with conventional heterosexual dynamics. The piece highlights how contemporary media, from goblin‑infused novels to object‑centric erotica, reflects a yearning escapism: a desire for relationships that are lighter, sexier, and free from the unequal burdens reported in modern dating. Beddington balances critique with curiosity, questioning whether this shift signals genuine disillusionment or merely a playful reimagining of desire. Her analysis invites readers to consider the implications of such fantasies for gender norms, consent, and the future of intimacy, framing *Wicker* as both a symptom and a satire of our evolving cultural landscape.",
+    "summary_zh": "这篇文章通过奥利维亚·科尔曼在《Wicker》中的奇特爱情，探讨了当代“异性悲观主义”的兴起，揭示出女性对传统男性形象的失望，以及对非传统、轻松、荒诞的逃避性幻想的渴望，反映了社会在亲密关系领域的深层文化焦虑与想象力的觉醒。",
+    "best_quote_en": "If anything, I see Wicker‑mania and its ilk as indicative of a yearning escapism, a desire for life to be lighter, sexier and sillier.",
+    "best_quote_zh": "如果说有什么，我认为《Wicker》现象及其类似作品体现了人们对逃避现实的渴望——渴望生活变得更轻松、更性感、更荒诞。"
+  },
+  {
+    "id": 346,
+    "title": "Black Swan Farming",
+    "title_zh": "黑天鹅养殖",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/swan.html",
+    "tags": [
+      "solve",
+      "startup-strategy",
+      "startup-funding",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "解决",
+      "创业策略",
+      "创业融资",
+      "数据驱动"
+    ],
+    "date": "2026-11-02",
+    "summary_en": "Paul Graham’s essay ‘Black Swan Farming’ offers a bracing look at why startup investing defies conventional intuition. He argues that nearly all returns come from a handful of outliers, and that the most promising ideas often appear as bad bets. Graham recounts Y Combinator’s experience, showing how the concentration of value—three‑quarters of a $10 billion portfolio in just Dropbox and Airbnb—forces investors to ignore surface‑level metrics like post‑Demo‑Day fundraising. The piece blends data‑driven insight with personal reflection, urging founders and investors alike to trust intellectual conviction over gut feeling. By framing risk as a necessary, even rewarding, part of the ecosystem, Graham challenges readers to rethink success, failure, and the true drivers of breakthrough ventures.",
+    "summary_zh": "保罗·格雷厄姆的《黑天鹅养殖》揭示了创业投资的反直觉本质：收益高度集中于少数特例，最佳创意往往看似糟糕。他通过YC的经验，指出不能仅凭融资表现判断优劣，呼吁投资者信任理性而非本能。",
+    "best_quote_en": "You need to do what you know intellectually to be right, even though it feels wrong.",
+    "best_quote_zh": "你需要做你理智上认为正确的事，即使它感觉错误。"
+  },
+  {
+    "id": 347,
+    "title": "Access the Sublime & Live Your Best Life | Robert Greene",
+    "title_zh": "触及 sublime，过上最好的生活 | 罗伯特·格林",
+    "source": "Huberman Lab",
+    "link": "https://www.hubermanlab.com/episode/access-the-sublime-and-live-your-best-life-robert-greene",
+    "tags": [
+      "learn",
+      "psychology",
+      "ai-research"
+    ],
+    "tags_zh": [
+      "学习",
+      "心理学",
+      "AI研究"
+    ],
+    "date": "2026-11-02",
+    "summary_en": "Robert Greene explores the concept of the sublime as a state of fully lived experience achieved through heightened attention, observation, and emotional awareness. The episode blends psychology, philosophy, and practical tools—such as meditation, slowness, and mindful writing—to help listeners break free from automatic living and access deeper consciousness. Greene argues that modern technology and rapid pacing often dull our perception, making intentional practices essential for personal growth. By integrating insights from human nature, art, and science, he offers a roadmap for transforming everyday moments into transcendent experiences. The discussion is both intellectually stimulating and actionable, providing listeners with concrete strategies to cultivate presence, creativity, and a richer engagement with life. This conversation is particularly valuable for anyone seeking to enhance self-awareness, improve mental well‑being, and pursue a more purposeful existence.",
+    "summary_zh": "罗伯特·格林在访谈中探讨了如何通过专注、缓慢和感官觉察触及至 sublime，认为这是提升人类意识、丰富生活体验的关键。他结合心理学、艺术和科学，提供实用工具，如冥想、慢行和写字，以打破日常惯性。文章揭示了当我们真正“看见”世界时，平凡瞬间可转化为深刻的顿悟，同时也提醒我们现代技术的快速节奏可能阻碍这种觉察。这一视角为寻求更深层次生活意义的人提供了宝贵的指导。",
+    "best_quote_en": "The sublime is not a distant ideal; it is the fully lived experience of life when we attend deeply to our perception and emotions.",
+    "best_quote_zh": "至 sublime 并非遥远的理想；当我们深刻地关注感知和情感时，它就是对生活的完全体验。"
+  },
+  {
+    "id": 348,
+    "title": "Game Off 2026: The theme is SHIFT",
+    "title_zh": "Game Off 2026：主题是 SHIFT",
+    "source": "GitHub Blog",
+    "link": "https://github.blog/open-source/gaming/game-off-2026-the-theme-is-shift/",
+    "tags": [
+      "guide",
+      "programming",
+      "design",
+      "beginner-friendly"
+    ],
+    "tags_zh": [
+      "指导",
+      "编程开发",
+      "设计创意",
+      "新手友好"
+    ],
+    "date": "2026-11-01",
+    "summary_en": "Game Off 2026 returns as GitHub’s annual month‑long game jam, inviting developers worldwide to build games inspired by the theme “SHIFT.” The event celebrates creativity across every skill level, offering clear submission guidelines, a curated list of supported engines, and a vibrant community for collaboration. By reinterpreting shift—gears, perspectives, dimensions, or even bits—participants explore new mechanics and storytelling possibilities. The jam’s structure, from GitHub version control to itch.io submission and community voting, democratizes game development and highlights inclusive, open‑source practices. Resources range from beginner‑friendly tutorials to expert insights, encouraging both rapid prototyping and polished releases. Beyond the technical, SHIFT serves as a metaphor for personal growth, adaptation, and the ever‑evolving nature of technology. Game Off 2026 thus becomes a catalyst for learning, inspiration, and collective innovation, showcasing how a simple prompt can spark a global playground of ideas and friendship.",
+    "summary_zh": "GitHub 年度游戏竞赛 Game Off 2026 以“Shift”为主题，鼓励开发者探索变化的无限可能。提供丰富的资源、清晰的指导和全球社区支持，激发创作者的热情，无论新手还是资深人士，均可参与这一充满创意与协作的盛会。",
+    "best_quote_en": "Shift gears. Shift perspectives. Shift dimensions. Shift bits.",
+    "best_quote_zh": "换挡。转换视角。变换维度。移动位移。"
   }
 ]
