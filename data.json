@@ -1,51 +1,5 @@
 [
   {
-    "id": 249,
-    "title": "Developer policy update: Transparency, state policy, and what’s ahead",
-    "title_zh": "开发者政策更新：透明度、州政策及展望",
-    "source": "GitHub Blog",
-    "link": "https://github.blog/news-insights/policy-news-and-insights/developer-policy-update-transparency-state-policy-and-whats-ahead/",
-    "tags": [
-      "update",
-      "politics",
-      "science",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "动态",
-      "政治时事",
-      "科学研究",
-      "数据驱动"
-    ],
-    "date": "2026-09-29",
-    "summary_en": "GitHub’s latest policy update reveals how government regulations are reshaping the open‑source landscape, urging developers to stay informed about transparency, takedown requests, and emerging state legislation. The post highlights a dramatic rise in reported government takedown requests—708 in H1 2026 versus 98 in all of 2025—clarifying that the surge reflects improved reporting rather than increased content removal. It also surveys key policy battles, from California’s AI Transparency Act (SB 1000) to age‑assurance laws that risk sweeping in developer tools, showcasing GitHub’s active engagement with lawmakers to protect open‑source principles. By mapping current debates and previewing future challenges such as DMCA Section 1201 rulemaking and youth AI access, the article serves as both a strategic guide and a call for developer participation. The underlying message is clear: as policy becomes a core architect of software development, developers must cultivate a voice in the legislative process to ensure that regulation supports, rather than stifles, the collaborative innovation that defines open source.",
-    "summary_zh": "GitHub 政策更新揭示政府监管如何重塑开源生态，从透明度到州立法，开发者需紧跟变化。文章解析了 takedown 请求激增的报告逻辑，并聚焦 AI 透明法、年龄验证等议题，呼吁开发者积极建言，影响政策走向。",
-    "best_quote_en": "Policy decisions increasingly shape how developers build, collaborate, and participate in open source.",
-    "best_quote_zh": "政策决策日益塑造着开发者构建、协作和参与开源的方式。"
-  },
-  {
-    "id": 250,
-    "title": "The Well-Funded Fight to Keep Latinos Voting Republican",
-    "title_zh": "资金雄厚的拉丁裔选民维权战",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/news/the-lede/the-well-funded-fight-to-keep-latinos-voting-republican",
-    "tags": [
-      "analyze",
-      "politics",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "政治时事",
-      "数据驱动"
-    ],
-    "date": "2026-10-02",
-    "summary_en": "The article dissects the Libre Initiative’s well‑funded campaign to sway Latino voters toward Republican candidates, especially in Michigan. It reveals how the group leverages immigration reform rhetoric, faith‑based outreach, and community services to build a conservative Latino base, even as its policy goals clash with Trump’s deportation agenda. Through interviews with founders, volunteers, and local politicians, the piece shows the paradox of a pro‑immigrant conservative movement operating within a party increasingly defined by MAGA orthodoxy. The narrative underscores the strategic importance of targeted voter mobilization, the complexities of Latino political identity, and the broader implications for the GOP’s future electoral math. It also raises questions about the sustainability of such efforts when party leadership fails to align with the nuanced concerns of immigrant communities.",
-    "summary_zh": "这篇文章揭示了自由倡议如何利用资金和社区网络试图改变拉丁裔选民在共和党内部的传统倾向。面对移民政策分歧和特朗普支持率下降，该运动既展现了政治动员的精明，也暴露了共和党在移民问题上的矛盾。作者深入采访了关键人物，揭示了金钱、信仰和身份如何交织，塑造了当代美国政治版图。这表明拉丁裔选民正处于政治博弈的十字路口，其忠诚度正被重新定义。",
-    "best_quote_en": "“Tierra y libertad,” or “Land and liberty.”",
-    "best_quote_zh": "土地与自由"
-  },
-  {
     "id": 251,
     "title": "US Digital Currency",
     "title_zh": "美国数字货币",
@@ -2332,5 +2286,51 @@
     "summary_zh": "GitHub 年度游戏竞赛 Game Off 2026 以“Shift”为主题，鼓励开发者探索变化的无限可能。提供丰富的资源、清晰的指导和全球社区支持，激发创作者的热情，无论新手还是资深人士，均可参与这一充满创意与协作的盛会。",
     "best_quote_en": "Shift gears. Shift perspectives. Shift dimensions. Shift bits.",
     "best_quote_zh": "换挡。转换视角。变换维度。移动位移。"
+  },
+  {
+    "id": 349,
+    "title": "Potential improvements to HowTruthful and its agent skills",
+    "title_zh": "HowTruthful及其代理技能的潜在改进",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/iQt8vuSuRvbZSoQNQ/potential-improvements-to-howtruthful-and-its-agent-skills",
+    "tags": [
+      "inspire",
+      "ai-research",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "启发",
+      "AI研究",
+      "数据驱动"
+    ],
+    "date": "2026-11-03",
+    "summary_en": "In this reflective blog post, Bruce Lewis documents his hands‑on experience with the HowTruthful platform while evaluating Massachusetts’ 2026 ballot initiatives. He discovers that hedged language—such as “can”—undermines the 1‑5 truthfulness rating system, arguing that definitive statements are essential for meaningful user judgment. Lewis proposes a concrete AI skill upgrade that rewrites ambiguous claims into assertive ones, enabling clearer true/false assessments. He also shares his stance on the role of AI in fact‑checking: while he respects the contest’s vision, he believes final truth evaluation should remain human‑driven, with AI limited to structuring arguments. The post highlights two practical gaps—lack of bidirectional AI assistance during dialogue and missing export functionality—illustrating how these shortcomings hinder iterative refinement and transparent sharing of reasoning. By blending technical critique with personal insight, Lewis offers a nuanced roadmap for improving AI‑assisted deliberation tools, emphasizing the need for clearer language, collaborative workflows, and better data handling to enhance both individual decision‑making and collective discourse.",
+    "summary_zh": "作者在评估马萨诸塞州2026年选票时，发现HowTruthful中的模糊表述（如‘可以’）导致评判困难，建议用确定性语句取代，并希望AI在对话中主动提供评级，同时支持导出部分结果，以增强人机协作的理性决策流程。",
+    "best_quote_en": "The AI skill should change such statements into a definitive form like \"Massachusetts legislators who run unopposed will take voters for granted and ignore important issues.\"",
+    "best_quote_zh": "AI技能应将此类陈述改为确定性形式，例如“马萨诸塞州无人挑战的立法者将忽视重要问题，取悦选民。”"
+  },
+  {
+    "id": 350,
+    "title": "Essentials: Improve Flexibility with Research-Supported Stretching Protocols",
+    "title_zh": "核心要领：通过研究支持的拉伸协议提升柔韧性",
+    "source": "Huberman Lab",
+    "link": "https://www.hubermanlab.com/episode/essentials-improve-flexibility-with-research-supported-stretching-protocols",
+    "tags": [
+      "analyze",
+      "ai-research",
+      "lifestyle",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "AI研究",
+      "生活方式",
+      "数据驱动"
+    ],
+    "date": "2026-06-18",
+    "summary_en": "This Huberman Lab Essentials episode provides a comprehensive, research-backed approach to improving flexibility through scientifically-grounded stretching protocols. The content bridges biological understanding with practical application, explaining how muscle, nerves, and connective tissues influence range of motion. Huberman Lab's expertise shines through in the detailed analysis of different stretching types, timing strategies, and age-related considerations. The episode offers actionable protocols that balance intensity with recovery, addressing both athletic performance and long-term flexibility maintenance. This represents thought leadership at the intersection of exercise science and practical health optimization, making it essential viewing for anyone serious about physical performance and injury prevention. The research-supported approach separates this content from typical fitness advice, providing evidence-based guidance that can be immediately implemented.",
+    "summary_zh": "本期哈勃实验室精要节目从生物学角度系统解析了柔韧性的机制，揭示了肌肉、神经和结缔组织如何塑造运动幅度。哈勃实验室结合最新研究成果，详细讲解了动态、弹力、静态和PNF等不同拉伸方法的效果，并提供了科学的拉伸时机和频率建议。这不仅为运动表现提供支持，还能有效抵消年龄带来的柔韧性下降。这是一份将前沿科学与实用指南相结合的宝贵资源，对于追求运动表现和预防运动伤害的人群具有重要指导意义。",
+    "best_quote_en": "Understanding the biology of flexibility—how muscles, nerves, and connective tissues work together—allows us to create stretching protocols that are both effective and sustainable, maximizing gains while minimizing injury risk.",
+    "best_quote_zh": "理解柔韧性的生物机制——肌肉、神经和结缔组织如何协同工作——使我们能够制定出既有效又可持续的拉伸方案，在最大化收益的同时降低受伤风险。"
   }
 ]
