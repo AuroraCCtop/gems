@@ -1,99 +1,5 @@
 [
   {
-    "id": 251,
-    "title": "US Digital Currency",
-    "title_zh": "美国数字货币",
-    "source": "Sam Altman",
-    "link": "https://blog.samaltman.com/us-digital-currency",
-    "tags": [
-      "solve",
-      "economics",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "解决",
-      "经济金融",
-      "未来预测"
-    ],
-    "date": "2018-05-10",
-    "summary_en": "US Digital Currency explores the inevitable rise of cryptocurrency and proposes a government‑issued digital dollar, dubbed USDC, as a potential winner that could reconcile state interests with crypto’s promise. The author argues that while cryptocurrencies are here to stay, current systems suffer from pseudo‑anonymity, limited currency functionality, and tax challenges. By launching a state‑backed digital currency—distributed evenly to citizens, partially locked, and integrated with tax protocols—the U.S. could secure a strategic advantage over other nations and create substantial new wealth for its people. The piece also highlights the delicate balance needed between network autonomy and governmental monetary input, warning against arbitrary inflation. Ultimately, it envisions a middle ground where both regulators and crypto enthusiasts gain, positioning the first superpower to adopt such a system as a future global currency leader.",
-    "summary_zh": "美国可能推出名为USDC的数字货币，公平分配给公民，部分锁定并内置税收机制，这将使美国在未来全球货币竞争中占据优势，并创造大量新财富。同时平衡去中心化网络自治与政府适度货币政策干预，避免随意通胀，实现监管与加密货币用户双赢。",
-    "best_quote_en": "I think the first superpower government to do something like this will have an enviable position in the future of the world, and some power over a worldwide currency.",
-    "best_quote_zh": "我认为第一个采取这种行动的超级大国政府，将在未来的世界中拥有无与伦比的地位，以及对全球货币的一些权力。"
-  },
-  {
-    "id": 252,
-    "title": "How to Simplify Your Life — Tips from Oliver Burkeman, Chip Conley, Elizabeth Gilbert, and More (#885)",
-    "title_zh": "如何简化生活——来自奥利弗·伯克曼、奇普·科尼利、伊丽莎白·吉尔伯特等人的建议 (#885)",
-    "source": "Tim Ferriss",
-    "link": "https://tim.blog/2026/10/01/how-to-simplify-your-life-4/",
-    "tags": [
-      "solve",
-      "lifestyle",
-      "design",
-      "beginner-friendly"
-    ],
-    "tags_zh": [
-      "解决",
-      "生活方式",
-      "设计创意",
-      "新手友好"
-    ],
-    "date": "2026-10-02",
-    "summary_en": "This episode of The Tim Ferriss Show tackles the universal struggle with hidden complexity by asking a deceptively simple question: \"What are 1–3 decisions that could dramatically simplify my life?\" Each guest offers a distinct perspective—Chip Conley recounts how a near‑death experience onstage reshaped his priorities, Greg McKeown uses a stormtrooper costume as a metaphor for clutter, David Allen explains why internal to‑do lists drain energy, Elizabeth Gilbert treats her inbox like a home and manages uninvited guests, and Oliver Burkeman critiques the back‑firing of oversimplified simplicity advice. The conversation moves beyond quick fixes, emphasizing that \"simple\" is not synonymous with \"easy\" but rather a deliberate reduction of decision fatigue, the cultivation of personal boundaries, and the pursuit of authentic joy over dopamine hits. While the episode is interspersed with sponsor plugs for sleep and nutrition products, its core value lies in actionable, expert‑backed strategies that encourage listeners to reflect on their own habits and experiment with targeted simplifications. The show notes also provide extensive links for deeper exploration, making it a comprehensive guide for anyone seeking to streamline their daily life.",
-    "summary_zh": "这期播客汇集了奥利弗·伯克曼、奇普·科尼利、伊丽莎白·吉尔伯特等人的简化生活经验，从近死体验到收纳哲学，从邮箱管理到边界设定，揭示了简单与复杂的区别，并鼓励我们寻找真正的joy 而非短暂的快乐。",
-    "best_quote_en": "What are 1–3 decisions that could dramatically simplify my life?",
-    "best_quote_zh": "我想要知道：有哪些1到3个决定可以彻底简化我的生活？"
-  },
-  {
-    "id": 253,
-    "title": "10 technical talks I’m excited about at GitHub Universe 2026",
-    "title_zh": "我对 GitHub Universe 2026 十场技术演讲感到兴奋",
-    "source": "GitHub Blog",
-    "link": "https://github.blog/news-insights/company-news/10-technical-talks-im-excited-about-at-github-universe-2026/",
-    "tags": [
-      "learn",
-      "programming",
-      "ai-research",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "学习",
-      "编程开发",
-      "AI研究",
-      "数据驱动"
-    ],
-    "date": "2026-10-01",
-    "summary_en": "This blog post previews ten compelling technical talks at GitHub Universe 2026, reflecting the author's strategic approach to selecting sessions that address current development challenges. The content spans AI verification methodologies, agent memory systems, security frameworks, and practical tools for developers. Key themes include verifying AI-generated code, securing software dependencies, and building resilient systems for low-connectivity environments. The author demonstrates thought leadership by identifying emerging trends in AI research, particularly around evaluation methodologies and deterministic controls. These talks represent cutting-edge developments in software engineering, offering actionable insights for developers navigating the complexities of modern AI integration, security challenges, and toolchain optimization. The post serves as both a curated guide and a reflection on the evolving landscape of developer tools and practices.",
-    "summary_zh": "这篇博客预览了 GitHub Universe 2026 的十场精彩技术演讲，展示了作者如何围绕当前开发挑战精心挑选会议内容。文章涵盖了 AI 验证方法、代理记忆系统、安全框架和实用的开发者工具等主题。关键议题包括验证 AI 生成的代码、确保软件依赖的安全性，以及为低连接环境构建容错系统。这些演讲体现了 AI 研究领域的最新进展，特别是在评估方法和确定性控制方面。对于开发者而言，这是一份关于应对现代 AI 集成、安全挑战和工具链优化的宝贵指南。",
-    "best_quote_en": "I'm looking for ideas I can take back to my own work, from verifying agent-written code and securing dependencies to building software that works where internet access is unreliable.",
-    "best_quote_zh": "我正在寻找可以带回自己工作中的想法，从验证代理编写的代码和确保依赖项安全到构建在互联网访问不可靠的环境中运行的软件。"
-  },
-  {
-    "id": 254,
-    "title": "My relationship with food was broken. Then I killed my own dinner",
-    "title_zh": "我与食物的关系破裂了。然后我杀了自己的晚餐",
-    "source": "Women | The Guardian",
-    "link": "https://www.theguardian.com/lifeandstyle/ng-interactive/2026/oct/03/food-diet-weight-hunting",
-    "tags": [
-      "solve",
-      "psychology",
-      "lifestyle",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "解决",
-      "心理学",
-      "生活方式",
-      "数据驱动"
-    ],
-    "date": "2026-10-03",
-    "summary_en": "Katherine Hill’s poignant essay chronicles her years‑long battle with diet culture, where food became a source of fear, control, and regret. After hunting and eating a deer she shot, she confronts the irony of vilifying body fat while wildlife thrives on it as a sign of health. The piece weaves personal trauma, expert insights from psychologist Dr. Hannah Carl, and startling statistics about fatphobia, exposing how modern beauty standards weaponize weight. Hill reflects on the disconnect between food origins and consumption, the soaring cost of meat, and the moral complexities of hunting. Her journey from self‑destruction to acceptance illustrates a broader cultural reckoning: fat need not be a flaw, and our relationship with food—and with mortality—might be healthier when we acknowledge its natural cycles. The essay challenges readers to reconsider what \"ideal\" bodies mean and to find peace in the fragile, fleeting nature of life.",
-    "summary_zh": "凯瑟琳·希尔讲述了她如何因饮食文化而与食物产生矛盾，通过狩猎并食用自己射杀的鹿，她重新审视了身体脂肪的价值。这篇文章结合了个人创伤、心理学家汉娜·卡尔的见解，以及关于体脂羞辱的统计数据，揭露了现代审美标准如何将体重视为缺陷。她反思了食物来源与消费之间的脱节，以及狩猎的道德复杂性。这段旅程从自我毁灭到接纳，不仅是个人的觉醒，也反映了社会对身体理想的更广泛质疑。",
-    "best_quote_en": "What would happen if society saw human bodies the same way I saw my first doe, with fat as proof of life and health?",
-    "best_quote_zh": "如果社会能像我看待第一只羚羊那样看待人类身体，认为脂肪是生命与健康的证明，会发生什么呢？"
-  },
-  {
     "id": 255,
     "title": "The Quiet Unravelling of a Haitian Life in America",
     "title_zh": "海地人在美国的平静生活正在瓦解",
@@ -2332,5 +2238,93 @@
     "summary_zh": "本期哈勃实验室精要节目从生物学角度系统解析了柔韧性的机制，揭示了肌肉、神经和结缔组织如何塑造运动幅度。哈勃实验室结合最新研究成果，详细讲解了动态、弹力、静态和PNF等不同拉伸方法的效果，并提供了科学的拉伸时机和频率建议。这不仅为运动表现提供支持，还能有效抵消年龄带来的柔韧性下降。这是一份将前沿科学与实用指南相结合的宝贵资源，对于追求运动表现和预防运动伤害的人群具有重要指导意义。",
     "best_quote_en": "Understanding the biology of flexibility—how muscles, nerves, and connective tissues work together—allows us to create stretching protocols that are both effective and sustainable, maximizing gains while minimizing injury risk.",
     "best_quote_zh": "理解柔韧性的生物机制——肌肉、神经和结缔组织如何协同工作——使我们能够制定出既有效又可持续的拉伸方案，在最大化收益的同时降低受伤风险。"
+  },
+  {
+    "id": 351,
+    "title": "The Top of My Todo List",
+    "title_zh": "我的待办事项清单之首",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/todo.html",
+    "tags": [
+      "solve",
+      "startup-strategy"
+    ],
+    "tags_zh": [
+      "解决",
+      "创业策略"
+    ],
+    "date": "2026-11-04",
+    "summary_en": "The article reflects on Bronnie Ware’s research into the dying’s regrets, distilling five common omissions—neglecting dreams, over‑working, suppressing feelings, losing touch with friends, and forgetting happiness. The author sees these as symptoms of a post‑industrial “cog” mentality, where people shrink into prescribed roles and act dutifully until they stop. By inverting the regrets into five affirmative commands and placing them at the top of a personal todo list, the piece offers a practical counter‑routine to default mistakes. This approach highlights how small, intentional habits can re‑center life around authenticity rather than conformity. The analysis underscores the danger of omission errors, which happen by default, and suggests that transformation may be incremental, requiring continual reminders. The integration of a Japanese translation further broadens the reflection’s reach, inviting cross‑cultural dialogue on mortality and purpose. Ultimately, the text serves as both a personal guide and a broader commentary on modern existence, urging readers to reclaim agency and joy.",
+    "summary_zh": "文章通过临终者的五大遗憾，揭示了现代人成为‘齿轮’的倾向——忽视梦想、过度工作、压抑情感、疏远朋友、忘记快乐。通过将这些遗憾反转为五条命令并置顶于待办清单，我反思了默认错误如何塑造生活，并呼吁人们通过持续的提醒重建更真实的价值。",
+    "best_quote_en": "Don't be a cog.",
+    "best_quote_zh": "不要成为齿轮。"
+  },
+  {
+    "id": 352,
+    "title": "Bengaluru AI Jailbreaking Workshop Retrospective",
+    "title_zh": "班加罗尔AI越狱研讨会回顾",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/QWeFCksxab9LYo8vT/bengaluru-ai-jailbreaking-workshop-retrospective",
+    "tags": [
+      "guide",
+      "ai-research",
+      "education",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "指导",
+      "AI研究",
+      "教育学习",
+      "数据驱动"
+    ],
+    "date": "2026-11-04",
+    "summary_en": "The Secure AI Futures Lab (SAFL) organized a five‑session workshop in Bengaluru from August to October 2026 to upskill technical professionals in AI red teaming and jailbreaking. By pairing key research papers with hands‑on Colab notebooks, the program moved beyond theory, letting participants reproduce results on smaller models and predict outcomes. Guest talks from FAR.AI and IIT Madras added industry perspectives on safeguard testing and post‑deployment assessment. Attendance was strong—20 unique participants, a core group of six who attended three or more sessions, and a mean satisfaction rating of 9.6/10. Participants reported being able to judge the credibility of jailbreak claims and to test published results themselves, with one‑fifth sharing new findings. The workshop also produced a curated list of seven open problems and five sets of session notebooks, addressing a clear demand for capstone projects. Operational hiccups—schedule drift, low survey response, and rating ceiling—highlight areas for improvement, yet the event demonstrated a viable model for building a local AI safety community and delivering actionable, expert‑driven learning.",
+    "summary_zh": "SAFL 在班加罗尔举办了一场为期五周的 AI 红队训练营，通过论文阅读与实操笔记，协助技术人士掌握模型越狱评估技能。邀请 FAR.AI 与 IIT Madras 分享行业见解，20 名参与者评价极高，核心小组持续参与。学员不仅能判断越狱结果的可信度，还能独立验证并分享研究成果，强烈期待深化合作与开题项目。此实践模式为印度构建 AI 安全社区提供了可复制路径，但日程管理与反馈收集仍需优化。",
+    "best_quote_en": "The crowd had great questions, so it was fun to present!... Great work on gathering this set of people.",
+    "best_quote_zh": "人群中有很好的问题，所以演讲很有趣！…感谢你们召集这批人。"
+  },
+  {
+    "id": 353,
+    "title": "A Blue Wave Just Crashed on Trump",
+    "title_zh": "一股蓝色浪潮撞向特朗普",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/the-political-scene/a-blue-wave-just-crashed-on-trump",
+    "tags": [
+      "solve",
+      "politics",
+      "controversial"
+    ],
+    "tags_zh": [
+      "解决",
+      "政治时事",
+      "争议观点"
+    ],
+    "date": "2026-11-04",
+    "summary_en": "The 2026 midterm elections marked a dramatic reversal for Donald Trump’s political fortunes, with Republicans suffering historic losses even in traditionally conservative strongholds such as Texas, South Carolina, Kansas, and Ohio. Over the past two years, Trump’s aggressive agenda—characterized by the erosion of federal institutions, costly tariffs, a harsh immigration crackdown, and an ill‑fated Iran war—produced a cascade of economic and moral backlash that resonated far beyond urban blue enclaves. Voters in places like South Texas, Kansas, and South Carolina cited immigration cruelty, rising fuel and fertilizer costs, and weak Republican candidates as decisive factors. Meanwhile, a new generation of younger Democrats—Jon Ossoff, James Talarico, Abdul El‑Sayed—leveraged anti‑oligarchic rhetoric to reshape the party’s image, giving the South a purple hue. Although Democrats now control the House, internal divisions and a lack of clear leadership keep their future uncertain. The election suggests that the 2024 Trump victory may be an aberration rather than a lasting realignment, as the country’s political map begins to destabilize in ways that could reshape both parties’ strategies.",
+    "summary_zh": "2026年中期选举结果显示特朗普支持率崩溃，共和党在传统红州失利。民主党新一代政客崛起，政治地图悄然变化。特朗普的政策引发经济与道德反弹，选民重新评估两极分化。这标志着美国政治转向，可能预示2024年选举并非历史转折，而只是暂时波动。",
+    "best_quote_en": "\"It’s just a point in time,\" the President said. \"There was a mood in the air, I guess.\"",
+    "best_quote_zh": "\"这只是一个时刻，\"总统说，\"当时空气中似乎有某种情绪。\""
+  },
+  {
+    "id": 354,
+    "title": "Essentials: Sleep Toolkit for Optimizing Sleep & Sleep-Wake Timing",
+    "title_zh": "睡眠优化工具包：优化睡眠与昼夜节律",
+    "source": "Huberman Lab",
+    "link": "https://www.hubermanlab.com/episode/essentials-sleep-toolkit-for-optimizing-sleep-and-sleep-wake-timing",
+    "tags": [
+      "learn",
+      "science",
+      "medicine"
+    ],
+    "tags_zh": [
+      "学习",
+      "科学研究",
+      "医学健康"
+    ],
+    "date": "2026-06-11",
+    "summary_en": "This Huberman Lab Essentials episode delivers a comprehensive, science-backed toolkit for sleep optimization through circadian rhythm mastery. The content transcends typical sleep advice by integrating neuroscientific insights with practical, actionable strategies across morning, afternoon, and evening behaviors. Huberman's expertise shines through in his nuanced discussion of cortisol rhythms, light exposure timing, and the complex interactions between supplements, caffeine, alcohol, and THC on sleep architecture. What makes this particularly valuable is the episode's systematic approach—breaking down sleep optimization into three critical daily periods while addressing real-world challenges like jet lag and shift work. The intellectual curiosity is evident in his caution about melatonin supplementation and his emphasis on environmental factors like bedroom temperature and deliberate cold exposure. This content serves as both a practical guide and educational resource for anyone seeking to transform their sleep quality through evidence-based interventions, making it essential viewing for those wanting to understand the science behind optimal sleep-wake timing.",
+    "summary_zh": "这集哈勃实验室精要节目提供了基于科学的睡眠优化工具包，通过昼夜节律支持改善睡眠质量。内容不仅提供了实用的睡眠建议，更将神经科学见解与晨间、午间和晚间行为策略相结合。哈勃在 cortisol 节律、光照时间、咖啡因、酒精和 THC 对睡眠的影响等方面展现出专业知识，尤其对褪黑激素补充剂的谨慎态度令人印象深刻。这套系统化的方法将睡眠优化分解为三个关键每日时段，同时解决了 jet lag 和倒班工作等现实挑战。这不仅是实用的睡眠改善指南，也是对睡眠科学深入探索的教育资源，适合任何希望通过科学方法提升睡眠质量的人群。",
+    "best_quote_en": "I discuss science-supported tools to improve sleep by supporting a healthy circadian rhythm using key behaviors and environmental cues.",
+    "best_quote_zh": "我讨论了支持健康昼夜节律的关键行为和环境线索，以改善睡眠的科学支持工具。"
   }
 ]
