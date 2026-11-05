@@ -1,29 +1,5 @@
 [
   {
-    "id": 255,
-    "title": "The Quiet Unravelling of a Haitian Life in America",
-    "title_zh": "海地人在美国的平静生活正在瓦解",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/news/our-local-correspondents/the-quiet-unravelling-of-a-haitian-life-in-america",
-    "tags": [
-      "analyze",
-      "politics",
-      "science",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "政治时事",
-      "科学研究",
-      "数据驱动"
-    ],
-    "date": "2026-10-02",
-    "summary_en": "The article follows Emmanuella, the sole family member with Temporary Protected Status (TPS), as the program’s termination upends her life in Brooklyn. Once a reliable nanny and employee, she now faces sudden job loss, the threat of deportation, and a stark shift from anxiety to fear. The narrative juxtaposes her personal struggle—quitting work, dating to secure a husband, and living underground—with broader policy developments: the Trump administration’s push to end TPS for Haitians, the Supreme Court’s recent ruling allowing this, and the resulting nationwide layoffs of Haitian workers. Through interviews with immigration lawyer Stephanie Delia, influencer Anya, and Emmanuella’s own reflections, the piece reveals the human cost of a humanitarian program’s collapse, highlighting how families are forced into secrecy, neighborhoods become hazardous, and long‑term residents are stripped of legal footing. It underscores the arbitrary nature of mass de‑legalization and the erosion of protections that have long sustained vulnerable communities.",
-    "summary_zh": "文章聚焦海地裔青年埃曼努埃拉，她是唯一持有临时保护身份的家庭成员。随着该身份的终止，她的生活在布鲁克林陷入混乱：丢掉工作、被迫寻找丈夫、开始隐秘生活。叙事交织个人困境与政策变革：特朗普政府推动终止海地人的TPS，最高法院裁决支持此举，导致海地工人全国性裁员。文章通过移民律师、网红及埃曼努埃拉的视角，揭示了这一人道主义项目崩溃的真实代价：家庭被迫隐匿，社区变为危险地带，长期居民失去法律地位。它批判了这种任意的去合法化行动，凸显了政策如何摧毁本已脆弱的生活。",
-    "best_quote_en": "It just sucks the life out of you.",
-    "best_quote_zh": "这真是让人感到绝望。"
-  },
-  {
     "id": 256,
     "title": "A Tale of Greed From the 1920s",
     "title_zh": "1920年代的贪婪故事",
@@ -2326,5 +2302,27 @@
     "summary_zh": "这集哈勃实验室精要节目提供了基于科学的睡眠优化工具包，通过昼夜节律支持改善睡眠质量。内容不仅提供了实用的睡眠建议，更将神经科学见解与晨间、午间和晚间行为策略相结合。哈勃在 cortisol 节律、光照时间、咖啡因、酒精和 THC 对睡眠的影响等方面展现出专业知识，尤其对褪黑激素补充剂的谨慎态度令人印象深刻。这套系统化的方法将睡眠优化分解为三个关键每日时段，同时解决了 jet lag 和倒班工作等现实挑战。这不仅是实用的睡眠改善指南，也是对睡眠科学深入探索的教育资源，适合任何希望通过科学方法提升睡眠质量的人群。",
     "best_quote_en": "I discuss science-supported tools to improve sleep by supporting a healthy circadian rhythm using key behaviors and environmental cues.",
     "best_quote_zh": "我讨论了支持健康昼夜节律的关键行为和环境线索，以改善睡眠的科学支持工具。"
+  },
+  {
+    "id": 355,
+    "title": "Writing and Speaking",
+    "title_zh": "写作与演讲",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/speak.html",
+    "tags": [
+      "guide",
+      "startup-strategy",
+      "society"
+    ],
+    "tags_zh": [
+      "指导",
+      "创业策略",
+      "社会议题"
+    ],
+    "date": "2026-11-05",
+    "summary_en": "The essay offers a candid comparison of writing and speaking, arguing that good ideas are far more central to effective writing than to compelling speech. Through personal anecdotes—a hollow‑looking charismatic speaker, a famed motivational orator, and observations on audience psychology—the author reveals how public speaking serves purposes beyond idea transmission: motivation, connection, and the illusion of conversation with inaccessible figures. He critiques prewritten talks, the trade‑off between polish and original thought, and the way larger audiences can devolve into mob‑like reactions. Written with self‑deprecating humor and intellectual curiosity, the piece invites readers to reconsider the distinct economies of written and spoken discourse, weighing performance against authentic expression. It blends diagnostic insight with pragmatic advice for anyone seeking to communicate more effectively across mediums.",
+    "summary_zh": "作者发现好的想法对写作至关重要，而对演讲影响有限。通过观察揭示演讲更像激励而非纯知识传递。文章探讨了表演与真诚之间的权衡，提醒我们重新评估不同表达方式的价值。",
+    "best_quote_en": "Being a really good speaker is not merely orthogonal to having good ideas, but in many ways pushes you in the opposite direction.",
+    "best_quote_zh": "成为一名优秀的演讲者不仅与拥有好想法无关，在许多方面甚至会朝着相反的方向发展。"
   }
 ]
