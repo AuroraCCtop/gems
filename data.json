@@ -1,97 +1,5 @@
 [
   {
-    "id": 256,
-    "title": "A Tale of Greed From the 1920s",
-    "title_zh": "1920年代的贪婪故事",
-    "source": "Kevin Kelly",
-    "link": "https://kk.org/cooltools/a-tale-of-greed-from-the-1920s/",
-    "tags": [
-      "update",
-      "science",
-      "ai-research",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "动态",
-      "科学研究",
-      "AI研究",
-      "数据驱动"
-    ],
-    "date": "2026-10-02",
-    "summary_en": "This Deep Cut edition revives B. Traven’s 1929 novel *The White Rose*, a tale of American oil magnate Chaney Collins hunting a priceless Mexican hacienda for its underground oil. The story mirrors the real‑world Teapot Dome scandal, exposing how greed and political corruption intertwine across decades. Alongside the gripping narrative, the piece unpacks Traven’s elusive identity—his pseudonyms, anarchist past, and belief that “the creative person should have no other biography than his works.” The author’s meticulous translation experiment, using AI to stay close to the German original, highlights contemporary efforts to preserve obscure public‑domain literature. By weaving historical context, literary analysis, and the politics of resource extraction, the article offers a layered examination of power, heritage, and the enduring relevance of a century‑old cautionary tale.",
-    "summary_zh": "这篇文章重新讲述了1929年小说《白玫瑰》中关于美国石油大亨强占墨西哥家族庄园的故事，揭示了贪婪与权力腐败的永恒主题，并通过对特拉文神秘身份的探讨，反思创作者应以作品为传。译者利用AI进行忠实翻译，恢复了这部长期失传的经典。",
-    "best_quote_en": "The creative person should have no other biography than his works.",
-    "best_quote_zh": "创作者应该没有其他传记，只有他的作品。"
-  },
-  {
-    "id": 257,
-    "title": "Productivity",
-    "title_zh": "生产力",
-    "source": "Sam Altman",
-    "link": "https://blog.samaltman.com/productivity",
-    "tags": [
-      "guide",
-      "lifestyle"
-    ],
-    "tags_zh": [
-      "指导",
-      "生活方式"
-    ],
-    "date": "2018-04-10",
-    "summary_en": "Productivity is often framed as a system of tricks, but this piece reframes it as a philosophy of focus, values, and sustainable habits. The author argues that the most critical factor isn’t speed or tools but choosing the right problems to solve—a principle illustrated by the compound effect of modest daily gains. By detailing personal strategies—from deliberate scheduling and ruthless prioritization to sleep, nutrition, and workspace design—the essay reveals how small, consistent improvements compound over years, dwarfing short‑term optimizations. It also warns against “productivity porn,” urging readers to evaluate whether they’re working on meaningful goals rather than merely squeezing more tasks into their days. The blend of introspection, data‑backed habits (like sleep tracking), and candid admissions of imperfection makes the piece both actionable and relatable, offering a roadmap for anyone seeking to turn incremental effort into lasting impact.",
-    "summary_zh": "这篇文章将生产力提升从技巧转化为价值观与习惯的哲学思考，强调选择正确目标的重要性，并通过睡眠、饮食、时间管理等个人实践，揭示小幅持续改进如何在长期产生巨大效应，同时警示避免为提升而提升的误区。",
-    "best_quote_en": "A small productivity gain, compounded over 50 years, is worth a lot.",
-    "best_quote_zh": "一丁点的生产力提升，复利五十年，价值无穷。"
-  },
-  {
-    "id": 258,
-    "title": "AI is changing developer work. Here are three skills to strengthen.",
-    "title_zh": "AI 正在改變開發者的工作。以下是三項需要強化的技能。",
-    "source": "GitHub Blog",
-    "link": "https://github.blog/ai-and-ml/ai-is-rewriting-the-developer-career-ladder-heres-how-to-stand-out/",
-    "tags": [
-      "solve",
-      "design",
-      "ai-research",
-      "case-study"
-    ],
-    "tags_zh": [
-      "解决",
-      "设计创意",
-      "AI研究",
-      "案例研究"
-    ],
-    "date": "2026-10-02",
-    "summary_en": "AI is reshaping how developers work, turning traditional coding into a more strategic role. The article outlines three essential skills: learning to direct AI rather than simply using it, critically evaluating AI‑generated output, and leveraging AI to tackle higher‑level problems. These capabilities enable engineers to coordinate multiple AI agents, review their work, and make sound technical judgments. By embracing AI as an augmentative tool, developers can focus on creativity, system design, and user‑centric decisions that machines cannot replicate. The piece offers concrete examples and practical prompts, encouraging a mindset shift from implementation to orchestration. It also highlights GitHub Copilot’s features, such as the Rubber Duck agent, which provides a second opinion to catch blind spots. In sum, the article serves as a roadmap for tech professionals seeking to stay relevant, adapt their skill sets, and drive innovation in an AI‑augmented workplace.",
-    "summary_zh": "AI 正在重塑開發者職責，程式碼已非唯一核心。學習如何指導 AI，而非只是使用它；批判性審視輸出、聚焦大局問題三項技能成為新標桿。我們需主動轉型，將 AI 視為助手而非競爭對手，藉此提升判斷力與戰略思維。透過不斷練習與反思，每位開發者都能掌握 AI 時代的新工作方式，保持競爭優勢。",
-    "best_quote_en": "Learn to direct AI, not just use it.",
-    "best_quote_zh": "學習如何指導 AI，而非只是使用它。"
-  },
-  {
-    "id": 259,
-    "title": "Are my gen X peers the influencers the world has been waiting for? | Emma Beddington",
-    "title_zh": "我的X世代同龄人难道不是世界期待的那些影响者吗？| 艾玛·贝丁顿",
-    "source": "Women | The Guardian",
-    "link": "https://www.theguardian.com/commentisfree/2026/oct/04/my-gen-x-peers-influencers",
-    "tags": [
-      "update",
-      "science",
-      "tech-trends",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "动态",
-      "科学研究",
-      "技术趋势",
-      "数据驱动"
-    ],
-    "date": "2026-10-04",
-    "summary_en": "Emma Beddington’s column reframes the narrative around Generation X, highlighting how this cohort—now at career peak, financially stable and increasingly visible on platforms like TikTok—embodies a quiet but potent form of influence. While younger audiences label them “the cool ones,” the article reveals the complex realities behind this perception: aging parents, demanding jobs, health challenges, and a cultural reluctance to self‑promote. Yet figures such as Kathryn Turner, M&S’s product‑development director, demonstrate a new archetype—competent, unpretentious, and digitally savvy—whose short‑form videos attract millions of devoted followers. Beddington suggests that this generation’s authentic, problem‑solving presence could become a cultural ASMR of competence, offering viewers a balm in turbulent times. The piece invites readers to reconsider what influence looks like, urging Gen X to leverage its unique position not just as consumers but as creators shaping digital discourse.",
-    "summary_zh": "贝丁顿文章重新定义了X世代的影响力：这一代人正处于职业巅峰，拥有财富与闲暇，却面临健康、家庭与自我推广的矛盾。 Kathryn Turner等普通人以真实视频展示出静默而强大的魅力，或许这就是未来数字内容的情感慰藉。",
-    "best_quote_en": "If gen X were a country, it would be the world's second-largest consumer market.",
-    "best_quote_zh": "如果X世代是一个国家，它将是世界第二大消费市场."
-  },
-  {
     "id": 260,
     "title": "ICE Is Everywhere and Acting with Impunity",
     "title_zh": "ICE 无处不在，逍遥法外",
@@ -2324,5 +2232,99 @@
     "summary_zh": "作者发现好的想法对写作至关重要，而对演讲影响有限。通过观察揭示演讲更像激励而非纯知识传递。文章探讨了表演与真诚之间的权衡，提醒我们重新评估不同表达方式的价值。",
     "best_quote_en": "Being a really good speaker is not merely orthogonal to having good ideas, but in many ways pushes you in the opposite direction.",
     "best_quote_zh": "成为一名优秀的演讲者不仅与拥有好想法无关，在许多方面甚至会朝着相反的方向发展。"
+  },
+  {
+    "id": 356,
+    "title": "'Almost anything goes!': from skinny jeans to wide barrel cuts, there's a denim out there for every woman over 40",
+    "title_zh": "几乎所有款式都能尝试！从紧身裤到宽筒牛仔裤，每个40岁以上女性都有适合自己的牛仔裤",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/thefilter-us/2026/nov/05/best-jeans-women-over-40",
+    "tags": [
+      "update",
+      "lifestyle",
+      "design",
+      "beginner-friendly"
+    ],
+    "tags_zh": [
+      "动态",
+      "生活方式",
+      "设计创意",
+      "新手友好"
+    ],
+    "date": "2026-11-05",
+    "summary_en": "This 2026 guide explores a vibrant denim landscape where classic skinny jeans make a comeback and bold brown hues dominate, offering women over 40 a fresh wardrobe playbook. By consulting four renowned stylists, the article decodes fit challenges, rise preferences, and styling tricks that balance comfort with sophistication. Real‑world product reviews—from Spanx’s high‑waist wide‑leg cuts to Levi’s cinched linen blends—illustrate how modern denim can flatter mature bodies while staying accessible price‑wise. The piece also highlights the cyclical nature of fashion, reminding readers that timeless pieces can be re‑interpreted with contemporary twists. Ultimately, it empowers an often‑overlooked demographic to embrace confidence‑boosting styles, proving that age is just another trend to curate and conquer.",
+    "summary_zh": "2026 年牛仔裤趋势充满活力，紧身裤回归，棕色牛仔裤流行，为40岁以上女性提供时尚新选择。文章通过四位顶级造型师的建议，解析了适合成熟身材的剪裁、腰线和搭配技巧。实用的产品测评涵盖了从 Spanx 的高腰宽筒裤到 Levi’s 的亚麻混纺牛仔裤等款式，展示了如何以平价方式实现时尚与舒适的平衡。这不仅反映了时尚的循环性，也鼓励女性重新定义自我风格，在任何年龄都能自信地表达自己。",
+    "best_quote_en": "The wrong length can ruin even the best denim.",
+    "best_quote_zh": "错误的长度甚至会毁掉最好的牛仔裤。"
+  },
+  {
+    "id": 357,
+    "title": "How Y Combinator Started",
+    "title_zh": "Y Combinator是如何创立的",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/ycstart.html",
+    "tags": [
+      "update",
+      "startup-strategy",
+      "startup-funding",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "动态",
+      "创业策略",
+      "创业融资",
+      "数据驱动"
+    ],
+    "date": "2026-11-06",
+    "summary_en": "Paul Graham and Jessica Livingston’s 2005 summer walk in Harvard Square sparked an impromptu venture: a $200k seed fund that would become Y Combinator. Their early vision—standardized seed terms, funding hackers over suits, and backing younger founders—challenged the haphazard nature of pre‑YC financing. By launching a Summer Founders Program, they introduced synchronous funding, turning a learning experiment into a repeatable model. The founders’ unexpected success proved the concept, and the “Y Combinator effect” soon convinced skeptics. The decision to move to Silicon Valley, initially pragmatic, cemented YC’s national reach, while the name change from Cambridge Seed reflected an ambition to scale beyond geography. This narrative reveals how a modest, almost accidental collaboration reshaped startup ecosystems, creating a template that blends education, mentorship, and capital. Graham’s reflective tone invites readers to consider how small, bold ideas can evolve into institutions that define an entire industry, underscoring the power of iterative learning and community‑driven innovation.",
+    "summary_zh": "Y Combinator 的诞生是一次夏日的即兴实验——200 万美元种子资金，一个大胆的名字变更，以及同步资助初创公司的想法。从本地种子基金到全球加速器，它重塑了初创企业获得资本和指导的方式。这个故事展示了如何通过学习和社区力量，将微小的创意转化为改变行业的模式。",
+    "best_quote_en": "We realized early on that what we were doing could be national in scope and we didn't want a name that tied us to one place.",
+    "best_quote_zh": "我们很早就意识到，我们所做的事情具有全国性的影响力，所以我们不想有一个将我们绑定在某个地方的名字。"
+  },
+  {
+    "id": 358,
+    "title": "A Cruise to End All Cruises",
+    "title_zh": "终结所有游轮的航程",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/annals-of-the-sea/a-cruise-to-end-all-cruises",
+    "tags": [
+      "update",
+      "startup-strategy",
+      "science",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "动态",
+      "创业策略",
+      "科学研究",
+      "未来预测"
+    ],
+    "date": "2026-11-06",
+    "summary_en": "Shayla Love’s deep‑dive into Villa Vie Residences’ “affordable” residential cruise, the Odyssey, reveals a cautionary tale of ambition, financial overreach, and human cost. The article traces the founders’ previous failed venture, Life at Sea, and details how the Odyssey promised retirees a lifelong, all‑inclusive sea‑life for a fraction of the price of traditional luxury cruises. Yet the narrative quickly unravels: mechanical setbacks, opaque financing, mounting crew unpaid wages, and a sudden, chaotic abandonment in Singapore expose the venture’s fragile business model. Through vivid interviews with passengers like Starr Davis, Toni Trombecky, and Dana Teton, Love captures the emotional roller‑coaster of investors who liquidated homes and savings, only to find themselves adrift without recourse. The piece also highlights broader systemic risks—how a handful of charismatic promoters can skew public perception, the dangers of non‑disclosure agreements, and the regulatory gaps that allow such schemes to proliferate. Ultimately, the Odyssey’s collapse serves as a stark reminder of the perils of chasing an idyllic retirement fantasy without rigorous due diligence, urging readers to question the glossy promises of “revolutionary” lifestyle startups.",
+    "summary_zh": "这篇调查性报道揭示了Villa Vie公司“平价”居住式游轮Odyssey号的兴衰：从创始人之前的失败项目Life at Sea，到承诺退休人员终身海岛生活的豪赌，最终却因机械故障、资金链断裂、船员工资拖欠和突然在新加坡的混乱撤离而崩溃。作者通过采访多位乘客，展现了投资者们抛售房产、耗尽积蓄后却被抛弃的困境，揭露了这种“革命性”生活方式项目的系统性风险和监管漏洞，提醒读者在追逐理想退休幻想时需保持批判性思维。",
+    "best_quote_en": "I've already lost everything. There's nothing more to lose.",
+    "best_quote_zh": "我已经一无所有了，再也没有什么可以失去的了。"
+  },
+  {
+    "id": 359,
+    "title": "Essentials: Cold & Heat Exposure for Metabolic Health | Dr. Susanna Søberg",
+    "title_zh": "代谢健康冷热暴露要义 | 苏珊娜·瑟伯格博士",
+    "source": "Huberman Lab",
+    "link": "https://www.hubermanlab.com/episode/essentials-cold-and-heat-exposure-for-metabolic-health-susanna-soberg",
+    "tags": [
+      "learn",
+      "education",
+      "science"
+    ],
+    "tags_zh": [
+      "学习",
+      "教育学习",
+      "科学研究"
+    ],
+    "date": "2026-11-05",
+    "summary_en": "In this Huberman Lab Essentials episode, metabolic scientist Dr. Susanna Søberg shares cutting‑edge insights into how brief, deliberate cold exposure can boost insulin sensitivity, activate brown fat, and enhance overall metabolic health and physiological resilience. She unpacks the cold shock response, the role of shivering, and the science behind temperature regulation pathways, offering concrete guidance on optimal temperature, duration, and sequencing of cold and heat protocols. Listeners learn practical tools such as the “Søberg Principle” (ending sessions on cold), minimal‑time cold and heat routines, and the synergistic benefits of winter swimming and sauna use for reducing inflammation. The discussion blends rigorous research with actionable lifestyle advice, making complex metabolic mechanisms accessible and immediately applicable. This episode is a treasure for anyone curious about evidence‑based wellness strategies that harness environmental stressors to improve health, and it exemplifies how expert‑driven, data‑rich content can empower readers to experiment safely with cold and heat therapies.",
+    "summary_zh": "苏珊娜·瑟伯格博士揭示了简短、冷曝光对代谢健康的关键作用，包括改善胰岛素敏感性、激活棕色脂肪及增强生理弹性。她分享了冷热交替的实操方案，如温度控制、时间安排及“瑟伯格原则”，为听众提供了科学且易于遵循的健康指南。",
+    "best_quote_en": "Brief, deliberate cold exposure improves insulin sensitivity, promotes metabolic health and physiological resilience.",
+    "best_quote_zh": "简短、有意的冷暴露可以改善胰岛素敏感性，促进代谢健康和生理弹性。"
   }
 ]
