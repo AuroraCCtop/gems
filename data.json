@@ -1,73 +1,5 @@
 [
   {
-    "id": 260,
-    "title": "ICE Is Everywhere and Acting with Impunity",
-    "title_zh": "ICE 无处不在，逍遥法外",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/magazine/2026/10/12/ice-is-everywhere-and-acting-with-impunity",
-    "tags": [
-      "analyze",
-      "politics",
-      "controversial"
-    ],
-    "tags_zh": [
-      "分析",
-      "政治时事",
-      "争议观点"
-    ],
-    "date": "2026-10-04",
-    "summary_en": "Jonathan Blitzer’s report reveals a stark transformation of American life under the Trump administration: Immigration and Customs Enforcement (ICE) agents now operate with near‑total impunity, conducting record‑breaking arrests—over 51,000 in August alone—at hospitals, airports, and schools. The article documents a litany of violent encounters, from a Black man mistaken for a fugitive to be left bleeding, to the fatal shooting of a Venezuelan delivery driver, and the broader pattern of unprosecuted deaths. Blitzer highlights how the Department of Homeland Security shields its officers, files false assault charges against victims, and blocks independent investigations, while states struggle to hold agents accountable. The piece also uncovers disturbing new equipment purchases, such as electric‑shock gloves, and the deliberate concealment of detainees’ whereabouts. By juxtaposing raw statistics with personal stories, the reporting underscores a systemic erosion of due process and raises urgent questions about the balance between security and civil liberties in contemporary America.",
-    "summary_zh": "ICE 的执法已成常态，暴力事件频发却无人承担责任。政府掩盖滥权，法律形同虚设，民主制度受威胁。反思权力制衡，呼唤透明问责。",
-    "best_quote_en": "It has taken the Trump Administration less than two years to make violent encounters with federal immigration agents a regular fact of American life.",
-    "best_quote_zh": "特朗普政府不到两年的时间里，就让与联邦移民官员的暴力冲突成为美国生活的常态。"
-  },
-  {
-    "id": 261,
-    "title": "Science of Attraction, Compatibility & Romance | Dr. Paul Eastwick",
-    "title_zh": "吸引力、兼容性与浪漫的科学 | 保罗·伊斯特威克博士",
-    "source": "Huberman Lab",
-    "link": "https://www.hubermanlab.com/episode/science-of-attraction-compatibility-and-romance-dr-paul-eastwick",
-    "tags": [
-      "analyze",
-      "science",
-      "ai-research",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "科学研究",
-      "AI研究",
-      "数据驱动"
-    ],
-    "date": "2026-06-22",
-    "summary_en": "Dr. Paul Eastwick, a psychology professor at UC Davis, brings the latest research on how humans choose partners into sharp focus. The conversation reveals surprising patterns: age preferences, financial priorities, and physical attractiveness often diverge from what truly sustains long‑term bonds. Eastwick critiques modern dating apps, arguing they amplify superficial traits that may undermine relationship durability. He outlines how initial attraction evolves, identifies the key predictors of stability and satisfaction, and offers concrete activities to broaden one’s dating pool. Practical tools for building healthy connections are woven throughout, making the episode both scientifically rigorous and immediately applicable. Whether you’re navigating a current partnership or preparing for one, the episode balances empirical insight with actionable guidance, encouraging listeners to reflect on their own selection criteria and to reconsider the cultural scripts that shape romantic choices. The blend of evolutionary theory, empirical data, and real‑world advice positions the discussion as essential reading for anyone curious about the science behind love.",
-    "summary_zh": "伊斯特威克博士揭示了人类伴侣选择的惊人秘密——年龄偏好、财务观念与外表吸引力如何与关系持久力相悖。约会应用强化了不利于长期的特质偏好，而科学提供了预测稳定与满意度的工具，以及拓展社交圈的实用方法。这场对话既是知识盛宴，也是情感实践指南。",
-    "best_quote_en": "Dating apps often lead people to select for traits that don't support lasting partnerships.",
-    "best_quote_zh": "约会应用程序常常导致人们选择那些无法支持长期关系的特质。"
-  },
-  {
-    "id": 262,
-    "title": "The Tim Ferriss Show Transcripts: How to Simplify Your Life — Tips from Oliver Burkeman, Chip Conley, Elizabeth Gilbert, and More (#885)",
-    "title_zh": "《蒂姆·菲瑞斯秀》 transcript：如何简化生活——来自奥利弗·伯克曼、奇普·科尼利、伊丽莎白·吉尔伯特等专家的建议 (#885)",
-    "source": "Tim Ferriss",
-    "link": "https://tim.blog/2026/10/03/how-to-simplify-your-life-4-transcript/",
-    "tags": [
-      "solve",
-      "lifestyle",
-      "case-study"
-    ],
-    "tags_zh": [
-      "解决",
-      "生活方式",
-      "案例研究"
-    ],
-    "date": "2026-10-03",
-    "summary_en": "This transcript from The Tim Ferriss Show explores practical pathways to simplify modern life, featuring insights from Chip Conley, Oliver Burkeman, Elizabeth Gilbert, and others. Conley recounts his near‑death experience that forced a \"mindful decoupling\" from a high‑stakes hotel empire, illustrating how relinquishing identity and embracing a \"chrysalis\" period of curiosity can spark new opportunities—exemplified by his later role at Airbnb. The episode blends personal storytelling with actionable strategies, emphasizing that simplicity isn’t about rigid minimalism but about reducing anxiety over external order and learning to trust reality. Burkeman’s contribution likely deepens this theme with his psychological perspective, while Gilbert adds her own narrative on creative flow. Together, they challenge the conventional hustle mindset, proposing that intentional space‑making, emotional fluency, and curiosity are essential tools for personal renewal and sustained productivity in a hyper‑connected world.",
-    "summary_zh": "这期《蒂姆·菲瑞斯秀》transcript 分享了简化生活的智慧，从健康危机中觉醒的奇普·科尼利讲述了从企业领导者到 Airbnb 执委的转变，倡导“有意识的解耦”，通过好奇心与空间创造新的可能，启发听众重新定义身份与简约生活。",
-    "best_quote_en": "Mindful decoupling means I said, \"I don't know what I'm supposed to do next, but I know I'm not supposed to do this anymore... I need to move toward this fertile ground, this chrysalis space.\"",
-    "best_quote_zh": "有意识的解耦意味着我会说：‘我不知道接下来该做什么，但我知道我不该继续这样做了……我需要走向那片肥沃的土壤，那个蛹的空间。’"
-  },
-  {
     "id": 263,
     "title": "A new start after 60: Menopausal and out of work, I sat crying in my car. Now, I’m a standup comedian",
     "title_zh": "60岁后新的开始：绝经后失业，我在车里哭泣。现在，我是一名单口相声演员",
@@ -2326,5 +2258,75 @@
     "summary_zh": "苏珊娜·瑟伯格博士揭示了简短、冷曝光对代谢健康的关键作用，包括改善胰岛素敏感性、激活棕色脂肪及增强生理弹性。她分享了冷热交替的实操方案，如温度控制、时间安排及“瑟伯格原则”，为听众提供了科学且易于遵循的健康指南。",
     "best_quote_en": "Brief, deliberate cold exposure improves insulin sensitivity, promotes metabolic health and physiological resilience.",
     "best_quote_zh": "简短、有意的冷暴露可以改善胰岛素敏感性，促进代谢健康和生理弹性。"
+  },
+  {
+    "id": 360,
+    "title": "Defining Property",
+    "title_zh": "财产的定义",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/property.html",
+    "tags": [
+      "solve",
+      "startup-strategy",
+      "business-model",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "解决",
+      "创业策略",
+      "商业模式",
+      "数据驱动"
+    ],
+    "date": "2026-11-07",
+    "summary_en": "The essay argues that property is not an immutable concept but evolves with technology and social practice. Using the whimsical analogy of a food shop owner charging for the smell of cooking, the author critiques the entertainment industry’s framing of digital content as stolen \"smells\" and highlights how legal definitions can become tools of short‑term greed. The piece shows that when a definition no longer \"works\" for society, it signals a need for reform, and that democratic pluralism and multiple sovereign jurisdictions protect against monopolistic capture of property law. By tracing historical shifts—from hunter‑gatherer attitudes to modern intellectual property—the author underscores that each new definition has increased material wealth, suggesting the current digital paradigm can do the same if it adapts responsibly. The essay concludes that preserving the usefulness of property requires common sense, a willingness to update outdated frameworks, and vigilance against those who would weaponize law for personal gain.",
+    "summary_zh": "财产定义随技术变迁，‘闻香’比肩数字内容。作者以月球基地为喻，揭示娱乐业将数据视为‘气味’的荒谬，呼吁依据实用性而非权力定义权利。民主与多国制衡是关键，财产制度需与时俱进，否则社会将倒退。",
+    "best_quote_en": "What counts as property depends on what works to treat as property.",
+    "best_quote_zh": "什么算作财产，取决于什么可以被视作财产。"
+  },
+  {
+    "id": 361,
+    "title": "Eating for Better Sleep & Foods that Improve Metabolic Health | Dr. Marie-Pierre St-Onge",
+    "title_zh": "通过饮食改善睡眠和促进新陈代谢的食物 | 玛丽-皮埃尔·圣昂博士",
+    "source": "Huberman Lab",
+    "link": "https://www.hubermanlab.com/episode/eating-for-better-sleep-and-foods-that-improve-metabolic-health-marie-pierre-st-onge",
+    "tags": [
+      "learn",
+      "medicine",
+      "education"
+    ],
+    "tags_zh": [
+      "学习",
+      "医学健康",
+      "教育学习"
+    ],
+    "date": "2026-06-08",
+    "summary_en": "Dr. Marie-Pierre St-Onge provides cutting-edge insights into the bidirectional relationship between nutrition and sleep, revealing how even moderate sleep loss increases appetite through hormonal changes, leading to weight gain regardless of calorie intake. She explains how meal timing and specific foods like fiber, ginger, saturated fats, and various oils impact sleep onset, quality, and metabolism. The discussion offers actionable dietary strategies including Mediterranean and DASH diets, early meal consumption, and medium-chain triglycerides (MCTs) for optimal cardiometabolic health. This evidence-based content serves as both educational resource and practical guide for individuals seeking to improve sleep quality and metabolic health through informed food choices, making it valuable for health-conscious audiences and those struggling with sleep-related weight issues.",
+    "summary_zh": "玛丽-皮埃尔·圣昂博士揭示了营养与睡眠之间的双向关系：即使轻度睡眠不足也会通过激素变化增加食欲，导致体重增加，而不必增加卡路里摄入。她详细解释了如何通过调整饮食时间并选择特定食物（如纤维、姜、饱和脂肪和各种油）来改善睡眠质量和代谢健康。这一内容既是科学研究成果，也提供了实用的饮食指南，非常适合希望通过饮食改善睡眠和代谢健康的健康爱好者。",
+    "best_quote_en": "Even moderate sleep loss increases appetite, changes hunger-related hormones, and causes weight gain, even when calories are not increased.",
+    "best_quote_zh": "即使轻度睡眠不足也会通过激素变化增加食欲，导致体重增加，而不必增加卡路里摄入。"
+  },
+  {
+    "id": 362,
+    "title": "Beyond code generation: A developer’s guide to agentic engineering",
+    "title_zh": "超越代码生成：开发者指南中的智能工程",
+    "source": "GitHub Blog",
+    "link": "https://github.blog/ai-and-ml/github-copilot/beyond-code-generation-a-developers-guide-to-agentic-engineering/",
+    "tags": [
+      "analyze",
+      "programming",
+      "ai-research",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "编程开发",
+      "AI研究",
+      "数据驱动"
+    ],
+    "date": "2026-11-06",
+    "summary_en": "This article explores the evolution of software development beyond code generation, introducing 'agentic engineering' as a framework for leveraging AI agents across the entire development lifecycle. The author reveals how AI acceleration has created new bottlenecks - while GitHub commits increased 400%, review times extended 441%, highlighting the need for strategic focus on planning, coordination, and oversight. The piece provides practical guidance for using GitHub Copilot in planning (connecting scattered context), building (session continuity and cloud sandboxes), verifying (stacked PRs and automated review), and observing (connecting operational data with engineering context). Key insight: developers must shift from pure coding to higher-level engineering work, using AI as collaborative partners rather than code generators. The article offers actionable strategies for integrating AI agents into existing workflows, emphasizing the importance of maintaining human oversight while increasing productivity. This represents a significant paradigm shift in software development, where developers become orchestrators of intelligent systems rather than just writers of code.",
+    "summary_zh": "本文探讨了软件开发从代码生成向智能工程的演进，提出了一种利用AI代理完成开发全流程的新框架。作者揭示了一个 paradox：AI加速了代码生成（GitHub单周提交量增长400%），但同时也放大了其他方面的瓶颈（代码审查时间延长441%）。文章详细介绍了GitHub Copilot在规划、构建、验证和观察等阶段的应用策略。核心观点是：开发者需要从纯粹的编码工作转向更高层次的工程管理，成为AI代理的协调者而非执行者。这种转变不仅提高了生产力，也重新定义了软件开发者的角色和技能要求。",
+    "best_quote_en": "What took days of searching and context gathering now produces a reviewable plan, explicit acceptance criteria, pocos issues, with your time spent on the decisions instead of the retrieval.",
+    "best_quote_zh": "从前所未有的搜索和上下文收集，到现在生成了一个可审查的计划，明确的验收标准，以及可以独立处理的多个任务。这让你可以专注于做出决策，而不是花费时间在检索信息上。"
   }
 ]
