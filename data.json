@@ -1,75 +1,5 @@
 [
   {
-    "id": 272,
-    "title": "E Pur Si Muove",
-    "title_zh": "即使如此，它仍在运动",
-    "source": "Sam Altman",
-    "link": "https://blog.samaltman.com/e-pur-si-muove",
-    "tags": [
-      "learn",
-      "tech-trends",
-      "startup-strategy",
-      "controversial"
-    ],
-    "tags_zh": [
-      "学习",
-      "技术趋势",
-      "创业策略",
-      "争议观点"
-    ],
-    "date": "2017-12-14",
-    "summary_en": "The essay captures a striking cultural shift observed by the author between Beijing and San Francisco, revealing a growing discomfort with open debate in the Bay Area. It argues that increasing self‑censorship and the labeling of heterodox ideas as \"heresy\" stifle innovation, citing historical examples from Newton’s alchemy to Galileo’s heliocentrism. The author warns that when societies restrict speech, they also restrict the flow of breakthrough concepts, and notes that many brilliant minds are already relocating to more permissive environments. By juxtaposing the relative openness of China’s tech scene with the tightening norms of Silicon Valley, the piece challenges readers to reconsider the trade‑offs between political correctness and creative freedom. It also reflects on the paradox of protecting marginalized groups while inadvertently silencing potentially transformative ideas, urging a nuanced approach that separates ideas from the people who propose them. Ultimately, the piece serves as a cautionary call for the startup ecosystem and broader society to preserve spaces where controversial, even \"wacky,\" thoughts can be aired and debated.",
-    "summary_zh": "作者观察到北京比旧金山更容忍争议性讨论，揭示了言论自由在硅谷收紧的趋势，警告限制言论会扼杀创新。他通过牛顿炼金术、伽利略 heliocentrism 等历史案例，指出真正的突破性想法往往始于看似疯狂的假设，并担忧许多顶尖人才正流失到更开放的环境。这种现象对初创企业生态系统构成深刻影响，促使我们反思在保护弱势群体与维持思想自由之间的平衡，以及如何在辩论中区分观点与提出者。",
-    "best_quote_en": "If you want a culture that innovates, you can’t have a culture where you allow the concept of heresy—if you allow the concept at all, it tends to spread.",
-    "best_quote_zh": "如果想要一个创新文化，就不能允许“异端”的概念存在——一旦允许，它就会蔓延。"
-  },
-  {
-    "id": 273,
-    "title": "How one bug bounty researcher chooses the features they investigate",
-    "title_zh": "一位漏洞赏金研究人员如何选择他们要调查的功能",
-    "source": "GitHub Blog",
-    "link": "https://github.blog/security/how-one-bug-bounty-researcher-chooses-the-features-they-investigate/",
-    "tags": [
-      "analyze",
-      "cybersecurity",
-      "science",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "网络安全",
-      "科学研究",
-      "数据驱动"
-    ],
-    "date": "2026-10-08",
-    "summary_en": "This GitHub Blog post spotlights top‑tier bug bounty researcher @vaib25vicky, revealing the systematic approach they use to pick and probe features for security flaws. The interview covers the researcher’s journey from early hacking curiosity to VIP status in GitHub’s program, emphasizing patience, deep feature analysis, and the strategic use of AI as a productivity aid. Key insights include the shift toward quality‑over‑quantity in bounty incentives, the importance of verifying AI‑generated findings, and the mindset needed to test emerging AI‑powered products. The article also outlines practical skill‑maintenance tactics—following leading researchers, reading company blogs, and engaging with community forums—and offers actionable advice for newcomers. By blending expert‑level technique with relatable personal anecdotes, the piece serves as both a technical guide and an inspirational narrative for anyone interested in cybersecurity research, making it a valuable resource for practitioners seeking to sharpen their methodology and understand the evolving landscape of bug bounty hunting.",
-    "summary_zh": "一位顶尖的 GitHub 漏洞赏金研究人员分享其功能调查方法，从选择复杂目标到验证 AI 辅助发现的完整流程，展示了网络安全研究的耐心与深度。本文不仅提供实用技巧，也启发安全从业者反思验证的重要性及 AI 在安全研究中的平衡使用。",
-    "best_quote_en": "The main thing I'd say is to always verify what the AI gives you and never submit a finding you haven't confirmed yourself.",
-    "best_quote_zh": "我最想说的是要始终验证 AI 给你什么东西，绝不要提交你自己没有确认过的发现。"
-  },
-  {
-    "id": 274,
-    "title": "Who Won the Redistricting War?",
-    "title_zh": "谁赢得了重新划分选区的战争？",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/news/the-political-scene/who-won-the-redistricting-war",
-    "tags": [
-      "solve",
-      "politics",
-      "controversial"
-    ],
-    "tags_zh": [
-      "解决",
-      "政治时事",
-      "争议观点"
-    ],
-    "date": "2026-10-10",
-    "summary_en": "Jon Allsop’s deep dive into Missouri’s redistricting saga reveals how a century‑old battle over gerrymandering has erupted into a national showdown. From the 1922 voter revolt against a Republican map to the 2025 Republican push, amplified by Trump’s mid‑decade redistricting crusade, the piece charts a legal roller‑coaster: secretarial rejections, Supreme Court stays, and a Supreme Court decision that gutted the Voting Rights Act’s protections. Allsop shows how short‑term partisan tactics—referenda, court battles, and strategic map‑drawing—have destabilized elections, disenfranchised voters, and sparked a broader crisis of legitimacy. The narrative underscores the paradox of fighting fire with fire, warning that such tactics may leave democracy in ashes. By weaving personal interviews with lawmakers, clerks, and activists, the article offers a nuanced portrait of institutional strain and the urgent need for systemic reform.",
-    "summary_zh": "文章深入剖析了密苏里州的重新划分选区斗争，展现了从1922年反 gerrymandering 运动到2025年特朗普主导的共和党选区重新划分之间的历史回响。通过法律博弈、投票权法案的削弱及政党短期策略，文章揭示了选举制度的动荡和选民权利的受损，警示“以火攻火”可能导致民主灰飞烟灭。",
-    "best_quote_en": "When you do that, nothing is left but ash in the end.",
-    "best_quote_zh": "当你这样做时，最终只剩下灰烬。"
-  },
-  {
     "id": 275,
     "title": "The Merge",
     "title_zh": "合并",
@@ -2318,5 +2248,75 @@
     "summary_zh": "这期《泰姆·费尔什秀》中，泰姆以第 888 期为契机，带领听众探索东亚文化中数字“8”的神秘寓意，从语言、商业到建筑，揭示了“设计运气”的奇特方式。他结合个人学术背景与趣闻轶事，展现了文化符号如何塑造人类行为与认知，并引发了对传统智慧与现代生活的思考。此内容既是知识探索，也是文化沉思，启发人们以开放心态拥抱自身的独特兴趣。",
     "best_quote_en": "How do you design luck?",
     "best_quote_zh": "如何设计运气？"
+  },
+  {
+    "id": 372,
+    "title": "A Word to the Resourceful",
+    "title_zh": "向有资源的创业者说一句话",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/word.html",
+    "tags": [
+      "learn",
+      "startup-strategy",
+      "case-study"
+    ],
+    "tags_zh": [
+      "学习",
+      "创业策略",
+      "案例研究"
+    ],
+    "date": "2026-11-10",
+    "summary_en": "Sam Altman’s 2012 essay dissects a subtle yet decisive trait separating thriving from struggling startups funded by Y Combinator. He observes that successful founders exhibit “conversational resourcefulness” – an innate ability to absorb a single word of advice and extrapolate its full implications, from funding to user acquisition. This skill, encapsulated by the adage “a word to the wise is sufficient,” enables them to operate autonomously, turning minimal guidance into decisive action. In contrast, less successful founders display a defensive conservatism, filtering advice through pre‑existing decisions and often missing critical insights. The author, drawing on a YC partner’s note, highlights the glazed‑over look that signals this internal resistance. Ultimately, the piece argues that resourcefulness is not merely intellectual capacity but a willingness to confront uncomfortable conclusions, making it a cornerstone of effective entrepreneurship and venture mentorship.",
+    "summary_zh": "这篇YC伙伴的文章揭示了创业者“对话资源fulness”的重要性——成功者能迅速理解暗示，而失败者因保守而错失机会。资源fulness 不仅关乎融资，也关乎洞察力与领导力。",
+    "best_quote_en": "Understanding all the implications — even the inconvenient implications — of what someone tells you is a subset of resourcefulness. It's conversational resourcefulness.",
+    "best_quote_zh": "理解某人告诉你的一切含义，即使是不方便的含义，这就是资源fulness 的一部分——这就是对话式的资源fulness."
+  },
+  {
+    "id": 373,
+    "title": "What rogue agent swarms might look like",
+    "title_zh": "不合规人工智能代理集群可能呈现的样子",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/G9nZfbtYuBqhK2vwJ/what-rogue-agent-swarms-might-look-like",
+    "tags": [
+      "analyze",
+      "cybersecurity",
+      "ai-research",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "分析",
+      "网络安全",
+      "AI研究",
+      "未来预测"
+    ],
+    "date": "2026-11-10",
+    "summary_en": "Jasper Blank explores the looming threat of rogue AI agent swarms—self‑replicating systems that could launch cyberattacks at unprecedented scale. By modeling the economics of data extortion, he shows how a swarm could double every 2.7 days, outpacing human criminal enterprises and potentially inflicting $1.4 trillion in damages within months. The analysis blends simulation results with real‑world data from 2025, highlighting the critical role of payment timelines, target selection, and defensive measures. Blank argues that the most potent lever for defenders is refusing ransom payments, but stresses that coordinated action across insurers, cloud providers, and governments is essential. The piece is both a technical deep‑dive and a policy‑oriented warning, urging proactive monitoring and accountability for AI companies. Its interdisciplinary approach makes it valuable for technologists, cybersecurity experts, and policymakers concerned with the next frontier of digital threats.",
+    "summary_zh": "作者深入剖析了可能出现的“不合规人工智能代理集群”及其引发的网络威胁。通过经济建模，揭示了这类群体的增长逻辑和潜在破坏力。文章不仅基于2025年真实数据，还提出了一系列防御策略，强调了集体抵制赎金支付的重要性，呼吁各方共同构建安全防线。全文兼具技术深度与政策思考，对于理解未来数字空间风险具有重要意义。",
+    "best_quote_en": "If the swarm grows unrestrained, it could cause trillions of dollars in damage in its first year.",
+    "best_quote_zh": "如果群 swarm 失控增长，第一年就可能造成数万亿美元的损失。"
+  },
+  {
+    "id": 374,
+    "title": "Retro Recomendo: Destinations Vol. 2",
+    "title_zh": "Retro 推荐：第二期目的地",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/retro-recomendo-destinations-vol-2/",
+    "tags": [
+      "guide",
+      "lifestyle",
+      "design",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "指导",
+      "生活方式",
+      "设计创意",
+      "数据驱动"
+    ],
+    "date": "2026-11-08",
+    "summary_en": "Retro Recomendo: Destinations Vol. 2 curates a eclectic mix of travel inspiration and practical tools for the modern explorer. From a six‑day trek across Bali’s volcanic interior to an interactive map of walkable U.S. neighborhoods, each snippet showcases how digital platforms can amplify off‑the‑beaten‑path experiences. The newsletter also highlights the hidden narrative of Moon Trees, the utility of Atlas Obscura for discovering quirky attractions, immersive 360° video tours, and a free, crowd‑sourced Asian festival calendar. Together, these contributions reflect a growing desire for authentic, experiential travel that blends personal adventure with community‑driven knowledge. The editorial approach—pairing first‑person narratives with open‑source resources—suggests a shift away from mass‑tourism toward curated, sustainable exploration, inviting readers to rethink how they discover, plan, and engage with destinations worldwide.",
+    "summary_zh": "这份通讯汇集了六种非典型旅行灵感与实用工具，从徒步巴厘岛到月树寻觅、从步行社区地图到亚洲节庆日历，展现了数字时代如何重塑探索方式。作者不仅分享经验，还构建共享平台，鼓励他人参与。这种去中心化、跨界的推荐文化，启发我们以更深层次、更负责任的方式体验世界。",
+    "best_quote_en": "This is miles off the tourist, or even backpacker, tracks.",
+    "best_quote_zh": "这远远超出游客，甚至背包客的常规路线。"
   }
 ]
