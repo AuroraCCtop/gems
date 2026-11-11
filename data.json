@@ -1,53 +1,5 @@
 [
   {
-    "id": 275,
-    "title": "The Merge",
-    "title_zh": "合并",
-    "source": "Sam Altman",
-    "link": "https://blog.samaltman.com/the-merge",
-    "tags": [
-      "analyze",
-      "ai-research",
-      "science",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "分析",
-      "AI研究",
-      "科学研究",
-      "未来预测"
-    ],
-    "date": "2017-12-07",
-    "summary_en": "Nick Bostrom’s article “The Merge” offers a provocative look at the accelerating convergence between humans and artificial intelligence. He argues that the much‑discussed singularity is now better understood as a gradual, ongoing process—already evident in how algorithms shape our attention, emotions, and beliefs. By examining the feedback loop of AI influencing human behavior and humans enhancing AI capabilities, Bostrom highlights the inevitability of superhuman AI, genetic enhancement, and brain‑machine interfaces. He warns that our current “attention‑hacking” mechanisms resemble a sugar epidemic, eroding focus and amplifying outrage. The piece stresses that the merge will likely occur sooner than expected, driven by exponential hardware gains and a growing talent pool. Bostrom calls for global coordination to steer this transformation responsibly, suggesting that cooperation may be humanity’s best bet to avoid conflict with more intelligent successors. The article blends technical insight with philosophical reflection, urging readers to confront the ethical and existential stakes of co‑evolution.",
-    "summary_zh": "博斯特罗姆的《合并》指出，人类与 AI 的融合已渐成趋势。算法塑造我们的注意力、情绪与思想，超人工智能、基因增强与脑机接口迫在眉睫。他呼吁全球协作，共同引导这一共进过程。",
-    "best_quote_en": "I believe the merge has already started, and we are a few years in.",
-    "best_quote_zh": "我相信合并已经开始了，我们已经进入了最初的几年。"
-  },
-  {
-    "id": 276,
-    "title": "The Random Show — AI Super Assistants, Boner Pills, Dream Engineering, Wizards, Supplements, Books, and More (#886)",
-    "title_zh": "随机秀——AI超级助理、伟哥、梦工程、巫师、补充剂、书籍等更多内容 (#886)",
-    "source": "Tim Ferriss",
-    "link": "https://tim.blog/2026/10/09/the-random-show-ai-super-assistants-boner-pills-dream-engineering-wizards-supplements-books-and-more/",
-    "tags": [
-      "update",
-      "lifestyle",
-      "medicine",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "动态",
-      "生活方式",
-      "医学健康",
-      "未来预测"
-    ],
-    "date": "2026-10-09",
-    "summary_en": "This episode of The Random Show is a masterclass in interdisciplinary curiosity, weaving together cutting‑edge AI tools, performance‑enhancing supplements, and quirky personal experiments. Tim Ferriss and Kevin Rose explore AI super assistants that could manage daily tasks via text, discuss beta‑alanine’s impact on climbing endurance, and examine surprising links between walnuts and sperm quality. The dialogue also ventures into dream engineering, anesthesia research, and unconventional topics like boner pills and male makeup, culminating in discussions about upcoming books and a Jean‑Claude Van Damme splits bet. The sponsors—Timeline’s mitopure, Shopify’s commerce platform, Fin’s AI customer‑service agent, and Gusto’s HR solutions—underscore the hosts’ interest in optimizing health, business, and technology. This eclectic mix exemplifies how modern knowledge‑hacking can blend science, self‑experimentation, and entrepreneurial insight, offering listeners actionable takeaways while celebrating the joy of unstructured exploration.",
-    "summary_zh": "本期《随机秀》是一场跨领域好奇心的盛宴，探讨了AI超级助理、运动补充剂、奇幻工程、个人实验等多样话题。从文本管理的AI助手到β‑alanine对攀岩的表现，从核桃与生殖健康到梦境工程与麻醉研究，再到伟哥、男士化妆、即将出版的书以及传奇动作明星的 splits 训练，内容涵盖科技、健康、个人成长与流行文化。赞助商们也体现了对健康优化、电子商务、AI客服与人力资源的关注。这集节目展示了现代知识探索如何将科学、自我实验与创业精神融合，启发听众在杂乱中寻找结构性洞见。",
-    "best_quote_en": "AI super assistants that run your life over text message represent a new frontier of delegation and cognitive offloading.",
-    "best_quote_zh": "通过文本消息管理生活的AI超级助理，代表着一个新的任务委派和认知卸载的前沿。"
-  },
-  {
     "id": 277,
     "title": "‘There is no secret agenda’: Nara Smith on home-making absolutely everything, raising four kids at 25 – and why she’s definitely not a tradwife",
     "title_zh": "“没有秘密议程”：Nara Smith 谈无所不做的家居生活、25 岁育有四子——她为何坚决不是传统家庭主妇",
@@ -2318,5 +2270,53 @@
     "summary_zh": "这份通讯汇集了六种非典型旅行灵感与实用工具，从徒步巴厘岛到月树寻觅、从步行社区地图到亚洲节庆日历，展现了数字时代如何重塑探索方式。作者不仅分享经验，还构建共享平台，鼓励他人参与。这种去中心化、跨界的推荐文化，启发我们以更深层次、更负责任的方式体验世界。",
     "best_quote_en": "This is miles off the tourist, or even backpacker, tracks.",
     "best_quote_zh": "这远远超出游客，甚至背包客的常规路线。"
+  },
+  {
+    "id": 375,
+    "title": "Quantified Cognition: A new Anki plugin",
+    "title_zh": "量化认知：一个新的 Anki 插件",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/7TE8obwPDj4fjz3cQ/quantified-cognition-a-new-anki-plugin",
+    "tags": [
+      "analyze",
+      "ai-research",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "AI研究",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2026-11-11",
+    "summary_en": "The article introduces a novel Anki plugin called Quantified Cognition that turns everyday flash‑card usage into measurable cognitive data. By comparing Anki’s predicted success probabilities with actual recall outcomes, the plugin isolates daily cognitive performance and calculates a new metric for long‑term memory formation. It also integrates Oura sleep data to explore how sleep duration and phases affect memory, offering CSV export and automated daily uploads for seamless integration into personal data pipelines. The author highlights how this tool lowers the barrier for large‑scale, longitudinal studies on cognition, echoing the scientific principle that better measurement drives progress. While the concept promises valuable insights for self‑trackers and researchers, its impact hinges on user adoption, data privacy, and the robustness of the underlying statistical models. The plugin exemplifies the growing intersection of educational technology, quantified self‑movement, and behavioral science, potentially reshaping how we monitor and improve mental performance over time.",
+    "summary_zh": "这是一个将 Anki 复习数据转化为认知表现指标的插件，通过比对预测概率与实际结果，提供每日认知能力评分，并支持与 Oura 睡眠数据关联，探索睡眠时长和阶段对长期记忆形成的影响，为量化自我和睡眠研究提供了新的数据化工具。",
+    "best_quote_en": "My idea for fixing it is to compare Anki's predicted probability of answering a card correctly to the actual results to isolate the daily cognitive ability.",
+    "best_quote_zh": "我的想法是通过将 Anki 对卡片正确回答的预测概率与实际结果进行比较，来隔离每日的认知能力。"
+  },
+  {
+    "id": 376,
+    "title": "Essentials: Psychedelics & Neurostimulation for Brain Rewiring | Dr. Nolan Williams",
+    "title_zh": "精髓：利用精神药物和神经刺激进行大脑重塑 | 诺兰·威廉士博士",
+    "source": "Huberman Lab",
+    "link": "https://www.hubermanlab.com/episode/essentials-psychedelics-neurostimulation-for-brain-rewiring-nolan-williams",
+    "tags": [
+      "update",
+      "psychology",
+      "medicine",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "动态",
+      "心理学",
+      "医学健康",
+      "数据驱动"
+    ],
+    "date": "2026-06-04",
+    "summary_en": "This Huberman Lab Essentials episode explores revolutionary treatments for depression and PTSD through cutting-edge approaches combining psychedelic compounds and neurostimulation techniques. Featuring Dr. Nolan Williams, a triple board-certified psychiatrist and neurologist, the discussion covers transcranial magnetic stimulation (TMS), neuromodulation, and psychedelic-assisted therapies including psilocybin, MDMA, ibogaine, and ayahuasca. The episode examines clinical trial data, neurobiological mechanisms, and therapeutic potential, offering both scientific rigor and practical insights for mental health professionals and patients. As we mourn Dr. Williams' passing, his expertise illuminates how these innovative treatments could transform mental healthcare, representing a paradigm shift from traditional pharmaceutical approaches to more holistic brain rewiring strategies that address root causes rather than symptoms.",
+    "summary_zh": "本期播客探讨了抑郁症和创伤后应激障碍的突破性治疗方法，结合了精神药物和神经刺激技术。诺兰·威廉士博士的专家见解揭示了这些疗法如何通过重塑大脑连接模式改变传统精神医疗的未来。",
+    "best_quote_en": "We're moving from treating symptoms to actually rewiring the brain and addressing the root causes of mental health conditions.",
+    "best_quote_zh": "我们正从治疗症状转向真正重塑大脑，解决精神健康问题的根本原因。"
   }
 ]
