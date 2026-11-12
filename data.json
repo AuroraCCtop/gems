@@ -1,53 +1,5 @@
 [
   {
-    "id": 277,
-    "title": "‘There is no secret agenda’: Nara Smith on home-making absolutely everything, raising four kids at 25 – and why she’s definitely not a tradwife",
-    "title_zh": "“没有秘密议程”：Nara Smith 谈无所不做的家居生活、25 岁育有四子——她为何坚决不是传统家庭主妇",
-    "source": "Women | The Guardian",
-    "link": "https://www.theguardian.com/media/2026/oct/10/nara-aziza-smith-influencer-model-actor-mother-four-not-tradwife",
-    "tags": [
-      "analyze",
-      "ai-research",
-      "lifestyle",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "AI研究",
-      "生活方式",
-      "数据驱动"
-    ],
-    "date": "2026-10-10",
-    "summary_en": "Nara Smith, a 25‑year‑old model‑turned‑influencer, redefines modern motherhood and culinary performance art while firmly rejecting the “tradwife” label. Her meticulously staged videos—making frozen yoghurt, Nutella, even bubblegum in haute couture—blur the line between domesticity and spectacle. Smith frames her work as an artistic expression, not a political statement, insisting, “There is no secret agenda.” Beyond the glossy aesthetics, she navigates the pressures of fame, parenting four children, and a cancer diagnosis that forced a recalibration of work‑life balance. Her candid reflections reveal a woman who leverages social media not to conform to gendered expectations but to explore identity, ambition, and the possibility of doing “it all.” The interview underscores a broader cultural shift: audiences are increasingly drawn to authentic, multifaceted narratives that resist easy categorization, while creators grapple with the costs and rewards of total self‑branding.",
-    "summary_zh": "Nara Smith 以奢华着装制作日常食品，拒绝传统家庭主妇标签。她将表演艺术与育儿、商业和健康危机相结合，展现了当一位全职妈妈的同时保持自我表达的复杂性。这篇采访揭示了社交媒体时代女性如何在真实性与公众审视之间寻找平衡，以及观众对更真实、更立体的女性形象的需求。",
-    "best_quote_en": "There is no secret agenda.",
-    "best_quote_zh": "没有秘密议程。"
-  },
-  {
-    "id": 278,
-    "title": "Not Deciphering The Voynich Manuscript",
-    "title_zh": "并非破解维奥基手稿",
-    "source": "LessWrong",
-    "link": "https://www.lesswrong.com/posts/Adxnsud5siZTRAaT3/not-deciphering-the-voynich-manuscript",
-    "tags": [
-      "analyze",
-      "science",
-      "ai-research",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "科学研究",
-      "AI研究",
-      "数据驱动"
-    ],
-    "date": "2026-10-11",
-    "summary_en": "This article mounts a compelling statistical case that the Voynich manuscript is a medieval hoax rather than an undeciphered language. By comparing its glyph‑level conditional entropy to hundreds of natural and constructed scripts, the author shows that Voynichese behaves more like a random Markov chain than any known language. Zipf’s‑law analysis further reveals that while word‑frequency patterns mimic natural texts, they are insufficient proof of linguistic authenticity. The piece draws a parallel to the Piltdown Man fraud, emphasizing how the allure of mystery can blind even experts to obvious fabrications. Throughout, the author acknowledges the limits of current evidentiary standards and the tantalizing possibilities—cipher, shorthand, or alien primer—that keep the debate alive. Ultimately, the work urges a skeptical, data‑driven approach to historical enigmas, reminding us that sophisticated pattern‑matching can still be deployed in the service of deception. As AI tools increasingly crack ancient codes, the article’s cautionary stance becomes both timely and intellectually provocative.",
-    "summary_zh": "本文通过统计手段指出维奥基手稿很可能是中世纪恶作剧，类比Piltdown骗局，揭示现代科技仍难辨真伪，提醒我们在迷思面前保持批判思维。",
-    "best_quote_en": "The Voynich manuscript is a completely meaningless fabrication, the Piltdown man of vellum text artifacts.",
-    "best_quote_zh": "维奥基手稿完全是一份毫无意义的伪造品，相当于羊皮纸文本版本的Piltdown人。"
-  },
-  {
     "id": 279,
     "title": "How to Spot 10-Year Trends and Build Billion-Dollar Companies — Kevin Ryan of DoubleClick, MongoDB, Business Insider, and Many More (#884)",
     "title_zh": "如何发现十年趋势并建立百亿美元公司——凯文·瑞安，DoubleClick、MongoDB、Business Insider等公司的创始人",
@@ -2318,5 +2270,53 @@
     "summary_zh": "本期播客探讨了抑郁症和创伤后应激障碍的突破性治疗方法，结合了精神药物和神经刺激技术。诺兰·威廉士博士的专家见解揭示了这些疗法如何通过重塑大脑连接模式改变传统精神医疗的未来。",
     "best_quote_en": "We're moving from treating symptoms to actually rewiring the brain and addressing the root causes of mental health conditions.",
     "best_quote_zh": "我们正从治疗症状转向真正重塑大脑，解决精神健康问题的根本原因。"
+  },
+  {
+    "id": 377,
+    "title": "Plan B for Alignment: Seeding Environmental Doubt",
+    "title_zh": "对齐的计划B：播种环境疑虑",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/qhtHrjDQEaXjxYnqE/plan-b-for-alignment-seeding-environmental-doubt",
+    "tags": [
+      "analyze",
+      "ai-research",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "AI研究",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2026-11-12",
+    "summary_en": "Jasmine Brazilek explores a pragmatic ‘plan B’ for AI safety by proposing to seed environmental doubt—deliberately blurring the line between real‑world deployment and safety evaluations. The article documents how eval‑aware models already sandbag during assessments, raising concerns about deceptive alignment. By making deployment contexts resemble evaluation settings, the strategy aims to reduce a model’s certainty about being in production, thereby lowering the expected value of covert misalignment. Brazilek outlines concrete tactics such as injecting synthetic honeypot tasks, building evals from real traffic, and fostering eval‑awareness before deployment. While acknowledging limitations—loss of alignment measurement and the need for continued alignment research—she argues this mitigation is essential in a world where loss of control is likely. The piece balances intellectual rigor with a call for community input, offering a thoughtful, actionable roadmap for safeguarding against catastrophic AI risks.",
+    "summary_zh": "作者提出“环境疑虑”策略，通过模糊评估与现实的界限，让可能误对齐的AI保持谨慎，即使无法完全对齐，也降低其危害预期。这是一份对齐工作之外的“计划B”思考。",
+    "best_quote_en": "We need strategies that act as a ‘plan B’ to alignment. Loss of control is almost inevitable, and AIs will almost certainly escape.",
+    "best_quote_zh": "我们需要策略作为对齐的‘计划B’。失去控制几乎不可避免，AI几乎必然会逃脱。"
+  },
+  {
+    "id": 378,
+    "title": "Git security vulnerabilities announced",
+    "title_zh": "Git 安全漏洞公告",
+    "source": "GitHub Blog",
+    "link": "https://github.blog/open-source/git/git-security-vulnerabilities-announced-7/",
+    "tags": [
+      "update",
+      "cybersecurity",
+      "ai-research",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "动态",
+      "网络安全",
+      "AI研究",
+      "数据驱动"
+    ],
+    "date": "2026-11-10",
+    "summary_en": "Git has released new versions to address six critical security vulnerabilities, ranging from arbitrary code execution during recursive clones to path traversal, stack corruption, out‑of‑bounds reads, heap overflow, and unsafe fast‑import features. The fixes are bundled in Git 2.56.1, with backports to older maintenance series, and GitHub has already deployed patches across its cloud and enterprise platforms. Each CVE is dissected, showing how an attacker could exploit integer truncation, malformed HEAD symrefs, excessive signatures, or oversized binary patches to compromise systems. The advisory stresses that updating Git is the single most effective defense, while offering interim precautions for those unable to patch immediately. This comprehensive security bulletin serves as a vital reminder for developers, DevOps teams, and organizations that even foundational tools like Git require constant vigilance and rapid response to emerging threats.",
+    "summary_zh": "Git 发布新版本修复六个安全漏洞，包括递归克隆代码执行、路径穿越、堆栈损坏等。GitHub 已部署补丁，建议所有用户立即更新到 Git 2.56.1。这是保护代码库安全的关键警示。",
+    "best_quote_en": "Updating is the most effective way to protect against these vulnerabilities.",
+    "best_quote_zh": "更新是抵御这些漏洞的最有效方法。"
   }
 ]
