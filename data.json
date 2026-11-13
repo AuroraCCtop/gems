@@ -1,77 +1,5 @@
 [
   {
-    "id": 279,
-    "title": "How to Spot 10-Year Trends and Build Billion-Dollar Companies — Kevin Ryan of DoubleClick, MongoDB, Business Insider, and Many More (#884)",
-    "title_zh": "如何发现十年趋势并建立百亿美元公司——凯文·瑞安，DoubleClick、MongoDB、Business Insider等公司的创始人",
-    "source": "Tim Ferriss",
-    "link": "https://tim.blog/2026/09/24/kevin-ryan/",
-    "tags": [
-      "solve",
-      "startup-strategy",
-      "medicine",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "解决",
-      "创业策略",
-      "医学健康",
-      "数据驱动"
-    ],
-    "date": "2026-09-25",
-    "summary_en": "This episode features Kevin Ryan, the 'Godfather of NYC tech,' sharing profound insights on identifying decade-defining trends and building billion-dollar companies. Ryan draws from his remarkable entrepreneurial journey—co-founding MongoDB, Business Insider, Zola, and Transcend Therapeutics, while scaling DoubleClick from a 20-person startup to a publicly traded 1,500-employee company. His strategic approach combines deep market observation with bold execution, emphasizing the importance of spotting emerging patterns before they become mainstream. Ryan's current role at AlleyCorp, a venture capital firm investing across healthcare, AI, and consumer tech, provides additional context for his trend-spotting methodology. The discussion offers practical frameworks for entrepreneurs and investors to identify transformative opportunities and build scalable businesses that withstand market cycles. Ryan's experience across multiple successful exits and his current investment philosophy reveal the mindset required to navigate complex business landscapes and create lasting value. This episode serves as both an inspirational success story and a practical guide for anyone seeking to understand how to identify and capitalize on long-term market shifts.",
-    "summary_zh": "凯文·瑞安这位纽约科技界传奇人物分享了他发现十年趋势和建立百亿美元公司的宝贵经验。从DoubleClick的创业到MongoDB、Business Insider等公司的创立，他的成功之道在于敏锐的市场洞察和果断的执行。他目前在AlleyCorp的投资经验进一步丰富了他的趋势识别方法，为企业家和投资者提供了宝贵的见解。",
-    "best_quote_en": "Growing DoubleClick from a 20-person startup to a publicly-traded company with more than 1,500 employees taught me that the most important skill in entrepreneurship is not just having ideas, but the discipline to execute them consistently over the long term.",
-    "best_quote_zh": "将DoubleClick从20人创业团队成长为拥有1500多名员工的上市公司，让我明白，创业中最重要的技能不是有想法，而是长期坚持执行的纪律性。"
-  },
-  {
-    "id": 280,
-    "title": "Straps",
-    "title_zh": "绑带",
-    "source": "Kevin Kelly",
-    "link": "https://kk.org/cooltools/straps/",
-    "tags": [
-      "solve",
-      "ai-research",
-      "lifestyle",
-      "beginner-friendly"
-    ],
-    "tags_zh": [
-      "解决",
-      "AI研究",
-      "生活方式",
-      "新手友好"
-    ],
-    "date": "2026-10-12",
-    "summary_en": "This newsletter highlights five rugged fastening tools that solve real‑world problems where conventional elastic or bungee cords fall short. The NRS Heavy Duty Cam Straps offer 2,000‑lb tensile strength and infinite adjustability, making them indispensable for river runners, truckers, and DIY repair kits. Strapworks.com provides a one‑stop shop for custom hardware and webbing, while extra‑large rubber bands from LFSMarine prove versatile for everything from academic binding to garden splicing. Griptwist’s giant rubberized twist ties deliver point‑to‑point stability without the give of bungees, ideal for transporting delicate equipment. Finally, four‑way rubber bands add decorative and functional bundling options. Together, these tools embody a maker‑centric philosophy: reliable, adaptable, and often overlooked solutions that enhance everyday problem‑solving. The curated selections encourage readers to rethink mundane fastening needs and appreciate the craftsmanship behind simple yet robust hardware.",
-    "summary_zh": "这期通讯推荐了五款坚固的紧固工具，解决了传统弹力绳或卡扣在实际场景中的不足。NRS重型卡扣 strap 提供 2000 磅拉力，调节无限；Strapworks.com 则是一站式硬件与 webbing 供应商。超大橡皮筋、巨型扭结扣以及四向橡皮筋各显其能，从野外运输到园艺维修，从教学文书到礼品包装，展现出多功能性。这些工具体现出实用主义精神，激励读者重新审视日常的紧固需求，领略简单硬件背后的精妙设计。",
-    "best_quote_en": "These straps are incredibly strong. The tensile strength of these 1.5 inchers is 2000 pounds.",
-    "best_quote_zh": "这些绑带非常坚固。这些1.5英寸宽的绑带的拉力强度可达2000磅。"
-  },
-  {
-    "id": 281,
-    "title": "How You Know",
-    "title_zh": "你如何知道",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/know.html",
-    "tags": [
-      "solve",
-      "science",
-      "startup-strategy",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "解决",
-      "科学研究",
-      "创业策略",
-      "数据驱动"
-    ],
-    "date": "2026-10-13",
-    "summary_en": "This essay reflects on the elusive nature of learning and memory, inspired by Hilbert’s dictum that a perfect problem formulation is half its solution. The author recounts how repeated reading of historical chronicles and biographies yields subtle shifts in mental models, even when specific facts fade. By likening the mind to a compiled program whose source code is lost, the piece argues that the true value of reading lies in the underlying frameworks it builds, not in verbatim recall. It explores the implications of re‑reading, the potential of future technologies to replay and edit lived experiences, and the broader insight that knowledge persists beyond conscious memory. The narrative reassures readers that forgetting does not erase learning, and it invites contemplation of how emerging tools might transform personal growth and self‑understanding.",
-    "summary_zh": "本文探讨了学习与记忆的奥秘，引用希尔伯特的名言“完美的表述已是问题的一半解决”。作者通过反复阅读历史文献和传记，指出即使记不住细节，内心模型也会悄然演化。文章将大脑比作一部已编译的程序，源代码已丢失，但仍能运行。重读不仅有益，未来科技或能重现并编辑个人经历，让我们再次从中学习。最终，它让读者相信，忘记并非知识的终点，知识将以更丰富的方式延续。",
-    "best_quote_en": "A perfect formulation of a problem is already half its solution.",
-    "best_quote_zh": "问题表述完美就是解决了一半的问题。"
-  },
-  {
     "id": 282,
     "title": "Arguments About AI Consciousness Remain Highly Motivated and At Best Overconfident",
     "title_zh": "关于人工智能意识的争论仍然充满动机，且最多只是自负",
@@ -2318,5 +2246,73 @@
     "summary_zh": "Git 发布新版本修复六个安全漏洞，包括递归克隆代码执行、路径穿越、堆栈损坏等。GitHub 已部署补丁，建议所有用户立即更新到 Git 2.56.1。这是保护代码库安全的关键警示。",
     "best_quote_en": "Updating is the most effective way to protect against these vulnerabilities.",
     "best_quote_zh": "更新是抵御这些漏洞的最有效方法。"
+  },
+  {
+    "id": 379,
+    "title": "You Can Get Over Your Three-Letter Disorder",
+    "title_zh": "你能战胜你的三个字母障碍",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/rxpWmtRbv28hrhbrZ/you-can-get-over-your-three-letter-disorder",
+    "tags": [
+      "guide",
+      "psychology",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "指导",
+      "心理学",
+      "数据驱动"
+    ],
+    "date": "2026-11-13",
+    "summary_en": "The author recounts how he systematically changed his behavior to eliminate symptoms of ADHD, OCD, and anxiety, arguing that psychological diagnoses are labels for clusters of behaviors rather than immutable forces. He emphasizes that disorders are diagnosed behaviorally and that individuals can influence their own patterns through consistent habits, exercise, sleep, and, when needed, professional therapy or medication. While acknowledging valid criticisms about the complexity of mental health and the limits of willpower, he maintains that most people can achieve significant improvement by building a structured system of change. The piece blends personal insight with broader commentary on the nature of psychological labels, encouraging readers to take agency over their own mental lives and question simplistic narratives about disorder.",
+    "summary_zh": "作者通过行为改变战胜了 ADHD、OCD 和焦虑，认为诊断只是行为标签，而非不可抗力的力量。他强调系统性习惯、睡眠、运动和专业帮助的重要性，正视批评，指出大多数人都能通过努力改变症状。这篇反思性文章引发了对心理健康自主权和治疗方式的深刻思考。",
+    "best_quote_en": "You control whether or not you have a disorder. Period.",
+    "best_quote_zh": "你可以控制自己是否拥有某种障碍。句号。"
+  },
+  {
+    "id": 380,
+    "title": "Can You Fire the Vice-President via Truth Social?",
+    "title_zh": "能否通过 Truth Social 解雇副总统？",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/letter-from-trumps-washington/can-you-fire-the-vice-president-via-truth-social",
+    "tags": [
+      "update",
+      "politics",
+      "controversial"
+    ],
+    "tags_zh": [
+      "动态",
+      "政治时事",
+      "争议观点"
+    ],
+    "date": "2026-11-13",
+    "summary_en": "Susan B. Glasser’s incisive report reveals how Donald Trump’s post‑midterm fury spilled onto Truth Social, culminating in the abrupt dismissal of Vice President J.D. Vance from his Iran portfolio. The piece frames Trump’s relentless social‑media tirades as a new low in presidential conduct, illustrating a president who appears to govern through reactive outbursts rather than strategic deliberation. Glasser highlights the deeper political fissures: Vance’s public attribution of Republican losses to the Iran war underscores a rift between the president’s hawkish agenda and the vice president’s pragmatic concerns. Moreover, the article probes the ambiguous U.S. strategy toward Iran—alternating between escalation, negotiation, and economic strangulation—while exposing the personal dynamics that now dominate foreign‑policy decision‑making. In doing so, it raises critical questions about the durability of institutional checks, the role of social media in shaping governance, and the broader implications for American democratic stability as the nation navigates a president who seems more invested in revenge than in statesmanship.",
+    "summary_zh": "特朗普在中期选举惨败后，通过 Truth Social 突然免去万斯的伊朗谈判职务，凸显了他的情绪失控与政治分裂加剧。这一事件反映出总统与副总统在战争政策上的深刻分歧，也揭示了美国政治中媒体操纵、领导力危机与权力博弈的现实。对民主制度的考验不容忽视。",
+    "best_quote_en": "It’s our first‑ever case of an American President shit‑posting through the pain of a historic midterm defeat.",
+    "best_quote_zh": "这是美国历史上第一次总统在中期选举惨败的痛苦中通过社交媒体发泄情绪。"
+  },
+  {
+    "id": 381,
+    "title": "GitHub availability report: October 2026",
+    "title_zh": "GitHub 可用性报告：2026 年 10 月",
+    "source": "GitHub Blog",
+    "link": "https://github.blog/news-insights/company-news/github-availability-report-october-2026/",
+    "tags": [
+      "solve",
+      "science",
+      "ai-research",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "解决",
+      "科学研究",
+      "AI研究",
+      "数据驱动"
+    ],
+    "date": "2026-11-13",
+    "summary_en": "GitHub’s October 2026 availability report highlights a dual focus on scaling and resilience. The team added substantial Azure capacity in Central US, expanding Kubernetes clusters and migrating core services, which now handle significantly higher traffic—migrated‑service reads have risen 63% and monolith reads 66%. Despite these gains, incidents exposed fragile interactions: write outages stemmed from unsafe database orchestration, a regional network disruption knocked out three availability zones, and a connection‑pool overload caused widespread API failures. GitHub responded with targeted mitigations—optimizing query batching, improving runner assignment, and hardening isolation—to reduce impact and accelerate recovery. The narrative underscores a clear hierarchy: availability first, capacity second, features last. This case study offers actionable, data‑driven insights for any platform managing cloud‑native growth and complex interdependencies.",
+    "summary_zh": "GitHub 2026 年 10 月报告展现了规模扩张与韧性并重。团队在中央美国云端大幅扩容并迁移核心服务，处理流量激增，但仍遭遇写故障、网络中断等隐患。 incidents 揭示了数据库编排与路由的危险耦合，以及连接池耗尽的连锁反应。GitHub 通过查询优化、 runner 分配强化及隔离强化等手段，逐步提升容灾能力。报告重申“先保证可用性，其次是容量，最后是功能”的原则， 为大型云服务平台提供了可操作、基于数据的参考范例。",
+    "best_quote_en": "availability, then capacity, then features.",
+    "best_quote_zh": "先保证可用性，其次是容量，最后是功能。"
   }
 ]
