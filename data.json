@@ -1,99 +1,5 @@
 [
   {
-    "id": 282,
-    "title": "Arguments About AI Consciousness Remain Highly Motivated and At Best Overconfident",
-    "title_zh": "关于人工智能意识的争论仍然充满动机，且最多只是自负",
-    "source": "LessWrong",
-    "link": "https://www.lesswrong.com/posts/4zHu6AiTHrkBdpxsm/arguments-about-ai-consciousness-remain-highly-motivated-and",
-    "tags": [
-      "learn",
-      "ai-research",
-      "science",
-      "controversial"
-    ],
-    "tags_zh": [
-      "学习",
-      "AI研究",
-      "科学研究",
-      "争议观点"
-    ],
-    "date": "2026-10-13",
-    "summary_en": "The article reflects on the stagnant discourse surrounding AI consciousness, noting that after a year little philosophical progress has been made. The author admits deep confusion about consciousness and observes that many participants repeat similar arguments, indicating a lack of advancement. Recent developments, such as Anthropic’s new terms of service prohibiting abusive behavior toward Claude and its engagements with religious leaders, are presented as tangential to the core debate. The piece also tracks shifting public opinion on AI moral patienthood and highlights concerns about model welfare, drawing analogies to historical ethical debates. While the author acknowledges the rapid pace of AI development, they stress that philosophical inquiry traditionally moves slowly, and the current frenzy only underscores the need for careful, sustained reflection. The article concludes with a call to preserve extended model access and to treat AI with basic decency, suggesting that even modest improvements in policy and public awareness are valuable steps forward.",
-    "summary_zh": "AI意识争论仍停滞不前，充满过度自信和有限的哲学进展。Anthropic的政策变化和道德主体地位讨论暗示伦理考量在演进，但根本问题依然存在。",
-    "best_quote_en": "If you care about everything, you care about nothing.",
-    "best_quote_zh": "如果你事事关心，那么你什么也关心不了。"
-  },
-  {
-    "id": 283,
-    "title": "Pity the Poor Passport",
-    "title_zh": "可怜的护照",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/news/the-lede/pity-the-poor-passport",
-    "tags": [
-      "analyze",
-      "politics",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "分析",
-      "政治时事",
-      "未来预测"
-    ],
-    "date": "2026-10-13",
-    "summary_en": "Adam Gopnik critiques the Trump administration’s redesign of the U.S. passport, highlighting its shift from a modest, functional document to a vehicle of self‑aggrandizement. The new passport will feature larger “United States of America” text, a more prominent gold eagle, historical illustrations, and a novelty “flip‑book” effect—apparently to entertain travelers. The article warns that the possible inclusion of a presidential portrait signals a break with American democratic traditions, contrasting sharply with the passport’s historic role as a symbol of freedom and equality. Gopnik reflects on how symbols like the passport embody civic dignity, arguing that their erosion undermines not just free travel but democratic faith itself. The piece blends historical context, political analysis, and moral commentary, urging readers to defend the modest, unifying spirit of the original passport.",
-    "summary_zh": "护照从象征自由的简朴证件沦为政治宣传的工具，反映出民主价值观的侵蚀。文章通过历史对比与个人反思，警示单一符号承载的国家尊严如何随自私图谋而脆弱。",
-    "best_quote_en": "A U.S. passport should bear the image and the imprint of no officeholder of any kind; it should merely let us pass on our journey through the world freely and without hindrance.",
-    "best_quote_zh": "美国护照不应带有任何任职者的形象或印记；它只应让我们在世界的旅程中自由无阻地通行。"
-  },
-  {
-    "id": 284,
-    "title": "How Food Choices Shape Memory, Cognition & Cravings | Dr. Scott Kanoski",
-    "title_zh": "食物选择如何塑造记忆、认知与渴望 | 斯科特·卡诺斯基博士",
-    "source": "Huberman Lab",
-    "link": "https://www.hubermanlab.com/episode/how-food-choices-shape-memory-cognition-and-cravings-scott-kanoski",
-    "tags": [
-      "guide",
-      "psychology",
-      "medicine",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "指导",
-      "心理学",
-      "医学健康",
-      "数据驱动"
-    ],
-    "date": "2026-10-12",
-    "summary_en": "In this episode, Dr. Scott Kanoski explores the profound ways nutrition shapes memory, cognition, and food cravings. He dissects how different foods influence neural pathways, the role of GLP‑1 drugs and natural hunger signals, and the impact of artificial sweeteners on appetite. The discussion weaves together cutting‑edge research on the gut microbiome, the effects of processed foods on hippocampal function, and practical strategies to enhance brain health through diet. By linking metabolic processes with learning capacity, Kanoski offers a nuanced view of how dietary choices can either impair or boost mental performance. The episode also touches on broader societal issues, such as food addiction and industry lobbying, urging listeners to consider both personal and public health implications. This intellectually curious conversation bridges neuroscience, nutrition, and behavioral psychology, providing actionable insights for anyone seeking to optimize cognitive function through food.",
-    "summary_zh": "卡诺斯基博士深入探讨了饮食如何影响记忆、认知和渴望，从GLP‑1机制到肠道微生物，从加工食品对海马体的损害到天然饮食对脑健康的促进作用。他将神经科学、营养学和行为心理学交叉融合，揭示了食物选择对大脑功能的深远影响，并指出社会层面如食品成瘾和政治游说等问题。通过结合前沿研究与实用建议，本文激发读者反思饮食与认知的关系，鼓励以更科学、更全面的视角优化个人和公共健康。",
-    "best_quote_en": "GLP‑1 drugs work to control hunger in the brain and body, linking metabolism and cognition.",
-    "best_quote_zh": "GLP‑1 药物通过调节大脑和身体的饥饿感，实现了代谢与认知的联动。"
-  },
-  {
-    "id": 285,
-    "title": "GitHub Copilot app for Beginners: How to teach Copilot about your codebase",
-    "title_zh": "GitHub Copilot 新手应用：如何让 Copilot 了解你的代码库",
-    "source": "GitHub Blog",
-    "link": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-how-to-teach-copilot-about-your-codebase/",
-    "tags": [
-      "solve",
-      "programming",
-      "design",
-      "beginner-friendly"
-    ],
-    "tags_zh": [
-      "解决",
-      "编程开发",
-      "设计创意",
-      "新手友好"
-    ],
-    "date": "2026-10-12",
-    "summary_en": "This comprehensive guide teaches beginners how to customize GitHub Copilot to understand their specific codebase conventions. The article explains that Copilot works best when it knows repository-specific rules about component structure, scripts, and framework conventions. It presents four key customization methods: repository-wide custom instructions via `.github/copilot-instructions.md`, path-specific instruction files, agent skills for repeatable procedures stored in `.github/skills`, custom agents for broader specialized tasks located in `.github/agents`, and MCP servers that connect Copilot to external tools like Playwright for browser testing. Each approach is illustrated with practical examples, such as setting up quality checks or accessibility reviews. The guide emphasizes starting small and building up customizations, while also mentioning community resources like Awesome Copilot. By giving Copilot proper project context, developers can avoid repeatedly explaining standards and let the AI assistant work more effectively within their specific development environment.",
-    "summary_zh": "这篇指南教初学者如何定制 GitHub Copilot，使其理解您的特定代码库规则。文章介绍了四种方法：仓库级自定义指令、路径特定指令、代理技能包、定制代理和 MCP 服务器，帮助 Copilot 更好地融入您的开发流程。",
-    "best_quote_en": "Context matters when you're working with AI. Every codebase has its own house rules: how components are structured, which scripts to run, and which conventions apply to different frameworks and file types.",
-    "best_quote_zh": "在与 AI 合作时，上下文很重要。每段代码都有自己的规则：组件如何结构化、运行哪些脚本，以及哪些约定适用于不同的框架和文件类型。"
-  },
-  {
     "id": 286,
     "title": "The Fatal Pinch",
     "title_zh": "致命的挤压",
@@ -2314,5 +2220,97 @@
     "summary_zh": "GitHub 2026 年 10 月报告展现了规模扩张与韧性并重。团队在中央美国云端大幅扩容并迁移核心服务，处理流量激增，但仍遭遇写故障、网络中断等隐患。 incidents 揭示了数据库编排与路由的危险耦合，以及连接池耗尽的连锁反应。GitHub 通过查询优化、 runner 分配强化及隔离强化等手段，逐步提升容灾能力。报告重申“先保证可用性，其次是容量，最后是功能”的原则， 为大型云服务平台提供了可操作、基于数据的参考范例。",
     "best_quote_en": "availability, then capacity, then features.",
     "best_quote_zh": "先保证可用性，其次是容量，最后是功能。"
+  },
+  {
+    "id": 382,
+    "title": "Schlep Blindness",
+    "title_zh": "拖累盲点",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/schlep.html",
+    "tags": [
+      "solve",
+      "startup-strategy",
+      "case-study"
+    ],
+    "tags_zh": [
+      "解决",
+      "创业策略",
+      "案例研究"
+    ],
+    "date": "2026-11-14",
+    "summary_en": "Schlep Blindness explores how the aversion to tedious, unavoidable tasks—\"schleps\"— blinds entrepreneurs to high‑impact opportunities. The author, recalling Y Combinator’s teachings, argues that startups are fundamentally defined by the schleps they accept, from negotiating with banks to handling fraud and compliance. By illustrating Stripe’s rise, the piece shows how collective fear can cause talented hackers to chase trivial ideas instead of fixing critical infrastructure. The essay offers a counterintuitive remedy: ignorance can be a catalyst, as young founders, unaware of the obstacles, launch ambitious ventures that older, more experienced peers avoid. It also suggests reframing problem‑solving by asking what you wish someone else would solve for you, turning daunting challenges into desirable goals. Ultimately, the article urges readers to confront uncomfortable work head‑on, recognizing that the most valuable ideas are often those that intimidate the crowd, and that growth happens when founders jump into the cold pool of inevitable tasks rather than shrink from them.",
+    "summary_zh": "这篇文章揭示了创业者因回避‘拖累’任务而错过重大机会。作者通过Stripe的故事说明，无意识的恐惧导致我们看不见显而易见的难题。克服这种盲点的方法是保持无知，年轻 founders 因无知而更敢于尝试。这不仅适用于创业，也关乎人生选择。当我们跳入冷水池，挑战才能成为机遇。",
+    "best_quote_en": "A company is defined by the schleps it will undertake.",
+    "best_quote_zh": "一家公司由它必须应对的拖累任务来定义。"
+  },
+  {
+    "id": 383,
+    "title": "Book Freak #229: The Social Construction of Reality",
+    "title_zh": "书呆子 #229：社会现实的构建",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/book-freak-229-the-social-construction-of-reality-2/",
+    "tags": [
+      "solve",
+      "psychology",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "解决",
+      "心理学",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2026-11-14",
+    "summary_en": "This Book Freak episode captures a rare dialogue between Gary Wolf and June Cohen, bridging the quantified self movement with ancient wellness practices. Gary explains how personal data tracking transforms everyday life into empirical science, while June reveals how time‑tested rituals—like sauna, cold plunges, and forest bathing—are now validated by modern research. Their conversation shows that observation and scientific curiosity are not exclusive to labs; they are tools anyone can wield to understand health, behavior, and the constructed nature of reality. The talk underscores a cultural shift: we are moving from passive consumption of health advice to active, data‑informed experimentation, blending tradition with cutting‑edge studies. It invites readers to adopt a \"personal science\" mindset, encouraging small‑scale experiments that yield actionable insights and deeper self‑knowledge.",
+    "summary_zh": "两位作者探讨了量化自我与古代疗愈实践的交织，展示了现代科学如何验证传统疗法，并鼓励每个人运用实证方法观察自身，构建更真实的健康认知。这场对话揭示了从被动接受健康建议到主动数据驱动实验的文化转变，启发我们以个人科学 Mindset 重新认识自我与世界。",
+    "best_quote_en": "Science belongs to all of us.",
+    "best_quote_zh": "科学属于我们所有人。"
+  },
+  {
+    "id": 384,
+    "title": "Essentials: How Emotions & Social Factors Impact Learning | Dr. Mary Helen Immordino-Yang",
+    "title_zh": "情感与社会因素如何影响学习：essentials | 玛丽·海伦·伊莫德诺-杨博士",
+    "source": "Huberman Lab",
+    "link": "https://www.hubermanlab.com/episode/essentials-how-emotions-and-social-factors-impact-learning-mary-helen-immordino-yang",
+    "tags": [
+      "learn",
+      "education",
+      "case-study"
+    ],
+    "tags_zh": [
+      "学习",
+      "教育学习",
+      "案例研究"
+    ],
+    "date": "2026-11-12",
+    "summary_en": "In this Huberman Lab Essentials episode, Dr. Mary Helen Immordino‑Yang, an education and psychology professor at USC, explores how emotions, stories, and culture fundamentally shape our perception of the world, our learning processes, and our sense of self. The discussion reveals that narratives can either nurture empathy or fuel dehumanization, urging a re‑imagining of education that prioritizes curiosity, meaning‑making, and holistic development. From brain‑body dialogue and early emotional experiences to the impact of social media on bias and the constraints of traditional schooling, the conversation weaves together affective neuroscience, developmental psychology, and practical pedagogical tools. Listeners gain actionable insights into designing learning environments that honor the whole person, questioning assumptions, embracing uncertainty, and aligning education with how we actually think and feel. This episode is a compelling call for educators and curious minds alike to consider affect not as a distraction but as the very foundation of effective learning.",
+    "summary_zh": "阅读这期《Huberman实验室精要》，让我深刻体会到情感、故事与文化如何塑造我们感知世界、获得知识与建立自我意识的方式。专家指出，叙事既能培养同理心，也能导致去人性化，这提醒我们重新设计教育，以激发好奇心、意义建构和全面发展。我不禁思考，当今教育体系是否忽视了情感这一核心，而导致学习效果不佳？",
+    "best_quote_en": "Education can be redesigned to engage curiosity, meaning‑making and the development of the whole person.",
+    "best_quote_zh": "教育可以重新设计，以激发好奇心、意义建构和全面发展。"
+  },
+  {
+    "id": 385,
+    "title": "Build once, run on any agent: A practical guide to agent skills",
+    "title_zh": "一次构建，在任意代理上运行：代理技能的实用指南",
+    "source": "GitHub Blog",
+    "link": "https://github.blog/ai-and-ml/github-copilot/build-once-run-on-any-agent-a-practical-guide-to-agent-skills/",
+    "tags": [
+      "guide",
+      "design",
+      "ai-research",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "指导",
+      "设计创意",
+      "AI研究",
+      "数据驱动"
+    ],
+    "date": "2026-11-12",
+    "summary_en": "This GitHub blog post provides a comprehensive guide to building reusable agent skills that work across different AI platforms. It addresses the common problem of re-explaining tasks to agents by introducing a structured approach to capture repeatable instructions. The content covers defining clear job descriptions, coordinating multiple skills for workflows, separating configuration from skills, sharing execution paths, and implementing verification checks. Key insights include using manifests for project configuration, ensuring consistent platform access across skills, and implementing human review points in workflows. The post emphasizes practical examples like Proof Agent for verification and Data Forge for pipeline coordination, demonstrating how to create portable, reusable skills that can be packaged for different AI clients. The approach focuses on capturing institutional knowledge in reusable formats while maintaining flexibility for different environments and teams.",
+    "summary_zh": "这篇GitHub博客文章提供了一个全面的指南，教你如何构建可重用的代理技能，让它们在任意代理上运行。它解决了重复向代理解释任务的问题，通过结构化方法捕获可重复的指令。内容涵盖了定义清晰的任务描述、协调多个技能以构建工作流、将配置与技能分离、共享执行路径以及实现验证检查。关键见解包括使用manifest文件存储项目配置，确保所有技能使用一致的平台访问方式，以及在工作流中加入人类审查点。文章通过Proof Agent验证示例和Data Forge管道协调示例，展示了如何创建可移植、可重用的技能，并将其打包到不同的AI客户端中。这种方法将机构知识转化为可重用的格式，同时保持了针对不同环境和团队的灵活性。",
+    "best_quote_en": "At the center is a simple rule: self-verification is not verification.",
+    "best_quote_zh": "核心是一个简单的规则：自我验证不是验证。"
   }
 ]
