@@ -1,99 +1,5 @@
 [
   {
-    "id": 286,
-    "title": "The Fatal Pinch",
-    "title_zh": "致命的挤压",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/pinch.html",
-    "tags": [
-      "solve",
-      "startup-strategy",
-      "startup-funding",
-      "case-study"
-    ],
-    "tags_zh": [
-      "解决",
-      "创业策略",
-      "创业融资",
-      "案例研究"
-    ],
-    "date": "2026-10-14",
-    "summary_en": "The Fatal Pinch diagnoses a common yet deadly phase in early‑stage startups: when cash reserves shrink faster than revenue can grow, founders cling to the hope of another funding round. Paul Graham dissects the self‑reinforcing dynamics that make this trap so perilous—rising burn rates, higher investor expectations, and a looming perception of failure. He argues that the fatal mistake is the belief that investors will bail out a company already in decline, urging founders to act as if the current capital is their last. Graham offers a stark decision tree: shut down, increase income, or slash expenses—often by firing underperforming teams or shifting to mercenary, consulting‑style revenue streams. His analysis blends blunt realism with pragmatic tactics, reminding readers that survival often demands ruthless prioritization and a willingness to abandon the status quo. By naming the phenomenon, Graham hopes to jolt founders into recognizing the pinch before it becomes irreversible, turning a grim scenario into an opportunity for disciplined, purpose‑driven action.",
-    "summary_zh": "当初创企业陷入‘致命挤压’时，融资幻觉与成本失控形成恶性循环。本文揭示了这一危险的自我强化机制，并提供切中时弊的应对策略，从心理层面到实操层面，全面剖析了为何‘最后那句话才是致命的’，引发读者对创业风险的深刻反思。",
-    "best_quote_en": "That last sentence is the fatal one.",
-    "best_quote_zh": "最后那句话才是致命的。"
-  },
-  {
-    "id": 287,
-    "title": "The Tim Ferriss Show Transcripts: The Random Show — AI Super Assistants, Boner Pills, Dream Engineering, Wizards, Supplements, Books, and More (#886)",
-    "title_zh": "《蒂姆·菲利兹秀》文字版：随机秀——AI超级助理、伟哥、梦工程、巫师、补充剂、书籍等话题 (#886)",
-    "source": "Tim Ferriss",
-    "link": "https://tim.blog/2026/10/11/the-random-show-ai-super-assistants-boner-pills-dream-engineering-wizards-supplements-books-and-more-transcript/",
-    "tags": [
-      "learn",
-      "ai-research",
-      "science",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "学习",
-      "AI研究",
-      "科学研究",
-      "数据驱动"
-    ],
-    "date": "2026-10-11",
-    "summary_en": "This transcript captures Tim Ferriss and Kevin Rose’s freewheeling conversation on cutting‑edge AI super assistants that now operate via simple text messages, agentic shopping tools, and experimental supplements like beta‑alanine for climbing endurance and walnuts for sperm quality. The dialogue blends personal experimentation with broader tech trends, offering actionable insights into how emerging AI can replace routine tasks and enhance daily life. Listeners gain a front‑row seat on dream‑engineering concepts, unconventional health hacks, and the cultural impact of tools such as Instinct and Grok. The episode balances curiosity‑driven exploration with pragmatic advice, making it a rich source for anyone interested in the intersection of technology, self‑optimization, and interdisciplinary learning.",
-    "summary_zh": "这期文字版记录了蒂姆·菲利兹和凯文·罗斯围绕AI超级助理、伟哥、梦工程、巫师、补充剂、书籍等话题的轻松对话，探讨了AI如何通过短信运行、代理购物以及实验性补充剂（如β-丙氨酸和核桃）影响日常生活与健康。内容兼具个人实验与技术趋势分析，为读者提供关于新兴科技与自我优化交叉领域的实用洞见。",
-    "best_quote_en": "AI has turned into something that I kind of saw it coming, but I didn’t think it would come this rapidly, which is it is replacing everyday tasks and personal assistance with AI super assistants.",
-    "best_quote_zh": "AI已经发展到我预料到了，但没想到它会如此迅速地发展，正在取代日常任务和个人助理等功能。"
-  },
-  {
-    "id": 288,
-    "title": "GitHub’s model for secret detection: Finding more secrets with less noise",
-    "title_zh": "GitHub 的秘密检测模型：以更少的噪声发现更多秘密",
-    "source": "GitHub Blog",
-    "link": "https://github.blog/ai-and-ml/githubs-model-for-secret-detection-finding-more-secrets-with-less-noise/",
-    "tags": [
-      "learn",
-      "ai-research",
-      "programming",
-      "beginner-friendly"
-    ],
-    "tags_zh": [
-      "学习",
-      "AI研究",
-      "编程开发",
-      "新手友好"
-    ],
-    "date": "2026-10-13",
-    "summary_en": "GitHub has unveiled a sophisticated secret‑detection model that marries high‑recall regex filtering with a fine‑tuned ModernBERT classifier, delivering a hybrid pipeline that dramatically cuts cost while boosting accuracy. The new system reduces median post‑push scan time by 86%, slashes serving expense by over 98%, and lifts owner‑weighted acceptance by 11.5%—all while improving offline precision (+13%) and recall (+19%). By contextualizing candidates with file paths, variable names, and surrounding code, the classifier distinguishes genuine credentials from harmless look‑alikes such as test fixtures or checksums, addressing the long‑standing tension between sensitivity and false positives. The approach underscores a broader lesson: for narrowly defined tasks, a compact, purpose‑built model can out‑perform sprawling LLMs in both efficiency and effectiveness. This shift not only makes secret scanning more trustworthy for developers but also sets a template for how AI‑driven products can scale security controls without prohibitive compute overhead.",
-    "summary_zh": "GitHub 发布了一套新的秘密检测模型，通过结合正则表达式和 ModernBERT 分类器，在降低成本的同时提高了检测准确性和速度。这不仅减少了开发者被虚假警报困扰的负担，也让安全扫描更具可扩展性。作者深入剖析了从候选生成到上下文分类的整个流程，展示了小规模精调模型如何优于大语言模型方案。这启发我们思考，在特定任务中，精简模型可能比大模型更有效。安全工程领域由此展现出新的发展方向。",
-    "best_quote_en": "Secret scanning works best when developers are confident in the findings.",
-    "best_quote_zh": "秘密扫描最有效时，开发者对结果充满信心。"
-  },
-  {
-    "id": 289,
-    "title": "Mean People Fail",
-    "title_zh": "刻薄的人会失败",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/mean.html",
-    "tags": [
-      "inspire",
-      "startup-strategy",
-      "controversial"
-    ],
-    "tags_zh": [
-      "启发",
-      "创业策略",
-      "争议观点"
-    ],
-    "date": "2026-10-15",
-    "summary_en": "The essay observes that most successful people in tech and startups are surprisingly kind, while meanness appears rampant elsewhere. The author argues that meanness hampers clear thinking, making strategic work ineffective, and that startups thrive by transcending conflicts rather than fighting. Benevolent founders attract top talent and pursue world‑improving visions, giving them a natural edge. Historically, success was a zero‑sum game where aggression could help, but modern value‑creation demands civil order and trust. This shift suggests that kindness is not just moral but a competitive advantage in today’s innovative economy.",
-    "summary_zh": "作者发现科技界和创业者中成功者多半善良，而刻薄之人在其他领域普遍存在。刻薄会让思维变笨，创业者靠超越而非对抗取胜，仁慈能吸引顶尖人才并推动世界改善。现代价值创造需要信任与秩序，善良已成为新的竞争优势。",
-    "best_quote_en": "Startups don't win by attacking. They win by transcending.",
-    "best_quote_zh": "创业者不通过攻击取胜，他们通过超越取胜。"
-  },
-  {
     "id": 290,
     "title": "GLM-5.3 Sometimes Considers How Train-Time Actions Shape Future Behavior",
     "title_zh": "GLM-5.3 有时会考虑训练时行为如何影响未来的行为",
@@ -2312,5 +2218,99 @@
     "summary_zh": "这篇GitHub博客文章提供了一个全面的指南，教你如何构建可重用的代理技能，让它们在任意代理上运行。它解决了重复向代理解释任务的问题，通过结构化方法捕获可重复的指令。内容涵盖了定义清晰的任务描述、协调多个技能以构建工作流、将配置与技能分离、共享执行路径以及实现验证检查。关键见解包括使用manifest文件存储项目配置，确保所有技能使用一致的平台访问方式，以及在工作流中加入人类审查点。文章通过Proof Agent验证示例和Data Forge管道协调示例，展示了如何创建可移植、可重用的技能，并将其打包到不同的AI客户端中。这种方法将机构知识转化为可重用的格式，同时保持了针对不同环境和团队的灵活性。",
     "best_quote_en": "At the center is a simple rule: self-verification is not verification.",
     "best_quote_zh": "核心是一个简单的规则：自我验证不是验证。"
+  },
+  {
+    "id": 386,
+    "title": "‘You have to cope’: why don’t we hear of the ‘epidemic’ of women’s loneliness?",
+    "title_zh": "你必须应对：为什么不谈论女性的‘孤独 epidemic’？",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/society/2026/nov/15/epidemic-of-lonely-women-female-male-loneliness",
+    "tags": [
+      "analyze",
+      "science",
+      "society",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "科学研究",
+      "社会议题",
+      "数据驱动"
+    ],
+    "date": "2026-11-14",
+    "summary_en": "The piece exposes a hidden epidemic of women’s loneliness, challenging the dominant narrative that frames isolation as a male‑only issue. By weaving personal testimonies—Sasha’s postpartum despair, Laura’s social exclusion, and Barreto’s clinical insights—with research on gender disparities, the article reveals how fertility struggles, caregiving burdens, menstrual health, and societal expectations intersect to produce chronic isolation for many women. It critiques media bias, points out methodological flaws in how loneliness is measured, and argues that the “male loneliness epidemic” is partly a construct of gendered stereotypes that render men’s distress newsworthy while women’s pain is privatized. The authors call for a broader, equity‑focused approach: improve social infrastructure, advance gender equality, and amplify under‑heard experiences. This analysis not only deepens our understanding of gendered loneliness but also urges policymakers and health professionals to design interventions that address the structural roots of isolation for all genders.",
+    "summary_zh": "这篇文章揭示了女性孤独的隐形危机，挑战了主流叙事的性别偏见。通过个人故事与研究数据并置，作者指出了医疗、经济与社会结构性因素。反思现代社会对孤独的误解，我们需重新审视性别平等与心理健康之间的关系。这不仅是医学问题，更是社会公平的镜子，提醒我们倾听被忽视的声音。",
+    "best_quote_en": "‘You have to cope, and deal with things by yourself,’ says Barreto. ‘That really can make you feel very alone.’",
+    "best_quote_zh": "“你必须自己应对，独自处理问题，” 巴雷托说。 “这真的让你感到非常孤独。”"
+  },
+  {
+    "id": 387,
+    "title": "Not just a bystander, not anymore…",
+    "title_zh": "不再只是旁观者…",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/jcoXnm6tP4zAA4gjR/not-just-a-bystander-not-anymore",
+    "tags": [
+      "solve",
+      "psychology",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "解决",
+      "心理学",
+      "未来预测"
+    ],
+    "date": "2026-11-15",
+    "summary_en": "In this raw, introspective memoir, Declan Molony chronicles a transformative journey from childhood abuse and uncontrolled rage to conscious intervention and personal healing. The narrative opens with a pivotal moment on a crowded street where he confronts a man assaulting a woman, embodying the shift from passive observer to active protector. Molony reflects on the roots of his aggression—familial violence, suppressed emotions, and the false safety of freezing—while detailing his years‑long recovery: intensive gym training, relentless self‑examination, and a commitment to modeling healthier relationships. He juxtaposes his earlier dominance over college roommates with later efforts to rebuild trust with his family, illustrating how disciplined physical and emotional work can rewrite ingrained patterns. The essay also probes broader societal apathy, questioning why bystanders remain silent in the face of abuse. Ultimately, Molony offers a powerful case study in using personal turmoil as a catalyst for empathy, responsibility, and lasting change, urging readers to confront their own capacities for action rather than retreat into indifference.",
+    "summary_zh": "这篇博客讲述了作者从童年暴力创伤到大学愤怒失控，再到通过健身和疗愈重塑自我的历程，反思家庭暴力与社会冷漠，强调面对施暴者时勇于发声的重要性，以及重建家庭关系所需的长期努力，激励读者正视内心创伤，追求个人与家庭的 Healing。",
+    "best_quote_en": "I wasn't a bystander, not anymore.",
+    "best_quote_zh": "我不再只是旁观者。"
+  },
+  {
+    "id": 388,
+    "title": "The Flatbush Tragedy Tells the Story of New York",
+    "title_zh": "弗拉特布什悲剧讲述纽约的故事",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/the-lede/the-flatbush-tragedy-tells-the-story-of-new-york",
+    "tags": [
+      "analyze",
+      "society",
+      "education",
+      "controversial"
+    ],
+    "tags_zh": [
+      "分析",
+      "社会议题",
+      "教育学习",
+      "争议观点"
+    ],
+    "date": "2026-11-15",
+    "summary_en": "The collapse of 1321 Flatbush Avenue in Brooklyn lays bare the intertwined crises of aging infrastructure, negligent development, and vulnerable immigrant communities in New York City. The tragedy, which claimed eight lives—including children—and injured nearly twenty, unfolded amid a backdrop of known building safety lapses, a notorious slumlord owner, and a neighboring construction project notorious for cutting corners. As officials and residents grapple with the devastation, the disaster spotlights long‑standing debates over housing maintenance, regulatory oversight, and the human cost of rapid urban change. The incident also raises urgent questions about how cities can preserve historic structures while ensuring they meet modern safety standards, especially as climate‑related risks and demographic shifts reshape urban landscapes. Through the lens of this catastrophe, the article urges a reckoning with the systemic neglect that allows such tragedies to recur, urging policymakers, developers, and citizens to confront the fragile equilibrium between New York’s mythic resilience and its underlying structural vulnerabilities.",
+    "summary_zh": "这篇报道揭示了纽约老旧建筑安全隐患与移民困境交织的现实，反映出城市发展、政策监管与民生之间的矛盾。透过悲剧，我们反思城市记忆如何被忽视的责任，并质疑现行建筑标准与社会公平之间的平衡。",
+    "best_quote_en": "\"These buildings that have been around since the early nineteen-hundreds, they’re beautiful and they have character and charm in many regards,\" – Melanie La Rocca",
+    "best_quote_zh": "\"这些建于二十世纪初的建筑很漂亮，有着许多方面的特色和魅力,\" – 梅兰妮·拉罗卡"
+  },
+  {
+    "id": 389,
+    "title": "Peptides: The Science, Uses & Safety | Dr. Abud Bakri",
+    "title_zh": "肽类科学、用途与安全 | 阿布德·巴克里博士",
+    "source": "Huberman Lab",
+    "link": "https://www.hubermanlab.com/episode/peptides-the-science-uses-and-safety-abud-bakri",
+    "tags": [
+      "guide",
+      "medicine",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "指导",
+      "医学健康",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2026-06-01",
+    "summary_en": "This expert medical analysis provides comprehensive insights into the emerging field of peptide therapy, focusing on the critical gap between animal research and human clinical applications. Dr. Abud Bakri, a board-certified internal medicine physician, offers grounded perspectives on eight major peptides including BPC-157, GHK-Cu, and retatrutide, addressing their scientific foundations, therapeutic potentials, and significant safety concerns. The discussion reveals troubling discrepancies in sourcing reliability and regulatory compliance, while highlighting the complex landscape of compounding pharmacies and gray markets. This analysis serves both medical professionals seeking evidence-based guidance and individuals interested in peptide therapies, emphasizing the importance of understanding both therapeutic benefits and potential risks. The expert insight bridges academic research with practical safety considerations, making this content valuable for those navigating the uncertain terrain of peptide medicine.",
+    "summary_zh": "阿布德·巴克里博士以医学专家身份，深入探讨了肽类疗法的科学本质、临床应用及其安全挑战。文章揭示了动物研究与人类应用之间的显著差距，重点关注BPC-157、GHK-Cu等八种主要肽在治疗领域的前景及风险。内容不仅揭示了 sourcing 不透明的问题，还指出了 compounding 药房和灰市场的复杂现实。这为正在探索或已在使用肽类疗法的人提供了一个平衡的视角——既看到其潜力，也正视其不确定性。",
+    "best_quote_en": "The gap that exists between animal and human data is one of the most significant challenges facing peptide therapy today.",
+    "best_quote_zh": "动物研究与人类数据之间的差距，是当前肽疗法领域最严峻的挑战之一。"
   }
 ]
