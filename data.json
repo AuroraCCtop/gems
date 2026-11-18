@@ -1,75 +1,5 @@
 [
   {
-    "id": 295,
-    "title": "Before the Startup",
-    "title_zh": "创业之前",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/before.html",
-    "tags": [
-      "solve",
-      "startup-strategy",
-      "education",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "解决",
-      "创业策略",
-      "教育学习",
-      "数据驱动"
-    ],
-    "date": "2026-10-17",
-    "summary_en": "Sam Altman’s essay distills a counterintuitive roadmap for aspiring founders, emphasizing that startup success hinges not on mastering the mechanics of launching a company but on genuine curiosity and deep user understanding. He likens the startup journey to skiing—our instincts often mislead, and disciplined learning overrides them. Altman warns against \"playing house,\" the tendency to mimic superficial startup rituals while neglecting product‑market fit, and stresses that gaming the system fails when real users demand value. He also highlights the all‑consuming nature of successful ventures, the danger of mistaking fundraising tricks for genuine progress, and the ultimate advice to \"just learn.\" The piece serves as both a pragmatic guide and a philosophical reflection on choosing work that rewards authentic problem‑solving over performative ambition.",
-    "summary_zh": "Altman 揭示了创业的反直觉本质：成功源于对用户与问题的深刻洞察，而非创业技巧的堆砌。他将创业比作滑雪，指出直觉常会误导，真正的成长来自有意识地克服这些冲动。文中批判了年轻创始人常见的“扮演公司”现象，警示模仿外表形式会忽视产品核心价值。同时，创业的消耗性与长期压力也需提前考量。最终，他以简洁的“只要学习”凝练了核心箴言，引发我们对真正有意义工作的反思。",
-    "best_quote_en": "The way to succeed in a startup is not to be an expert on startups, but to be an expert on your users and the problem you're solving for them.",
-    "best_quote_zh": "创业成功的关键不是成为创业专家，而是成为用户和他们所面临问题的专家。"
-  },
-  {
-    "id": 296,
-    "title": "How Trump’s Immigration Crackdown Gave Florida Democrats a Chance",
-    "title_zh": "特朗普的移民镇压如何给佛罗里达民主党人带来了机会",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/news/the-lede/how-trumps-immigration-crackdown-gave-florida-democrats-a-chance",
-    "tags": [
-      "update",
-      "politics",
-      "controversial"
-    ],
-    "tags_zh": [
-      "动态",
-      "政治时事",
-      "争议观点"
-    ],
-    "date": "2026-10-17",
-    "summary_en": "The article examines how President Trump’s aggressive immigration enforcement, especially in Miami—the city with the highest ICE arrests—has reshaped local politics in Florida’s 27th Congressional District. Once a reliably Republican stronghold, the district is now witnessing a surprising Democratic surge as Latino voters, particularly Cuban Americans, react against harsh deportation policies. Republican María Elvira Salazar, a former news anchor, initially embraced Trump’s stance but later released an ad distancing herself from his immigration actions, signaling a strategic pivot. Meanwhile, Democrat Eliott Rodriguez, a longtime local broadcaster, leverages his community ties and anti‑Trump sentiment to court unaffiliated and disaffected voters. The piece highlights the personal stories of families impacted by ICE detention, the shifting political calculus of long‑time Republican supporters, and the broader implications for the 2024 election cycle. It underscores how immigration policy can serve as a decisive catalyst, potentially flipping a contested seat and reshaping the regional political landscape.",
-    "summary_zh": "特朗普的移民镇压如何给佛罗里达民主党人带来了机会？文章深入探讨了特朗普政府的严厉移民执法如何重塑佛罗里达州第27选区的政治格局。迈阿密作为全国ICE逮捕最多的城市，拉丁裔选民（尤其是古巴裔）对强硬的遣返政策产生了强烈反弹。共和党人玛丽亚·萨拉扎尔（María Elvira Salazar）最初支持特朗普的政策，但后来发布了一则广告，试图与特朗普的移民政策划清界限。民主党人埃利奥特·罗德里格兹（Eliott Rodriguez）利用其作为当地新闻主播的声望和反特朗普情绪，积极争取无党派选民和那些对移民政策感到失望的选民。文章通过讲述受ICE拘留影响的家庭故事，揭示了长期支持共和党的选民如何改变心意，并指出了这一变化对2024年大选周期的潜在影响。",
-    "best_quote_en": "\"Mr. President, some of your immigration enforcement efforts have gone too far.\"",
-    "best_quote_zh": "\"总统先生，你的一些移民执法努力已经走得太远了。\""
-  },
-  {
-    "id": 297,
-    "title": "How to Raise Money",
-    "title_zh": "如何筹集资金",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/fr.html",
-    "tags": [
-      "solve",
-      "startup-funding",
-      "startup-strategy",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "解决",
-      "创业融资",
-      "创业策略",
-      "未来预测"
-    ],
-    "date": "2026-10-18",
-    "summary_en": "This essay distills the nuanced art of Series 2 fundraising for early‑stage startups, blending pragmatic rules with psychological insight. It outlines why fundraising is both a heavy lift and a puzzle, emphasizing that founders must impose external constraints because intuition alone is unreliable. The piece dissects investor behavior—driven by fear of missing out and fear of failure—and warns against the seductive delays investors employ. By prescribing a disciplined approach (breadth‑first search weighted by expected value), clear boundaries between fundraising mode and normal operations, and the importance of introductions, the author offers a roadmap that balances aggression with realism. The advice is particularly valuable for founders navigating YC’s ecosystem, highlighting the tension between rapid growth and the need for capital. Ultimately, the essay serves as both a tactical guide and a philosophical reflection on the high‑stakes dance of seeking investment.",
-    "summary_zh": "这篇文章系统地揭示了初创企业Series 2融资的复杂艺术，将实用规则与心理洞察相结合。它指出融资既像举重那样艰难，也像解谜那样艰难， founders必须施加外部约束，因为直觉不可靠。文章剖析了投资者的行为——由对错过机会和对失败的恐惧驱动——并警告 founders 小心投资者惯用的拖延战术。通过提出加权广度优先搜索、明确的融资模式边界以及宝贵的投资者引荐策略，作者提供了一条平衡激进与现实的道路。这对于YC生态中的初创企业尤其有价值，揭示了快速增长与资本需求之间的紧张关系。文章既是实用的指南，也是对融资高风险博弈的深刻反思。",
-    "best_quote_en": "Fundraising is hard in both senses: hard like lifting a heavy weight, and hard like solving a puzzle.",
-    "best_quote_zh": "筹集资金既像举重那样艰难，也像解谜那样艰难。"
-  },
-  {
     "id": 298,
     "title": "The Tim Ferriss Show Transcripts: How to Legalize Medical Psychedelics in Your Country — Tania de Jong on The Playbook Behind Australia’s World-First Breakthrough (#883)",
     "title_zh": "如何在你的国家合法化医疗迷幻药物 — 塔尼亚·德容分享澳大利亚世界首创突破的计划 (#883)",
@@ -2308,5 +2238,75 @@
     "summary_zh": "GitHub 重构存储架构以支持 AI 代理的海量并发，核心是最小化协调和解耦存储与计算。这不仅为数百万开发者提供更强大的基础设施，也预示软件开发模式从个人到自治代理的转变。架构的成功取决于其在保持低延迟和可靠性方面的平衡，以及未来大规模推广的复杂性。",
     "best_quote_en": "Only reference updates need agreement. That lets the parts of Git infrastructure that used to be tightly coupled (storing data, serving requests, and maintaining repositories) scale independently.",
     "best_quote_zh": "只有引用更新需要协议，这让原本紧密耦合的 Git 基础设施（存储数据、服务请求和维护仓库）能够独立扩展。"
+  },
+  {
+    "id": 395,
+    "title": "Will the New Democratic Majority Get Off the Ground?",
+    "title_zh": "新民主党多数能否起飞？",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/the-lede/will-the-new-democratic-majority-get-off-the-ground",
+    "tags": [
+      "solve",
+      "politics",
+      "controversial"
+    ],
+    "tags_zh": [
+      "解决",
+      "政治时事",
+      "争议观点"
+    ],
+    "date": "2026-11-18",
+    "summary_en": "Jesús Rodríguez’s 2026 dispatch captures a revelry of Democratic strategists, office‑holders, and donors at Denver’s “What’s Next” gathering, a three‑day conference celebrating the party’s midterm victories. The event showcases a nascent “big‑truck” philosophy—exemplified by Senator Ruben Gallego—arguing that voters want tangible economic hope rather than abstract policy. Yet the optimism is tempered by deep‑seated anxiety; speakers like Amanda Litman confess Democrats’ habit of self‑sabotage, while strategists such as Lis Smith and Rohan Patel tout a new, heterodox approach that embraces moderates, digital consultants, and candidates who can win in swing states. The conference’s $3 million price tag, internal disagreements over race, labor, and campaign‑finance reform, and the FAA’s grounding of flights underscore both the ambition and the fragility of this moment. Rodríguez’s reporting reveals a party at a crossroads, torn between celebratory bravado and the sobering reality of how to institutionalize this “new liberal moment” without repeating past mistakes. The piece is a vivid, data‑rich portrait of post‑midterm Democratic introspection, offering readers a rare, insider view of strategic recalibration and the cultural shifts that may shape 2028 elections.",
+    "summary_zh": "这篇文章记录了民主党人在中期选举胜利后在科罗拉多举行的庆祝聚会，展现出一种“大卡车政治”理念—即提供经济希望以吸引选民。然而，庆祝的背后是根深蒂固的焦虑： Amanda Litman 说民主党人害怕会“搞砸”，Lis Smith 和 Rohan Patel 则提出新的策略—吸纳温和派、数字顾问和能赢得摇摆州的候选人。会议耗资 300 万美元，引发关于种族、劳工和竞选财务改革的争议。FAA 航班停飞事件更凸显出这场聚会的脆弱性。这是一次罕见的内部视角，展示了民主党在中期选举后如何自我反思并试图重塑政治版图。",
+    "best_quote_en": "\"We can’t just put up candidates who are just going to barely eke by in the quote‑unquote blue wall. We’ve got to put up candidates who can win or give us a real shot in places like Iowa, Texas, North Carolina, some of these other states that we’ve left,\" said Lis Smith.",
+    "best_quote_zh": "\"我们不能只提拔那些在所谓蓝色堡垒中勉强存活的候选人。我们必须提拔那些能在爱荷华州、德克萨斯州、北卡罗来纳州等我们曾经放弃的州赢得选举的候选人，\" Lis Smith 说。"
+  },
+  {
+    "id": 396,
+    "title": "Mushrooms for the Mind & Immune System | Paul Stamets",
+    "title_zh": "蘑菇對心靈和免疫系統的益處 | Paul Stamets",
+    "source": "Huberman Lab",
+    "link": "https://www.hubermanlab.com/episode/mushrooms-for-the-mind-and-immune-system-paul-stamets",
+    "tags": [
+      "analyze",
+      "psychology",
+      "ai-research",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "心理学",
+      "AI研究",
+      "数据驱动"
+    ],
+    "date": "2026-11-16",
+    "summary_en": "This groundbreaking exploration by mycology pioneer Paul Stamets reveals how fungi could revolutionize mental health and immune support. The discussion uncovers surprising connections between mushroom compounds and brain plasticity, demonstrating non-psychedelic varieties like lion's mane that enhance cognitive function while turkey tail and agarikon show promise for viral protection. Stamets bridges ancient natural wisdom with modern science, revealing psilocybin's therapeutic potential for depression and anxiety when properly administered. The conversation challenges conventional pharmaceutical approaches, advocating for nature's complexity over synthetic reductionism. With practical insights on supplement timing and safety considerations, this episode transforms our understanding of fungi from food to medicine, offering evidence-based pathways to optimize both mental clarity and immune resilience through carefully selected mushroom varieties.",
+    "summary_zh": "保羅·斯塔姆茨（Paul Stamets）這位現代應用菌類學之父帶來了蘑菇領域的突破性發現。他揭示了真菌如何影響並能改善我們的免疫系統，某些非致幻蘑菇如何提升認知和腦塑性，以及-psilocybin在治療抑鬱、焦慮等心理健康問題中的應用。從靈芝、雷氏傘到火雞尾巴，這些自然物質展現出驚人的藥用價值，為傳統醫學提供了新的思路。這次對話將古老的自然智慧與現代科學相結合，為大腦和免疫系統健康開啟了嶄新的可能性。",
+    "best_quote_en": "Nature's complexity is superior to our synthetic reductionism—our current approach breaks things down, but nature works in concert.",
+    "best_quote_zh": "自然的複雜性勝過我們的合成還原論——我們的方法是將事物分解開來，而自然是協調一致地運作。"
+  },
+  {
+    "id": 397,
+    "title": "Maintainers don’t need more AI bug reports. They need fixes.",
+    "title_zh": "维护者不需要更多 AI 漏洞报告，他们需要修复。",
+    "source": "GitHub Blog",
+    "link": "https://github.blog/open-source/maintainers/maintainers-dont-need-more-ai-bug-reports-they-need-fixes/",
+    "tags": [
+      "analyze",
+      "ai-research",
+      "programming",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "AI研究",
+      "编程开发",
+      "数据驱动"
+    ],
+    "date": "2026-11-17",
+    "summary_en": "The article argues that while AI has made discovering vulnerabilities fast and cheap, the real bottleneck for open‑source maintainers is fixing them. A flood of low‑quality, duplicate, or even false AI‑generated findings overwhelms limited human resources. GitHub and Microsoft’s pilot, Codename MDASH, demonstrates a new model: AI scans projects, triages findings, and researchers verify each report before sending a private, actionable advisory with a suggested fix. This approach reduces maintainer workload, cuts through noise, and delivers high‑quality, ready‑to‑use security reports. The pilot’s results—99 vetted reports across six projects, with many fixes shipped within days—show that integrating AI discovery with human verification and pre‑crafted patches can reshape open‑source security. However, the model currently depends on intensive manual review, highlighting the need for scalable automation and better integration of cyber‑capable models. The key takeaway is that future AI security tools must prioritize actionable, verified fixes over raw findings, aligning with maintainers’ real needs.",
+    "summary_zh": "AI 安全扫描已变得廉价，但真正的挑战在于修复工作。GitHub 与微软合作，通过 Codename MDASH 提供经过验证的高质量漏洞报告，配备建议修复方案，减轻了维护者的负担。这表明未来开源安全需要协作与自动化相结合，而非单纯依赖扫描。",
+    "best_quote_en": "Finding vulnerabilities is no longer our bottleneck. Fixing them is the hard part, and that depends on maintainers.",
+    "best_quote_zh": "发现漏洞已不再是我们的瓶颈。修复才是难题，这取决于维护者。"
   }
 ]
