@@ -1,123 +1,5 @@
 [
   {
-    "id": 298,
-    "title": "The Tim Ferriss Show Transcripts: How to Legalize Medical Psychedelics in Your Country — Tania de Jong on The Playbook Behind Australia’s World-First Breakthrough (#883)",
-    "title_zh": "如何在你的国家合法化医疗迷幻药物 — 塔尼亚·德容分享澳大利亚世界首创突破的计划 (#883)",
-    "source": "Tim Ferriss",
-    "link": "https://tim.blog/2026/09/18/how-to-legalize-medical-psychedelics-transcript/",
-    "tags": [
-      "solve",
-      "medicine",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "解决",
-      "医学健康",
-      "数据驱动"
-    ],
-    "date": "2026-09-19",
-    "summary_en": "This transcript reveals how Tania de Jong and her husband Peter orchestrated Australia’s pioneering legislation allowing MDMA and psilocybin prescriptions for psychiatric conditions. Starting with a personal psychedelic experience inspired by Tim Ferriss’s blog, they navigated scientific, regulatory, and public‑opinion hurdles, ultimately co‑founding Mind Medicine Australia. Their playbook combines rigorous clinical research, strategic partnerships with neuroscientists, grassroots advocacy, and media engagement to reframe psychedelics from illicit substances to legitimate therapeutics. The conversation also highlights the integration process, emphasizing the need for professional support and societal acceptance. For other nations wrestling with similar policy debates, the Australian case offers a concrete roadmap: combine evidence‑based science with compassionate storytelling, build coalitions across medical, legal, and community sectors, and leverage early successes to create momentum. The episode underscores that systemic change is possible when personal transformation meets organized, data‑driven activism, providing both inspiration and a practical guide for reformers worldwide.",
-    "summary_zh": "塔尼亚·德容如何以个人致幻体验为起点，通过科学研究、政策游说和公众教育，推动澳大利亚成为首个允许MDMA和Psilocybin用于精神治疗的国家。她分享的实操策略为其他国家提供了从临床证据到社会接受的完整路径，证明当个人觉醒遇上系统性行动，政策变革并非遥不可及。",
-    "best_quote_en": "What have you got to lose? Seriously, what have you got to lose?",
-    "best_quote_zh": "你有什么可以失去？认真的，你有什么可以失去？"
-  },
-  {
-    "id": 299,
-    "title": "Staying Evergreen: How we automated secure access and repo hygiene in a shared org",
-    "title_zh": "保持常青：如何在一个共享组织中自动化安全访问和仓库卫生",
-    "source": "GitHub Blog",
-    "link": "https://github.blog/engineering/platform-security/staying-evergreen-how-we-automated-secure-access-and-repo-hygiene-in-a-shared-org/",
-    "tags": [
-      "solve",
-      "cybersecurity",
-      "design",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "解决",
-      "网络安全",
-      "设计创意",
-      "未来预测"
-    ],
-    "date": "2026-10-15",
-    "summary_en": "GitHub’s new Evergreen app automates repository hygiene for shared organizations by conducting quarterly access reviews and detecting stale repos. Built entirely from native GitHub features—issues, webhooks, custom properties, and git history—it follows two core principles: fail secure (revoking access automatically if no response) and never destroy (archived repos remain recoverable). The solution uses a controller repo to track state as JSON files, opens checklist issues for collaborator approvals, and respects GitHub’s rate limits through careful batching. Evergreen demonstrates how to turn routine housekeeping into a considerate, undo‑friendly process, offering practical lessons on using existing primitives, meeting users where they work, and treating logs as a revert button. The article is a hands‑on guide for engineering leaders seeking to automate security and maintenance at scale.",
-    "summary_zh": "GitHub 发布了一款名为 Evergreen 的应用，通过自动化审查和存档流程，帮助共享组织保持仓库安全与整洁。设计时坚持安全默认、不删除数据，并利用 Git 历史作为审计记录。该方案展示了如何利用 GitHub 原生功能构建可恢复的自动化工具，并分享了应对大规模组织中的速率限制和用户体验的宝贵经验。",
-    "best_quote_en": "Fail secure. If nobody responds to an access review, we don't leave access in place and hope for the best. We revoke it.",
-    "best_quote_zh": "失败时要安全。如果没有人响应访问审查，我们不会留下访问权限并抱有希望。我们撤销它。"
-  },
-  {
-    "id": 300,
-    "title": "Investor Herd Dynamics",
-    "title_zh": "投资者群体动态",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/herd.html",
-    "tags": [
-      "solve",
-      "startup-strategy",
-      "startup-funding",
-      "controversial"
-    ],
-    "tags_zh": [
-      "解决",
-      "创业策略",
-      "创业融资",
-      "争议观点"
-    ],
-    "date": "2026-10-19",
-    "summary_en": "This essay dissects the hidden forces shaping investor behavior during fundraising, revealing how herd dynamics can both accelerate and mislead early‑stage ventures. By exploring why investors gravitate toward founders already backed by others, the author illustrates the twin benefits of reduced risk and heightened confidence, while cautioning against the pitfalls of chasing \"stampedes.\" The piece balances pragmatic advice—raising valuation only with comfortable investors, protecting deal confidentiality, and leveraging genuine progress—against a sobering view of investor judgment, noting that even top investors are swayed by peer pressure and deadlines. Through personal anecdotes and reflective commentary, the author invites founders to understand, rather than manipulate, these social currents, turning perceived chaos into strategic clarity. It’s a compelling blend of psychological insight, tactical guidance, and humility that reshapes how entrepreneurs approach capital acquisition.",
-    "summary_zh": "本文揭示了投资者“羊群行为”的深层逻辑：其他投资者的青睐如何反过来提升创始人的投资价值，降低风险，并增强信心。作者既指出利用这一现象的实用策略（如适度调高估值、谨慎披露竞争信息），也提醒 founders 不要盲目追逐投资狂热，因为许多“火热项目”最终陨落。通过反思投资者心理与创业者应对之道，文章引导读者从理解群体力量转向掌握筹资主动权，提供了一份兼具洞察力与谦逊的实战指南。",
-    "best_quote_en": "The biggest component in most investors' opinion of you is the opinion of other investors.",
-    "best_quote_zh": "投资者对你最主要的看法，来源于其他投资者对你的看法。"
-  },
-  {
-    "id": 301,
-    "title": "How to Legalize Medical Psychedelics in Your Country — Tania de Jong on The Playbook Behind Australia’s World-First Breakthrough (#883)",
-    "title_zh": "如何在你的国家合法化医疗迷幻剂——蒂安娜·德容分享澳大利亚世界首创突破背后的攻略",
-    "source": "Tim Ferriss",
-    "link": "https://tim.blog/2026/09/18/how-to-legalize-medical-psychedelics/",
-    "tags": [
-      "analyze",
-      "science",
-      "medicine",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "科学研究",
-      "医学健康",
-      "数据驱动"
-    ],
-    "date": "2026-09-18",
-    "summary_en": "This episode offers an unprecedented insider perspective on how Tania de Jong and Mind Medicine Australia engineered Australia's world-first breakthrough in medical psychedelics. Through a detailed timeline spanning 2015-2024, de Jong reveals the strategic playbook behind making MDMA and psilocybin accessible for psychiatric conditions, transforming from Michael Pollan's influential 2015 article into tangible policy change. The content provides actionable insights for advocates, policymakers, and entrepreneurs seeking to replicate this success elsewhere, demonstrating how evidence-based research, strategic partnerships, and persistent advocacy can overcome regulatory barriers. This represents a landmark case study in modern drug policy reform, offering both inspirational thought leadership and practical guidance for the global psychedelic therapy movement.",
-    "summary_zh": "这集播客提供了前所未有的内部视角，展示了蒂安娜·德容和Mind Medicine Australia如何打造了澳大利亚在医疗迷幻剂领域的世界首创突破。通过2015-2024年的详细时间线，德容分享了从迈克尔·波兰2015年《迷幻治疗》文章到最终政策突破的完整战略蓝图。本文为倡导者、政策制定者和企业家提供了可复制的行动指南，展示了如何通过实证研究、战略合作和持续倡导来突破药物管制限制。这是一个关于现代药物政策改革的里程碑案例研究，为全球迷幻治疗运动提供了宝贵的经验教训和实践指导。",
-    "best_quote_en": "We didn't just change a drug schedule; we changed a country's approach to mental health treatment.",
-    "best_quote_zh": "我们不仅仅改变了药物分类，更改变了一个国家对心理健康治疗的态度。"
-  },
-  {
-    "id": 302,
-    "title": "How to Convince Investors",
-    "title_zh": "如何说服投资者",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/convince.html",
-    "tags": [
-      "solve",
-      "startup-strategy",
-      "startup-funding",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "解决",
-      "创业策略",
-      "创业融资",
-      "未来预测"
-    ],
-    "date": "2026-10-20",
-    "summary_en": "This essay dissects the art of convincing investors by reframing it as a process of self‑validation and market clarity. The author argues that founders should first convince themselves of their startup’s worth, treating the pitch as an honest exposition rather than a sales performance. By anchoring confidence in verifiable expertise and a plausible path to dominate a sizable market, founders appear \"formidable\"—justifiably confident rather than merely assertive. The piece also highlights how investor psychology amplifies perceived founder strength, turning genuine conviction into a magnetic signal. It critiques the conventional pressure to pitch early, urging founders to delay fundraising until they can articulate a clear, truthful narrative. The analysis blends practical guidance with a deeper look at the power laws governing startup outcomes, offering a nuanced roadmap for turning an idea into a credible investment opportunity.",
-    "summary_zh": "作者从自我确信和市场洞察的角度，揭示了说服投资者的艺术。文章指出，创始人应先让自己相信创业项目的价值，将演讲转变为诚实的阐述。通过建立专业知识和明确的市场主导路径，创始人展现出\"强大\"的一面，这种自信是合理的，而非虚张声势。投资者心理会放大这种信心信号。文章批判了过早pitch的惯例，建议 founders 等待，直到能清晰、真实地讲述故事。这篇文字既提供实用建议，也深入探讨了创业的动力学法则，指引读者将构想转化为可信的投资机会。",
-    "best_quote_en": "The most important ingredient is formidable founders.",
-    "best_quote_zh": "最关键的要素是强大的创始人。"
-  },
-  {
     "id": 303,
     "title": "Human or AI? Baroque Music Quiz Results & Analysis",
     "title_zh": "人类还是AI？巴洛克音乐测验结果与分析",
@@ -2308,5 +2190,125 @@
     "summary_zh": "AI 安全扫描已变得廉价，但真正的挑战在于修复工作。GitHub 与微软合作，通过 Codename MDASH 提供经过验证的高质量漏洞报告，配备建议修复方案，减轻了维护者的负担。这表明未来开源安全需要协作与自动化相结合，而非单纯依赖扫描。",
     "best_quote_en": "Finding vulnerabilities is no longer our bottleneck. Fixing them is the hard part, and that depends on maintainers.",
     "best_quote_zh": "发现漏洞已不再是我们的瓶颈。修复才是难题，这取决于维护者。"
+  },
+  {
+    "id": 398,
+    "title": "Florence Pugh speaks out against ‘disturbing’ cosmetic surgery speculation",
+    "title_zh": "弗洛伦斯·普赫公开反击‘令人不安’的整形手术猜测",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/culture/2026/nov/19/florence-pugh-responds-cosmetic-plastic-surgery-speculation-governors-awards",
+    "tags": [
+      "solve",
+      "design",
+      "psychology",
+      "controversial"
+    ],
+    "tags_zh": [
+      "解决",
+      "设计创意",
+      "心理学",
+      "争议观点"
+    ],
+    "date": "2026-11-18",
+    "summary_en": "Florence Pugh has delivered a powerful rebuke to the relentless online speculation surrounding her appearance, labeling the scrutiny ‘disturbing’ and ‘stressful.’ In a candid Instagram post, she denied rumors about cosmetic surgery and weight‑loss injections, emphasizing that her body has always been her own. Pugh’s statement goes beyond personal denial; it confronts a broader cultural issue where women’s bodies are dissected in public discourse, often fueled by AI‑generated misinformation. She recounts a career spent defending diverse bodies against fat‑shaming and highlights the double standard of celebrating confidence while simultaneously policing appearance. By sharing her mental‑health journey and lifestyle changes, Pugh reframes the narrative from sensational gossip to a call for empathy and mindful engagement. Her experience also underscores the legal battles many celebrities now face against fabricated images, pointing to the urgent need for accountability in digital media. Ultimately, Pugh’s outspoken stance serves as both a personal affirmation and a societal prompt, urging audiences to reconsider the pressures of ever‑shifting beauty standards and to treat real people with respect rather than turning them into internet spectacles.",
+    "summary_zh": "普赫公开反击对她外貌的疯狂猜测，揭露了娱乐圈对女性身体的审视，呼吁人们停止网络评头论足，反思美貌标准与信息真伪问题。她指责某些媒体发布AI伪造的整形照，称其损害了她的声誉，并呼吁粉丝们保持善良态度。",
+    "best_quote_en": "I find it so stressful waking up and have thousands of people talking about you and your body in ways that you can’t even comprehend.",
+    "best_quote_zh": "我每天醒来都感到非常压力重，因为成千上万人在讨论我，你甚至无法想象这种讨论我身体的方式。"
+  },
+  {
+    "id": 399,
+    "title": "Why Startup Hubs Work",
+    "title_zh": "为何创业中心能成功",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/hubs.html",
+    "tags": [
+      "analyze",
+      "startup-strategy",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "创业策略",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2026-11-19",
+    "summary_en": "The essay dissects why startup hubs like Silicon Valley thrive, arguing that success is less about geographic advantage and more about a self‑reinforcing ecosystem. The author observes that most places default to startup failure, but a few locales act as ‘antidotes’ by cultivating two intertwined forces: a cultural environment where starting a company feels normal and socially supported, and a high density of founders, investors, and talent that creates serendipitous, beneficial encounters. This density fuels both the psychological safety to launch and the random collisions that often turn ideas into breakthroughs. The piece blends data‑driven reasoning with vivid anecdotes—ranging from chance meetings with Sean Parker to the serendipitous lunch in Palo Alto—to illustrate how the hub’s ‘lightning’ of good fortune is amplified by community. Ultimately, the article suggests that replicating a startup hub requires deliberately engineering both cultural optimism and network richness, not merely copying physical infrastructure.",
+    "summary_zh": "作者揭示硅谷成功秘诀并非基础设施，而是密集的人群网络与文化氛围。创业者从“失败默认”中脱颖而出，得益于常态化的支持与随机良性碰撞。这启发我们建立任何生态系统，都需注重社区密度与互助精神，而非单一资源投入。",
+    "best_quote_en": "The antidote is people.",
+    "best_quote_zh": "解药是人"
+  },
+  {
+    "id": 400,
+    "title": "Towards embedded evaluations for AI monitoring",
+    "title_zh": "面向AI监控的嵌入式评估",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/pXnwQ3ESp3wXhLzNa/towards-embedded-evaluations-for-ai-monitoring",
+    "tags": [
+      "analyze",
+      "ai-research",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "AI研究",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2026-11-19",
+    "summary_en": "This article proposes embedded evaluations as a novel oversight mechanism for AI monitoring within frontier developers. By deploying independent evaluators inside the lab, the authors aim to test safety claims and verify monitoring systems against rogue internal deployments (RID). The piece outlines six concrete monitoring detection claims—coverage, capability, trust, disclosure, past deployments, and future deployments—detailing how each can be assessed through evidence review, red‑teaming, and log analysis. It emphasizes that current human‑review processes cannot keep pace with autonomous AI agents, making systematic, claim‑based evaluations essential. The framework not only provides a roadmap for researchers and practitioners but also highlights the broader implications for AI safety, encouraging industry‑wide incentives for robust monitoring and transparent risk reporting. The authors invite feedback to refine the approach, signaling a collaborative step toward more reliable AI oversight.",
+    "summary_zh": "本文提出嵌入式评估作为AI监控的新监督机制，由独立评估者在开发者内部验证安全主张，针对 rogue 内部部署提出六项检测主张：覆盖、能力、可信、披露、过去部署和未来部署。通过证据审查、红队测试和日志分析评估监控系统，强调现有人工审查无法跟上自主AI代理的发展，呼吁建立系统化的基于主张的评估，推动行业建立强健监控和透明风险报告。",
+    "best_quote_en": "Embedded evaluations address this gap: independent evaluators work inside the developer and test its safety claims.",
+    "best_quote_zh": "嵌入式评估填补了这一空白：独立评估者在开发者内部工作，测试其安全主张。"
+  },
+  {
+    "id": 401,
+    "title": "Great Travel Shorts/Last-minute Upgrades/Ski in Norway",
+    "title_zh": "挪威滑雪/旅行短裤/最后时刻升级",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/great-travel-shorts-last-minute-upgrades-ski-in-norway/",
+    "tags": [
+      "guide",
+      "lifestyle",
+      "design",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "指导",
+      "生活方式",
+      "设计创意",
+      "数据驱动"
+    ],
+    "date": "2026-11-19",
+    "summary_en": "This newsletter delivers four practical travel insights: a durable, ultra‑lightweight short that withstands 100+ wears; the strategic value of U.S. airline credit cards in an era of soaring bag fees; a clever in‑person upgrade tactic that secured a private train cabin for $33; and a cost‑effective ski getaway in Norway that undercuts U.S. resort prices. The pieces illustrate how modern travelers can combine smart gear selection, financial engineering, and opportunistic booking to maximize value while minimizing expense. The author’s hands‑on experience and comparative cost analysis reveal broader trends in the travel economy—rising domestic prices, the allure of international alternatives, and the power of leveraging credit‑card perks. By weaving product review, financial advice, and adventure storytelling, the content offers both immediate actionable tips and a reflective commentary on redefining affordable travel in a post‑pandemic world.",
+    "summary_zh": "这篇旅行随笔分享了轻便短裤、航空信用卡优惠、车站临时升级以及挪威滑雪的实惠经验。这些实用技巧展示了旅行者如何通过精心挑选装备、利用金融福利、灵活安排行程来降低成本，同时也反映了欧洲滑雪市场对美国高价的替代效应。作者以个人视角思考了旅行中的价值与选择。",
+    "best_quote_en": "As airlines have cranked up fees and devalued the points earning potential of flying, a U.S. airline credit card has gone from a “nice to have” item to something that’s a no-brainer if you ever check a bag.",
+    "best_quote_zh": "随着航空公司不断提高费用并降低积分兑换价值，美国航空信用卡已从‘可有可无’转变为如果您需要托运行李，绝对值得拥有。"
+  },
+  {
+    "id": 402,
+    "title": "Essentials: Nicotine's Effects on the Brain & Body & How to Quit Smoking or Vaping",
+    "title_zh": "尼古丁对大脑与身体的影响及如何戒烟或戒 vape",
+    "source": "Huberman Lab",
+    "link": "https://www.hubermanlab.com/episode/essentials-nicotines-effects-on-the-brain-and-body-and-how-to-quit-smoking-or-vaping",
+    "tags": [
+      "solve",
+      "psychology",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "解决",
+      "心理学",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2026-11-19",
+    "summary_en": "This Huberman Lab Essentials episode unpacks nicotine’s neurochemical impact, revealing how it spikes dopamine, acetylcholine, and norepinephrine to sharpen motivation, focus, and alertness while suppressing appetite and raising cardiovascular strain. The analysis distinguishes the substance itself from its delivery vehicles—cigarettes, vaping, dipping, snuffing—highlighting the unique addictiveness of vaping and the severe health risks each method imposes. Critically, the discussion bridges basic science with practical cessation strategies, evaluating clinical hypnosis, prescription medications like bupropion, and nicotine‑replacement therapies. The episode emphasizes the pivotal first week of withdrawal and offers evidence‑based tools to navigate cravings, relapse, and the interplay with alcohol. By merging mechanistic insight with actionable guidance, the content serves both curious learners and individuals seeking to overcome nicotine dependence, underscoring the importance of scientifically grounded interventions in public health.",
+    "summary_zh": "本期内容深入剖析尼古丁对大脑与身体的化学影响，揭示其如何提升多巴胺、乙酰胆碱和去甲肾上腺素以增强动机、专注力和警觉性，同时抑制食欲并加剧心血管压力。演讲者区分了尼古丁本身与其各种摄入方式（吸烟、电子烟、鼻烟、烟草等），特别指出电子烟的高度成瘾性及相关健康危害。更重要的是，节目从科学角度提供了戒烟的实用工具，包括临床催眠、处方药物（如安非他酮）和尼古丁替代疗法，并重点讲解了戒断初期的关键策略。此内容既满足了科学探索者的好奇心，也为寻求戒烟者提供了实操指南，凸显了基于证据的干预措施在健康领域的关键作用。",
+    "best_quote_en": "Quitting nicotine is so difficult because it hijacks the mesolimbic reward pathway, turning withdrawal into a perceived survival threat.",
+    "best_quote_zh": "戒掉尼古丁如此困难，因为它劫持了大脑的奖赏通路，让戒断感仿佛是生存威胁。"
   }
 ]
